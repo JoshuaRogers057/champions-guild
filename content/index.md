@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Champions Guild
 ---
+This is the official lore compendium for the Champions Guild West Marches server.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Use the explorer on the left to browse locations, factions, NPCs, and quest history.
