@@ -1,3 +1,19 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.page-title {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.page-title::before {
+  content: "";
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background-image: url('/static/logo.PNG');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
