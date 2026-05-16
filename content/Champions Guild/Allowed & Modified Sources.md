@@ -1,9 +1,6 @@
 ---
 title: Allowed & Modified Sources
 ---
-
-# Allowed & Modified Sources
-
 The following is the definitive list of sourcebooks and content allowed on the server. If a source is not listed here, please assume it is **not** allowed without prior admin approval.
 
 ---
