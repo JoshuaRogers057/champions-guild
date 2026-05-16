@@ -50,23 +50,23 @@ You are responsible for creating and maintaining your character sheet using eith
 If you use this option, make sure your character sheet is set to "Public".
 
 **Champions Guild–Hosted Foundry Server**
-If you'd like to use Foundry to manage your character, go to **#request-barracks** on Discord and post a message requesting a barracks assignment. A Scribe will get you set up on one of our Foundry servers.
+If you'd like to use Foundry to manage your character, go to **#join-barracks** on Discord.
 
 > You are fully responsible for maintaining your own character sheet. Whether you use Foundry or D&D Beyond, it's up to you to ensure your sheet is accurate, up to date, and reflects any changes to your character. Use whichever platform you prefer—just keep it current.
 
 ### Starting Information
 
-| | |
-|:--|:--|
-| **Rules** | D&D 5e 2024 |
-| **Character Limit** | Each player is allowed 1 character |
-| **Level** | All new characters begin at 1st level |
+|                             |                                                                                                                            |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------------------------- |
+| **Rules**                   | D&D 5e 2024                                                                                                                |
+| **Character Limit**         | Each player is allowed 1 character                                                                                         |
+| **Level**                   | All new characters begin at 1st level                                                                                      |
 | **Advanced Starting Level** | If you have already leveled a character to 3rd level or higher, you can choose to start subsequent characters at 3rd level |
-| **Allowed Sources** | Check our [Allowed/Modified Sources](https://docs.google.com/document/d/1v-hzMzKPBqbvZqMAPfcm0EiiiUK0j2v_tQcYOXlhsMg/edit?usp=drive_link) doc for the full list |
-| **Ability Scores** | Point Buy or Standard Array |
-| **Hit Points** | Fixed only (no rolling for HP) |
-| **Backgrounds** | Only published backgrounds (no custom backgrounds) |
-| **Equipment & Gold** | Follow the standard rules in the PHB for starting equipment or gold |
+| **Allowed Sources**         | Check our [[Allowed & Modified Sources]] doc for the full list                                                             |
+| **Ability Scores**          | Point Buy or Standard Array                                                                                                |
+| **Hit Points**              | Fixed only (no rolling for HP)                                                                                             |
+| **Backgrounds**             | Only published backgrounds (no custom backgrounds)                                                                         |
+| **Equipment & Gold**        | Follow the standard rules in the PHB for starting equipment or gold                                                        |
 
 ### Backstory
 
