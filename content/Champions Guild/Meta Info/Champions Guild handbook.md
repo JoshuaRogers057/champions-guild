@@ -211,3 +211,12 @@ When you bid:
 > - Listing items with the intent to benefit a future character
 >
 > This is not an exhaustive list. If you're unsure about something, ask a Mod or Admin before proceeding.
+
+---
+
+## Quick Links
+
+- [[Allowed & Modified Sources]]
+- [[Lore Master's Adaptation Guide for Eryndor]]
+- [[The Common Law of Eryndor]]
+- [[Code of Conduct]]
