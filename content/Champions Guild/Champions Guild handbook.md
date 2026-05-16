@@ -1,8 +1,3 @@
----
-title: Player's Handbook
----
-
-# Champions Guild Player's Handbook
 *Collaborative, Online D&D (2024) Without Limits*
 
 ---
