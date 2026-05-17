@@ -6,3 +6,48 @@
   align-items: center;
   gap: 0.75rem;
 }
+.infobox {
+  float: right;
+  clear: right;
+  margin: 0 0 1rem 1.5rem;
+  padding: 0.5rem;
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 4px;
+  min-width: 250px;
+  max-width: 300px;
+  font-size: 0.9rem;
+}
+
+.infobox table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+}
+
+.infobox tr:first-child td {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.1rem;
+  padding: 0.4rem;
+  background-color: var(--lightgray);
+  border-radius: 2px;
+}
+
+.infobox td {
+  padding: 0.3rem 0.4rem;
+  vertical-align: top;
+  border-top: 1px solid var(--lightgray);
+}
+
+.infobox td:first-child {
+  font-weight: bold;
+  white-space: nowrap;
+  width: 40%;
+}
+
+.infobox img {
+  width: 100%;
+  border-radius: 2px;
+  margin-bottom: 0.5rem;
+}
