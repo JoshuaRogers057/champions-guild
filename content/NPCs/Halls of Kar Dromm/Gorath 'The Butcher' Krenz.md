@@ -1,5 +1,5 @@
 ---
-name: "Gorath "The Butcher" Krenz"
+name: 'Gorath "The Butcher" Krenz'
 type: npc
 affiliations:
   - "[[Halls of Kar Dromm]]"
