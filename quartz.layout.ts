@@ -9,9 +9,9 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Champions Guild": "https://championsguildrpg.com",
-      "Discord": "https://discord.gg/8guNYnBdzQ",
     },
   }),
+}
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
@@ -46,7 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
