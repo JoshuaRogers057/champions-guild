@@ -53,4 +53,4 @@ Likely shared first names rather than true duplicates, but flagged so you can co
 
 ## Start here
 
-Open `_NPC Index.md` for a full browsable index of every NPC grouped by nation.
+Open [[_NPC Index]] for a full browsable index of every NPC grouped by nation.
