@@ -27,4 +27,4 @@ Mystra's followers are predominantly wizards, sorcerers, and scholars of the arc
 
 ## Divine Relationships
 
-Mystra maintains close ties with **Azuth**, the god of wizards, who serves almost as a lieutenant in her divine portfolio. She is allied with **Selûne** and **Corellon**, both of whom value the responsible use of magic. Her greatest enemy is **Shar**, whose Shadow Weave represents a corrupted alternative to Mystra's own Weave, and the two are in eternal opposition.
+Mystra maintains close ties with **Azuth**, the god of wizards, who serves almost as a lieutenant in her divine portfolio. She is allied with **[[Selûne]]** and **[[Corellon]]**, both of whom value the responsible use of magic. Her greatest enemy is **[[Shar]]**, whose Shadow Weave represents a corrupted alternative to Mystra's own Weave, and the two are in eternal opposition.

@@ -20,8 +20,8 @@ tags:
 - **Occurrences in source material:** 3
 
 ## Role & Notes
-- High Forgefather Ordrin Flameheart — Overseer of the Grand Temple of Moradin and the Royal Forge
-- The Anvilspire: The city’s spiritual and symbolic center, dominated by the towering Grand Temple of Moradin. Here, High Forgefather Ordrin Flameheart oversees both worship and the sacred Royal Forge, where ancestral weapons are blessed and reforged.
+- High Forgefather Ordrin Flameheart — Overseer of the Grand Temple of [[Moradin]] and the Royal Forge
+- The Anvilspire: The city’s spiritual and symbolic center, dominated by the towering Grand Temple of [[Moradin]]. Here, High Forgefather Ordrin Flameheart oversees both worship and the sacred Royal Forge, where ancestral weapons are blessed and reforged.
 
 ## Source Documents
 - Dwarves Final.docx
