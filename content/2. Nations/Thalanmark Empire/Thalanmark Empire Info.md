@@ -1,3 +1,0 @@
----
-title: Thalanmark Empire Info
----

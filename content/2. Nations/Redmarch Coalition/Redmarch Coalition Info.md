@@ -1,3 +1,0 @@
----
-title: Redmarch Coalition Info
----
