@@ -24,10 +24,10 @@ tags:
 - Countess Maera Bristal (Caer Valance): Strong advocate of forest conservation, known for a subtle rivalry with pirate factions. Her loyalties between forest and kingdom are quietly questioned.
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 87
-- Kastalshire final.docx ¶184
-- Kastalshire final.docx ¶87
-- Kastalshire final.docx ¶184
+- [[Kastalshire]] final.docx ¶184
+- [[Kastalshire]] final.docx ¶87
+- [[Kastalshire]] final.docx ¶184

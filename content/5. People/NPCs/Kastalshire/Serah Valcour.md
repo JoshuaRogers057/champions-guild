@@ -23,8 +23,8 @@ tags:
 - Ashwyn – Noble estate and local governance Leader: Lady Serah Valcour
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 132
-- Kastalshire final.docx ¶132
+- [[Kastalshire]] final.docx ¶132

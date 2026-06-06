@@ -23,7 +23,7 @@ tags:
 - Notable NPC: Archdean Sarella Glintmantle is a brilliant theorist with a polished public manner and a ruthless academic reputation. She rarely raises her voice, but more than one rival’s career has ended after receiving one of her “helpful corrections.”
 
 ## Source Documents
-- Nation of Lexovar - final.docx
+- [[Nation of Lexovar]] - final.docx
 
 ## Paragraph References
 - 237

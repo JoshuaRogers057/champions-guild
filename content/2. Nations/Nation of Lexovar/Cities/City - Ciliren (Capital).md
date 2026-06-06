@@ -2,7 +2,7 @@
 
 | Ciliren | |
 |:--|:--|
-| Nation | Nation of Lexovar |
+| Nation | [[Nation of Lexovar]] |
 | Type | Capital City |
 | Population | ~1,000,000+ |
 | Ruler | Governor Arvella Zynnbarrel (Chancellor of the Arcane Council) |

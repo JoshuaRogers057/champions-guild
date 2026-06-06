@@ -25,12 +25,12 @@ tags:
 - Head Librarian Zelri Rivenstil of Gleamspire, who had not spoken aloud in centuries, became notorious for defeating rivals through written memoranda no less devastating for their silence.
 
 ## Source Documents
-- Nation of Lexovar - final.docx
-- Nation of lexovar. full final.docx
+- [[Nation of Lexovar]] - final.docx
+- [[Nation of lexovar]]. full final.docx
 
 ## Paragraph References
 - 116
-- Nation of Lexovar - final.docx ¶116
-- Nation of lexovar. full final.docx ¶117
-- Nation of Lexovar - final.docx ¶276
-- Nation of lexovar. full final.docx ¶261
+- [[Nation of Lexovar]] - final.docx ¶116
+- [[Nation of lexovar]]. full final.docx ¶117
+- [[Nation of Lexovar]] - final.docx ¶276
+- [[Nation of lexovar]]. full final.docx ¶261

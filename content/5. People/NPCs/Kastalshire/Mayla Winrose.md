@@ -23,8 +23,8 @@ tags:
 - Dunford – Wheat and grain farming Leader: Elder Mayla Winrose
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 138
-- Kastalshire final.docx ¶138
+- [[Kastalshire]] final.docx ¶138

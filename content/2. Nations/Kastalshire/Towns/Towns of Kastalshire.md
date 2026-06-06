@@ -1,4 +1,4 @@
-# Towns of Kastalshire
+# Towns of [[Kastalshire]]
 
 | Town | Leader | Function |
 |---|---|---|

@@ -26,13 +26,13 @@ tags:
 - Leader: Marshal Tivik Brassmere, an aging gnome veteran with a steel left arm, monocle targeting lens, and a reputation for absolute punctuality.
 
 ## Source Documents
-- Nation of Lexovar - final.docx
+- [[Nation of Lexovar]] - final.docx
 - Criminals and mercenaries.docx
-- Nation of lexovar. full final.docx
+- [[Nation of lexovar]]. full final.docx
 
 ## Paragraph References
 - 168
 - 5
-- Nation of Lexovar - final.docx ¶168
+- [[Nation of Lexovar]] - final.docx ¶168
 - Criminals and mercenaries.docx ¶5
-- Nation of lexovar. full final.docx ¶169
+- [[Nation of lexovar]]. full final.docx ¶169

@@ -44,11 +44,11 @@ tags:
 
 ## Source Documents
 - Anthros and his endless tome.docx
-- Nation of Lexovar - final.docx
+- [[Nation of Lexovar]] - final.docx
 - Dwarves Final.docx
 - Drakmir Dominion.docx
 - Kastalshire final.docx
-- Nation of lexovar. full final.docx
+- [[Nation of lexovar]]. full final.docx
 - Forged Sands Final.docx
 - Redmarch Coalition Final.docx
 - Aasimar Final.docx
@@ -64,6 +64,6 @@ tags:
 - Anthros and his endless tome.docx ¶9
 - Anthros and his endless tome.docx ¶10
 - Anthros and his endless tome.docx ¶21
-- Nation of Lexovar - final.docx ¶241
+- [[Nation of Lexovar]] - final.docx ¶241
 - Dwarves Final.docx ¶221
 - ...

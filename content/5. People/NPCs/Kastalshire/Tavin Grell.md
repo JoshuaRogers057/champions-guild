@@ -22,8 +22,8 @@ tags:
 - Royal Praetorians entered the city in disciplined formation. Peasant levies broke first. The minor lords held their captured district briefly but were overwhelmed. Lord Harrick Vale, Sir Odran Malkor, and Baron Tavin Grell were executed publicly, along with...
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
-- Kastalshire final.docx ¶221
-- Kastalshire final.docx ¶225
+- [[Kastalshire]] final.docx ¶221
+- [[Kastalshire]] final.docx ¶225

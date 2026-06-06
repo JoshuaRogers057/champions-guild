@@ -2,7 +2,7 @@
 
 | Gleamspire | |
 |:--|:--|
-| Nation | Nation of Lexovar |
+| Nation | [[Nation of Lexovar]] |
 | Type | Arcane Research City |
 | Population | Unknown |
 | Ruler | Head Librarian Zelri Rivenstil (academic); Gleamspire Academy (institutional) |

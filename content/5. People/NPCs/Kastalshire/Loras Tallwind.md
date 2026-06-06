@@ -23,8 +23,8 @@ tags:
 - Skymeadow – Wind-harvesting and livestock management Leader: Shepherd Loras Tallwind
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 151
-- Kastalshire final.docx ¶151
+- [[Kastalshire]] final.docx ¶151

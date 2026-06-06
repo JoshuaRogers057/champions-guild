@@ -21,7 +21,7 @@ tags:
 - Kelmere – Record keeping and local archives Leader: Scribe Halden Torv
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
-- Kastalshire final.docx ¶146
+- [[Kastalshire]] final.docx ¶146

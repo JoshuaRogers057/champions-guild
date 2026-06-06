@@ -24,10 +24,10 @@ tags:
 - Count Thomel Quayne (Lyraon): Idealistic and dedicated to agriculture. Holds deep resentment for Duchess Varron and would see her removed.
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 97
-- Kastalshire final.docx ¶187
-- Kastalshire final.docx ¶97
-- Kastalshire final.docx ¶187
+- [[Kastalshire]] final.docx ¶187
+- [[Kastalshire]] final.docx ¶97
+- [[Kastalshire]] final.docx ¶187

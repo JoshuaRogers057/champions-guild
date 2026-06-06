@@ -23,7 +23,7 @@ tags:
 - Notable NPC: Master Forgewright Brannik Coilhand oversees the Iron Loom’s military construct program. He is precise, humorless, and famous for saying, “A predictable golem is a successful golem.”
 
 ## Source Documents
-- Nation of Lexovar - final.docx
+- [[Nation of Lexovar]] - final.docx
 
 ## Paragraph References
 - 220

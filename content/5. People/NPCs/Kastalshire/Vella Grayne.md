@@ -23,8 +23,8 @@ tags:
 - Stonehollow – Quarry and building stone supply Leader: Magistrate Vella Grayne
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 153
-- Kastalshire final.docx ¶153
+- [[Kastalshire]] final.docx ¶153

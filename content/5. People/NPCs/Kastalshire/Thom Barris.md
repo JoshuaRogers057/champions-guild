@@ -23,8 +23,8 @@ tags:
 - Oakmere – Logging and timber trade Leader: Mayor Thom Barris
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 148
-- Kastalshire final.docx ¶148
+- [[Kastalshire]] final.docx ¶148

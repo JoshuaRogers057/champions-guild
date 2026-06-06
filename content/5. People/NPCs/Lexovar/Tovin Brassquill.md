@@ -23,7 +23,7 @@ tags:
 - The chief architect of the integrated system was Master Scheduler Tovin Brassquill, a stern logistical savant whose ledgers were said to predict weather, shortages, and marriages with equal accuracy.
 
 ## Source Documents
-- Nation of Lexovar - final.docx
+- [[Nation of Lexovar]] - final.docx
 
 ## Paragraph References
 - 280

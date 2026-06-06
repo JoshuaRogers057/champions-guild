@@ -24,10 +24,10 @@ tags:
 - Countess Sereda Flintmere (Hearthpoint): Sharp-witted trade leader, maintains an iron grip on naval operations. Whispers link her loyalties to Queen Aralyn.
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 107
-- Kastalshire final.docx ¶190
-- Kastalshire final.docx ¶107
-- Kastalshire final.docx ¶190
+- [[Kastalshire]] final.docx ¶190
+- [[Kastalshire]] final.docx ¶107
+- [[Kastalshire]] final.docx ¶190

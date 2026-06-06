@@ -2,7 +2,7 @@
 
 | Fizzleforge | |
 |:--|:--|
-| Nation | Nation of Lexovar |
+| Nation | [[Nation of Lexovar]] |
 | Type | Experimental City |
 | Population | Unknown |
 | Ruler | Headmaster Thannik (academic); Councilor Vox Sparkthane (Arcane Council) |

@@ -24,10 +24,10 @@ tags:
 - Countess Revya Harnwell (Dawnmarch): Stern, competent, and militaristic. Trusted by merchants and strong in tax collection. A key political ally of Duchess Varron.
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 99
-- Kastalshire final.docx ¶188
-- Kastalshire final.docx ¶99
-- Kastalshire final.docx ¶188
+- [[Kastalshire]] final.docx ¶188
+- [[Kastalshire]] final.docx ¶99
+- [[Kastalshire]] final.docx ¶188

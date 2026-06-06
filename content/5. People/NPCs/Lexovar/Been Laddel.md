@@ -26,13 +26,13 @@ tags:
 - Been Laddel of Clockspire publicly insisted his city stood above petty competition. This claim was often delivered while unveiling a superior version of someone else’s work. Many inventions emerged from this era. So did many fires.
 
 ## Source Documents
-- Nation of Lexovar - final.docx
-- Nation of lexovar. full final.docx
+- [[Nation of Lexovar]] - final.docx
+- [[Nation of lexovar]]. full final.docx
 
 ## Paragraph References
 - 154
-- Nation of Lexovar - final.docx ¶154
-- Nation of Lexovar - final.docx ¶233
-- Nation of Lexovar - final.docx ¶277
-- Nation of lexovar. full final.docx ¶155
-- Nation of lexovar. full final.docx ¶262
+- [[Nation of Lexovar]] - final.docx ¶154
+- [[Nation of Lexovar]] - final.docx ¶233
+- [[Nation of Lexovar]] - final.docx ¶277
+- [[Nation of lexovar]]. full final.docx ¶155
+- [[Nation of lexovar]]. full final.docx ¶262

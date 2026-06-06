@@ -21,7 +21,7 @@ tags:
 - Lanwick – Trade hub and marketplace Leader: Council of Four Families
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
-- Kastalshire final.docx ¶147
+- [[Kastalshire]] final.docx ¶147

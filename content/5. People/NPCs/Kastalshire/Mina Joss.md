@@ -23,8 +23,8 @@ tags:
 - Whiteridge – Herbal medicine and midwifery Leader: Apothecary Mina Joss
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 157
-- Kastalshire final.docx ¶157
+- [[Kastalshire]] final.docx ¶157

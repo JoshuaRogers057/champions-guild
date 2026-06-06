@@ -26,14 +26,14 @@ tags:
 - Many nations remained stronger in war. None could rival the logistical prowess of Lexovar. Governor Arvella Zynnbarrel remarked during the opening ceremonies that roads connect places, while rails create futures. Her critics observed that rails also create ...
 
 ## Source Documents
-- Nation of Lexovar - final.docx
-- Nation of lexovar. full final.docx
+- [[Nation of Lexovar]] - final.docx
+- [[Nation of lexovar]]. full final.docx
 
 ## Paragraph References
 - 67
-- Nation of Lexovar - final.docx ¶67
-- Nation of Lexovar - final.docx ¶248
-- Nation of Lexovar - final.docx ¶289
-- Nation of lexovar. full final.docx ¶67
-- Nation of lexovar. full final.docx ¶233
-- Nation of lexovar. full final.docx ¶274
+- [[Nation of Lexovar]] - final.docx ¶67
+- [[Nation of Lexovar]] - final.docx ¶248
+- [[Nation of Lexovar]] - final.docx ¶289
+- [[Nation of lexovar]]. full final.docx ¶67
+- [[Nation of lexovar]]. full final.docx ¶233
+- [[Nation of lexovar]]. full final.docx ¶274

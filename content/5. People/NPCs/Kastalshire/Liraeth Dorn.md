@@ -25,11 +25,11 @@ tags:
 - Countess Liraeth Dorn (Arestead): Resolute and intelligent, known for negotiation under pressure. Admired for defusing a miners' revolt and for managing dangerous frontier operations.
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 78
-- Kastalshire final.docx ¶181
-- Kastalshire final.docx ¶78
-- Kastalshire final.docx ¶180
-- Kastalshire final.docx ¶181
+- [[Kastalshire]] final.docx ¶181
+- [[Kastalshire]] final.docx ¶78
+- [[Kastalshire]] final.docx ¶180
+- [[Kastalshire]] final.docx ¶181

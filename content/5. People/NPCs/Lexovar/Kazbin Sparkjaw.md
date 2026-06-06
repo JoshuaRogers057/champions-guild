@@ -23,7 +23,7 @@ tags:
 - Notable NPC: Professor Kazbin Sparkjaw is Voltagrim’s most famous elemental theorist. His eyebrows have not grown back in twenty years, and he considers that proof of serious scholarship.
 
 ## Source Documents
-- Nation of Lexovar - final.docx
+- [[Nation of Lexovar]] - final.docx
 
 ## Paragraph References
 - 208

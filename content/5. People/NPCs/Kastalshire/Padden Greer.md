@@ -23,8 +23,8 @@ tags:
 - Farbell – Pastoral farming and windmill grains Leader: Mayor Padden Greer
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 140
-- Kastalshire final.docx ¶140
+- [[Kastalshire]] final.docx ¶140

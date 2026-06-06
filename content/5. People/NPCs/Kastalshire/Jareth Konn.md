@@ -25,8 +25,8 @@ tags:
 - Eastwatch – Border garrison and defense Leader: Captain Jareth Konn
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 139
-- Kastalshire final.docx ¶139
+- [[Kastalshire]] final.docx ¶139

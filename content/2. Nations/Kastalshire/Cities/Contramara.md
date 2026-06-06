@@ -1,18 +1,19 @@
+---
+title: Contramara
+---
+
 <div class="infobox">
 
 | Contramara | |
 |:--|:--|
-| Nation | Kastalshire |
-| Type | Capital City |
-| Population | Unknown |
-| Ruler | High King Vaerin Thalros |
-| Founded | Ancient |
-| Notable For | Palace of Kastal, The Citadel, The Praetorian, The Arcanum, seat of the crown |
+| **Nation** | Kastalshire |
+| **Type** | Capital City |
+| **Population** | Unknown |
+| **Ruler** | High King Vaerin Thalros |
+| **Founded** | Ancient |
+| **Notable For** | Palace of Kastal, The Citadel, The Praetorian, The Arcanum, seat of the crown |
 
 </div>
-
-
-# Contramara — Capital of Kastalshire
 
 Contramara is the capital of Kastalshire and the seat of House Thalros. It is home to the **Palace of Kastal** and the **Citadel**, a repurposed castle that now serves as the bureaucratic heart of the nation.
 

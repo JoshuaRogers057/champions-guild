@@ -23,8 +23,8 @@ tags:
 - Veldenmark – River patrol and ferry guard Leader: Captain Roval Fen
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 155
-- Kastalshire final.docx ¶155
+- [[Kastalshire]] final.docx ¶155

@@ -2,7 +2,7 @@
 
 | Chronovar | |
 |:--|:--|
-| Nation | Nation of Lexovar |
+| Nation | [[Nation of Lexovar]] |
 | Type | Chronomancy Center |
 | Population | Unknown |
 | Ruler | Been Laddel |

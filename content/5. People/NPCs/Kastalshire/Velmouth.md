@@ -23,11 +23,11 @@ tags:
 - Duke Velmouth (Aremir): Tense. Velmouth distrusts the crown and is closely watched by Dorian.
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
-- Kastalshire final.docx ¶78
-- Kastalshire final.docx ¶80
-- Kastalshire final.docx ¶166
-- Kastalshire final.docx ¶182
-- Kastalshire final.docx ¶191
+- [[Kastalshire]] final.docx ¶78
+- [[Kastalshire]] final.docx ¶80
+- [[Kastalshire]] final.docx ¶166
+- [[Kastalshire]] final.docx ¶182
+- [[Kastalshire]] final.docx ¶191

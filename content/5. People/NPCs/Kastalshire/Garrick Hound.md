@@ -23,8 +23,8 @@ tags:
 - Braystead – Livestock and horse breeding Leader: Jarl Garrick Hound
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 133
-- Kastalshire final.docx ¶133
+- [[Kastalshire]] final.docx ¶133

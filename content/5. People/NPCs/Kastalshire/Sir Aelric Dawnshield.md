@@ -23,7 +23,7 @@ tags:
 - Led by Sir Aelric Dawnshield, a golden-armored paladin with a glowing sword. Aelric left a corrupt holy order to found this righteous organization.
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
-- Kastalshire final.docx ¶122
+- [[Kastalshire]] final.docx ¶122

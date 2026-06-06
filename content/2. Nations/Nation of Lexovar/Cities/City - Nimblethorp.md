@@ -2,7 +2,7 @@
 
 | Nimblethorp | |
 |:--|:--|
-| Nation | Nation of Lexovar |
+| Nation | [[Nation of Lexovar]] |
 | Type | Engineering Hub |
 | Population | Unknown |
 | Ruler | Headmaster Dison Flemming (academic & Arcane Council) |

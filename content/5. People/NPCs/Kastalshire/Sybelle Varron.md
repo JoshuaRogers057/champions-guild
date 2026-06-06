@@ -24,10 +24,10 @@ tags:
 - Duchess Sybelle Varron (Lyricast): A socialite and hostess, politically passive but well-connected. Delegates rule while maintaining high social standing.
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 95
-- Kastalshire final.docx ¶186
-- Kastalshire final.docx ¶95
-- Kastalshire final.docx ¶186
+- [[Kastalshire]] final.docx ¶186
+- [[Kastalshire]] final.docx ¶95
+- [[Kastalshire]] final.docx ¶186

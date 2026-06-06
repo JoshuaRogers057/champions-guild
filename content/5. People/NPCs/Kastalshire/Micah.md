@@ -21,7 +21,7 @@ tags:
 - Galen’s Rest – Monastery and medical care Leader: Brother Micah
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
-- Kastalshire final.docx ¶143
+- [[Kastalshire]] final.docx ¶143

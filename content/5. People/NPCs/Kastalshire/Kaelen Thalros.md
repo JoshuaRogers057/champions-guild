@@ -22,8 +22,8 @@ tags:
 - The Twin Heirs: Prince Dorian and Prince Kaelen Thalros
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 177
-- Kastalshire final.docx ¶177
+- [[Kastalshire]] final.docx ¶177

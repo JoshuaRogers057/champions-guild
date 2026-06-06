@@ -23,7 +23,7 @@ tags:
 - Ironhill – Ironworking and horseshoe production Leader: Smithmaster Garen Holt
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 145

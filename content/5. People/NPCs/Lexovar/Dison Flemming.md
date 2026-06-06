@@ -25,11 +25,11 @@ tags:
 - Notable NPC: Headmaster Dison Flemming is a mathematical prodigy and the youngest member of the Arcane Council. He treats engineering like moral philosophy and considers inefficient design a personal insult.
 
 ## Source Documents
-- Nation of Lexovar - final.docx
-- Nation of lexovar. full final.docx
+- [[Nation of Lexovar]] - final.docx
+- [[Nation of lexovar]]. full final.docx
 
 ## Paragraph References
 - 90
-- Nation of Lexovar - final.docx ¶90
-- Nation of Lexovar - final.docx ¶229
-- Nation of lexovar. full final.docx ¶91
+- [[Nation of Lexovar]] - final.docx ¶90
+- [[Nation of Lexovar]] - final.docx ¶229
+- [[Nation of lexovar]]. full final.docx ¶91

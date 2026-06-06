@@ -24,12 +24,12 @@ tags:
 - In Fizzleforge, Headmaster Thannik, still famous for wearing sentient armor that occasionally argued with him in public, oversaw hazard-resistant construct chassis and industrial prototypes. Fires increased. So did output.
 
 ## Source Documents
-- Nation of Lexovar - final.docx
-- Nation of lexovar. full final.docx
+- [[Nation of Lexovar]] - final.docx
+- [[Nation of lexovar]]. full final.docx
 
 ## Paragraph References
-- Nation of Lexovar - final.docx ¶82
-- Nation of Lexovar - final.docx ¶225
-- Nation of Lexovar - final.docx ¶261
-- Nation of lexovar. full final.docx ¶82
-- Nation of lexovar. full final.docx ¶246
+- [[Nation of Lexovar]] - final.docx ¶82
+- [[Nation of Lexovar]] - final.docx ¶225
+- [[Nation of Lexovar]] - final.docx ¶261
+- [[Nation of lexovar]]. full final.docx ¶82
+- [[Nation of lexovar]]. full final.docx ¶246

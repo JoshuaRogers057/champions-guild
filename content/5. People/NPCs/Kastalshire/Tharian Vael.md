@@ -24,10 +24,10 @@ tags:
 - Duke Tharian Vael (Varondale): Former Admiral turned fortress lord. Cold, calculating, and focused entirely on defense and strategy.
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 105
-- Kastalshire final.docx ¶189
-- Kastalshire final.docx ¶105
-- Kastalshire final.docx ¶189
+- [[Kastalshire]] final.docx ¶189
+- [[Kastalshire]] final.docx ¶105
+- [[Kastalshire]] final.docx ¶189

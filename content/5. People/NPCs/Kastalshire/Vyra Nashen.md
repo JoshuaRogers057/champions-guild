@@ -24,10 +24,10 @@ tags:
 - Countess Vyra Nashen (Raethalor): Diplomatic and successful in stabilizing her region. Skilled at subtle negotiation and resource management.
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 115
-- Kastalshire final.docx ¶192
-- Kastalshire final.docx ¶115
-- Kastalshire final.docx ¶192
+- [[Kastalshire]] final.docx ¶192
+- [[Kastalshire]] final.docx ¶115
+- [[Kastalshire]] final.docx ¶192
