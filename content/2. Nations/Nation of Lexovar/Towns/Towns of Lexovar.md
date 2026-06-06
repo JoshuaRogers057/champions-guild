@@ -5,7 +5,7 @@ Below is a list of key gnomish towns throughout Lexovar, their local leadership,
 | Village | Leader | Function |
 |---|---|---|
 | Cogglewick | Tinkermaster Jibbit Fizzwhistle | Invention testing, arcano-mechanical labs |
-| Whimbleton | Mayor Petta Floop | Candycrafting and sugary exports |
+| Whimbleton | [[Mayor Petta Floop]] | Candycrafting and sugary exports |
 | Sprockridge | Gearmaiden Zendi Boltbraid | Clockwork construction and gearsmithing |
 | Fizzlenob Hollow | Grand Professor Glim Dappletwist | Alchemical research and potion brewing |
 | Brassburrow | Council of Cogbearers | Trade and logistical planning |

@@ -21,4 +21,4 @@ Situated in golden fields of wheat and corn, Caer Merel is a city built on the b
 
 ## Ruler
 
-**Count Edran Pellor** is an adventurous former sea captain whose noble family traded in foodstuffs. He made his reputation sailing shipments into difficult and dangerous places. He retired inland to oversee Caer Merel after the death of his father in the year 1018. With a booming voice and a hundred stories, he is beloved by the farmers who feed the kingdom. Rumors suggest he is growing bored and that his attention to duty is slipping.
+**Count [[Edran Pellor]]** is an adventurous former sea captain whose noble family traded in foodstuffs. He made his reputation sailing shipments into difficult and dangerous places. He retired inland to oversee Caer Merel after the death of his father in the year 1018. With a booming voice and a hundred stories, he is beloved by the farmers who feed the kingdom. Rumors suggest he is growing bored and that his attention to duty is slipping.

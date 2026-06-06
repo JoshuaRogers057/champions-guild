@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Braystead – Livestock and horse breeding Leader: Jarl Garrick Hound
+- [[Braystead]] – Livestock and horse breeding Leader: Jarl Garrick Hound
 
 ## Source Documents
 - [[Kastalshire]] final.docx

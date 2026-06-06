@@ -18,8 +18,8 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- High Skywarden Seraphiel Thorne commands the fortress with precision and fire. Once a soaring champion of the Skyborne Cavalry, she now rules from the Aerie of Wills—a vast command chamber suspended from a central skybridge tower. Clad in sky-blue armor wit...
-- High Skywarden Seraphiel Thorne
+- High Skywarden Seraphiel [[Thorne]] commands the fortress with precision and fire. Once a soaring champion of the Skyborne Cavalry, she now rules from the Aerie of Wills—a vast command chamber suspended from a central skybridge tower. Clad in sky-blue armor wit...
+- High Skywarden Seraphiel [[Thorne]]
 
 ## Source Documents
 - Aasimar Final.docx

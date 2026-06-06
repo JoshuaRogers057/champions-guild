@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Whiteridge – Herbal medicine and midwifery Leader: Apothecary Mina Joss
+- [[Whiteridge]] – Herbal medicine and midwifery Leader: Apothecary Mina Joss
 
 ## Source Documents
 - [[Kastalshire]] final.docx

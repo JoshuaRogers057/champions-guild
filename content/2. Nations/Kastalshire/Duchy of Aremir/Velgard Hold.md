@@ -10,7 +10,7 @@ title: Velgard Hold
 | **Type** | Duchy Capital |
 | **Duchy** | Aremir |
 | **Ruler** | Duke Garran Velmouth |
-| **Location** | ~200 miles southeast of Arestead, nestled between two low mountain ridges |
+| **Location** | ~200 miles southeast of [[Arestead]], nestled between two low mountain ridges |
 | **Notable For** | Fortified palace, underground shelter, seat of Duke Velmouth |
 
 </div>
@@ -21,4 +21,4 @@ Nestled in the cradle of two low mountain ridges, Velgard Hold is the fortified 
 
 ## Ruler
 
-**Duke Garran Velmouth** is a lean, hard-eyed veteran with a permanent limp from an old frost giant encounter. Once commander of a mountain patrol battalion, he now rules Aremir with a survivalist's pragmatism. His court is filled with former adventurers, dwarven engineers, and grim-faced mining barons. He mistrusts ceremonial displays and despises useless nobles. His open criticism of the kingdom and his questions about why northern and southern Kastalshire should remain one nation have placed him in a precarious position.
+**Duke Garran [[Velmouth]]** is a lean, hard-eyed veteran with a permanent limp from an old frost giant encounter. Once commander of a mountain patrol battalion, he now rules Aremir with a survivalist's pragmatism. His court is filled with former adventurers, dwarven engineers, and grim-faced mining barons. He mistrusts ceremonial displays and despises useless nobles. His open criticism of the kingdom and his questions about why northern and southern [[Kastalshire]] should remain one nation have placed him in a precarious position.

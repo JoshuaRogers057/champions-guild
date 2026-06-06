@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Westhollow – Shrinekeeping and pilgrimage station Leader: Priestess Elra Norn
+- [[Westhollow]] – Shrinekeeping and pilgrimage station Leader: Priestess Elra Norn
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 156
-- Kastalshire final.docx ¶156
+- [[Kastalshire]] final.docx ¶156

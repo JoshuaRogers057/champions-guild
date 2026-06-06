@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Sage Vel of Pride Gertua
+- Sage [[Vel]] of Pride Gertua
 
 ## Source Documents
 - City states of Eryndor final.docx

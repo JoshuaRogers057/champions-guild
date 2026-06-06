@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Frostmill – Grain milling and snow-hardy crops Leader: Elder Toren Haldrim
+- [[Frostmill]] – Grain milling and snow-hardy crops Leader: Elder Toren Haldrim
 
 ## Source Documents
 - [[Kastalshire]] final.docx

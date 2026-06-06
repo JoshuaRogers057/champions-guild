@@ -16,7 +16,7 @@
 
 Fizzleforge is where Lexovar gives its boldest inventors room to attempt what other cities will not. The city is half aboveground and half subterranean, built with reinforced towers, thick walls, blast gates, and emergency corridors because its people understand the work they do. Fizzleforge is not careless. It is prepared.
 
-The city revolves around **Fizzleforge University**, Lexovar's premier institution for experimental magitech, construct design, and volatile engineering. Before gaining access to lab space, students must file detailed forms estimating possible hazards, containment needs, and blast radius. The university is led by **Headmaster Thannik**, a gnome rarely seen without his sentient armor.
+The city revolves around **Fizzleforge University**, Lexovar's premier institution for experimental magitech, construct design, and volatile engineering. Before gaining access to lab space, students must file detailed forms estimating possible hazards, containment needs, and blast radius. The university is led by **Headmaster [[Thannik]]**, a gnome rarely seen without his sentient armor.
 
 Life in Fizzleforge is risky, brilliant, and disciplined in its own strange way. This is where Lexovar sends the bigger ideas, the bolder inventors, and the experiments too powerful for ordinary laboratories. Fizzleforge does not apologize for its scorch marks. Its people see them as proof that dangerous work was done with enough courage to try and enough care to survive.
 

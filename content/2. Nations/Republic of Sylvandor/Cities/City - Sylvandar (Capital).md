@@ -44,16 +44,16 @@ The broad lower district, spread across the forest floor beneath the Woaden cano
 
 ## Notable Figures
 
-**King Aelar Vaelith**
+**King Aelar [[Vaelith]]**
 A serene, white-haired monarch robed in radiant blue and silver. Though he rarely intervenes directly in politics, his presence remains a powerful symbol of elven continuity and national unity.
 
-**First Arbiter Selura Duskweave**
+**First Arbiter [[Selura Duskweave]]**
 A brilliant enchantress and political strategist known for her perfect memory and the floating crystal quill that records her every spoken word. As presiding authority over the Senate of Sixteen, Selura has maintained the Republic's fragile political balance for nearly a century.
 
-**Captain Ayren Thornleaf**
+**Captain [[Ayren Thornleaf]]**
 Commander of the legendary Woaden Rangers and one of the most respected figures in Sylvandar. Clad in bark-forged armor and rarely speaking beyond necessity, Ayren is said to know every sacred grove within the Republic by memory. Stories claim he once slew a corrupted treant with a single arrow.
 
-**High Sage Elran Mistelis**
+**High Sage [[Elran Mistelis]]**
 Head of the Arcane Conclave within Verdant Reach and among the oldest living elves in the Republic. Revered as both scholar and historian, often described as a living archive of Sylvandar's arcane and political memory.
 
 **Senator Thalen Duskbranch** *(Vita Populi)*

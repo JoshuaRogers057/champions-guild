@@ -21,4 +21,4 @@ Located on a sizable island more than 100 square miles in size, Hearthpoint is t
 
 ## Ruler
 
-**Countess Sereda Flintmere** is a seasoned leader with salt in her blood and fire in her eyes. Once an heiress and socialite, she was constantly underestimated until her father died. She rose in prowess and reputation as a stateswoman, and she rules Hearthpoint with the precision of a captain running a ship. Her navy works to keep pirates in check, and her ports bustle with trade from across Eryndor and beyond. She has no patience for mainland politics, but she keeps a keen eye on rising threats and rising tides alike.
+**Countess [[Sereda Flintmere]]** is a seasoned leader with salt in her blood and fire in her eyes. Once an heiress and socialite, she was constantly underestimated until her father died. She rose in prowess and reputation as a stateswoman, and she rules Hearthpoint with the precision of a captain running a ship. Her navy works to keep pirates in check, and her ports bustle with trade from across Eryndor and beyond. She has no patience for mainland politics, but she keeps a keen eye on rising threats and rising tides alike.

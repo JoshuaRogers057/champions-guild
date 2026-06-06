@@ -21,4 +21,4 @@ Falbrin sits to the south, nestled in the golden foothills near Contramara's tra
 
 ## Ruler
 
-**Count Arven Dallinar** is a polished nobleman raised in Contramara. Though not native to Aremir, he has proven adept at balancing profits with local loyalty. He expanded Falbrin's mining guilds and brought in dwarven architects to improve structural stability. He is also known for public festivals, rare but extravagant. He is not favored by Duke Velmouth.
+**Count [[Arven Dallinar]]** is a polished nobleman raised in [[Contramara]]. Though not native to Aremir, he has proven adept at balancing profits with local loyalty. He expanded Falbrin's mining guilds and brought in dwarven architects to improve structural stability. He is also known for public festivals, rare but extravagant. He is not favored by Duke [[Velmouth]].

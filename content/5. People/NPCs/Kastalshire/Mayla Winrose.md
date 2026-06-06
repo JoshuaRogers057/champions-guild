@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Dunford – Wheat and grain farming Leader: Elder Mayla Winrose
+- [[Dunford]] – Wheat and grain farming Leader: Elder Mayla Winrose
 
 ## Source Documents
 - [[Kastalshire]] final.docx

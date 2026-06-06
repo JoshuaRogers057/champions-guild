@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Veldenmark – River patrol and ferry guard Leader: Captain Roval Fen
+- [[Veldenmark]] – River patrol and ferry guard Leader: Captain Roval Fen
 
 ## Source Documents
 - [[Kastalshire]] final.docx

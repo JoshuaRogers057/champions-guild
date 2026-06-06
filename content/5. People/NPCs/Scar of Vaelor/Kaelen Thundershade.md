@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Kaelen Thundershade: A half-fey, half-fire genasi stormrider, famous for dueling an entire pirate crew in a lightning storm.
+- [[Kaelen]] Thundershade: A half-fey, half-fire genasi stormrider, famous for dueling an entire pirate crew in a lightning storm.
 
 ## Source Documents
 - Scar of Vaelor Final.docx

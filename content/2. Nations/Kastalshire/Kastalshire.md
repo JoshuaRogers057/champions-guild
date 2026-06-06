@@ -187,35 +187,35 @@ Ongoing hostilities with the Redmarch Coalition keep tensions high. Pirates and 
 ### High King Vaerin Thalros of Kastalshire
 
 **Title:** High King of Kastalshire, Lord of the Citadel, Hammer of the Southern March
-**Seat:** The Palace of Kastal, Contramara | **Age:** 59 | **Race:** Human
+**Seat:** The Palace of Kastal, [[Contramara]] | **Age:** 59 | **Race:** Human
 
 Commanding and cunning. King Vaerin sees the world as a chess board. Every noble owes him loyalty, every town owes him taxes, and every duchy owes him blood. He is not cruel, but he has no patience for weakness or sentimentality. He favors his son Dorian for succession.
 
 **Appearance:** Tall and severe, with long iron-grey hair and a neatly trimmed beard. His armor is always immaculate, inscribed with the sigil of House Thalros: a lion with a broken rose in its jaws. His eyes are steel blue and unreadable.
 
 **Crown Relationship with the Dukes:**
-- Duke Velmouth of Aremir: Tense. Velmouth distrusts the crown and is closely watched by Dorian.
+- Duke [[Velmouth]] of Aremir: Tense. [[Velmouth]] distrusts the crown and is closely watched by Dorian.
 - Duke Hawnspear of Caer Thian: Respectful. Seen as loyal, but expendable if he cannot control piracy.
-- Duchess Varron of Lyricast: Loyal but politically minor. Kaelen uses this duchy as a playground.
+- Duchess Varron of Lyricast: Loyal but politically minor. [[Kaelen]] uses this duchy as a playground.
 - Duke Renward of Rath: Feared and quiet. The king believes Rath's isolation makes it ripe for takeover.
 - Duke Vael of Varondale: Family by marriage. Strained by rumors that the queen protects her Varondale kin over the crown.
 
 ### Queen Aralyn Thalros
 
-Formerly Aralyn of Varondale, daughter of the late Duke of Varonhold. Wed to Vaerin in a political marriage that ended a brewing succession crisis and sealed Varondale's loyalty to the crown.
+Formerly [[Aralyn]] of Varondale, daughter of the late Duke of [[Varonhold]]. Wed to Vaerin in a political marriage that ended a brewing succession crisis and sealed Varondale's loyalty to the crown.
 
-Calculated and observant. Aralyn is politically brilliant and handles much of the realm's soft power. She controls court gossip, organizes diplomatic functions, and is known for identifying threats before her husband sees them. Regal and admired, but whispered to be manipulative behind closed doors. She favors her son Kaelen for succession.
+Calculated and observant. [[Aralyn]] is politically brilliant and handles much of the realm's soft power. She controls court gossip, organizes diplomatic functions, and is known for identifying threats before her husband sees them. Regal and admired, but whispered to be manipulative behind closed doors. She favors her son [[Kaelen]] for succession.
 
-Whispers suggest she still maintains private correspondence with her younger brother, now Count of Hearthpoint, who has been more resistant to the crown's taxes.
+Whispers suggest she still maintains private correspondence with her younger brother, now Count of [[Hearthpoint]], who has been more resistant to the crown's taxes.
 
 ### The Twin Heirs: Prince Dorian and Prince Kaelen Thalros
 
 **Age:** 22. Recently knighted. Both serve in high positions within the Praetorian Order and are seen across the duchies on official missions.
 
-**Prince Dorian Thalros, The Iron Spear**
-Stoic and loyal with a commander's mind. A military prodigy trained by senior captains of Caer Thian and Aremir. He leads inspections of militia training and regional levies, currently stationed in Falbrin, quietly evaluating Duke Velmouth's loyalty. Rumored to be promised in marriage to a noblewoman of House Dallinar.
+**Prince [[Dorian Thalros]], The Iron Spear**
+Stoic and loyal with a commander's mind. A military prodigy trained by senior captains of Caer Thian and Aremir. He leads inspections of militia training and regional levies, currently stationed in [[Falbrin]], quietly evaluating Duke [[Velmouth]]'s loyalty. Rumored to be promised in marriage to a noblewoman of House Dallinar.
 
-**Prince Kaelen Thalros, The Silver Tongue**
+**Prince [[Kaelen]] Thalros, The Silver Tongue**
 Charismatic, clever, and ambitious. Studies diplomacy and arcane history at The Arcanum. Travels frequently between Lyricast and Rath, courting favor among counts and manipulating courtly politics. Rumored to support annexing Caer Thian's coast as a crown-controlled province if piracy cannot be curbed.
 
-The twins are extremely close but often take differing approaches: Dorian through force and loyalty, Kaelen through charm and intrigue. They are rumored to both love the same woman, though her identity remains a mystery.
+The twins are extremely close but often take differing approaches: Dorian through force and loyalty, [[Kaelen]] through charm and intrigue. They are rumored to both love the same woman, though her identity remains a mystery.

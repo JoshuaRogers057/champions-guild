@@ -70,7 +70,7 @@ Illegal magical experimentation, restricted planar research, artifact traffickin
 | Town | Leader | Known For |
 |---|---|---|
 | Feyrun Hollow | Council of Petal-Speakers | Druidic studies |
-| Larethien | Archmage Teladris Vey | Arcane research and scroll making |
-| Myrrhwood | Warden Sylthiel Virell | Sacred herb farming and healing arts |
-| Sol'aenor | Lightwarden Velas | Radiant magic |
-| Vorlathen | High Arcanist Drevan | Teleportation and gate upkeep |
+| Larethien | Archmage [[Teladris Vey]] | Arcane research and scroll making |
+| Myrrhwood | Warden [[Sylthiel Virell]] | Sacred herb farming and healing arts |
+| Sol'aenor | Lightwarden [[Velas]] | Radiant magic |
+| Vorlathen | High Arcanist [[Drevan]] | Teleportation and gate upkeep |

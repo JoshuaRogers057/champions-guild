@@ -18,7 +18,7 @@ Ciliren is the largest city in Eryndor and the heart of gnomish civilization. Mo
 
 The city stands atop a vast plateau overlooking both river and sea. From below, Ciliren looks impossible. Rail bridges climb the cliffs. Towers rise through smoke and fragment-light. Skybridges connect buildings far above the lower streets.
 
-Ciliren is governed by **Governor Arvella Zynnbarrel**, who also serves as Chancellor of the Arcane Council. She is sharp, calm, and relentlessly efficient. Her power comes from magitech law, economic engineering, and the political machine of the capital's five academies.
+Ciliren is governed by **Governor [[Arvella Zynnbarrel]]**, who also serves as Chancellor of the Arcane Council. She is sharp, calm, and relentlessly efficient. Her power comes from magitech law, economic engineering, and the political machine of the capital's five academies.
 
 Ciliren's academies are smaller than the four great national schools, but their influence is undeniable. Together, they shape the election of the Chancellor. Their rivalries help shape — and frequently spill into — the city.
 

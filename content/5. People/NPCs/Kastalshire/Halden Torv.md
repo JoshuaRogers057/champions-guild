@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Kelmere – Record keeping and local archives Leader: Scribe Halden Torv
+- [[2. Nations/Kastalshire/Towns/Kelmere|Kelmere]] – Record keeping and local archives Leader: Scribe Halden Torv
 
 ## Source Documents
 - [[Kastalshire]] final.docx

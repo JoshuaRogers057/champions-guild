@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Daggerfell – Military training and weapons manufacturing Leader: Baron Elric Vann
+- [[Daggerfell]] – Military training and weapons manufacturing Leader: Baron Elric Vann
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 137
-- Kastalshire final.docx ¶137
+- [[Kastalshire]] final.docx ¶137

@@ -21,4 +21,4 @@ Caer Thian Castle is a sprawling complex with four large towers situated along i
 
 ## Ruler
 
-**Duke Elric Hawnspear** is a grizzled, broad-shouldered noble with calloused hands and a quiet mind. Once a forester to a minor noble house, he rose through the ranks by loyalty, battle merit, and wisdom rather than politics. Known for working alongside druids and agricultural mages, he understands that a hungry people know no loyalty. Full bellies have become a staple of his rule. He is a popular ruler who favors simple truths and strong walls.
+**Duke [[Elric Hawnspear]]** is a grizzled, broad-shouldered noble with calloused hands and a quiet mind. Once a forester to a minor noble house, he rose through the ranks by loyalty, battle merit, and wisdom rather than politics. Known for working alongside druids and agricultural mages, he understands that a hungry people know no loyalty. Full bellies have become a staple of his rule. He is a popular ruler who favors simple truths and strong walls.

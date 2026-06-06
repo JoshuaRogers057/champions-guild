@@ -8,10 +8,10 @@ tags:
 
 # NPC Master Index
 
-All 402 NPCs from the Eryndor source documents, organized by primary affiliation. Each NPC links out to their location/context and to all affiliated nations and factions.
+All 402 [[NPCs]] from the Eryndor source documents, organized by primary affiliation. Each NPC links out to their location/context and to all affiliated nations and factions.
 
 ## [[Ash-Korrath]]
-*20 NPCs*
+*20 [[NPCs]]*
 
 - [[Aven Stral]]
 - [[Daevan Highshield]]
@@ -35,7 +35,7 @@ All 402 NPCs from the Eryndor source documents, organized by primary affiliation
 - [[Ysolde Kairiel]]
 
 ## [[Bastions of Solara]]
-*26 NPCs*
+*26 [[NPCs]]*
 
 - [[Aeolus Vire]]
 - [[Anya Seral]]
@@ -65,7 +65,7 @@ All 402 NPCs from the Eryndor source documents, organized by primary affiliation
 - [[Vaeron Solmarch]]
 
 ## [[City States of Eryndor]]
-*47 NPCs*
+*47 [[NPCs]]*
 
 - [[Anathama]]
 - [[Arven Drell]]
@@ -116,7 +116,7 @@ All 402 NPCs from the Eryndor source documents, organized by primary affiliation
 - [[Yorrik Blackreed]]
 
 ## [[Drakmir Dominion]]
-*60 NPCs*
+*60 [[NPCs]]*
 
 - [[Archbinder Krel]]
 - [[Archon of Scales]]
@@ -180,14 +180,14 @@ All 402 NPCs from the Eryndor source documents, organized by primary affiliation
 - [[Ysarka Flamegut]]
 
 ## [[Forged Sands]]
-*3 NPCs*
+*3 [[NPCs]]*
 
 - [[Cipher-Saint Echobronze]]
 - [[Frame Halionyx]]
 - [[Quenforge]]
 
 ## [[Halls of Kar Dromm]]
-*46 NPCs*
+*46 [[NPCs]]*
 
 - [[Balgrim]]
 - [[Bardrum Flameforge]]
@@ -242,7 +242,7 @@ All 402 NPCs from the Eryndor source documents, organized by primary affiliation
 - [[Anthros]]
 
 ## [[Kastalshire]]
-*49 NPCs*
+*49 [[NPCs]]*
 
 - [[Andric Vel]]
 - [[Aralyn]]
@@ -295,7 +295,7 @@ All 402 NPCs from the Eryndor source documents, organized by primary affiliation
 - [[Vyra Nashen]]
 
 ## [[Korivar Compact]]
-*4 NPCs*
+*4 [[NPCs]]*
 
 - [[Corila Stendar]]
 - [[Namor Bakara]]
@@ -303,7 +303,7 @@ All 402 NPCs from the Eryndor source documents, organized by primary affiliation
 - [[Tessana Korivar]]
 
 ## [[Lexovar]]
-*15 NPCs*
+*15 [[NPCs]]*
 
 - [[Arvella Zynnbarrel]]
 - [[Been Laddel]]
@@ -322,7 +322,7 @@ All 402 NPCs from the Eryndor source documents, organized by primary affiliation
 - [[Zelri Rivenstil]]
 
 ## [[Mercenaries and Criminal Organizations]]
-*25 NPCs*
+*25 [[NPCs]]*
 
 - [[Creeve Barrow]]
 - [[Cyr Draven]]
@@ -356,7 +356,7 @@ All 402 NPCs from the Eryndor source documents, organized by primary affiliation
 - [[Halfeti]]
 
 ## [[Redmarch Coalition]]
-*38 NPCs*
+*38 [[NPCs]]*
 
 - [[Artificer Drogma Sparkfang]]
 - [[Axelnar]]
@@ -398,7 +398,7 @@ All 402 NPCs from the Eryndor source documents, organized by primary affiliation
 - [[Yuzra]]
 
 ## [[Scar of Vaelor]]
-*10 NPCs*
+*10 [[NPCs]]*
 
 - [[Elthis Vaelshade]]
 - [[Eryssa of the Shifting Wind]]
@@ -412,7 +412,7 @@ All 402 NPCs from the Eryndor source documents, organized by primary affiliation
 - [[Velian Sura]]
 
 ## [[Sylvandar Republic]]
-*33 NPCs*
+*33 [[NPCs]]*
 
 - [[Alenya Starweaver]]
 - [[Arylin Vaelith]]
@@ -449,7 +449,7 @@ All 402 NPCs from the Eryndor source documents, organized by primary affiliation
 - [[Vessha]]
 
 ## [[Thundrakar]]
-*23 NPCs*
+*23 [[NPCs]]*
 
 - [[Arva Stormvein]]
 - [[Breggor Drumflame]]

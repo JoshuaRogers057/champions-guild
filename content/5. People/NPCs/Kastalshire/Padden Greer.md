@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Farbell – Pastoral farming and windmill grains Leader: Mayor Padden Greer
+- [[Farbell]] – Pastoral farming and windmill grains Leader: Mayor Padden Greer
 
 ## Source Documents
 - [[Kastalshire]] final.docx

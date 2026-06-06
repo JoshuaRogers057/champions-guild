@@ -56,7 +56,7 @@ A scholarly philosopher and lifelong academic known for long, winding speeches l
 A seasoned Moonspire scholar whose calm pragmatism has made him one of the Senate's most influential swing votes. Quiet, analytical, and frustratingly difficult to predict, Calion weighs ideology against practicality with near-surgical precision.
 
 **Headmistress Selai Mistelis**
-Archmage of Moonspire University and sister to Senator Nerysa Mistelis. Governs the university with quiet intensity, demanding absolute excellence from faculty and students alike. Many suspect she knows far more about the Republic's hidden magical research than she publicly admits.
+Archmage of Moonspire University and sister to Senator [[Nerysa Mistelis]]. Governs the university with quiet intensity, demanding absolute excellence from faculty and students alike. Many suspect she knows far more about the Republic's hidden magical research than she publicly admits.
 
 **Provost Aethon Valeir**
 Master of the Astral Heights observatories and chief overseer of Thenal's planar monitoring operations. Brilliant but increasingly paranoid, Aethon has recently begun warning select officials about "movements beyond the veil" visible only through the city's highest observatories.

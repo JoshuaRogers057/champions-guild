@@ -24,10 +24,10 @@ tags:
 - Duke Elric Hawnspear (Caer Thian): Former forester turned popular leader. Pragmatic and loyal, known for his agricultural reforms and alliance with druids.
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 85
-- Kastalshire final.docx ¶183
-- Kastalshire final.docx ¶85
-- Kastalshire final.docx ¶183
+- [[Kastalshire]] final.docx ¶183
+- [[Kastalshire]] final.docx ¶85
+- [[Kastalshire]] final.docx ¶183

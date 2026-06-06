@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Stonebridge – Trade toll stop and ferry crossing Leader: Bridgewarden Rulf Hardan
+- [[Stonebridge]] – Trade toll stop and ferry crossing Leader: Bridgewarden Rulf Hardan
 
 ## Source Documents
 - [[Kastalshire]] final.docx

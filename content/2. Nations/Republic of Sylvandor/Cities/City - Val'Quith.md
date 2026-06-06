@@ -50,7 +50,7 @@ A decorated war general and hardline traditionalist. Advocates strict military d
 **Senator Elyndra Veyth** *(Vita Populi — Hardline Traditionalist, Voice of the Ranks)*
 A battle-scarred Shadar-Kai veteran elevated through popular support rather than noble influence. Presents herself as the voice of Val'Quith's soldiers, scouts, and frontier defenders. Fiercely patriotic and openly distrustful of foreign influence. Where Victus is cold and measured, Elyndra is fiery and direct, often speaking with the cadence of a battlefield command rather than Senate rhetoric. To supporters, she is the living spirit of Val'Quith; to critics, a dangerous nationalist willing to sacrifice diplomacy for endless vigilance.
 
-**Grand Commander Tiryel Drastlith**
+**Grand Commander [[Tiryel Drastlith]]**
 Overseer of Valiant Hall and master of ambush warfare. She trains the next generation of elven scouts and insists on teaching the first lessons herself.
 
 **Forgebinder Kel Tharendel**

@@ -14,7 +14,7 @@
 
 # Nimblethorp — Engineering Hub
 
-Nimblethorp is Lexovar's industrial and civil engineering powerhouse. Across Nimblethorp, efficiency is prized almost as highly as invention. The city revolves around **Gearshield Academy**, Lexovar's great school of applied magitech for civil engineering. The academy is overseen by **Headmaster Dison Flemming**, a mathematical prodigy and the youngest person ever to sit on the Arcane Council. Nimblethorp is a city where good design is treated almost like moral virtue.
+Nimblethorp is Lexovar's industrial and civil engineering powerhouse. Across Nimblethorp, efficiency is prized almost as highly as invention. The city revolves around **Gearshield Academy**, Lexovar's great school of applied magitech for civil engineering. The academy is overseen by **Headmaster [[Dison Flemming]]**, a mathematical prodigy and the youngest person ever to sit on the Arcane Council. Nimblethorp is a city where good design is treated almost like moral virtue.
 
 Life in Nimblethorp is orderly, but not easy. Public workshops are as common as taverns, and logic puzzles are built into daily entertainment. Crime is rare because inefficiency is noticed quickly — where there are broken windows and dark alleys, lights and repair crews are swift to work. The real danger is corporate espionage. The constant threat of spies and design theft keeps security high but rarely effective. A stolen design can be worth more than a vault of gold, especially if it comes from Gearshield Academy or the railworks.
 

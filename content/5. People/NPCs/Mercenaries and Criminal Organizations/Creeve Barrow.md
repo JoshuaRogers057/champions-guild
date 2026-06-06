@@ -25,9 +25,9 @@ tags:
 
 ## Source Documents
 - Criminals and mercenaries.docx
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 115
 - Criminals and mercenaries.docx ¶115
-- Kastalshire final.docx ¶124
+- [[Kastalshire]] final.docx ¶124

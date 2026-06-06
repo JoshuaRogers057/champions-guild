@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Coldreach – Ice harvesting and furs Leader: Warden Andric Vel
+- [[Coldreach]] – Ice harvesting and furs Leader: Warden Andric [[Vel]]
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 135
-- Kastalshire final.docx ¶135
+- [[Kastalshire]] final.docx ¶135

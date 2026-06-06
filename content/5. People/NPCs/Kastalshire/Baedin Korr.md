@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Crownhold – Regional administration and court Leader: Lord Baedin Korr
+- [[Crownhold]] – Regional administration and court Leader: Lord Baedin Korr
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 136
-- Kastalshire final.docx ¶136
+- [[Kastalshire]] final.docx ¶136

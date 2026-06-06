@@ -20,9 +20,9 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- The Ashen Mantle – Bloodlines and Legacy Homes are carved into glowing rock faces, linked by skywalks and hovering bridges. Ancestral glyphs pulse with pact energy. The prestigious Pacthall Academy is ruled by Vaelith Cindervow, a stern instructor who ensures no noble scion leaves unworthy.
-- Vaelith Cindervow – Pacthall Academy’s stern headmistress.
-- Homes are carved into glowing rock faces, linked by skywalks and hovering bridges. Ancestral glyphs pulse with pact energy. The prestigious Pacthall Academy is ruled by Vaelith Cindervow, a stern instructor who ensures no noble scion leaves unworthy.
+- The Ashen Mantle – Bloodlines and Legacy Homes are carved into glowing rock faces, linked by skywalks and hovering bridges. Ancestral glyphs pulse with pact energy. The prestigious Pacthall Academy is ruled by [[Vaelith]] Cindervow, a stern instructor who ensures no noble scion leaves unworthy.
+- [[Vaelith]] Cindervow – Pacthall Academy’s stern headmistress.
+- Homes are carved into glowing rock faces, linked by skywalks and hovering bridges. Ancestral glyphs pulse with pact energy. The prestigious Pacthall Academy is ruled by [[Vaelith]] Cindervow, a stern instructor who ensures no noble scion leaves unworthy.
 
 ## Source Documents
 - Ash Korrath Final.docx

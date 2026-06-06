@@ -20,7 +20,7 @@ The city revolves around **Gleamspire Academy**, Lexovar's great institution for
 
 At the heart of the city stands **The Citadel**, the largest arcane library in the world. Its protected vaults hold more than 250,000 uncategorized tomes. Some are half translated. Some are unstable. Some have not been opened in centuries because no one has agreed on the correct procedure.
 
-**Head Librarian Zelri Rivenstil** is a nearly 400-year-old gnome who has not spoken above a whisper in more than three centuries. Her quiet has become part of Gleamspire's identity. In a city built on study, silence is not weakness. It is authority.
+**Head Librarian [[Zelri Rivenstil]]** is a nearly 400-year-old gnome who has not spoken above a whisper in more than three centuries. Her quiet has become part of Gleamspire's identity. In a city built on study, silence is not weakness. It is authority.
 
 ---
 

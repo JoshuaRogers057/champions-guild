@@ -21,4 +21,4 @@ Built directly into the side of a mountain overlooking the sea, Varonhold is as 
 
 ## Ruler
 
-**Duke Tharian Vael** is a grim figure rarely seen without his thick fur cloak and blackened steel breastplate. A former admiral who lost an arm during a giant raid, he now governs as a master strategist and defensive planner. He speaks little, acts decisively, and keeps a war council of trusted veterans, mages, and monster hunters. His word is law, and few challenge it because few survive the wilds without his protection.
+**Duke [[Tharian Vael]]** is a grim figure rarely seen without his thick fur cloak and blackened steel breastplate. A former admiral who lost an arm during a giant raid, he now governs as a master strategist and defensive planner. He speaks little, acts decisively, and keeps a war council of trusted veterans, mages, and monster hunters. His word is law, and few challenge it because few survive the wilds without his protection.

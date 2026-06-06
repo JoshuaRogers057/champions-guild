@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Grimwick – Prison outpost and labor camp Leader: Constable Darn Gallis
+- [[Grimwick]] – Prison outpost and labor camp Leader: Constable Darn Gallis
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 144
-- Kastalshire final.docx ¶144
+- [[Kastalshire]] final.docx ¶144

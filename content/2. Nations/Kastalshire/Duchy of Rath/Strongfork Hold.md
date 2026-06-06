@@ -21,4 +21,4 @@ Nestled precisely at the fork of the great Frostwater River lies Strongfork Hold
 
 ## Ruler
 
-**Duke Caldus Renward** is an aging noble whose stone-faced demeanor matches his fortress. A traditionalist to the bone, Caldus trusts local militias over the king's armies and has turned down all invitations to Contramara. He maintains an elite border ranger corps known as the **Coldwatch**, who patrol the duchy's outermost reaches with brutal efficiency. He is close friends with Duke Garran Velmouth of Aremir.
+**Duke [[Caldus Renward]]** is an aging noble whose stone-faced demeanor matches his fortress. A traditionalist to the bone, Caldus trusts local militias over the king's armies and has turned down all invitations to [[Contramara]]. He maintains an elite border ranger corps known as the **Coldwatch**, who patrol the duchy's outermost reaches with brutal efficiency. He is close friends with Duke Garran [[Velmouth]] of Aremir.

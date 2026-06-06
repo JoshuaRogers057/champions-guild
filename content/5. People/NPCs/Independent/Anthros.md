@@ -47,7 +47,7 @@ tags:
 - [[Nation of Lexovar]] - final.docx
 - Dwarves Final.docx
 - Drakmir Dominion.docx
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 - [[Nation of lexovar]]. full final.docx
 - Forged Sands Final.docx
 - Redmarch Coalition Final.docx

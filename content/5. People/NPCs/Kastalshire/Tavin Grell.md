@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Three minor lords stepped forward: Lord Harrick Vale, Sir Odran Malkor, and Baron Tavin Grell. Each commanded modest lands and smaller levies. Each claimed to defend the people against overreach from both the ducal court and Contramara.
+- Three minor lords stepped forward: Lord Harrick Vale, Sir Odran Malkor, and Baron Tavin Grell. Each commanded modest lands and smaller levies. Each claimed to defend the people against overreach from both the ducal court and [[Contramara]].
 - Royal Praetorians entered the city in disciplined formation. Peasant levies broke first. The minor lords held their captured district briefly but were overwhelmed. Lord Harrick Vale, Sir Odran Malkor, and Baron Tavin Grell were executed publicly, along with...
 
 ## Source Documents

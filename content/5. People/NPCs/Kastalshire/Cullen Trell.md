@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Redmarsh – Hunting lodge and marsh patrol Leader: Sheriff Cullen Trell
+- [[Redmarsh]] – Hunting lodge and marsh patrol Leader: Sheriff Cullen Trell
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 149
-- Kastalshire final.docx ¶149
+- [[Kastalshire]] final.docx ¶149

@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Oakmere – Logging and timber trade Leader: Mayor Thom Barris
+- [[Oakmere]] – Logging and timber trade Leader: Mayor Thom Barris
 
 ## Source Documents
 - [[Kastalshire]] final.docx

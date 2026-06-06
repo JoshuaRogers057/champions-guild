@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Sunmere – Education and schooling Leader: Chancellor Reena Tarris
+- [[Sunmere]] – Education and schooling Leader: Chancellor Reena Tarris
 
 ## Source Documents
 - [[Kastalshire]] final.docx

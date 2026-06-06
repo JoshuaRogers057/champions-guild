@@ -21,4 +21,4 @@ The capital of Lyricast is not a crowded metropolis but a vast, open-air palace 
 
 ## Ruler
 
-**Duchess Sybelle Varron** rules from here with grace. She is known for her devotion to the kingdom, but her true passion lies in her parties. She knows everyone and is a relentless gossip. The duchy is largely managed by her advisors while she plans her social calendar. She is not corrupt, merely vapid.
+**Duchess [[Sybelle Varron]]** rules from here with grace. She is known for her devotion to the kingdom, but her true passion lies in her parties. She knows everyone and is a relentless gossip. The duchy is largely managed by her advisors while she plans her social calendar. She is not corrupt, merely vapid.

@@ -21,4 +21,4 @@ Built on both banks of the river near a broad glacial-fed lake, Raethalor is the
 
 ## Ruler
 
-**Countess Vyra Nashen** is a visionary and skilled diplomat. She maintains trade relations with nearby duchies and counties and is known for resolving border disputes with negotiation backed by veiled threats. Her leadership has made Raethalor one of the most stable cities in the region, a bright spot in an otherwise turbulent duchy.
+**Countess [[Vyra Nashen]]** is a visionary and skilled diplomat. She maintains trade relations with nearby duchies and counties and is known for resolving border disputes with negotiation backed by veiled threats. Her leadership has made Raethalor one of the most stable cities in the region, a bright spot in an otherwise turbulent duchy.

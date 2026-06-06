@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Mason Rokk Vall — A barrel-chested dragonborn with speckled gray scales and a voice like a drumroll. He wears a leather apron over his robes and prefers conversation over contracts.
+- Leader: [[Mason Rokk Vall]] — A barrel-chested dragonborn with speckled gray scales and a voice like a drumroll. He wears a leather apron over his robes and prefers conversation over contracts.
 
 ## Source Documents
 - Drakmir Dominion.docx

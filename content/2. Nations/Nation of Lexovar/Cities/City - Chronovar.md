@@ -22,7 +22,7 @@ That does not make the city stable. Experiments still ripple through Chronovar, 
 
 Researchers known as **Time Chasers** enter unstable time bubbles in search of controlled chronomancy. They study places where minutes stretch too long, lectures echo before they are spoken, and cause seems to arrive after effect. Some return with breakthrough theories. Some return years older than they should be. Some arrive early and are told to wait quietly until the world catches up.
 
-Chronovar is led by **Been Laddel**, a tall gnome whose beard falls past his knees. He is patient, precise, and deeply familiar with arguments that technically have not happened yet. Under his leadership, the city remains brilliant, accessible, and strange enough to make even simple questions feel dangerous. In Chronovar, no question is asked more often than this one: what time is it?
+Chronovar is led by **[[Been Laddel]]**, a tall gnome whose beard falls past his knees. He is patient, precise, and deeply familiar with arguments that technically have not happened yet. Under his leadership, the city remains brilliant, accessible, and strange enough to make even simple questions feel dangerous. In Chronovar, no question is asked more often than this one: what time is it?
 
 ---
 

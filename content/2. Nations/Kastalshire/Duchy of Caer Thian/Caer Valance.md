@@ -21,4 +21,4 @@ Caer Valance is situated between dense forests and sprawling farmland. The walle
 
 ## Ruler
 
-**Countess Maera Bristal** is an insightful leader and an advocate for rotational farming and druidic conservation methods. She is known for her rivalry with pirate factions and commands a regional fleet of swift-response coastal rangers. She is a force of balance between need and greed, though some whisper she is too loyal to the forest and places too many restrictions on the harvesting of old wood deeper within.
+**Countess [[Maera Bristal]]** is an insightful leader and an advocate for rotational farming and druidic conservation methods. She is known for her rivalry with pirate factions and commands a regional fleet of swift-response coastal rangers. She is a force of balance between need and greed, though some whisper she is too loyal to the forest and places too many restrictions on the harvesting of old wood deeper within.

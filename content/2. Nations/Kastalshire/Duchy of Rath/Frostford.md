@@ -21,4 +21,4 @@ Frostford is one of the most picturesque cities in all of Kastalshire. With gent
 
 ## Ruler
 
-**Count Belric Morrin** is a refined, soft-spoken aristocrat known for polished manners and forward-thinking policies. A lover of art and architecture, he has funded the expansion of Frostford's public gardens and sponsored several bardic competitions. Though his city is far from danger, he maintains strong ties to Duke Renward despite the duke's open hostility toward the Contramara government.
+**Count [[Belric Morrin]]** is a refined, soft-spoken aristocrat known for polished manners and forward-thinking policies. A lover of art and architecture, he has funded the expansion of Frostford's public gardens and sponsored several bardic competitions. Though his city is far from danger, he maintains strong ties to Duke Renward despite the duke's open hostility toward the [[Contramara]] government.

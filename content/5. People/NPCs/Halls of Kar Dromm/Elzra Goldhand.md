@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Matron Elzra Goldhand – a quiet, steel-eyed matriarch and master sculptor.
+- Leader: Matron [[Elzra]] Goldhand – a quiet, steel-eyed matriarch and master sculptor.
 
 ## Source Documents
 - Dwarves Final.docx

@@ -6,7 +6,7 @@ The Republic of Sylvandar is governed through a dual-tiered Senate beneath a cer
 
 Eight senators of the Eterna Voca are drawn from the ancient noble houses of Sylvandar, while eight senators of the Vita Populi are elected by the citizens of the Republic's four major cities, with each city sending two representatives to the Forum. Though publicly celebrated as a balanced republic, Sylvandar's political system preserves a deeply aristocratic foundation beneath its representative veneer. Ancient noble bloodlines remain central to elven governance.
 
-House Vaelith serves as the royal line of the Republic, while Houses Elaris, Thirion, Ostrelis, Corvelis, Aureth, Mistelis, Zelis, and Drastlith maintain longstanding authority through the Eterna Voca. Political alliances between these houses have shaped Sylvandar for centuries, and many senators wield influence that extends far beyond the Senate chamber itself.
+House [[Vaelith]] serves as the royal line of the Republic, while Houses Elaris, Thirion, Ostrelis, Corvelis, Aureth, Mistelis, Zelis, and Drastlith maintain longstanding authority through the Eterna Voca. Political alliances between these houses have shaped Sylvandar for centuries, and many senators wield influence that extends far beyond the Senate chamber itself.
 
 Though divided by fierce debates over foreign policy, trade, military doctrine, and the future direction of the Republic, nearly every major political faction within Sylvandar shares one underlying belief: that elven civilization is uniquely suited to guide the future of Eryndor. Reformers and traditionalists disagree not on elven superiority, but on how openly that superiority should be exercised.
 

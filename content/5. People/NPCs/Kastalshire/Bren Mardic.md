@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Fennrook – Swamp farming and leech harvesting Leader: Bailiff Bren Mardic
+- [[Fennrook]] – Swamp farming and leech harvesting Leader: Bailiff Bren Mardic
 
 ## Source Documents
-- Kastalshire final.docx
+- [[Kastalshire]] final.docx
 
 ## Paragraph References
 - 141
-- Kastalshire final.docx ¶141
+- [[Kastalshire]] final.docx ¶141
