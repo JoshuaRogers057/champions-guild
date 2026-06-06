@@ -25,4 +25,4 @@ Oghma attracts scholars, bards, sages, scribes, historians, and inventors. His f
 
 ## Divine Relationships
 
-Oghma is served by several lesser deities including **Deneir** (writing and literature) and **Milil** (poetry and song), who function almost as aspects of his portfolio. He has a respectful relationship with **Mystra**, as magic and knowledge are deeply intertwined. He opposes **Cyric** and **Shar**, both of whom deal in deception and the suppression of truth — anathema to everything Oghma stands for.
+Oghma is served by several lesser deities including **Deneir** (writing and literature) and **Milil** (poetry and song), who function almost as aspects of his portfolio. He has a respectful relationship with **[[Mystra]]**, as magic and knowledge are deeply intertwined. He opposes **Cyric** and **Shar**, both of whom deal in deception and the suppression of truth — anathema to everything Oghma stands for.
