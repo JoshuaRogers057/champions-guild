@@ -1,4 +1,4 @@
-# [[Ash-Korrath City]] — Government, Military, Economy & Culture
+# Ash-Korrath — Government, Military, Economy & Culture
 *Tieflings of Eryndor*
 
 ---
@@ -37,7 +37,7 @@ Smuggled fragments and infernal artifacts circulated through the Firetongue Baza
 
 ## Culture
 
-Survival Above All. Strength, secrecy, and ruthless loyalty define life in [[Ash-Korrath City]].
+Survival Above All. Strength, secrecy, and ruthless loyalty define life in Ash-Korrath.
 
 **Sigilmarks:** Magical brands cast at birth, appearing only upon betrayal.
 **Festival of the Hollow Ember:** Once a year, all flames extinguish in a ritual of silence.
@@ -45,7 +45,7 @@ Survival Above All. Strength, secrecy, and ruthless loyalty define life in [[Ash
 
 ### The Ashen Creed
 
-The central binding principle of [[Ash-Korrath City]]. Even its wording is secret. Core tenets:
+The central binding principle of Ash-Korrath City. Even its wording is secret. Core tenets:
 
 **Silence to Outsiders** — No citizen may reveal the location, structure, or existence of [[Ash-Korrath City]] to those not bound by the Creed.
 *Punishment: Branding by Sigilmark and public burning of the tongue.*
@@ -74,7 +74,7 @@ The city reveres **Asmodeus** as the origin of their strength, though no officia
 
 ## Mercenaries & Criminal Organizations
 
-[[Ash-Korrath City]] has extensive smuggling rings, soul traffickers, and infernal debt collectors operating in secret. The Firetongue Bazaar is notorious for shady deals and untraceable sales. Devil pacts serve as mercenary contracts; breaking them incurs infernal consequences. It is very likely that [[Ash-Korrath City]] is home to a powerful criminal or mercenary syndicate, though its identity or existence is unconfirmed.
+Ash-Korrath has extensive smuggling rings, soul traffickers, and infernal debt collectors operating in secret. The Firetongue Bazaar is notorious for shady deals and untraceable sales. Devil pacts serve as mercenary contracts; breaking them incurs infernal consequences. It is very likely that [[Ash-Korrath City]] is home to a powerful criminal or mercenary syndicate, though its identity or existence is unconfirmed.
 
 ---
 
@@ -91,8 +91,8 @@ The city reveres **Asmodeus** as the origin of their strength, though no officia
 
 ## Grudges & Political Strain
 
-- Celestial orders and holy nations see [[Ash-Korrath City]] as a heretical blight.
-- [[Ash-Korrath City]] avoids entanglements and punishes interference harshly.
+- Celestial orders and holy nations see Ash-Korrath as a heretical blight.
+- Ash-Korrath avoids entanglements and punishes interference harshly.
 - The Cinder Court is rumored to be divided over how much power the High Sovereign should wield.
 
 ---
