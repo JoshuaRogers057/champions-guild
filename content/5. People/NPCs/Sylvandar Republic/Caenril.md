@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Thornrest is led by Huntmaster Caenril and is known for ranger operations.
+- [[Thornrest]] is led by Huntmaster Caenril and is known for ranger operations.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 23
-- sylvandar full final.docx ¶23
+- [[Sylvandar]] full final.docx ¶23

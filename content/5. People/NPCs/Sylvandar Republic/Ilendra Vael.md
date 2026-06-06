@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Shael'ara is led by Matron Ilendra Vael and is known for silkmaking and fashion.
+- [[Shael'ara]] is led by Matron Ilendra Vael and is known for silkmaking and fashion.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 28
-- sylvandar full final.docx ¶28
+- [[Sylvandar]] full final.docx ¶28

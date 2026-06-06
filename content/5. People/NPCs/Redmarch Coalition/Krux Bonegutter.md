@@ -18,10 +18,10 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Warden-General Krux Bonegutter – A grizzled hobgoblin with gem-implanted scars and a voice like breaking stone. Function: Fortress-town and fragment mine stronghold Description: Built into the jagged cliffs of a collapsed mountain vein, Shatterdeep ...
+- Leader: Warden-General Krux Bonegutter – A grizzled hobgoblin with gem-implanted scars and a voice like breaking stone. Function: Fortress-town and fragment mine stronghold Description: Built into the jagged cliffs of a collapsed mountain vein, [[Shatterdeep]] ...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶240
+- [[Redmarch Coalition]] Final.docx ¶240

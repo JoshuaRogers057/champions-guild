@@ -13,7 +13,7 @@
 
 # Urthak Var
 
-Urthak Var is carved into a smoldering mountain slope where deep underground magma tubes vent steam and light dances along valley cliffs. The city reveres ancestral spirits, fire magic, and martial traditions rooted in legacy. Smoke and incense fill the air, and glowing runes light the stone walkways at dusk. Chief Kane has tapped into the primal magics of the lava tubes and channels them with nearly unmatched prowess across the Coalition.
+Urthak Var is carved into a smoldering mountain slope where deep underground magma tubes vent steam and light dances along valley cliffs. The city reveres ancestral spirits, fire magic, and martial traditions rooted in legacy. Smoke and incense fill the air, and glowing runes light the stone walkways at dusk. Chief [[Kane]] has tapped into the primal magics of the lava tubes and channels them with nearly unmatched prowess across the Coalition.
 
 ---
 

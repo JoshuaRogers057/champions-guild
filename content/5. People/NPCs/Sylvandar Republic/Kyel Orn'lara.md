@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Tirathil is led by Bladesinger Kyel Orn'lara and is known for sword and martial training.
+- [[Tirathil]] is led by Bladesinger Kyel Orn'lara and is known for sword and martial training.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 22
-- sylvandar full final.docx ¶22
+- [[Sylvandar]] full final.docx ¶22

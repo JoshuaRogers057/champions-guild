@@ -13,5 +13,5 @@
 # Dregspire
 
 **Leader:** Warlock Mog'zeth
-**Allegiance:** Urthak Var
+**Allegiance:** [[Urthak Var]]
 **Known For:** Dark ritual site and occult center

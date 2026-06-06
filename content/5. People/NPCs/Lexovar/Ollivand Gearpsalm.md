@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Notable NPC: Rector Ollivand Gearpsalm is a devout priest-artificer of [[Gond]]. He treats every construct as a sacred responsibility and is one of Fizzleforge’s loudest public critics.
+- Notable NPC: Rector Ollivand Gearpsalm is a devout priest-artificer of [[Gond]]. He treats every construct as a sacred responsibility and is one of [[Fizzleforge]]’s loudest public critics.
 
 ## Source Documents
 - [[Nation of Lexovar]] - final.docx

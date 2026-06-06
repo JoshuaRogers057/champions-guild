@@ -24,8 +24,8 @@ tags:
 - Grand Commander Tiryel Drastlith
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 180
-- sylvandar full final.docx ¶180
+- [[Sylvandar]] full final.docx ¶180

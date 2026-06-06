@@ -12,6 +12,6 @@
 
 # Blackfang
 
-**Leader:** High Fang Svarl
-**Allegiance:** Grushnar
+**Leader:** High Fang [[Svarl]]
+**Allegiance:** [[Grushnar]]
 **Known For:** Leatherworking and beast hide treatment

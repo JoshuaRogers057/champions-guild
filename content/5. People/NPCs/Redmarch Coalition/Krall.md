@@ -21,7 +21,7 @@ tags:
 - Leader: Bishop Krall – A hunched, gold-masked prophet who preaches from shadows. Function: Shadow cult headquarters and goblinoid pilgrimage site Description: Black stone spires rise from the canyon like broken teeth. Pilgrims weep and bleed beneath their s...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶232
+- [[Redmarch Coalition]] Final.docx ¶232

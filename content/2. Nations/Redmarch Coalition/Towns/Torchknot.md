@@ -12,6 +12,6 @@
 
 # Torchknot
 
-**Leader:** Sootmaiden Treela
-**Allegiance:** Urthak Var
+**Leader:** Sootmaiden [[Treela]]
+**Allegiance:** [[Urthak Var]]
 **Known For:** Lantern oil refining and fireglass production

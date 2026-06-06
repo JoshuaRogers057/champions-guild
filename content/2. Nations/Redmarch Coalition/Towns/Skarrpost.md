@@ -12,6 +12,6 @@
 
 # Skarrpost
 
-**Leader:** Headwoman Krillz Vane
-**Allegiance:** Grushnar
+**Leader:** Headwoman [[Krillz Vane]]
+**Allegiance:** [[Grushnar]]
 **Known For:** Outpost and border patrol station

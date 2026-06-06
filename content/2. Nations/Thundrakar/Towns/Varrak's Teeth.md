@@ -14,6 +14,6 @@
 # Varrak's Teeth
 
 **Leader:** Twin Chiefs Grel and Garr Varrak
-**Region:** Western Thundrakar
+**Region:** Western [[Thundrakar]]
 **Primary Beasts:** Mammoths and armored tundra oxen
 **Known For:** War raiding and beast riding

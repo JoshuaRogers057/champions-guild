@@ -2,7 +2,7 @@
 
 | Nation | |
 |:--|:--|
-| Nation | Ash-Korrath |
+| Nation | [[Ash-Korrath]] |
 | Type | Outpost / Location |
 | Leader | Field Marshal Aven Stral |
 | Known For | Mobile training camp and elite troop housing |
@@ -11,5 +11,5 @@
 
 # Sunmarch
 
-**Leader:** Field Marshal Aven Stral
+**Leader:** Field Marshal [[Aven Stral]]
 **Known For:** Mobile training camp and elite troop housing

@@ -18,10 +18,10 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: High Fang Svarl – A hide-cloaked goblin who crafts war masks from beast skulls. Function: Leatherworking and beast hide treatment Description: Smoking pits and drying racks line Blackfang’s perimeter. The scent of boiling hide marks the town from mi...
+- Leader: High Fang Svarl – A hide-cloaked goblin who crafts war masks from beast skulls. Function: Leatherworking and beast hide treatment Description: Smoking pits and drying racks line [[Blackfang]]’s perimeter. The scent of boiling hide marks the town from mi...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶208
+- [[Redmarch Coalition]] Final.docx ¶208

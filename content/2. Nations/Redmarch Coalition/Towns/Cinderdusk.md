@@ -12,6 +12,6 @@
 
 # Cinderdusk
 
-**Leader:** Firecaller Uzmak Drear
-**Allegiance:** Urthak Var
+**Leader:** Firecaller [[Uzmak Drear]]
+**Allegiance:** [[Urthak Var]]
 **Known For:** Charcoal production and fire rituals

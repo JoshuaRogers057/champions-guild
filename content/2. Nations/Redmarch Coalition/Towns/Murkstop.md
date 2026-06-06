@@ -12,6 +12,6 @@
 
 # Murkstop
 
-**Leader:** Miremaster Tugg
-**Allegiance:** Borgnar
+**Leader:** [[Miremaster Tugg]]
+**Allegiance:** [[Borgnar]]
 **Known For:** Trade post and smugglers' haven

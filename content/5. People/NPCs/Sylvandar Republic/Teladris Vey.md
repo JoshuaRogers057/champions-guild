@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Larethien is led by Archmage Teladris Vey and is known for arcane research and scroll making.
+- [[Larethien]] is led by Archmage Teladris Vey and is known for arcane research and scroll making.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 20
-- sylvandar full final.docx ¶20
+- [[Sylvandar]] full final.docx ¶20

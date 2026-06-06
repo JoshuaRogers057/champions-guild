@@ -23,8 +23,8 @@ tags:
 - Marr the Mawhand – Ogre enforcer of the Maw Market. Known for crushing skulls in barter disputes.
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
 - 273
-- Redmarch Coalition Final.docx ¶273
+- [[Redmarch Coalition]] Final.docx ¶273

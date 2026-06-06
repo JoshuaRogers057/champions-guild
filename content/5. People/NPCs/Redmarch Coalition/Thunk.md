@@ -18,10 +18,10 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Overseer Thunk – A rock-headed foreman who speaks in mining chants and threats. Function: Ore and gem mining Description: Deep tunnels and jagged shafts wind beneath Zurtak Crag, where pickaxes ring out day and night. Blood is often spilled faster t...
+- Leader: Overseer Thunk – A rock-headed foreman who speaks in mining chants and threats. Function: Ore and gem mining Description: Deep tunnels and jagged shafts wind beneath [[Zurtak Crag]], where pickaxes ring out day and night. Blood is often spilled faster t...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶258
+- [[Redmarch Coalition]] Final.docx ¶258

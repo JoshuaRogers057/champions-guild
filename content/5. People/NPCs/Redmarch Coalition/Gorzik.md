@@ -18,10 +18,10 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Swampwarden Gorzik – A web-footed bugbear who floats logs like spears. Function: Reed harvesting and boat building Description: Waterlogged but proud, Splinterfen builds swift, shallow craft perfect for marsh raids and river ambushes. Allegiance: Ow...
+- Leader: Swampwarden Gorzik – A web-footed bugbear who floats logs like spears. Function: Reed harvesting and boat building Description: Waterlogged but proud, [[Splinterfen]] builds swift, shallow craft perfect for marsh raids and river ambushes. Allegiance: Ow...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶250
+- [[Redmarch Coalition]] Final.docx ¶250

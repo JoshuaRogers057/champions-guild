@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Moonshade Vale is led by Lady Alenya Starweaver and is known for moonstone and starlight craft.
+- [[Moonshade Vale]] is led by Lady Alenya Starweaver and is known for moonstone and starlight craft.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 19
-- sylvandar full final.docx ¶19
+- [[Sylvandar]] full final.docx ¶19

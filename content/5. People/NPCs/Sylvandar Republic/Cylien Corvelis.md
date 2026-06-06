@@ -24,8 +24,8 @@ tags:
 - Marshal Cylien Corvelis
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 117
-- sylvandar full final.docx ¶117
+- [[Sylvandar]] full final.docx ¶117

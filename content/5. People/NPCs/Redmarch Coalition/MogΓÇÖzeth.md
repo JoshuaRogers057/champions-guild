@@ -21,7 +21,7 @@ tags:
 - Leader: Warlock Mog’zeth – A whispering cultist draped in shadows and hexes. Function: Dark ritual site and occult center Description: Eldritch winds coil around this spiraled ruin, where pact-bound warlocks and mad seers delve into things better left burie...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶222
+- [[Redmarch Coalition]] Final.docx ¶222

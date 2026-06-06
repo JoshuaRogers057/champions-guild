@@ -28,7 +28,7 @@ Red Harbor is the maritime lifeline of the Steelborn nation — the only city wh
 ## Districts
 
 **The Embermoor Vault** — Once a full Creation Forge, now shattered. Engineers harness its leaking resonance. Patrolled by Codebound sentinels.
-**Ironwake Docks** — Reinforced docking platforms supporting warships to experimental submersibles. Overseen by **Helmsage Quenforge**.
+**Ironwake Docks** — Reinforced docking platforms supporting warships to experimental submersibles. Overseen by **Helmsage [[Quenforge]]**.
 **The Alloy Expanse** — Residential and diplomatic sector for non-Steelborn. Houses embassies and neutral negotiation halls.
 **The Signal Crucible** — Communication relays and echo towers. Overseen by **Signal Warden Hexbyte**.
 **Shattering Canal** — Jagged trench turned molten waste sluice and emergency defense.

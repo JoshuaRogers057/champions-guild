@@ -13,5 +13,5 @@
 # Vrogg Hollow
 
 **Leader:** Council of Wyrmlings
-**Allegiance:** Molgarak
+**Allegiance:** [[Molgarak]]
 **Known For:** Goblin whelping and youth training center

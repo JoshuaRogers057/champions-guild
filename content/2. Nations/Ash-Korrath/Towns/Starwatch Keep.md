@@ -2,7 +2,7 @@
 
 | Nation | |
 |:--|:--|
-| Nation | Ash-Korrath |
+| Nation | [[Ash-Korrath]] |
 | Type | Outpost / Location |
 | Leader | Watchmistress Kaelis Everglow |
 | Known For | Alchemical factory, night watch, celestial tracking, and long-range threat detection |
@@ -11,5 +11,5 @@
 
 # Starwatch Keep
 
-**Leader:** Watchmistress Kaelis Everglow
+**Leader:** Watchmistress [[Kaelis Everglow]]
 **Known For:** Alchemical factory, night watch, celestial tracking, and long-range threat detection

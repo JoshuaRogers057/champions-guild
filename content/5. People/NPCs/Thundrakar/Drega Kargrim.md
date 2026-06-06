@@ -23,7 +23,7 @@ tags:
 - Leader: Steel-Mother Drega Kargrim Population: ~490 Primary Herds: Battle-bred mammoths Specialty: Weapon smithing and arena-style combat
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 241

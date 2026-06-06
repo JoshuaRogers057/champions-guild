@@ -1,11 +1,11 @@
 ---
-name: "Vaelith Cindervow"
+name: Vaelith Cindervow
 type: npc
-location: "[[Ash-Korrath (Capital City)]]"
+location: "[[Ash-Korrath City]]"
 affiliations:
   - "[[Ash-Korrath]]"
 sources:
-  - "Ash Korrath Final.docx"
+  - Ash Korrath Final.docx
 occurrences: 2
 tags:
   - npc
@@ -15,7 +15,7 @@ tags:
 # Vaelith Cindervow
 
 ## Overview
-- **Location / Context:** [[Ash-Korrath (Capital City)]]
+- **Location / Context:** [[Ash-Korrath City]]
 - **Affiliation:** [[Ash-Korrath]]
 - **Occurrences in source material:** 2
 

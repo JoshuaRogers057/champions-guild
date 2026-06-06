@@ -23,7 +23,7 @@ tags:
 - Leader: Hunt-Chief Korrim Stonetusk Population: ~420 Primary Herds: Wooly rhinos and tundra dogs Specialty: Mobile cooking and fermentation
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 244

@@ -23,7 +23,7 @@ tags:
 - Leader: Shaman Molgra Snowbone Function: Spirit communion, burial rites, and rune carving Primary Beasts: White-furred mammoths, dire wolves
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 225

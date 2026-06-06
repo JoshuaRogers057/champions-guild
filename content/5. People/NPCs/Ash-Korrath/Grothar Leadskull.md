@@ -1,11 +1,11 @@
 ---
-name: "Grothar Leadskull"
+name: Grothar Leadskull
 type: npc
-location: "[[Ash-Korrath NPCs]]"
+location: "[[Ash-Korrath City]]"
 affiliations:
   - "[[Ash-Korrath]]"
 sources:
-  - "Ash Korrath Final.docx"
+  - Ash Korrath Final.docx
 occurrences: 3
 tags:
   - npc

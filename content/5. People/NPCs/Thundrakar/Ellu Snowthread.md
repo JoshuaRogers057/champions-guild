@@ -23,7 +23,7 @@ tags:
 - Leader: Sky-Seer Ellu Snowthread Population: ~300 Primary Herds: Snow sheep, wooly lizards, and one ice elemental guide Specialty: Spiritual divination, song-chronicling, and burial rites
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 247

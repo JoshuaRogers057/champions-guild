@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Vorlathen is led by High Arcanist Drevan and is known for teleportation and gate upkeep.
+- [[Vorlathen]] is led by High Arcanist Drevan and is known for teleportation and gate upkeep.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 36
-- sylvandar full final.docx ¶36
+- [[Sylvandar]] full final.docx ¶36

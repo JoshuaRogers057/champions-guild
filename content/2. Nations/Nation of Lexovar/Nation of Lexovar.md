@@ -1,4 +1,7 @@
-# Lexovar — Government, Military, Economy & Culture
+---
+title: Nation of Lexovar Info
+---
+
 *Gnomes of Eryndor*
 
 ---
@@ -166,34 +169,34 @@ Rivals: Voltagrim Academy (their experiments burn half the crops), Cogveil Colle
 
 **Voltagrim Academy** *(Elemental Energy)*
 Allies: Iron Loom (energy-powered golems)
-Rivals: Brassleaf Institute (destroys flora), Gleamspire Academy (calls them "reckless blasters")
+Rivals: Brassleaf Institute (destroys flora), [[Gleamspire]] Academy (calls them "reckless blasters")
 
 **Gearwright Seminary** *(Divine Constructs)*
 Allies: Brassleaf (living constructs), Arcane Council (provides guardians)
-Rivals: Cogveil College (secrecy vs. faith), Fizzleforge (calls them heretics)
+Rivals: Cogveil College (secrecy vs. faith), [[Fizzleforge]] (calls them heretics)
 
 **Cogveil College** *(Illusions & Encryption)*
-Allies: Gleamspire (research partners in anti-divination)
+Allies: [[Gleamspire]] (research partners in anti-divination)
 Rivals: Gearwright Seminary (religion vs. secrecy), Voltagrim (too loud, too flashy)
 
 **Iron Loom** *(Golem Fabrication)*
 Allies: Voltagrim (power cores), Gearshield (mechanical suits)
-Rivals: Fizzleforge (unstable experiments), Cogveil (accuse golems of being predictable)
+Rivals: [[Fizzleforge]] (unstable experiments), Cogveil (accuse golems of being predictable)
 
 ### Other Major Schools
 
-**Fizzleforge University** *(Experimental Magitech)*
+**[[Fizzleforge]] University** *(Experimental Magitech)*
 Obsessed with warforged construction and control.
 Rivals: Iron Loom (disciplined builders hate their chaos), Gearwright (denounces them as blasphemous)
 
-**Gearshield Academy** *(Engineering, Combat Suits — Nimblethorp)*
+**Gearshield Academy** *(Engineering, Combat Suits — [[Nimblethorp]])*
 Allies: Iron Loom (golem cores in suits), Voltagrim (energy engines)
 Rivals: Cogveil (mock their logic obsession), Brassleaf (see them as impractical dreamers)
 
-**Institute of Scholastic Innovation & Sciences** *(Chronomancy — Chronovar)*
-Allies: Gleamspire (theory, research exchange)
-Rivals: Voltagrim (reckless with unstable magic), Fizzleforge (destabilize time fields constantly)
+**Institute of Scholastic Innovation & Sciences** *(Chronomancy — [[Chronovar]])*
+Allies: [[Gleamspire]] (theory, research exchange)
+Rivals: Voltagrim (reckless with unstable magic), [[Fizzleforge]] (destabilize time fields constantly)
 
-**Gleamspire Academy** *(Arcane Research)*
+**[[Gleamspire]] Academy** *(Arcane Research)*
 Allies: Cogveil (information cloaking, theory partners), ISIS (time + theory)
 Rivals: Voltagrim (too destructive), Brassleaf (research "too soft")

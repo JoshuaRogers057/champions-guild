@@ -2,7 +2,7 @@
 
 | Nation | |
 |:--|:--|
-| Nation | Ash-Korrath |
+| Nation | [[Ash-Korrath]] |
 | Type | Outpost / Location |
 | Leader | Shieldbearer Tovan Lareth |
 | Known For | Artificer labs, magical ward maintenance, and planar seal oversight |
@@ -11,5 +11,5 @@
 
 # The Fractured Gate
 
-**Leader:** Shieldbearer Tovan Lareth
+**Leader:** Shieldbearer [[Tovan Lareth]]
 **Known For:** Artificer labs, magical ward maintenance, and planar seal oversight

@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Cindaleir is led by Ambassador Erith Talonshade and is known for diplomacy.
+- [[Cindaleir]] is led by Ambassador Erith Talonshade and is known for diplomacy.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 27
-- sylvandar full final.docx ¶27
+- [[Sylvandar]] full final.docx ¶27

@@ -12,6 +12,6 @@
 
 # Snarlfen
 
-**Leader:** Bogmother Yuzra
-**Allegiance:** Urthak Var
+**Leader:** Bogmother [[Yuzra]]
+**Allegiance:** [[Urthak Var]]
 **Known For:** Swamp farming and herbalism

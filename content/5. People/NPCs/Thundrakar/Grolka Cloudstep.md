@@ -23,7 +23,7 @@ tags:
 - Leader: Elder Grolka Cloudstep Function: Eagle-riding and mount training Primary Beasts: Giant eagles, mammoths
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 231

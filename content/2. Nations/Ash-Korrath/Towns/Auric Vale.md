@@ -2,7 +2,7 @@
 
 | Nation | |
 |:--|:--|
-| Nation | Ash-Korrath |
+| Nation | [[Ash-Korrath]]] |
 | Type | Outpost / Location |
 | Leader | Lady Marshal Ilyria Sunborn |
 | Known For | Public trade, supply depot, and training camp |
@@ -11,5 +11,5 @@
 
 # Auric Vale
 
-**Leader:** Lady Marshal Ilyria Sunborn
+**Leader:** Lady Marshal [[Ilyria Sunborn]]
 **Known For:** Public trade, supply depot, and training camp

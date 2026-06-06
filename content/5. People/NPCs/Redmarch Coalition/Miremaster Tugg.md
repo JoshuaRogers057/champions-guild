@@ -18,10 +18,10 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Miremaster Tugg – A fat goblin with gold rings and a permanent smirk. Function: Trade post and smugglers’ haven Description: Murkstop’s piers vanish into fog, its coins never smell clean, and its visitors leave lighter than they came. Allegiance: Ow...
+- Leader: Miremaster Tugg – A fat goblin with gold rings and a permanent smirk. Function: Trade post and smugglers’ haven Description: [[Murkstop]]’s piers vanish into fog, its coins never smell clean, and its visitors leave lighter than they came. Allegiance: Ow...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶234
+- [[Redmarch Coalition]] Final.docx ¶234

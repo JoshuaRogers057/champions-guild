@@ -21,7 +21,7 @@ tags:
 - First Arbiter Selura Duskweave
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
-- sylvandar full final.docx ¶137
+- [[Sylvandar]] full final.docx ¶137

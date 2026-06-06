@@ -2,7 +2,7 @@
 
 | Nation | |
 |:--|:--|
-| Nation | Ash-Korrath |
+| Nation | [[Ash-Korrath]] |
 | Type | Outpost / Location |
 | Leader | Quartermaster Ysolde Kairiel |
 | Known For | Herbal garden, resource storage, war beast stables, and divine armor forges |
@@ -11,5 +11,5 @@
 
 # Gildenshade
 
-**Leader:** Quartermaster Ysolde Kairiel
+**Leader:** Quartermaster [[Ysolde Kairiel]]
 **Known For:** Herbal garden, resource storage, war beast stables, and divine armor forges

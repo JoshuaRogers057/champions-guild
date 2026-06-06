@@ -23,7 +23,7 @@ tags:
 - Leader: War-Matron Kelgra Frostvein Population: ~500 Primary Herds: Mammoths and two giant polar bears Specialty: Monster trapping and trophy hunting
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 256

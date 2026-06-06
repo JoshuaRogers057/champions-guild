@@ -2,7 +2,7 @@
 
 | Nation | |
 |:--|:--|
-| Nation | Ash-Korrath |
+| Nation | [[Ash-Korrath]] |
 | Type | Outpost / Location |
 | Leader | Sentinel Varka Dawnreign |
 | Known For | Weapons storage and chokepoint defense |
@@ -11,5 +11,5 @@
 
 # Gatefall Bastion
 
-**Leader:** Sentinel Varka Dawnreign
+**Leader:** Sentinel [[Varka Dawnreign]]
 **Known For:** Weapons storage and chokepoint defense

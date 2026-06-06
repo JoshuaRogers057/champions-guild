@@ -12,6 +12,6 @@
 
 # Thudspike
 
-**Leader:** Jarl Moggak Ironhide
-**Allegiance:** Grushnar
+**Leader:** Jarl [[Moggak Ironhide]]
+**Allegiance:** [[Grushnar]]
 **Known For:** Smithy town for weapons and armor

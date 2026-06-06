@@ -23,7 +23,7 @@ tags:
 - Leader: Chieftain Yorra Bonepiercer Population: ~480 Primary Herds: Wooly mammoths and shaggy snow-goats Specialty: Ice-forging and antler carving
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 253

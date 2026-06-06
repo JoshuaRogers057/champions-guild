@@ -25,7 +25,7 @@ tags:
 - appears hooded and keeps her face partly hidden.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
-- Manual add from Sylvandar Nightbloom section
+- Manual add from [[Sylvandar]] Nightbloom section

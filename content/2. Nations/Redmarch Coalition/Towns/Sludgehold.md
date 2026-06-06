@@ -12,6 +12,6 @@
 
 # Sludgehold
 
-**Leader:** Gunklord Ubb
-**Allegiance:** Grushnar
+**Leader:** [[Gunklord Ubb]]
+**Allegiance:** [[Grushnar]]
 **Known For:** Waste processing and magical residue refinement

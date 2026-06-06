@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Mirielrun is led by Weaveress Sellenna and is known for enchanted textiles.
+- [[Mirielrun]] is led by Weaveress Sellenna and is known for enchanted textiles.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 34
-- sylvandar full final.docx ¶34
+- [[Sylvandar]] full final.docx ¶34

@@ -23,7 +23,7 @@ tags:
 - Leader: Chieftain Varnak Icebellow Function: Warrior training ground and hunting lodge Primary Beasts: Giant dire wolves, wooly rhinos
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 234

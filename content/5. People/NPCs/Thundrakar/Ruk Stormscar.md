@@ -23,7 +23,7 @@ tags:
 - Leader: Warleader Ruk Stormscar Function: Bone forge and trophy-weapon crafting Primary Beasts: Giant polar bears, mammoths
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 222

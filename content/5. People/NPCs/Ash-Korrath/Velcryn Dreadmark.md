@@ -1,11 +1,11 @@
 ---
-name: "Velcryn Dreadmark"
+name: Velcryn Dreadmark
 type: npc
 location: "[[Ash-Korrath NPCs]]"
 affiliations:
   - "[[Ash-Korrath]]"
 sources:
-  - "Ash Korrath Final.docx"
+  - Ash Korrath Final.docx
 occurrences: 3
 tags:
   - npc

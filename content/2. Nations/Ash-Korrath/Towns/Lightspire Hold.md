@@ -2,7 +2,7 @@
 
 | Nation | |
 |:--|:--|
-| Nation | Ash-Korrath |
+| Nation | [[Ash-Korrath]] |
 | Type | Outpost / Location |
 | Leader | Captain Daevan Highshield |
 | Known For | Military command post and tactical hub |
@@ -11,5 +11,5 @@
 
 # Lightspire Hold
 
-**Leader:** Captain Daevan Highshield
+**Leader:** Captain [[Daevan Highshield]]
 **Known For:** Military command post and tactical hub

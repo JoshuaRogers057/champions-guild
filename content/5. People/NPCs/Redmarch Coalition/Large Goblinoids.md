@@ -21,7 +21,7 @@ tags:
 - Large Goblinoids (Orcs, Hobgoblins, Bugbears):
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶29
+- [[Redmarch Coalition]] Final.docx ¶29

@@ -12,6 +12,6 @@
 
 # Splinterfen
 
-**Leader:** Swampwarden Gorzik
-**Allegiance:** Urthak Var
+**Leader:** Swampwarden [[Gorzik]]
+**Allegiance:** [[Urthak Var]]
 **Known For:** Reed harvesting and boat building

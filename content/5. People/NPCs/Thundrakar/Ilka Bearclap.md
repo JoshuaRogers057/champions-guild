@@ -23,7 +23,7 @@ tags:
 - Leader: Huntmistress Ilka Bearclap Function: Beast taming and cold-weather tracking Primary Beasts: Dire wolves, wooly rhinos, winter wolves
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 237

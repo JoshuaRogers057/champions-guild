@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Thalasyr is led by Marshal Nyriel Daewen and is known for military border defense.
+- [[Thalasyr]] is led by Marshal Nyriel Daewen and is known for military border defense.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 31
-- sylvandar full final.docx ¶31
+- [[Sylvandar]] full final.docx ¶31

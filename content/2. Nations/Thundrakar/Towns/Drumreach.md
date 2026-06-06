@@ -13,7 +13,7 @@
 
 # Drumreach
 
-**Leader:** Songkeeper Vurgen Deepbeat
-**Region:** Eastern Thundrakar
+**Leader:** Songkeeper [[Vurgen Deepbeat]]
+**Region:** Eastern [[Thundrakar]]
 **Primary Beasts:** Mammoths, polar bears
 **Known For:** Oral tradition, tribal music, and war drumming

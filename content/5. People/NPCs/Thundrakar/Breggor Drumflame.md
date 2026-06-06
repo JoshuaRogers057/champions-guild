@@ -19,11 +19,11 @@ tags:
 
 ## Role & Notes
 - Skald-Father Breggor Drumflame
-- Skald-Father Breggor Drumflame One-eyed lorekeeper and master of the Hearthcaller’s Ring. Known for resolving disputes with stories, songs, and battle-poetry. A living archive of Thundrakar history.
+- Skald-Father Breggor Drumflame One-eyed lorekeeper and master of the Hearthcaller’s Ring. Known for resolving disputes with stories, songs, and battle-poetry. A living archive of [[Thundrakar]] history.
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
-- Thundrakar final.docx ¶122
-- Thundrakar final.docx ¶268
+- [[Thundrakar]] final.docx ¶122
+- [[Thundrakar]] final.docx ¶268

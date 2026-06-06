@@ -21,7 +21,7 @@ tags:
 - Commander Vekk Stoneborn Militia leader of the Giants’ Causeway. Oversees the Thane’s Roost and manages the trade security of the Chasm Market. A former duel champion turned tactician.
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
-- Thundrakar final.docx ¶271
+- [[Thundrakar]] final.docx ¶271

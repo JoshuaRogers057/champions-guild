@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Iverthil is led by Songmaster Kaelen and is known for bardic tradition.
+- [[Iverthil]] is led by Songmaster Kaelen and is known for bardic tradition.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 32
-- sylvandar full final.docx ¶32
+- [[Sylvandar]] full final.docx ¶32

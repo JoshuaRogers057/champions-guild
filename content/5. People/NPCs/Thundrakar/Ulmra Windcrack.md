@@ -23,7 +23,7 @@ tags:
 - Leader: Seer Ulmra Windcrack Function: Vision quests, prophecy, and storm reading Primary Beasts: Winter wolves, mammoths
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 210

@@ -1,11 +1,11 @@
 ---
-name: "Rinvali Emberlace"
+name: Rinvali Emberlace
 type: npc
 location: "[[Ash-Korrath NPCs]]"
 affiliations:
   - "[[Ash-Korrath]]"
 sources:
-  - "Ash Korrath Final.docx"
+  - Ash Korrath Final.docx
 occurrences: 2
 tags:
   - npc

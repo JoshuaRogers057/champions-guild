@@ -23,7 +23,7 @@ tags:
 - Leader: Songkeeper Vurgen Deepbeat Function: Oral tradition, tribal music, and war drumming Primary Beasts: Mammoths (used as mobile drums), polar bears
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 213

@@ -13,7 +13,7 @@
 
 # Nuelhiem
 
-Nuelhiem is the towering heart of the Goliath nation of Thundrakar. Nestled deep within a wind-scoured, crater-ringed valley, this city stands as both bastion and birthplace of Goliath unity. Stone towers bristle along its ridges, suspended by rope-bridges and mammoth-bone platforms. Blizzards whip across its walls, but the fires of Nuelhiem never falter. Though the Goliaths are nomadic by nature, Nuelhiem serves as their permanent anchor.
+Nuelhiem is the towering heart of the Goliath nation of [[Thundrakar]]. Nestled deep within a wind-scoured, crater-ringed valley, this city stands as both bastion and birthplace of Goliath unity. Stone towers bristle along its ridges, suspended by rope-bridges and mammoth-bone platforms. Blizzards whip across its walls, but the fires of Nuelhiem never falter. Though the Goliaths are nomadic by nature, Nuelhiem serves as their permanent anchor.
 
 ---
 

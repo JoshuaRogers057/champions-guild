@@ -18,10 +18,10 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Warlord Grakka One-Eye – A brutal, one-eyed veteran who teaches through violence and spectacle. Function: Combat training camp and gladiator pit Description: Bloodpit is a brutal proving ground where young warriors are blooded in daily battles and l...
+- Leader: Warlord Grakka One-Eye – A brutal, one-eyed veteran who teaches through violence and spectacle. Function: Combat training camp and gladiator pit Description: [[Bloodpit]] is a brutal proving ground where young warriors are blooded in daily battles and l...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶212
+- [[Redmarch Coalition]] Final.docx ¶212

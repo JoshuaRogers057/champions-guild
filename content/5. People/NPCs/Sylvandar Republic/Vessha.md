@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Windtalon is led by Skywarden Vessha and is known for hawk training.
+- [[Windtalon]] is led by Skywarden Vessha and is known for hawk training.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 24
-- sylvandar full final.docx ¶24
+- [[Sylvandar]] full final.docx ¶24

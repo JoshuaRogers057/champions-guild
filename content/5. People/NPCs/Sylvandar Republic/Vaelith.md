@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Duskwillow is led by Seeress Vaelith and is known for divination and prophecy.
+- [[Duskwillow]] is led by Seeress Vaelith and is known for divination and prophecy.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 26
-- sylvandar full final.docx ¶26
+- [[Sylvandar]] full final.docx ¶26

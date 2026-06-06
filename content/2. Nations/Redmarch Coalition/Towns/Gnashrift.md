@@ -12,6 +12,6 @@
 
 # Gnashrift
 
-**Leader:** Jarl Skarnash
-**Allegiance:** Molgarak
+**Leader:** Jarl [[Skarnash]]
+**Allegiance:** [[Molgarak]]
 **Known For:** Beast training and exotic animal hunting

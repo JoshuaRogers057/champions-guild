@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Skaz Ironshank – Mercenary recruiter in Molgarak. Known for selling warbands to both sides of a conflict.
+- Skaz Ironshank – Mercenary recruiter in [[Molgarak]]. Known for selling warbands to both sides of a conflict.
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
 - 272
-- Redmarch Coalition Final.docx ¶272
+- [[Redmarch Coalition]] Final.docx ¶272

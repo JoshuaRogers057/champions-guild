@@ -13,7 +13,7 @@
 
 # Stonehowl
 
-**Leader:** Chieftain Varnak Icebellow
-**Region:** Eastern Thundrakar
+**Leader:** Chieftain [[Varnak Icebellow]]
+**Region:** Eastern [[Thundrakar]]
 **Primary Beasts:** Giant dire wolves, wooly rhinos
 **Known For:** Warrior training ground and hunting lodge

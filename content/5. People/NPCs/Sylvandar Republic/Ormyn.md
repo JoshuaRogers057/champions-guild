@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Whisperfen is led by Shadow Warden Ormyn and is known for covert operations and scouting.
+- [[Whisperfen]] is led by Shadow Warden Ormyn and is known for covert operations and scouting.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 29
-- sylvandar full final.docx ¶29
+- [[Sylvandar]] full final.docx ¶29

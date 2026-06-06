@@ -22,8 +22,8 @@ tags:
 - King Thaloras [[Vaelith]]
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
-- sylvandar full final.docx ¶123
-- sylvandar full final.docx ¶135
+- [[Sylvandar]] full final.docx ¶123
+- [[Sylvandar]] full final.docx ¶135

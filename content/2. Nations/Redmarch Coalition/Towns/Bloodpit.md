@@ -12,6 +12,6 @@
 
 # Bloodpit
 
-**Leader:** Warlord Grakka One-Eye
-**Allegiance:** Grushnar
+**Leader:** Warlord [[Grakka One-Eye]]
+**Allegiance:** [[Grushnar]]
 **Known For:** Combat training camp and gladiator pit

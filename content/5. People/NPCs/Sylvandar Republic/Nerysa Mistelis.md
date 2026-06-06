@@ -23,7 +23,7 @@ tags:
 - Archmage of Moonspire University, sister to Senator Nerysa Mistelis. She governs the university with precision and quiet intensity, demanding excellence while encouraging collaboration.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 116

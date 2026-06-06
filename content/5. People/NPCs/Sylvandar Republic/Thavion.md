@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Nirenvale is led by Elder Thavion and is known for elder retirement and care.
+- [[Nirenvale]] is led by Elder Thavion and is known for elder retirement and care.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 35
-- sylvandar full final.docx ¶35
+- [[Sylvandar]] full final.docx ¶35

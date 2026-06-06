@@ -13,7 +13,7 @@
 
 # Frostmaw
 
-**Leader:** Clanmother Brenka Icejaw
-**Region:** Eastern Thundrakar
+**Leader:** Clanmother [[Brenka Icejaw]]
+**Region:** Eastern [[Thundrakar]]
 **Primary Beasts:** Mammoths, dire wolves
 **Known For:** Mammoth herding and preserved meat stores

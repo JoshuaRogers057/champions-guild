@@ -25,11 +25,11 @@ tags:
 - High Mootmistress Arva Stormvein Stoic and regal cousin of Drogath. Presides over the Giants Moot and maintains ancient traditions. Often clad in windswept feathered cloaks, she is the keeper of sacred lore and rituals.
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 24
-- Thundrakar final.docx ¶24
-- Thundrakar final.docx ¶155
-- Thundrakar final.docx ¶24
-- Thundrakar final.docx ¶267
+- [[Thundrakar]] final.docx ¶24
+- [[Thundrakar]] final.docx ¶155
+- [[Thundrakar]] final.docx ¶24
+- [[Thundrakar]] final.docx ¶267

@@ -24,6 +24,6 @@ No one knows what happened to the ancient elf. His body was never found.
 
 ## The Thalwyn Trees
 
-Scouts and rangers whisper to each other of a grove of trees that circles Sylvandar — unplanted, untended, and ever welcoming. They shelter archers and ensnare enemies.
+Scouts and rangers whisper to each other of a grove of trees that circles [[Sylvandar]] — unplanted, untended, and ever welcoming. They shelter archers and ensnare enemies.
 
 Coincidence or not, they are called **Thalwyn Trees**.

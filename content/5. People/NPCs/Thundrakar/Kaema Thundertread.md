@@ -23,7 +23,7 @@ tags:
 - Leader: Jarl Kaema Thundertread Function: Border defense and frost giant scouting Primary Beasts: Mammoths, winter wolves
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 216

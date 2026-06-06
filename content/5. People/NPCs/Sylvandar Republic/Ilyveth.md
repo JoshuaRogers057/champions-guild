@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Velorune is led by Chronicler Ilyveth and is known for runescribing.
+- [[Velorune]] is led by Chronicler Ilyveth and is known for runescribing.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 38
-- sylvandar full final.docx ¶38
+- [[Sylvandar]] full final.docx ¶38

@@ -12,6 +12,6 @@
 
 # Draggscar
 
-**Leader:** Chieftain Korvok Redhand
-**Allegiance:** Molgarak
+**Leader:** Chieftain [[Korvok Redhand]]
+**Allegiance:** [[Molgarak]]
 **Known For:** Raider staging ground

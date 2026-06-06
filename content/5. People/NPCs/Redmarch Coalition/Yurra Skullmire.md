@@ -24,10 +24,10 @@ tags:
 - Yurra Skullmire: Bugbear matron and master of shadow warfare, former leader of the feared Shadowmaw.
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
 - 267
-- Redmarch Coalition Final.docx ¶24
-- Redmarch Coalition Final.docx ¶102
-- Redmarch Coalition Final.docx ¶267
+- [[Redmarch Coalition]] Final.docx ¶24
+- [[Redmarch Coalition]] Final.docx ¶102
+- [[Redmarch Coalition]] Final.docx ¶267

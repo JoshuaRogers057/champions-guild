@@ -1,11 +1,11 @@
 ---
-name: "Kaelis Everglow"
+name: Kaelis Everglow
 type: npc
 location: "[[Starwatch Keep]]"
 affiliations:
   - "[[Ash-Korrath]]"
 sources:
-  - "Ash Korrath Final.docx"
+  - Ash Korrath Final.docx
 occurrences: 2
 tags:
   - npc
@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Leader: Watchmistress Kaelis Everglow Function: Alchemical factory, night watch, celestial tracking, and long-range threat detection Notable Features: High above the plains, this isolated observatory glows with soft starfire. Here, Kaelis and her team craft tinctures and keep vigil over the skies, charting both divine omens and planar disruptions.
-- Watchmistress Kaelis Everglow – Night watch and celestial overseer at Starwatch Keep.
+- Watchmistress Kaelis Everglow – Night watch and celestial overseer at [[Starwatch Keep]].
 
 ## Source Documents
 - Ash Korrath Final.docx

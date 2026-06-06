@@ -2,7 +2,7 @@
 
 | Nation | |
 |:--|:--|
-| Nation | Ash-Korrath |
+| Nation | [[Ash-Korrath]] |
 | Type | Outpost / Location |
 | Leader | Warden Erya Valcorsis |
 | Known For | Forward scout base and aerial patrol launch point |
@@ -11,5 +11,5 @@
 
 # Halo's Reach
 
-**Leader:** Warden Erya Valcorsis
+**Leader:** Warden [[Erya Valcorsis]]
 **Known For:** Forward scout base and aerial patrol launch point

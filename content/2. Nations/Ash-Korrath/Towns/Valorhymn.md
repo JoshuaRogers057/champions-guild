@@ -2,7 +2,7 @@
 
 | Nation | |
 |:--|:--|
-| Nation | Ash-Korrath |
+| Nation |[[Ash-Korrath]] |
 | Type | Outpost / Location |
 | Leader | Battle-Singer Oren Dael |
 | Known For | Brewery and morale division — bardic command, prayer rallies, and inspiration |
@@ -11,5 +11,5 @@
 
 # Valorhymn
 
-**Leader:** Battle-Singer Oren Dael
+**Leader:** Battle-Singer [[Oren Dael]]
 **Known For:** Brewery and morale division — bardic command, prayer rallies, and inspiration

@@ -21,7 +21,7 @@ tags:
 - High Sage Elran Mistelis
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
-- sylvandar full final.docx ¶141
+- [[Sylvandar]] full final.docx ¶141

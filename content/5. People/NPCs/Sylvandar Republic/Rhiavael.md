@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Elarien Spire is led by Lady Rhiavael and is known for artistic performance.
+- [[Elarien Spire]] is led by Lady Rhiavael and is known for artistic performance.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 25
-- sylvandar full final.docx ¶25
+- [[Sylvandar]] full final.docx ¶25

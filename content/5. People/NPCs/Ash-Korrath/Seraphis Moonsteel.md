@@ -1,11 +1,11 @@
 ---
-name: "Seraphis Moonsteel"
+name: Seraphis Moonsteel
 type: npc
 location: "[[Judicant's Rest]]"
 affiliations:
   - "[[Ash-Korrath]]"
 sources:
-  - "Ash Korrath Final.docx"
+  - Ash Korrath Final.docx
 occurrences: 3
 tags:
   - npc

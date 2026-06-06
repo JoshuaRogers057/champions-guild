@@ -23,7 +23,7 @@ tags:
 - Leader: Elder Vannor Icecall Population: ~350 Primary Herds: Giant elk and domesticated snow-lopers Specialty: High-tundra navigation and deep-winter survival
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 259

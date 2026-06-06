@@ -18,10 +18,10 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Chieftain Korvok Redhand – A veteran raider with a fiery mane and a bloodstained axe. Function: Raider staging ground Description: Draggscar's walls are lined with stolen banners, its streets with trophy poles. When war comes, the first howl often r...
+- Leader: Chieftain Korvok Redhand – A veteran raider with a fiery mane and a bloodstained axe. Function: Raider staging ground Description: [[Draggscar]]'s walls are lined with stolen banners, its streets with trophy poles. When war comes, the first howl often r...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶220
+- [[Redmarch Coalition]] Final.docx ¶220

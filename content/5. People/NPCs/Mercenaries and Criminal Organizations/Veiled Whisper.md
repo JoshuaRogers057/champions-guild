@@ -26,11 +26,11 @@ tags:
 
 ## Source Documents
 - Criminals and mercenaries.docx
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
 - Criminals and mercenaries.docx ¶135
 - Criminals and mercenaries.docx ¶137
-- Redmarch Coalition Final.docx ¶121
-- Redmarch Coalition Final.docx ¶171
-- Redmarch Coalition Final.docx ¶271
+- [[Redmarch Coalition]] Final.docx ¶121
+- [[Redmarch Coalition]] Final.docx ¶171
+- [[Redmarch Coalition]] Final.docx ¶271

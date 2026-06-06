@@ -12,6 +12,6 @@
 
 # Rivetooth
 
-**Leader:** Baroness Chakka Greentooth
-**Allegiance:** Borgnar
+**Leader:** Baroness [[Chakka Greentooth]]
+**Allegiance:** [[Borgnar]]
 **Known For:** River toll gate and logging camp

@@ -26,10 +26,10 @@ tags:
 - It was here that the aging General Draknar Kiz, now semi-retired and serving largely as trainer and advisor, returned once more to prominence. Kiz championed disciplined freight corridors, fortified depots, efficient customs houses, and rail-linked military...
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 - Drakmir Dominion.docx
 
 ## Paragraph References
 - 198
 - Drakmir Dominion.docx ¶442
-- sylvandar full final.docx ¶198
+- [[Sylvandar]] full final.docx ¶198

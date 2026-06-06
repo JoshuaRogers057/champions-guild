@@ -12,6 +12,6 @@
 
 # Bonehook
 
-**Leader:** Matron Skrisha Hookhand
-**Allegiance:** Molgarak
+**Leader:** Matron [[Skrisha Hookhand]]
+**Allegiance:** [[Molgarak]]
 **Known For:** Fishermen and bone carvers

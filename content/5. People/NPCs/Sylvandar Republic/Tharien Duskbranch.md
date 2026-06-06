@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Silvergrove is led by Keeper Tharien Duskbranch and is known for magical regrowth logging.
+- [[Silvergrove]] is led by Keeper Tharien Duskbranch and is known for magical regrowth logging.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 18
-- sylvandar full final.docx ¶18
+- [[Sylvandar]] full final.docx ¶18

@@ -21,7 +21,7 @@ tags:
 - Leader: Gunklord Ubb – A bulbous hobgoblin who eats what he can’t sell. Function: Waste processing and magical residue refinement Description: A bubbling cauldron of trash, sludge, and potent runoff. Mages come here to find discarded magic... and lose their...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶244
+- [[Redmarch Coalition]] Final.docx ¶244

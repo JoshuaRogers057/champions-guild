@@ -13,7 +13,7 @@
 
 # Borgnar
 
-Borgnar is a bastion of brutal order, unusual among Redmarch settlements for its enforced peace. Built across a narrow canyon pass and fortified by hidden towers, Borgnar thrives as the Redmarch's primary hub for trade — both legal and shadowy. Weapons, slaves, poisons, and information are all sold here, just never drawn without permission. Chief Axelnar leads with absolute authority, backed by his elite enforcers, the **Broken Fangs**.
+Borgnar is a bastion of brutal order, unusual among Redmarch settlements for its enforced peace. Built across a narrow canyon pass and fortified by hidden towers, Borgnar thrives as the Redmarch's primary hub for trade — both legal and shadowy. Weapons, slaves, poisons, and information are all sold here, just never drawn without permission. Chief [[Axelnar]] leads with absolute authority, backed by his elite enforcers, the **Broken Fangs**.
 
 **Fragment Access:** Home to a very productive fragment mine, though it lacks the magical and technical expertise to refine its full potential.
 

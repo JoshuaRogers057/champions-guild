@@ -18,10 +18,10 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Headwoman Krillz Vane – A scarred goblin tactician who sees everything from her spire perch. Function: Outpost and border patrol station Description: Skarrpost watches the northern passes, its scouts keeping rival clans and monsters at bay. Smoke si...
+- Leader: Headwoman Krillz Vane – A scarred goblin tactician who sees everything from her spire perch. Function: Outpost and border patrol station Description: [[Skarrpost]] watches the northern passes, its scouts keeping rival clans and monsters at bay. Smoke si...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶242
+- [[Redmarch Coalition]] Final.docx ¶242

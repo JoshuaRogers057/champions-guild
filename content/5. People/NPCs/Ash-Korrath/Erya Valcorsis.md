@@ -1,11 +1,11 @@
 ---
-name: "Erya Valcorsis"
+name: Erya Valcorsis
 type: npc
 location: "[[Halos Reach]]"
 affiliations:
   - "[[Ash-Korrath]]"
 sources:
-  - "Ash Korrath Final.docx"
+  - Ash Korrath Final.docx
 occurrences: 3
 tags:
   - npc

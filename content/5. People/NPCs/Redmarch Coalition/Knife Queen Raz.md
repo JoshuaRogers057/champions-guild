@@ -18,10 +18,10 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Knife Queen [[Raz]] – A dagger-dancer known for smiling while she stabs. Function: Assassins' guild and stealth training Description: Hidden among rocky gullies, Sniktown teaches blades to vanish, strike, and vanish again. Its children crawl before they...
+- Leader: Knife Queen [[Raz]] – A dagger-dancer known for smiling while she stabs. Function: Assassins' guild and stealth training Description: Hidden among rocky gullies, [[Sniktown]] teaches blades to vanish, strike, and vanish again. Its children crawl before they...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶248
+- [[Redmarch Coalition]] Final.docx ¶248

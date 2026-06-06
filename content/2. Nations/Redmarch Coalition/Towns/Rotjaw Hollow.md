@@ -12,6 +12,6 @@
 
 # Rotjaw Hollow
 
-**Leader:** Shaman Dregga Mudtooth
-**Allegiance:** Urthak Var
+**Leader:** Shaman [[Dregga Mudtooth]]
+**Allegiance:** [[Urthak Var]]
 **Known For:** Alchemical reagents and poison crafting

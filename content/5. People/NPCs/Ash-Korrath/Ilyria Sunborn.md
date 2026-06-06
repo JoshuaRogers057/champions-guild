@@ -1,11 +1,11 @@
 ---
-name: "Ilyria Sunborn"
+name: Ilyria Sunborn
 type: npc
 location: "[[Auric Vale]]"
 affiliations:
   - "[[Ash-Korrath]]"
 sources:
-  - "Ash Korrath Final.docx"
+  - Ash Korrath Final.docx
 occurrences: 3
 tags:
   - npc
@@ -20,8 +20,8 @@ tags:
 - **Occurrences in source material:** 3
 
 ## Role & Notes
-- Leader: Lady Marshal Ilyria Sunborn Function: Public trade, supply depot, and training camp Notable Features: A golden-canopied plaza nestled in a warm ravine, Auric Vale serves as the lifeline between civilian trade and military needs. Its sunlit barracks, open sparring fields, and glowing ration vaults are famed for both beauty and efficiency.
-- Lady Marshal Ilyria Sunborn – Leader of Auric Vale, overseeing public trade, supply, and training.
+- Leader: Lady Marshal Ilyria Sunborn Function: Public trade, supply depot, and training camp Notable Features: A golden-canopied plaza nestled in a warm ravine, [[Auric Vale]] serves as the lifeline between civilian trade and military needs. Its sunlit barracks, open sparring fields, and glowing ration vaults are famed for both beauty and efficiency.
+- Lady Marshal Ilyria Sunborn – Leader of [[Auric Vale]], overseeing public trade, supply, and training.
 
 ## Source Documents
 - Ash Korrath Final.docx

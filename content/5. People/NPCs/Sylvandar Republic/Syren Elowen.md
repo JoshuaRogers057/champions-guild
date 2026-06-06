@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Glimmerdusk is led by Jewelcrafter Syren Elowen and is known for gem cutting and jewelry.
+- [[Glimmerdusk]] is led by Jewelcrafter Syren Elowen and is known for gem cutting and jewelry.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 37
-- sylvandar full final.docx ¶37
+- [[Sylvandar]] full final.docx ¶37

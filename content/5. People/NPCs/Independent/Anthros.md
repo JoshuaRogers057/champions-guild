@@ -50,9 +50,9 @@ tags:
 - [[Kastalshire]] final.docx
 - [[Nation of lexovar]]. full final.docx
 - Forged Sands Final.docx
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 - Aasimar Final.docx
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 2

@@ -12,6 +12,6 @@
 
 # Zurtak Crag
 
-**Leader:** Overseer Thunk
-**Allegiance:** Grushnar
+**Leader:** Overseer [[Thunk]]
+**Allegiance:** [[Grushnar]]
 **Known For:** Ore and gem mining

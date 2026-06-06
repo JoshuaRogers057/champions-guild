@@ -12,6 +12,6 @@
 
 # Drub Hollow
 
-**Leader:** Elder Grink
-**Allegiance:** Molgarak
+**Leader:** Elder [[Grink]]
+**Allegiance:** [[Molgarak]]
 **Known For:** Traditional goblin music and drum crafting

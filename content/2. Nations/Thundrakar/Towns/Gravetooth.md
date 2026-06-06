@@ -13,7 +13,7 @@
 
 # Gravetooth
 
-**Leader:** Warleader Ruk Stormscar
-**Region:** Eastern Thundrakar
+**Leader:** Warleader [[Ruk Stormscar]]
+**Region:** Eastern [[Thundrakar]]
 **Primary Beasts:** Giant polar bears, mammoths
 **Known For:** Bone forge and trophy-weapon crafting

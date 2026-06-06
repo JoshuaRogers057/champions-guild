@@ -12,6 +12,6 @@
 
 # Blistercoil
 
-**Leader:** Artificer Drogma Sparkfang
-**Allegiance:** Molgarak
+**Leader:** [[Artificer Drogma Sparkfang]]
+**Allegiance:** [[Molgarak]]
 **Known For:** Tinkerers and explosive crafters

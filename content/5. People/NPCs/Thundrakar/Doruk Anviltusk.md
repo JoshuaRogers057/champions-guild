@@ -23,7 +23,7 @@ tags:
 - Leader: Forgefather Doruk Anviltusk Function: Metalworking and stormsteel smelting Primary Beasts: Mammoths, rhinos
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 228

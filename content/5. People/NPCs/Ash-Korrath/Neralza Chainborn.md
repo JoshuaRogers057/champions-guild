@@ -1,11 +1,11 @@
 ---
-name: "Neralza Chainborn"
+name: Neralza Chainborn
 type: npc
-location: "[[Ash-Korrath NPCs]]"
+location: "[[Ash-Korrath City]]"
 affiliations:
   - "[[Ash-Korrath]]"
 sources:
-  - "Ash Korrath Final.docx"
+  - Ash Korrath Final.docx
 occurrences: 3
 tags:
   - npc
@@ -15,7 +15,7 @@ tags:
 # Neralza Chainborn
 
 ## Overview
-- **Location / Context:** [[Ash-Korrath NPCs]]
+- **Location / Context:** [[Ash-Korrath City]]
 - **Affiliation:** [[Ash-Korrath]]
 - **Occurrences in source material:** 3
 

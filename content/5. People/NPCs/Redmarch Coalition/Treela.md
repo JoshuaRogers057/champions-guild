@@ -18,10 +18,10 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Sootmaiden Treela – A flame-eyed alchemist who speaks in rhymes and sparks. Function: Lantern oil refining and fireglass production Description: Built near flammable tar pools, Torchknot supplies light and fire to the war machine. The ground is warm...
+- Leader: Sootmaiden Treela – A flame-eyed alchemist who speaks in rhymes and sparks. Function: Lantern oil refining and fireglass production Description: Built near flammable tar pools, [[Torchknot]] supplies light and fire to the war machine. The ground is warm...
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
-- Redmarch Coalition Final.docx ¶254
+- [[Redmarch Coalition]] Final.docx ¶254

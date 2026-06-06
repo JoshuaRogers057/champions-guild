@@ -2,7 +2,7 @@
 
 | Nation | |
 |:--|:--|
-| Nation | Ash-Korrath |
+| Nation | [[Ash-Korrath]] |
 | Type | Outpost / Location |
 | Leader | Priest-General Thariel Vonn |
 | Known For | Divine healing, resurrection, and recovery |
@@ -11,5 +11,5 @@
 
 # Seraphelle
 
-**Leader:** Priest-General Thariel Vonn
+**Leader:** Priest-General [[Thariel Vonn]]
 **Known For:** Divine healing, resurrection, and recovery

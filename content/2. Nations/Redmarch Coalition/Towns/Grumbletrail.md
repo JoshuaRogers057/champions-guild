@@ -12,6 +12,6 @@
 
 # Grumbletrail
 
-**Leader:** Taskmaster Grokk
-**Allegiance:** Borgnar
+**Leader:** Taskmaster [[Grokk]]
+**Allegiance:** [[Borgnar]]
 **Known For:** Caravan rest stop and mercenary recruitment

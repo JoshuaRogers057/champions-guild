@@ -23,7 +23,7 @@ tags:
 - Leader: Clanmother Brenka Icejaw Function: Mammoth herding and preserved meat stores Primary Beasts: Mammoths (multiple herds), dire wolves
 
 ## Source Documents
-- Thundrakar final.docx
+- [[Thundrakar]] final.docx
 
 ## Paragraph References
 - 219

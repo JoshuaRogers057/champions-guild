@@ -12,6 +12,6 @@
 
 # Chittercrawl
 
-**Leader:** Queen Skiv the Ratmother
-**Allegiance:** Urthak Var
+**Leader:** Queen [[Skiv the Ratmother]]
+**Allegiance:** [[Urthak Var]]
 **Known For:** Vermin breeding and plague warfare

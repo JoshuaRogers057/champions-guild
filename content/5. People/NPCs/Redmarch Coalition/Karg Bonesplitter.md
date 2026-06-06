@@ -24,10 +24,10 @@ tags:
 - Karg Bonesplitter: Hobgoblin strategist of the Shattered Pike tribe, responsible for military logistics and battle formations.
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
 - 266
-- Redmarch Coalition Final.docx ¶23
-- Redmarch Coalition Final.docx ¶101
-- Redmarch Coalition Final.docx ¶266
+- [[Redmarch Coalition]] Final.docx ¶23
+- [[Redmarch Coalition]] Final.docx ¶101
+- [[Redmarch Coalition]] Final.docx ¶266

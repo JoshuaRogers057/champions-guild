@@ -12,6 +12,6 @@
 
 # Grimwatch
 
-**Leader:** Warden Huzzik Vree
-**Allegiance:** Grushnar
+**Leader:** Warden [[Huzzik Vree]]
+**Allegiance:** [[Grushnar]]
 **Known For:** Military lookout tower and border patrol

@@ -12,6 +12,6 @@
 
 # Gutterspire
 
-**Leader:** Bishop Krall
-**Allegiance:** Urthak Var
+**Leader:** Bishop [[Krall]]
+**Allegiance:** [[Urthak Var]]
 **Known For:** Shadow cult headquarters and goblinoid pilgrimage site

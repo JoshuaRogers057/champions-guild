@@ -20,11 +20,11 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Virellen is led by Loremaster Saelwyn and is known for historical preservation.
+- [[Virellen]] is led by Loremaster Saelwyn and is known for historical preservation.
 
 ## Source Documents
-- sylvandar full final.docx
+- [[Sylvandar]] full final.docx
 
 ## Paragraph References
 - 21
-- sylvandar full final.docx ¶21
+- [[Sylvandar]] full final.docx ¶21

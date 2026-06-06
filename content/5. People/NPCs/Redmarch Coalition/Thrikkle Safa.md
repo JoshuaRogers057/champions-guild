@@ -24,10 +24,10 @@ tags:
 - Thrikkle Safa: Goblin beast rider commander, still rides into council meetings on a Giant Wolf Spider named Scream.
 
 ## Source Documents
-- Redmarch Coalition Final.docx
+- [[Redmarch Coalition]] Final.docx
 
 ## Paragraph References
 - 268
-- Redmarch Coalition Final.docx ¶25
-- Redmarch Coalition Final.docx ¶103
-- Redmarch Coalition Final.docx ¶268
+- [[Redmarch Coalition]] Final.docx ¶25
+- [[Redmarch Coalition]] Final.docx ¶103
+- [[Redmarch Coalition]] Final.docx ¶268
