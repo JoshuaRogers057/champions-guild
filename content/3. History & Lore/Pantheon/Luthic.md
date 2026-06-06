@@ -17,7 +17,7 @@ title: Luthic
 
 </div>
 
-Luthic is the consort of Gruumsh and the goddess of orc females, the home, caves, and the survival of the orc people through fertility and endurance. Where Gruumsh embodies conquest and outward violence, Luthic represents the internal strength that sustains orcish society — the bearing and raising of warriors, the tending of wounds, and the maintenance of the caves and strongholds that orc communities call home.
+Luthic is the consort of [[Gruumsh]] and the goddess of orc females, the home, caves, and the survival of the orc people through fertility and endurance. Where [[Gruumsh]] embodies conquest and outward violence, Luthic represents the internal strength that sustains orcish society — the bearing and raising of warriors, the tending of wounds, and the maintenance of the caves and strongholds that orc communities call home.
 
 She is depicted as a massive female orc with great claws, wise and dangerous in equal measure. She is not a gentle nurturing deity — her love is fierce and practical, and she has little patience for weakness even in the young she tends.
 
@@ -27,4 +27,4 @@ Luthic is worshipped primarily by orc women, healers, and the elderly within orc
 
 ## Divine Relationships
 
-Luthic is the consort of **Gruumsh**, and she is the only deity he genuinely respects — a significant distinction given his contempt for most divine beings. Her relationship with him is one of equal partnership beneath a surface of submission, as she knows her role in sustaining everything he builds is indispensable. She has no love for most other deities, viewing the wider pantheon with orcish suspicion.
+Luthic is the consort of **[[Gruumsh]]**, and she is the only deity he genuinely respects — a significant distinction given his contempt for most divine beings. Her relationship with him is one of equal partnership beneath a surface of submission, as she knows her role in sustaining everything he builds is indispensable. She has no love for most other deities, viewing the wider pantheon with orcish suspicion.

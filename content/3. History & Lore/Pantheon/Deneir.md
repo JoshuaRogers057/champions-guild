@@ -27,4 +27,4 @@ Deneir's followers are scribes, illuminators, cartographers, librarians, and any
 
 ## Divine Relationships
 
-Deneir serves **[[Oghma]]** as a lesser deity within his portfolio. He is allied with **[[Milil]]** (poetry) and **[[Gond]]** (invention), both of whom share his investment in the transmission of knowledge and creativity. He opposes **[[Cyric]]** and **Shar**, who deal in deception and the suppression of truth.
+Deneir serves **[[Oghma]]** as a lesser deity within his portfolio. He is allied with **[[Milil]]** (poetry) and **[[Gond]]** (invention), both of whom share his investment in the transmission of knowledge and creativity. He opposes **[[Cyric]]** and **[[Shar]]**, who deal in deception and the suppression of truth.

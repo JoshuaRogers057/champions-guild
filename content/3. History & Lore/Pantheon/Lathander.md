@@ -27,4 +27,4 @@ Lathander attracts optimists, healers, farmers, artists, and those beginning new
 
 ## Divine Relationships
 
-Lathander is allied with **[[Chauntea]]**, **[[Selûne]]**, and **[[Tyr]]** — deities who share his investment in life and protection of the innocent. He has a complicated history with **[[Mystra]]**, having once attempted to reorganize the divine order in an event called the Dawn Cataclysm that caused considerable destruction. His primary enemies are undead-related deities and **Shar**, whose embrace of darkness and loss is antithetical to everything he represents.
+Lathander is allied with **[[Chauntea]]**, **[[Selûne]]**, and **[[Tyr]]** — deities who share his investment in life and protection of the innocent. He has a complicated history with **[[Mystra]]**, having once attempted to reorganize the divine order in an event called the Dawn Cataclysm that caused considerable destruction. His primary enemies are undead-related deities and **[[Shar]]**, whose embrace of darkness and loss is antithetical to everything he represents.

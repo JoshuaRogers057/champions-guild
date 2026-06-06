@@ -27,4 +27,4 @@ Valkur's followers are sailors, naval officers, explorers, and those who love th
 
 ## Divine Relationships
 
-Valkur is the direct divine enemy of **Umberlee**, the sea goddess, whose storms and cruelty he works to protect sailors against. Where Umberlee views sailors as prey, Valkur views them as his people to protect. He is allied with **Selûne**, whose stars guide his sailors through the night, and has a warm relationship with **Tempus**, as naval combat falls within both their purviews.
+Valkur is the direct divine enemy of **[[Umberlee]]**, the sea goddess, whose storms and cruelty he works to protect sailors against. Where [[Umberlee]] views sailors as prey, Valkur views them as his people to protect. He is allied with **[[Selûne]]**, whose stars guide his sailors through the night, and has a warm relationship with **[[Tempus]]**, as naval combat falls within both their purviews.

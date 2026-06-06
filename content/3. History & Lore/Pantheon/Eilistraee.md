@@ -17,7 +17,7 @@ title: Eilistraee
 
 </div>
 
-Eilistraee is the goddess of the good drow — a beacon of hope and redemption for those dark elves who reject Lolth's cruelty and seek a different path. She is the daughter of Corellon and Araushnee (who became Lolth) and was banished alongside the drow through no fault of her own, choosing to share their exile out of love for her people. She embodies everything that drow society under Lolth has suppressed: joy, beauty, music, the light of the moon, and the possibility of life on the surface.
+Eilistraee is the goddess of the good drow — a beacon of hope and redemption for those dark elves who reject Lolth's cruelty and seek a different path. She is the daughter of [[Corellon]] and Araushnee (who became Lolth) and was banished alongside the drow through no fault of her own, choosing to share their exile out of love for her people. She embodies everything that drow society under Lolth has suppressed: joy, beauty, music, the light of the moon, and the possibility of life on the surface.
 
 She dances in moonlit clearings and calls to the drow through song, urging them to remember what they once were and what they could be again. Her existence is a direct challenge to Lolth's dominion and the greatest threat to the Spider Queen's hold on her people.
 
@@ -27,4 +27,4 @@ Eilistraee is worshipped by drow who have rejected Lolth, typically those who ha
 
 ## Divine Relationships
 
-Eilistraee is the daughter of **Corellon**, who views her with deep love and sorrow for her exile. She is the direct enemy of **Lolth**, whose hold over the drow she works to break — and Lolth views her as perhaps the most dangerous threat to her divine power. She is allied with **Selûne**, whose moonlight is sacred to her faith, and has warm relationships with surface elven deities who share her hope for drow redemption.
+Eilistraee is the daughter of **[[Corellon]]**, who views her with deep love and sorrow for her exile. She is the direct enemy of **Lolth**, whose hold over the drow she works to break — and Lolth views her as perhaps the most dangerous threat to her divine power. She is allied with **[[Selûne]]**, whose moonlight is sacred to her faith, and has warm relationships with surface elven deities who share her hope for drow redemption.
