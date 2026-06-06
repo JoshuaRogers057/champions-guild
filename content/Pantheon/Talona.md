@@ -27,4 +27,4 @@ Talona's followers include assassins who specialize in poison, physicians who ha
 
 ## Divine Relationships
 
-Talona's primary enemy is **[[Chauntea]]**, whose crops and communities she blights. She also opposes **[[Lathander]]** and all deities of healing and renewal. She has a strange, almost obsessive relationship with **Loviatar**, the goddess of pain — the two are sometimes described as rivals and sometimes as reluctant companions in shared dark purpose.
+Talona's primary enemy is **[[Chauntea]]**, whose crops and communities she blights. She also opposes **[[Lathander]]** and all deities of healing and renewal. She has a strange, almost obsessive relationship with **[[Loviatar]]**, the goddess of pain — the two are sometimes described as rivals and sometimes as reluctant companions in shared dark purpose.

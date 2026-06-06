@@ -19,7 +19,7 @@ title: Savras
 
 Savras is the god of divination, fate, and absolute truth — a deity who sees all things that were, are, and will be. He is depicted as a tall, bald man with a single giant eye in place of a normal face, radiating an aura of uncomfortable omniscience. He speaks only truth and requires the same of his followers, which makes him valuable and deeply uncomfortable to be around.
 
-Savras was once imprisoned by **Azuth**, who trapped him in a staff to prevent his powers from causing chaos, and was only later released. This history of imprisonment has made him deeply invested in freedom from deception.
+Savras was once imprisoned by **[[Azuth]]**, who trapped him in a staff to prevent his powers from causing chaos, and was only later released. This history of imprisonment has made him deeply invested in freedom from deception.
 
 ## Followers
 
@@ -27,4 +27,4 @@ Savras attracts diviners, oracles, seers, and those who seek to know the future 
 
 ## Divine Relationships
 
-Savras has a complex relationship with **Azuth**, who imprisoned him, and with **[[Mystra]]**, in whose magical portfolio divination sits. He is allied with **[[Oghma]]** through their shared dedication to truth and knowledge. He opposes **[[Cyric]]** and **[[Shar]]**, whose deception and secrets are antithetical to his absolute commitment to revealed truth.
+Savras has a complex relationship with **[[Azuth]]**, who imprisoned him, and with **[[Mystra]]**, in whose magical portfolio divination sits. He is allied with **[[Oghma]]** through their shared dedication to truth and knowledge. He opposes **[[Cyric]]** and **[[Shar]]**, whose deception and secrets are antithetical to his absolute commitment to revealed truth.

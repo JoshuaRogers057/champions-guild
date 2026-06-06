@@ -27,4 +27,4 @@ Umberlee is not truly loved by anyone — she is propitiated out of necessity. S
 
 ## Divine Relationships
 
-Umberlee has few true allies — she is too capricious and demanding for long-term divine relationships. She has a tense rivalry with **[[Talos]]**, as both claim dominion over storm and destruction. She opposes **[[Selûne]]**, whose moonlight guides sailors that Umberlee would prefer lost. **Valkur**, a lesser deity of sailors, is her direct enemy, as he protects those she seeks to claim.
+Umberlee has few true allies — she is too capricious and demanding for long-term divine relationships. She has a tense rivalry with **[[Talos]]**, as both claim dominion over storm and destruction. She opposes **[[Selûne]]**, whose moonlight guides sailors that Umberlee would prefer lost. **[[Valkur]]**, a lesser deity of sailors, is her direct enemy, as he protects those she seeks to claim.

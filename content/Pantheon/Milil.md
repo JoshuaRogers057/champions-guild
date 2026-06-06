@@ -27,4 +27,4 @@ Milil attracts bards, poets, singers, and all who find spiritual meaning in musi
 
 ## Divine Relationships
 
-Milil serves **[[Oghma]]** as a lesser deity and is closely allied with **[[Deneir]]**. He has a warm relationship with **[[Sune]]**, whose domain of beauty complements his own artistic focus. He has a complex history with **Lliira**, the goddess of joy and dance, whose more exuberant approach to celebration sometimes clashes with Milil's emphasis on craft and excellence.
+Milil serves **[[Oghma]]** as a lesser deity and is closely allied with **[[Deneir]]**. He has a warm relationship with **[[Sune]]**, whose domain of beauty complements his own artistic focus. He has a complex history with **[[Lliira]]**, the goddess of joy and dance, whose more exuberant approach to celebration sometimes clashes with Milil's emphasis on craft and excellence.

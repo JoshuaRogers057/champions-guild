@@ -27,4 +27,4 @@ Tiamat is worshipped by evil dragons, chromatic dragonborn, and those who seek t
 
 ## Divine Relationships
 
-Tiamat's eternal enemy is **[[Bahamut]]**, the god of good dragons, and their conflict defines the relationship between chromatic and metallic dragonkind. She is imprisoned in the Nine Hells and has a complicated relationship with **Asmodeus** as a result. She views most other evil deities with contempt, believing none of them match her in power or ambition.
+Tiamat's eternal enemy is **[[Bahamut]]**, the god of good dragons, and their conflict defines the relationship between chromatic and metallic dragonkind. She is imprisoned in the Nine Hells and has a complicated relationship with **[[Asmodeus]]** as a result. She views most other evil deities with contempt, believing none of them match her in power or ambition.

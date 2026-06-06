@@ -27,4 +27,4 @@ Lolth is worshipped almost exclusively by drow, who organize their society aroun
 
 ## Divine Relationships
 
-Lolth was cast out by **[[Corellon]]** and the Seldarine, and her enmity with elven deities is absolute. She also opposes **Eilistraee**, a drow goddess of good who seeks to lead the drow back to the surface, as her existence directly threatens Lolth's hold over her people. She views most other evil deities with contempt or sees them as potential pawns.
+Lolth was cast out by **[[Corellon]]** and the Seldarine, and her enmity with elven deities is absolute. She also opposes **[[Eilistraee]]**, a drow goddess of good who seeks to lead the drow back to the surface, as her existence directly threatens Lolth's hold over her people. She views most other evil deities with contempt or sees them as potential pawns.

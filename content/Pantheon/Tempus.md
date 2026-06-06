@@ -27,4 +27,4 @@ Warriors, soldiers, mercenaries, and anyone who makes their living by the sword 
 
 ## Divine Relationships
 
-Tempus has a complicated relationship with **[[Bane]]**, whose vision of controlled, domination-driven warfare conflicts with Tempus's love of pure battle. He respects **[[Tyr]]** as a fellow warrior deity despite their alignment differences. He has an ongoing rivalry with **Garagos**, a lesser war deity he once defeated. **[[Shar]]** and **[[Cyric]]** are among his enemies, as their methods of deception and manipulation are anathema to his direct approach to conflict.
+Tempus has a complicated relationship with **[[Bane]]**, whose vision of controlled, domination-driven warfare conflicts with Tempus's love of pure battle. He respects **[[Tyr]]** as a fellow warrior deity despite their alignment differences. He has an ongoing rivalry with **[[Garagos]]**, a lesser war deity he once defeated. **[[Shar]]** and **[[Cyric]]** are among his enemies, as their methods of deception and manipulation are anathema to his direct approach to conflict.

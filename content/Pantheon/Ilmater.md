@@ -27,4 +27,4 @@ Ilmater's followers are healers, martyrs, those who care for the sick and dying,
 
 ## Divine Relationships
 
-Ilmater is closely allied with **[[Tyr]]** and **[[Torm]]** as part of the Triad, though his gentle nature sometimes creates tension with their more assertive approaches to justice. He is also allied with **[[Lathander]]** and **[[Chauntea]]**, who share his investment in the welfare of mortal people. His enemies are those who cause needless suffering — **[[Bane]]**, **[[Bhaal]]**, **[[Talona]]**, and **Loviatar** (the goddess of pain, who twists suffering into cruelty).
+Ilmater is closely allied with **[[Tyr]]** and **[[Torm]]** as part of the Triad, though his gentle nature sometimes creates tension with their more assertive approaches to justice. He is also allied with **[[Lathander]]** and **[[Chauntea]]**, who share his investment in the welfare of mortal people. His enemies are those who cause needless suffering — **[[Bane]]**, **[[Bhaal]]**, **[[Talona]]**, and **[[Loviatar]]** (the goddess of pain, who twists suffering into cruelty).

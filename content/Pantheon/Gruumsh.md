@@ -27,4 +27,4 @@ Gruumsh is worshipped almost exclusively by orcs and half-orcs, though some brut
 
 ## Divine Relationships
 
-Gruumsh's eternal enemy is **[[Corellon]]**, who blinded him, and by extension all elven deities. He also has ancient conflicts with **[[Moradin]]** and the dwarven pantheon, as orcs and dwarves have clashed for millennia. He has contemptuous relationships with most other evil deities, viewing them as insufficiently direct. **Luthic**, his consort, is the only deity he genuinely respects.
+Gruumsh's eternal enemy is **[[Corellon]]**, who blinded him, and by extension all elven deities. He also has ancient conflicts with **[[Moradin]]** and the dwarven pantheon, as orcs and dwarves have clashed for millennia. He has contemptuous relationships with most other evil deities, viewing them as insufficiently direct. **[[Luthic]]**, his consort, is the only deity he genuinely respects.
