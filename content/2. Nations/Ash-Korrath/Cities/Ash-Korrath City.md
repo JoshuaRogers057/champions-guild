@@ -2,7 +2,7 @@
 
 | Ash-Korrath | |
 |:--|:--|
-| Nation | Ash-Korrath |
+| Nation | [[Ash-Korrath]] |
 | Type | City |
 | Population | ~30,000 |
 | Ruler | High Sovereign Velcryn Dreadmark |
