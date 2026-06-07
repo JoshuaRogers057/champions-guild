@@ -1,12 +1,12 @@
 ---
-name: "Arvella Zynnbarrel"
+name: Arvella Zynnbarrel
 type: npc
-location: "[[Ciliren (Capital City)]]"
+location: "[[Ciliren]]"
 affiliations:
   - "[[Lexovar]]"
 sources:
-  - "Nation of Lexovar - final.docx"
-  - "Nation of lexovar. full final.docx"
+  - Nation of Lexovar - final.docx
+  - Nation of lexovar. full final.docx
 occurrences: 2
 tags:
   - npc
@@ -16,7 +16,7 @@ tags:
 # Arvella Zynnbarrel
 
 ## Overview
-- **Location / Context:** [[Ciliren (Capital City)]]
+- **Location / Context:** [[Ciliren]]
 - **Affiliation:** [[Lexovar]]
 - **Occurrences in source material:** 2
 
