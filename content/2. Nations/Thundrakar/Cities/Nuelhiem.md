@@ -4,7 +4,7 @@
 |:--|:--|
 | Nation | Thundrakar |
 | Type | City |
-| Population | ~32,000 |
+| Population | ~62,000 |
 | Ruler | High Chieftain Drogath Stormvein |
 | Location | Crater-ringed valley in the frozen north |
 | Notable For | Stormforge Hold, political heart of Thundrakar, Flame Vigil festival, Hearthcaller's Ring |

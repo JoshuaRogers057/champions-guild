@@ -4,7 +4,7 @@
 |:--|:--|
 | Nation | Thundrakar |
 | Type | City |
-| Population | ~2,000 permanent; 25,000+ during Giants Moot |
+| Population | ~25,000 permanent; 250,000+ during Giants Moot |
 | Ruler | High Mootmistress Arva Stormvein |
 | Location | Atop the highest peak in Thundrakar's central mountains |
 | Notable For | Giants Moot, Skycaller's Perch, The Naming Winds rite of passage, Hall of Echoes |

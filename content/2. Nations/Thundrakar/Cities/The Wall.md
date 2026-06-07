@@ -4,7 +4,7 @@
 |:--|:--|
 | Nation | Thundrakar |
 | Type | City |
-| Population | ~13,000 |
+| Population | ~313,000 |
 | Demographics | ~60% Goliath, 40% mixed |
 | Ruler | Warchief Skarn Kar-Turog |
 | Notable For | The Wall (ancient indestructible structure), Frostjaws Fleet, Hammerline Arena, oath culture |

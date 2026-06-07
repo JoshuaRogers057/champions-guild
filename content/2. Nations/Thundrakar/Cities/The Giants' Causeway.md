@@ -4,7 +4,7 @@
 |:--|:--|
 | Nation | Thundrakar |
 | Type | City |
-| Population | ~12,000 |
+| Population | ~52,000 |
 | Ruler | Commander Vekk Stoneborn |
 | Type  | Twin towns on either side of a massive mountain chasm |
 | Notable For | Chasm Market, Bridgewake Festival, Thunderpens, Fractured Span ruins, Thunderhide Legion HQ |
