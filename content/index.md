@@ -24,7 +24,7 @@ The rules that keep this community a good place to play. Required reading for al
 ## Reference Documents
 
 **[[Lore Master's Adaptation Guide for Eryndor]]**
-How Forgotten Realms source material has been adapted to fit the Eryndor setting. Essential for DMs and players building characters with backgrounds from Heroes of Faerûn.
+How Forgotten Realms and other source material have been adapted to fit the Eryndor setting.
 
 **[[The Common Law of Eryndor]]**
 The realm-wide legal framework recognized across nations. Useful for understanding how justice works in the world your character lives in.
