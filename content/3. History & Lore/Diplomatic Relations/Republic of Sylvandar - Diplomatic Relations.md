@@ -33,7 +33,7 @@ Sylvandar's diplomacy is shaped by loss: Woaden trees burned, royal blood spille
 | Bastions of Solara | 🟠 Resented | Solara's forced peace is irritating to the elves who feel the Bastions overreach. |
 | Redmarch Coalition | 🔴 Hostile | Raids, brutality, and cultural contempt define the relationship. |
 | The Forged Sands | 🔵 Distant Curiosity | Elves are intrigued by Steelborn memory but unsettled by forged life. |
-| Thalenmark Empire | 🟡 Useful but Irritating | Halfling trade is useful; halfling economic power offends elven pride. |
+| [[Thalenmark Empire]] | 🟡 Useful but Irritating | Halfling trade is useful; halfling economic power offends elven pride. |
 
 ---
 
@@ -84,7 +84,7 @@ Raids, brutality, and cultural contempt define the relationship.
 
 Elves are intrigued by Steelborn memory but unsettled by forged life.
 
-### Thalenmark Empire
+### [[Thalenmark Empire]]
 **Status:** 🟡 Useful but Irritating
 
 Halfling trade is useful; halfling economic power offends elven pride.

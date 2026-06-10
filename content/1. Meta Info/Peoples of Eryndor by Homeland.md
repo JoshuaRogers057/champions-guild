@@ -41,9 +41,9 @@ Eryndor is a connected world of trade, war, migration, education, mercenary serv
 | Republic of Sylvandar | Firbolgs | |
 | Republic of Sylvandar | Treefolk | |
 | Korivar Compact | Half-Elves | ✅ |
-| Thalenmark Empire | Halflings | ✅ |
-| Thalenmark Empire | Harengon | |
-| Thalenmark Empire | Changelings | ✅ |
+| [[Thalenmark Empire]] | Halflings | ✅ |
+| [[Thalenmark Empire]] | Harengon | |
+| [[Thalenmark Empire]] | Changelings | ✅ |
 | Nation of Lexovar | Gnomes | ✅ |
 | Halls of Kar Dromm | Dwarves | ✅ |
 | Drakmir Dominion | Dragonborn | ✅ |
@@ -110,7 +110,7 @@ Eryndor is a connected world of trade, war, migration, education, mercenary serv
 ### Korivar Compact
 - Half-Elves **(Playable)**
 
-### Thalenmark Empire
+### [[Thalenmark Empire]]
 - Halflings **(Playable)**
 - Harengon
 - Changelings **(Playable)**

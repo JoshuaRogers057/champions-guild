@@ -33,7 +33,7 @@ Kastalshire's old wound is Sylvandar. Elven manipulation of human wars created a
 | Bastions of Solara | ⚪ Respectful but Resentful | Humans respect Solara's law and power but dislike being judged. |
 | Redmarch Coalition | 🔴 Hostile | Raids, mercenaries, and instability make Redmarch a constant threat. |
 | The Forged Sands | 🔵 Distant | Limited emotional connection, but some practical trade and curiosity exist. |
-| Thalenmark Empire | 🟢 Mutually Beneficial | Food, commerce, and trade routes bind the two nations in practical friendship. |
+| [[Thalenmark Empire]] | 🟢 Mutually Beneficial | Food, commerce, and trade routes bind the two nations in practical friendship. |
 
 ---
 
@@ -84,7 +84,7 @@ Raids, mercenaries, and instability make Redmarch a constant threat.
 
 Limited emotional connection, but some practical trade and curiosity exist.
 
-### Thalenmark Empire
+### [[Thalenmark Empire]]
 **Status:** 🟢 Mutually Beneficial
 
 Food, commerce, and trade routes bind the two nations in practical friendship.

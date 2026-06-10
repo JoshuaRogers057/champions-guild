@@ -33,7 +33,7 @@ Kar Dromm's central diplomatic strength is control of major fragment mines. Its 
 | Bastions of Solara | 🔵 Formal | Solara respects oath and law; dwarves resent sanctimony and tolls. |
 | Redmarch Coalition | 🔴 Hostile | Raids, raw fragment competition, and violence keep relations poor. |
 | The Forged Sands | 🟡 Practical | Steelborn need fragments and materials, but dwarves remain uneasy about forged life. |
-| Thalenmark Empire | 🟢 Mutually Beneficial | Halfling markets move dwarven goods widely and profitably. |
+| [[Thalenmark Empire]] | 🟢 Mutually Beneficial | Halfling markets move dwarven goods widely and profitably. |
 
 ---
 
@@ -84,7 +84,7 @@ Raids, raw fragment competition, and violence keep relations poor.
 
 Steelborn need fragments and materials, but dwarves remain uneasy about forged life.
 
-### Thalenmark Empire
+### [[Thalenmark Empire]]
 **Status:** 🟢 Mutually Beneficial
 
 Halfling markets move dwarven goods widely and profitably.

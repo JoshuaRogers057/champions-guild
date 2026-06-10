@@ -33,7 +33,7 @@ Redmarch's diplomacy is limited by its own nature. Tribes value autonomy, warrio
 | Ash-Korrath | 🟡 Practical but Risky | Shadow trade and mercenary paths exist, but trust is thin. |
 | Bastions of Solara | 🔴 Hated | Solara guards the pass; Redmarch tests it. |
 | The Forged Sands | 🔵 Distant | Desert isolation and Steelborn discipline limit contact but not trade. |
-| Thalenmark Empire | 🟡 Useful | Halfling traders may buy peace, hire blades, or suffer raids. |
+| [[Thalenmark Empire]] | 🟡 Useful | Halfling traders may buy peace, hire blades, or suffer raids. |
 
 ---
 
@@ -84,7 +84,7 @@ Solara guards the pass; Redmarch tests it.
 
 Desert isolation and Steelborn discipline limit contact but not trade.
 
-### Thalenmark Empire
+### [[Thalenmark Empire]]
 **Status:** 🟡 Useful
 
 Halfling traders may buy peace, hire blades, or suffer raids.

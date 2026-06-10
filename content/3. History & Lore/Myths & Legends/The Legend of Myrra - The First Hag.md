@@ -48,7 +48,7 @@ But with each passing day toward **Midsummer**, her power fades. Her body twists
 
 ## The Myth in the Modern Era
 
-In rural human duchies, Myrra is whispered about in winter lullabies. Halfling farmers in Talvereth leave cider and root vegetables by frost-rimed shrines, praying for short winters and long springs. Gnomish scholars — especially those from Clockspire and [[Gleamspire]] — argue she was not a druid at all, but a proto-elemental, or even a failed fey ascendant.
+In rural human duchies, Myrra is whispered about in winter lullabies. Halfling farmers in [[Talvereth]] leave cider and root vegetables by frost-rimed shrines, praying for short winters and long springs. Gnomish scholars — especially those from Clockspire and [[Gleamspire]] — argue she was not a druid at all, but a proto-elemental, or even a failed fey ascendant.
 
 Some believe Myrra still watches over the land, ensuring the cycles of nature persist. Others see her as a cautionary tale of sacrifice — a reminder of the cost of meddling with forces beyond mortal comprehension.
 

@@ -1,4 +1,4 @@
-# Thalenmark Empire — Diplomatic Relations
+# [[Thalenmark Empire]] — Diplomatic Relations
 
 ---
 

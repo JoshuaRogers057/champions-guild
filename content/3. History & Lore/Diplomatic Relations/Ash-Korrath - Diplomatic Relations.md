@@ -33,7 +33,7 @@ Ash-Korrath's old wound is Solara. The ancient Aasimar-Tiefling conflict still d
 | Bastions of Solara | 🔴 Hated | The oldest national wound remains between tiefling survival and Aasimar judgment. |
 | Redmarch Coalition | 🟡 Practical but Risky | Mercenaries and black-market routes exist, but Redmarch is unstable. |
 | The Forged Sands | 🔵 Distant | Little common culture, though both know isolation. |
-| Thalenmark Empire | 🟢 Friendly | Trade channels matter, but tieflings avoid exposure. |
+| [[Thalenmark Empire]] | 🟢 Friendly | Trade channels matter, but tieflings avoid exposure. |
 
 ---
 
@@ -84,7 +84,7 @@ Mercenaries and black-market routes exist, but Redmarch is unstable.
 
 Little common culture, though both know isolation.
 
-### Thalenmark Empire
+### [[Thalenmark Empire]]
 **Status:** 🟢 Friendly
 
 Trade channels matter, but tieflings avoid exposure.

@@ -33,7 +33,7 @@ Solara's great strength is legitimacy. It arbitrates disputes, controls the Sacr
 | Ash-Korrath | 🔴 Hated | Ancient blood and holy violence still poison the relationship. |
 | Redmarch Coalition | 🔴 Hated | Solara sees Redmarch as disorder at the gate. |
 | The Forged Sands | 🔵 Distant | Solara has little emotional understanding of Steelborn society. |
-| Thalenmark Empire | 🟢 Mutually Beneficial | Halfling commerce and Solara's pass control profit from each other. |
+| [[Thalenmark Empire]] | 🟢 Mutually Beneficial | Halfling commerce and Solara's pass control profit from each other. |
 
 ---
 
@@ -84,7 +84,7 @@ Solara sees Redmarch as disorder at the gate.
 
 Solara has little emotional understanding of Steelborn society.
 
-### Thalenmark Empire
+### [[Thalenmark Empire]]
 **Status:** 🟢 Mutually Beneficial
 
 Halfling commerce and Solara's pass control profit from each other.

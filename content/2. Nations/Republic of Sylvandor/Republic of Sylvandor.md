@@ -213,7 +213,7 @@ The Long War against the Drakmir Dominion continues to cast a shadow over the Re
 
 **Dwarves (Kar Dromm):** Dispute centers on fragment access. The Republic has no native fragment mines, while dwarven control over major fragment sources gives Kar Dromm leverage that many elven nobles deeply resent.
 
-**Halflings (Thalenmark Empire):** Relations strained by trade conflicts and economic dominance. Many elves view halfling ledgers as an undignified form of power.
+**Halflings ([[Thalenmark Empire]]):** Relations strained by trade conflicts and economic dominance. Many elves view halfling ledgers as an undignified form of power.
 
 **Humans:** Relations remain uneasy due to political shifts, rejection of elven advisors, and the speed with which human kingdoms change direction. Elves often mistake human urgency for instability; humans often mistake elven patience for arrogance.
 

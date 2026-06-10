@@ -33,7 +33,7 @@ Drakmir's central diplomatic tension is that it wants to be recognized as honora
 | Bastions of Solara | 🟡 Respected but Resented | Solara forced limits on Dominion ambition and still claims moral authority. |
 | Redmarch Coalition | 🔴 Hostile | Redmarch is disorderly, violent, and difficult to pacify. |
 | The Forged Sands | 🟡 Respected Enemy | The Steelborn resisted conquest and proved difficult to break. |
-| Thalenmark Empire | 🟡 Useful | Food, finance, and trade are valuable, though not admired. |
+| [[Thalenmark Empire]] | 🟡 Useful | Food, finance, and trade are valuable, though not admired. |
 
 ---
 
@@ -84,7 +84,7 @@ Redmarch is disorderly, violent, and difficult to pacify.
 
 The Steelborn resisted conquest and proved difficult to break.
 
-### Thalenmark Empire
+### [[Thalenmark Empire]]
 **Status:** 🟡 Useful
 
 Food, finance, and trade are valuable, though not admired.

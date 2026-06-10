@@ -33,7 +33,7 @@ Lexovar's greatest diplomatic concern is fragment access. Kar Dromm, Drakmir, Th
 | Bastions of Solara | 🔵 Formal and Tense | Solara dislikes reckless experimentation; Lexovar dislikes moral oversight wrapped in tariffs. |
 | Redmarch Coalition | 🟠 Risky | Raw fragments and mercenary access exist, but violence and instability make every contract uncertain. |
 | The Forged Sands | 🔴 Hostile | Steelborn are not considered beings by Lexovar, but constructs to be controlled. Their existence demands study and control. |
-| Thalenmark Empire | 🟢 Mutually Beneficial | Halfling trade networks and gnomish transport systems strengthen one another. |
+| [[Thalenmark Empire]] | 🟢 Mutually Beneficial | Halfling trade networks and gnomish transport systems strengthen one another. |
 
 ---
 
@@ -84,7 +84,7 @@ Raw fragments and mercenary access exist, but violence and instability make ever
 
 Steelborn are not considered beings by Lexovar, but constructs to be controlled. Their existence demands study and control.
 
-### Thalenmark Empire
+### [[Thalenmark Empire]]
 **Status:** 🟢 Mutually Beneficial
 
 Halfling trade networks and gnomish transport systems strengthen one another.

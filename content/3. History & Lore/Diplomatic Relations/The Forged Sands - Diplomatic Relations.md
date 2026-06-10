@@ -33,7 +33,7 @@ The Forged Sands needs fragments for survival, not luxury. That single fact driv
 | Ash-Korrath | 🔵 Distant | Both nations understand isolation; trade is limited but vital. |
 | Bastions of Solara | 🔵 Distant | Solara struggles to place Steelborn life within its moral categories. |
 | Redmarch Coalition | 🔵 Distant Hostility | Little diplomacy, high caution. |
-| Thalenmark Empire | 🟡 Practical | Halfling trade can supply rare goods without demanding much ideology. |
+| [[Thalenmark Empire]] | 🟡 Practical | Halfling trade can supply rare goods without demanding much ideology. |
 
 ---
 
@@ -84,7 +84,7 @@ Solara struggles to place Steelborn life within its moral categories.
 
 Little diplomacy, high caution.
 
-### Thalenmark Empire
+### [[Thalenmark Empire]]
 **Status:** 🟡 Practical
 
 Halfling trade can supply rare goods without demanding much ideology.

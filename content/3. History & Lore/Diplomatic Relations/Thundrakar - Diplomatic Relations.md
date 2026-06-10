@@ -33,7 +33,7 @@ Thundrakar's greatest tension is need. The clans distrust fragment dependence, y
 | Bastions of Solara | 🔵 Cold | Solara's law and judgment offend goliath independence and rarely go in their favor. |
 | Redmarch Coalition | ⚪ Violent Respect | Both understand strength and raiding, but compete too often to be friends. |
 | The Forged Sands | 🔵 Distant | Goliaths distrust constructed life and harsh desert isolation limits contact. |
-| Thalenmark Empire | 🟠 Strained | Raiding and food trade create a relationship of need and resentment. |
+| [[Thalenmark Empire]] | 🟠 Strained | Raiding and food trade create a relationship of need and resentment. |
 
 ---
 
@@ -84,7 +84,7 @@ Both understand strength and raiding, but compete too often to be friends.
 
 Goliaths distrust constructed life and harsh desert isolation limits contact.
 
-### Thalenmark Empire
+### [[Thalenmark Empire]]
 **Status:** 🟠 Strained
 
 Raiding and food trade create a relationship of need and resentment.

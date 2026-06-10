@@ -2,7 +2,7 @@
 
 | The Bronze Talons | |
 |:--|:--|
-| Nation | Thalenmark Empire |
+| Nation | [[Thalenmark Empire]] |
 | Type | Martial Guild |
 | Leader | Deyla |
 | Symbol | A bronze claw gripping a coin |

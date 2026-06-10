@@ -2,7 +2,7 @@
 
 | The Velvet Ledger | |
 |:--|:--|
-| Nation | Thalenmark Empire / Talvereth |
+| Nation | [[Thalenmark Empire]] / [[Talvereth]] |
 | Type | Criminal Syndicate |
 | Leader | Selrik |
 | Symbol | A black quill |
