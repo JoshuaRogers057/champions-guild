@@ -35,7 +35,9 @@ Following [[The Talvereth Crisis]], only **eight Council members survive**; twel
 
 *† rescued by Champions Guild teams during the Crisis.*
 
-**Deceased in the Crisis:** Marlowe "Silvertongue" Grint, Hestira Goldwhistle, Velza Merriweather-Bramblehook, Jeffro Goldbrook, Ruford Halfpenny, Berrick Copperlane, Maela Quickwater, Pella Nighttoll, Tansy Fairwheeler, Liora Warmcoin, Kip Thornettle, Corin Hearthwhistle.
+**Deceased in the Crisis:** Marlowe "Silvertongue" Grint, Hestira Goldwhistle, Velza Merriweather-Bramblehook, Ruford Halfpenny, Berrick Copperlane, Maela Quickwater, Pella Nighttoll, Tansy Fairwheeler, Liora Warmcoin, Kip Thornettle, Corin Hearthwhistle.
+
+**Jeffro Goldbrook** (Steady Ledger — money-lending & credit, Goldbrook & Co.) was assassinated in his own home roughly three months *before* the Crisis. The campaign to fill his vacant seat — widely seen as bought and rigged — convinced many that the whole system was corrupt, and became one of the sparks that ignited the riots.
 
 **The aftermath:** Every faction is scrambling to fill vacancies with loyalists. Corin Hearthwhistle oversaw Bronze Talons licensing — no one currently does. Goldbrook & Co. is leaderless and credit markets are destabilized.
 
@@ -138,7 +140,7 @@ Some halfling families consider these markings sacred; others see them as danger
 - **Goblinoid Raids:** Goblinoid factions regularly raid outlying trade routes. Sky Rider retaliation has burned several goblin settlements, escalating tensions.
 - **Internal Council Friction:** A proposed tax exemption for small traders sparked walkouts, bribes, and a duel by proxy on the Grand Exchange floor between the Free Trade Faction and Lords of Profit.
 - **Tax Resistance:** Several towns hoard wealth locally, resisting collection demands from Talvereth tax agents. Mercenaries have been dispatched, fueling further rural dissent.
-- **The Prophetess:** A Yondallan prophetess, [[Luma Mossbank]], preaches on the outskirts of Talvereth that the "Age of Greed" will bring ruin without repentance. She has attracted both fanatical supporters and wealthy enemies.
+- **The Prophetess's Legacy:** The Yondallan prophetess [[Bruna Mossbank]] preached on the outskirts of Talvereth that the "Age of Greed" would bring ruin without repentance. Her movement was a key spark of the Crisis; she died during it, and her followers remain — some calling her a martyr.
 
 ---
 
@@ -157,4 +159,4 @@ Full roster under [Government → The Gilded Council](#the-gilded-council).
 **Matron [[Gilly Pebblepatch]]** (Snootburrow) — Mushroom farmer and underground herbalist. Quietly supports Yondalla over Waukeen.
 **Sheriff [[Mo Mumblefoot]]** (Dapplebank) — Honest and gruff; enforces rural law with wisdom and wit. Feels alienated from Talvereth bureaucracy. Former route scout under Deyla.
 **Vintner [[Hobbin Grapecheek]]** (Glimtwine) — Master winemaker and village elder. Charismatic and well-traveled. Friendly rival of Chef Bramble Muffletop of Nibblebrook; competes annually at the Harvest Jubilee.
-**[[Luma Mossbank]]** — Yondallan Prophetess. Fiery-eyed seer gaining rural followers rapidly; predicts a "reckoning of coin." Disliked by the Gilded Council. Some towns call her a saint, others a traitor.
+**[[Bruna Mossbank]]** † — Yondallan Prophetess. Fiery-eyed seer whose rural following and prophecy of a "reckoning of coin" helped spark [[The Talvereth Crisis]]. She died during the Crisis. Some towns call her a saint and martyr, others a traitor.
