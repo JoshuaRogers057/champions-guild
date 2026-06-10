@@ -20,4 +20,4 @@ Cloverfold is a halfling village of the [[Thalenmark Empire]].
 
 ## Notes
 
-Site of a recent religious conflict: a Waukeenite-funded bank attempted to seize ancestral tea-farming land. A peaceful protest turned violent — three dead and a Waukeenite temple burned. The [[Gilded Council]] refused to take sides. Tariffs on Cloverfold goods remain a sore point in the urban/rural rift.
+Site of a recent religious conflict: a Waukeenite-funded bank attempted to seize ancestral tea-farming land. A peaceful protest turned violent — three dead and a Waukeenite temple burned. The [[Thalenmark Empire#The Gilded Council|Gilded Council]] refused to take sides. Tariffs on Cloverfold goods remain a sore point in the urban/rural rift.

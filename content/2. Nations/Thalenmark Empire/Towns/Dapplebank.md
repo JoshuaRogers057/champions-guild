@@ -20,4 +20,4 @@ Dapplebank is a halfling village of the [[Thalenmark Empire]].
 
 ## Notes
 
-Sheriff [[Mo Mumblefoot]] is honest and gruff, enforcing rural law with wisdom and wit. He feels alienated from [[Talvereth]] bureaucracy. Former route scout under [[Deyla]] of [[The Bronze Talons]].
+Sheriff [[Mo Mumblefoot]] is honest and gruff, enforcing rural law with wisdom and wit. He feels alienated from Talvereth bureaucracy. Former route scout under [[Deyla]] of the Bronze Talons.
