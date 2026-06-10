@@ -20,4 +20,4 @@ Sweetroot is a halfling village of the [[Thalenmark Empire]].
 
 ## Notes
 
-Matron [[Bellamy Goodbarrel]] is elderly and kind, with a steel-trap mind for preserving techniques and negotiation. She seeks to protect village autonomy. Distant cousin of the late Marlowe Grint; she despised what he had become.
+Matron [[Bellamy Goodbarrel]] is elderly and kind, with a steel-trap mind for preserving techniques and negotiation. She seeks to protect village autonomy. Distant cousin of the late [[Marlowe Grint]]; she despised what he had become.

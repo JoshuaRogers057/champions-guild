@@ -140,7 +140,7 @@ Some halfling families consider these markings sacred; others see them as danger
 - **Goblinoid Raids:** Goblinoid factions regularly raid outlying trade routes. Sky Rider retaliation has burned several goblin settlements, escalating tensions.
 - **Internal Council Friction:** A proposed tax exemption for small traders sparked walkouts, bribes, and a duel by proxy on the Grand Exchange floor between the Free Trade Faction and Lords of Profit.
 - **Tax Resistance:** Several towns hoard wealth locally, resisting collection demands from Talvereth tax agents. Mercenaries have been dispatched, fueling further rural dissent.
-- **The Prophetess's Legacy:** The Yondallan prophetess [[Bruna Mossbank]] preached on the outskirts of Talvereth that the "Age of Greed" would bring ruin without repentance. Her movement was a key spark of the Crisis; she died during it, and her followers remain — some calling her a martyr.
+- **The Prophetess's Legacy:** The Yondallan prophetess [[Bruna Mossvale]] preached on the outskirts of Talvereth that the "Age of Greed" would bring ruin without repentance. Her movement was a key spark of the Crisis; she died during it, and her followers remain — some calling her a martyr.
 
 ---
 
@@ -151,13 +151,12 @@ Full roster under [Government → The Gilded Council](#the-gilded-council).
 
 **[[Tobren Pindlewatt]]** — Chief of Coinring Investments. The quiet master of banking and finance; rarely seen in public. Believed to be either a reclusive genius or a magically projected illusion.
 **[[Dando Thornspill]]** — Cultural Mogul and Information Broker. Theatrical and cunning; controls plays, newspapers, courier networks, and blackmail pipelines. Rescued from a fortified bank during the Crisis.
-**[[Bruna Mossvale]]** † — Yondallan Prophetess. Fiery-eyed seer whose rural following and prophecy of a "reckoning of coin" helped spark [[The Talvereth Crisis]]. She died during the Crisis. Some towns call her a saint and martyr, others a traitor.
-
 
 ### Rural NPCs
 
-**Matron [[Bellamy Goodbarrel]]** (Sweetroot) — Elderly and kind, with a steel-trap mind for preserving techniques and negotiation. Seeks to protect village autonomy. Distant cousin of the late Marlowe Grint; despised what he had become.
-**Clocksmith [[Ginder Tosslepot]]** (Brasshill) — Eccentric inventor of halfling watches and minor automatons. Desires an academic post at Hearthlight University. Corresponded with the late Velza Merriweather-Bramblehook on arcane gearwork theories.
-**Matron [[Gilly Pebblepatch]]** (Snootburrow) — Mushroom farmer and underground herbalist. Quietly supports Yondalla over Waukeen.
-**Sheriff [[Mo Mumblefoot]]** (Dapplebank) — Honest and gruff; enforces rural law with wisdom and wit. Feels alienated from Talvereth bureaucracy. Former route scout under Deyla.
-**Vintner [[Hobbin Grapecheek]]** (Glimtwine) — Master winemaker and village elder. Charismatic and well-traveled. Friendly rival of Chef Bramble Muffletop of Nibblebrook; competes annually at the Harvest Jubilee.
+**Matron [[Bellamy Goodbarrel]]** ([[Sweetroot]]) — Elderly and kind, with a steel-trap mind for preserving techniques and negotiation. Seeks to protect village autonomy. Distant cousin of the late [[Marlowe Grint]]; despised what he had become.
+**Clocksmith [[Ginder Tosslepot]]** ([[Brasshill]]) — Eccentric inventor of halfling watches and minor automatons. Desires an academic post at Hearthlight University. Corresponded with the late [[Velza Merriweather-Bramblehook]] on arcane gearwork theories.
+**Matron [[Gilly Pebblepatch]]** ([[Snootburrow]]) — Mushroom farmer and underground herbalist. Quietly supports [[Yondalla]] over [[Waukeen]].
+**Sheriff [[Mo Mumblefoot]]** ([[Dapplebank]]) — Honest and gruff; enforces rural law with wisdom and wit. Feels alienated from [[Talvereth]] bureaucracy. Former route scout under [[5. People/NPCs/Thalenmark/Deyla|Deyla]].
+**Vintner [[Hobbin Grapecheek]]** ([[Glimtwine]]) — Master winemaker and village elder. Charismatic and well-traveled. Friendly rival of Chef [[Bramble Muffletop]] of [[Nibblebrook]]; competes annually at the Harvest Jubilee.
+**[[Bruna Mossvale]]** † — Yondallan Prophetess. Fiery-eyed seer whose rural following and prophecy of a "reckoning of coin" helped spark [[The Talvereth Crisis]]. She died during the Crisis. Some towns call her a saint and martyr, others a traitor.

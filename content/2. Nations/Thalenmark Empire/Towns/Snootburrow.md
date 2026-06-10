@@ -20,4 +20,4 @@ Snootburrow is a halfling village of the [[Thalenmark Empire]].
 
 ## Notes
 
-Matron [[Gilly Pebblepatch]] is an underground herbalist who quietly supports Yondalla over Waukeen.
+Matron [[Gilly Pebblepatch]] is an underground herbalist who quietly supports [[Yondalla]] over [[Waukeen]].

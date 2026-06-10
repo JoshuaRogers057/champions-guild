@@ -20,4 +20,4 @@ Brasshill is a halfling village of the [[Thalenmark Empire]].
 
 ## Notes
 
-Clocksmith [[Ginder Tosslepot]] is an eccentric inventor of halfling watches and minor automatons. He desires an academic post at Hearthlight University, and corresponded with the late Velza Merriweather-Bramblehook on arcane gearwork theories.
+Clocksmith [[Ginder Tosslepot]] is an eccentric inventor of halfling watches and minor automatons. He desires an academic post at Hearthlight University, and corresponded with the late [[Velza Merriweather-Bramblehook]] on arcane gearwork theories.

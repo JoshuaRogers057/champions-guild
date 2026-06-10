@@ -20,4 +20,4 @@ Glimtwine is a halfling village of the [[Thalenmark Empire]].
 
 ## Notes
 
-Vintner [[Hobbin Grapecheek]] is a master winemaker and village elder, charismatic and well-traveled. Friendly rival of Chef Bramble Muffletop of [[Nibblebrook]]; they compete annually at the Harvest Jubilee.
+Vintner [[Hobbin Grapecheek]] is a master winemaker and village elder, charismatic and well-traveled. Friendly rival of Chef [[Bramble Muffletop]] of [[Nibblebrook]]; they compete annually at the Harvest Jubilee.

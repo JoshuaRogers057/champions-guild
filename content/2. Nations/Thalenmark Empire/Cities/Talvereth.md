@@ -5,7 +5,7 @@
 | Nation | [[Thalenmark Empire]] |
 | Type | Capital City |
 | Population | ~300,000 |
-| Ruler | The [[Thalenmark Empire#The Gilded Council|Gilded Council]] |
+| Ruler | Thalenmark Empire, Gilded Council  |
 | Location | Coastal crescent bay |
 | Notable For | The Grand Exchange, the Loop, world's financial hub |
 
@@ -15,7 +15,7 @@
 
 Talvereth is the shimmering jewel of the halfling empire — a sprawling port city where every stone is mortgaged and every shadow might hide a contract negotiation. Built along a vast crescent bay, its skyline rises with polished domes, colorful market towers, and spires wrapped in the banners of trade guilds and merchant families. It is the capital not because of its politics, but because of its unmatched wealth and commerce. It is the economic heart of the world; all major trade routes pass through it sooner or later.
 
-Talvereth is effectively ruled by the [[Thalenmark Empire#The Gilded Council|Gilded Council]]. A ceremonial royal family still exists, serving symbolic functions at festivals and diplomatic events. In practice, coin is king, and **Waukeen** — goddess of wealth and trade — is its most widely worshipped deity.
+Talvereth is effectively ruled by the [[Thalenmark Empire#The Gilded Council|Gilded Council]]. A ceremonial royal family still exists, serving symbolic functions at festivals and diplomatic events. In practice, coin is king, and **[[Waukeen]]** — goddess of wealth and trade — is its most widely worshipped deity.
 
 ---
 
@@ -39,7 +39,7 @@ Talvereth is not policed by a city watch alone. Enforcement comes from private m
 
 ## The Talvereth Crisis — Aftermath
 
-Religious divisions, economic strain, and the influence of the Velvet Ledger pushed the city into full-scale riots — ignited by the rigged campaign for Jeffro Goldbrook's vacant Council seat and the preaching of the prophetess [[Bruna Mossbank]] — culminating in the Battle for Talvereth. Eleven [[Thalenmark Empire#The Gilded Council|Gilded Council]] members died; three bombs were handled, one detonating in a Waukeen temple. Champions Guild participants were awarded the title **Shield of Talvereth**.
+Religious divisions, economic strain, and the influence of the Velvet Ledger pushed the city into full-scale riots — ignited by the rigged campaign for Jeffro Goldbrook's vacant Council seat and the preaching of the prophetess [[Bruna Mossvale]] — culminating in the Battle for Talvereth. Eleven [[Thalenmark Empire#The Gilded Council|Gilded Council]] members died; three bombs were handled, one detonating in a Waukeen temple. Champions Guild participants were awarded the title **Shield of Talvereth**.
 
 **Lingering consequences:**
 - The Velvet Ledger remains active within the city
