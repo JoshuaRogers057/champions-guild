@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Duraz-Mor is serene, radiant, and meticulously sculpted. Every street and plaza reflects the reverence this city holds for legacy and memory. Matron Elzra sees artistry as dwarven immortality. The Veinspire Tree blossoms with the memory of the honored dead,...
+- [[Duraz-Mor]] is serene, radiant, and meticulously sculpted. Every street and plaza reflects the reverence this city holds for legacy and memory. Matron Elzra sees artistry as dwarven immortality. The Veinspire Tree blossoms with the memory of the honored dead,...
 
 ## Source Documents
 - Dwarves Final.docx

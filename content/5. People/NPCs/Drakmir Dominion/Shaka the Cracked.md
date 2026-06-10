@@ -23,7 +23,7 @@ tags:
 
 ## Role & Notes
 - Leader: Shaka the Cracked, a golden-scaled dragonborn with facial scarring
-- Shaka the Cracked: Golden-scaled dragonborn rogue and leader of the Cracked Scale. Her fractured faceplate is a badge of defiance. She commands a network of spies, assassins, and smugglers. Wields the rapier Shadowslicer.
+- Shaka the Cracked: Golden-scaled dragonborn rogue and leader of [[The Cracked Scale]]. Her fractured faceplate is a badge of defiance. She commands a network of spies, assassins, and smugglers. Wields the rapier Shadowslicer.
 
 ## Source Documents
 - Drakmir Dominion.docx

@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Leader: Captain Relvyn Marr
-- The Hollow Compass –Captain Relvyn Marr
+- The [[Hollow Compass]] –Captain Relvyn Marr
 
 ## Source Documents
 - Criminals and mercenaries.docx

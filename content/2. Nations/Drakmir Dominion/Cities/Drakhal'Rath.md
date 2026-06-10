@@ -19,22 +19,22 @@ The city climbs from the coast toward the great semi-dormant volcano that domina
 
 At the heart of the volcano sits **the Conclave** — carved into the inner stone of the mountain. The chamber is stark by design. Its power comes not from ornament, but from weight. Every word spoken there is expected to survive memory.
 
-Beneath the Conclave, deeper than any public road is allowed to reach, lies the hidden seat of the **Archon of Scales**. No citizen sees the Archon. No foreign ruler is granted audience. Decrees rise from below through sealed channels and trusted hands, entering the city like heat through stone.
+Beneath the Conclave, deeper than any public road is allowed to reach, lies the hidden seat of the **[[Archon of Scales]]**. No citizen sees the Archon. No foreign ruler is granted audience. Decrees rise from below through sealed channels and trusted hands, entering the city like heat through stone.
 
 ---
 
 ## Leadership
 
-**Scale Bearer Vornak Thryss** — Towering figure whose reputation was first made in war and later sharpened in politics. Speaks rarely in public; his restraint has become part of his legend.
+**Scale Bearer [[Vornak Thryss]]** — Towering figure whose reputation was first made in war and later sharpened in politics. Speaks rarely in public; his restraint has become part of his legend.
 
-**High Envoy Sareth Vokar** — Oversees foreign delegations from a harbor office. Offers welcome, shelter, ceremony, and warning in the same polished breath.
+**High Envoy [[Sareth]] Vokar** — Oversees foreign delegations from a harbor office. Offers welcome, shelter, ceremony, and warning in the same polished breath.
 
 **Archivist Vikka Ninesoot** — Keeper of the Dominion's public records of service, disgrace, abdication, adoption, promotion, and removal. A deed not recorded may fade. A shame entered under her seal can outlive the bones of the guilty.
 
-**Guildmistress Rilza Sparkclaw** *(Artificers Guild)* — Oversees approved engines, civic works, and state magitech that keep the Dominion functioning.
+**Guildmistress [[Rilza Sparkclaw]]** *(Artificers Guild)* — Oversees approved engines, civic works, and state magitech that keep the Dominion functioning.
 
-**High Delver Korrav Thane-Sul** *(Mining Guild)* — Authority reaches from Rath into the deepest Fragment veins of Zakath and beyond.
+**High Delver Korrav Thane-Sul** *(Mining Guild)* — Authority reaches from Rath into the deepest Fragment veins of [[Zakath]] and beyond.
 
 **Trade Speaker Malrix Venn** *(Trade Union)* — Polite rulings can open a foreign fortune or quietly end one.
 
-**Forge-Master Kezrak Flamebreath** *(State Forge Guild)* — Produces honor blades, seals, gifts, and weapons whose meaning is often greater than their edge.
+**Forge-Master [[Kezrak Flamebreath]]** *(State Forge Guild)* — Produces honor blades, seals, gifts, and weapons whose meaning is often greater than their edge.

@@ -15,7 +15,7 @@
 
 The only dwarven city outside the mountain range, Huarthal sprawls across a valley with terraced stone architecture climbing the cliffs and wide stone bridges spanning icy rivers. It blends highland farming with dwarven engineering. Huarthal's river port has grown into one of the most strategically significant trade points in Kar Dromm.
 
-*Note: Thane Brokk Stonesky died during the Winter of Huarthal (1017–1018). The official account named sudden illness. Assassination was claimed by Clan Stonesky. No successor has emerged. Huarthal is presently governed by a council of stewards, harbor masters, senior captains, and clan elders.*
+*Note: Thane [[Brokk Stonesky]] died during the Winter of Huarthal (1017–1018). The official account named sudden illness. Assassination was claimed by Clan Stonesky. No successor has emerged. Huarthal is presently governed by a council of stewards, harbor masters, senior captains, and clan elders.*
 
 **Fragment Mine:** Huarthal is home to one of the three major fragment mines in the dwarven lands.
 

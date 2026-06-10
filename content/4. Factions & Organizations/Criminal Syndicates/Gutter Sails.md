@@ -8,7 +8,7 @@
 </div>
 # Gutter Sails
 
-**Leader:** Mistress Tolla Rakefang
+**Leader:** Mistress [[Tolla Rakefang]]
 
 ---
 

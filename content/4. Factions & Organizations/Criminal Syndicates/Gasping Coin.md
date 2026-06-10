@@ -8,7 +8,7 @@
 </div>
 # Gasping Coin
 
-**Leader:** Vesk Draive
+**Leader:** [[Vesk Draive]]
 
 ---
 

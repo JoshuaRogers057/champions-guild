@@ -8,7 +8,7 @@
 </div>
 # Painted Blades
 
-**Leader:** Priestess Veyna Kael
+**Leader:** Priestess [[Veyna Kael]]
 
 ---
 

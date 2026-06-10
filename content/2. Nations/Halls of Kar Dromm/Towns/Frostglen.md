@@ -11,5 +11,5 @@
 
 # Frostglen
 
-**Leader:** Snowwarden Korla Icebraid
+**Leader:** Snowwarden [[Korla Icebraid]]
 **Known For:** Cold-weather gear and fur trade

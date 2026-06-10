@@ -8,7 +8,7 @@
 </div>
 # Hollow Compass
 
-**Leader:** Captain Relvyn Marr
+**Leader:** Captain [[Relvyn Marr]]
 
 ---
 

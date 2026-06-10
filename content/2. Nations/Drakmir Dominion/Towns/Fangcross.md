@@ -12,7 +12,7 @@
 
 # Fangcross
 
-**Leader:** Chaplain Barost
+**Leader:** [[Chaplain Barost]]
 **Known For:** Leatherworking and footwear crafting
 
 **Notable Feature:** The Velvet Step Gallery — a narrow, carpeted hall where new shoes are tested for noise; quieter step, higher price

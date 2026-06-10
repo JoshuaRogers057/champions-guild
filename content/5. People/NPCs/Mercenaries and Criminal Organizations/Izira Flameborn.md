@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Leader: Scorch-Speaker Izira Flameborn
-- The Emberwake Company – Scorch-Speaker Izira Flameborn
+- The [[Emberwake Company]] – Scorch-Speaker Izira Flameborn
 
 ## Source Documents
 - Criminals and mercenaries.docx

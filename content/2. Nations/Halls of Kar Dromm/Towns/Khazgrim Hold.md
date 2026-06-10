@@ -11,5 +11,5 @@
 
 # Khazgrim Hold
 
-**Leader:** Jarl Morra Steelvein
+**Leader:** Jarl [[Morra Steelvein]]
 **Known For:** Military defense and outpost

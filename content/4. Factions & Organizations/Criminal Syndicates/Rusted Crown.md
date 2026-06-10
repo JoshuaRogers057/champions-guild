@@ -8,7 +8,7 @@
 </div>
 # Rusted Crown
 
-**Leader:** Scraplord Gullik Rakehand
+**Leader:** Scraplord [[Gullik Rakehand]]
 
 ---
 

@@ -67,7 +67,7 @@ Drakmir has fragments, discipline, and military appetite; every deal could stren
 ### Ash-Korrath
 **Status:** 🔵 Formal
 
-Rare infernal materials tempt Lexovar, but Ash-Korrath reveals little and trusts less.
+Rare infernal materials tempt Lexovar, but [[Ash-Korrath]] reveals little and trusts less.
 
 ### Bastions of Solara
 **Status:** 🔵 Formal and Tense

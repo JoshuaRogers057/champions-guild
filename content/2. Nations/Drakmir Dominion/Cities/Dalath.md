@@ -13,7 +13,7 @@
 
 # Dalath
 
-Dalath lies in the southern hills of the Dominion, roughly fifty miles from Sylvandar's reach. Long before the Drakmir claimed it, the land belonged to the elves, and traces of that older rule still appear beneath soot, stone, and iron — a broken arch in a factory wall, a root-carved chamber beneath a foundry, or a half-buried elven road under a rail line.
+Dalath lies in the southern hills of the Dominion, roughly fifty miles from [[Sylvandar]]'s reach. Long before the Drakmir claimed it, the land belonged to the elves, and traces of that older rule still appear beneath soot, stone, and iron — a broken arch in a factory wall, a root-carved chamber beneath a foundry, or a half-buried elven road under a rail line.
 
 When the old fighting made the surface too exposed, the Drakmir drove workshops, shelters, stores, and engines beneath the hills. The city never fully disappeared underground, but it learned how to survive below as well as above. Dalath respects usefulness more than elegance. Its citizens admire work that holds, machines that survive testing, and leaders who understand the labor they command.
 
@@ -43,4 +43,4 @@ When the old fighting made the surface too exposed, the Drakmir drove workshops,
 
 **Forge-Captain Dorrak Cindermane** — Commands the Chain Assembly's military production yards. Treats every war machine as something that must be trained before it can be trusted.
 
-**Rootwarden Saelrix Thorne** — Green-scaled kobold historian-engineer. Studies the old elven chambers beneath the city. Insists that Dalath's future depends on understanding what the Dominion buried under its own victory.
+**Rootwarden Saelrix [[Thorne]]** — Green-scaled kobold historian-engineer. Studies the old elven chambers beneath the city. Insists that Dalath's future depends on understanding what the Dominion buried under its own victory.

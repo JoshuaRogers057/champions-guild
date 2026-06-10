@@ -11,5 +11,5 @@
 
 # Thorgarn's End
 
-**Leader:** Hermit King Balgrim
+**Leader:** Hermit King [[Balgrim]]
 **Known For:** Exile town and pilgrimage site

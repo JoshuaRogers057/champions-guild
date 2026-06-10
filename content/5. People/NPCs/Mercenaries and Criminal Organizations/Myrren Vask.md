@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Leader: Captain Myrren Vask
-- The Voidwake Enclave –Captain Myrren Vask
+- The [[Voidwake Enclave]] –Captain Myrren Vask
 
 ## Source Documents
 - Criminals and mercenaries.docx

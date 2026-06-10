@@ -8,7 +8,7 @@
 </div>
 # Silver Sails
 
-**Leader:** Serel Valcours
+**Leader:** [[Serel Valcours]]
 
 ---
 

@@ -12,7 +12,7 @@
 
 # Aurel's Bounty
 
-**Leader:** Overseer Bren Talithar
+**Leader:** Overseer [[Bren Talithar]]
 **Known For:** Bulk grain and supply production for the Bastions
 
 **Notable Feature:** The Harvest Drum Tower — coordinates the entire valley's labor with rhythmic pulses

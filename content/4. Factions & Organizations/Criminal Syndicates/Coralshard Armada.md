@@ -8,7 +8,7 @@
 </div>
 # Coralshard Armada
 
-**Leader:** Admiral Thalassa Crestpiercer
+**Leader:** Admiral [[Thalassa Crestpiercer]]
 
 ---
 

@@ -88,5 +88,5 @@ The Steelborn mercenary hammer. They excel at siege warfare, battlefield fortifi
 **Tradecore Glintcipher** — Echo Market's diplomatic envoy and market overseer.
 **Helmsage [[Quenforge]]** — Lead shipwright of Ironwake Docks. Left arm is a forge-nozzle, right eye is a depth gauge.
 **Signal Warden Hexbyte** — Interprets long-range arcane pulses like a musician hears notes.
-**Admiral Steelwake** — See Steel Sails above.
+**Admiral Steelwake** — See [[Steel Sails]] above.
 **Prime Marshal** — See Forgebound Legion above.

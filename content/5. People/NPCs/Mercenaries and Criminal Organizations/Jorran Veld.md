@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Leader: Commander Jorran Veld
-- The Ironwake Brotherhood – Commander Jorran Veld
+- The [[Ironwake Brotherhood]] – Commander Jorran Veld
 
 ## Source Documents
 - Criminals and mercenaries.docx

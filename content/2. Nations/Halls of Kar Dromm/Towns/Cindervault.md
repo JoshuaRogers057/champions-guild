@@ -11,5 +11,5 @@
 
 # Cindervault
 
-**Leader:** Firecrafter Modren Flameforge
+**Leader:** Firecrafter [[Modren Flameforge]]
 **Known For:** Coal mining and furnace running

@@ -12,7 +12,7 @@
 
 # Umbrafern
 
-**Leader:** Shadecaller Ness
+**Leader:** Shadecaller [[Ness]]
 **Known For:** Fernleaf harvesting and shadow-dye crafting
 
 **Notable Feature:** The Whisperbed — a mossy grove where travelers sleep undisturbed, lulled by herbal incense; said to give visions of past victories

@@ -11,5 +11,5 @@
 
 # Braldun Forge
 
-**Leader:** Forgefather Rurik Flamebrow
+**Leader:** Forgefather [[Rurik Flamebrow]]
 **Known For:** Weapon and armor crafting

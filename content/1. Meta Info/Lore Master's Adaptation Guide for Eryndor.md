@@ -60,19 +60,19 @@ title: Lore Master's Adaptation Guide for Eryndor
 *(Replaces: Zhentarim Mercenary)*
 
 - **Region:** Thalenmark.
-- **Lore:** The Velvet Ledger is Eryndor's most dangerous financial-criminal syndicate — a covert mixture of bankers, assassins, brokers, and blackmailers whose influence reaches every port, caravan route, and economic center on the continent. You either served them or barely escaped their debts.
+- **Lore:** [[The Velvet Ledger]] is Eryndor's most dangerous financial-criminal syndicate — a covert mixture of bankers, assassins, brokers, and blackmailers whose influence reaches every port, caravan route, and economic center on the continent. You either served them or barely escaped their debts.
 
 ### Arcane Wanderer of Eryndor
 *(Replaces: Rashemi Wanderer)*
 
 - **Region:** Any.
 - **Lore:** You traveled the magical arteries of Eryndor — drifting between arcane academies, wild-magic regions, battlefield ruins, and wandering spell-sages.
-- **Origin:** Whether you studied briefly in the Arcanum of [[Contramara]], the experimental halls of Lexovar, the storm academies of Vorth, or among nomadic mage circles, your life has been defined by movement, curiosity, and exposure to many forms of magic.
+- **Origin:** Whether you studied briefly in the Arcanum of [[Contramara]], the experimental halls of Lexovar, the storm academies of [[Vorth]], or among nomadic mage circles, your life has been defined by movement, curiosity, and exposure to many forms of magic.
 
 ### Shadowmasters Exile
 
 - **Region:** Any region with active criminal networks.
 - **Lore:** Your life was shaped in the underbellies of civilization — places where law has no reach and the shadows have names. You survived the black markets of [[Borgnar]], the Guttering Lantern beneath [[Ciliren]], the night warrens of Spens, the docks of [[Contramara]], or the shattered tunnels beneath Rath.
 - **Criminal Organizations:** Most Exiles have crossed paths with Eryndor's infamous syndicates:
-  - **The Velvet Ledger:** Masters of blackmail, laundering, assassinations, insider trading, and corporate sabotage.
-  - **The Brotherhood of the Rat:** A sprawling network of thieves, saboteurs, smuggler
+  - **[[The Velvet Ledger]]:** Masters of blackmail, laundering, assassinations, insider trading, and corporate sabotage.
+  - **The [[Brotherhood of the Rat]]:** A sprawling network of thieves, saboteurs, smuggler

@@ -8,7 +8,7 @@
 </div>
 # Mirefang Collective
 
-**Leader:** High Stalker Sssslat
+**Leader:** High Stalker [[Sssslat]]
 
 ---
 

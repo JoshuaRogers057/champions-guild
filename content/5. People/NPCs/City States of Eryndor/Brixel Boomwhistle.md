@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 3
 
 ## Role & Notes
-- Brixel Boomwhistle – Leader of the Black Powder Pact. Missing eyebrows, never discouraged.
+- Brixel Boomwhistle – Leader of the [[Black Powder Pact]]. Missing eyebrows, never discouraged.
 - Leader: Brixel Boomwhistle
 
 ## Source Documents

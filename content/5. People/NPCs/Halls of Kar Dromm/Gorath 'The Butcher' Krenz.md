@@ -20,8 +20,8 @@ tags:
 - **Occurrences in source material:** 3
 
 ## Role & Notes
-- The Rotrok Marauders: A rogue coalition of bandits and mercenaries led by Gorath "The Butcher" Krenz, a ruthless artificer with a passion for chaos.
-- Gorath "The Butcher" Krenz — Leader of the Rotrok Marauders, a rogue artificer mercenary
+- [[The Rotrok Marauders]]: A rogue coalition of bandits and mercenaries led by Gorath "The Butcher" Krenz, a ruthless artificer with a passion for chaos.
+- Gorath "The Butcher" Krenz — Leader of [[The Rotrok Marauders]], a rogue artificer mercenary
 - Leader: Gorath “The Butcher” Krenz
 
 ## Source Documents

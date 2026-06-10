@@ -21,7 +21,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Blonde high elf leader of the Nightbloom Syndicate
+- Blonde high elf leader of [[The Nightbloom Syndicate]]
 - appears hooded and keeps her face partly hidden.
 
 ## Source Documents

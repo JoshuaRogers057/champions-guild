@@ -128,28 +128,28 @@ Powerful dragonborn families may develop the Old Blood of the Wyrm. These bloodl
 
 ### The Conclave — Scale Bearers
 
-**Vornak Thryss** — Scale Bearer of Drakhal'Rath. Towering figure whose reputation was first made in war and later sharpened in politics. Speaks rarely in public.
+**[[Vornak Thryss]]** — Scale Bearer of [[Drakhal'Rath]]. Towering figure whose reputation was first made in war and later sharpened in politics. Speaks rarely in public.
 
-**Kravel Vorrask** — Scale Bearer of Kryzath. Believes war exposes the truth of people. Severe, precise, and convinced that a commander's first duty is to remove weakness before it reaches the field.
+**[[Kravel Vorrask]]** — Scale Bearer of [[Kryzath]]. Believes war exposes the truth of people. Severe, precise, and convinced that a commander's first duty is to remove weakness before it reaches the field.
 
-**Azran Veyrusk** — Scale Bearer of Azurath. Dark blue dragonborn with frost scars across his jaw and one horn broken near the base. More comfortable on a harbor wall than in a council chamber.
+**Azran Veyrusk** — Scale Bearer of [[Azurath]]. Dark blue dragonborn with frost scars across his jaw and one horn broken near the base. More comfortable on a harbor wall than in a council chamber.
 
-**Vellior Thazarn** — Scale Bearer of Vorth. Silver-scaled archmage whose calm feels almost unnatural beneath the city's constant thunder.
+**[[Vellior Thazarn]]** — Scale Bearer of [[Vorth]]. Silver-scaled archmage whose calm feels almost unnatural beneath the city's constant thunder.
 
-**Myrrik Velthorn** — Scale Bearer of Zakath. Gold-scaled dragonborn economist and master of trade law.
+**[[Myrrik Velthorn]]** — Scale Bearer of [[Zakath]]. Gold-scaled dragonborn economist and master of trade law.
 
-**Raxiv Moltane** — Scale Bearer of Dalath. Brass-scaled dragonborn with furnace scars. Known for speaking plainly enough to make polished politicians uncomfortable.
+**Raxiv Moltane** — Scale Bearer of [[Dalath]]. Brass-scaled dragonborn with furnace scars. Known for speaking plainly enough to make polished politicians uncomfortable.
 
-**Threxan Goldwake** — Scale Bearer of Rakkath. Copper-scaled dragonborn with a merchant's patience and a magistrate's memory.
+**Threxan Goldwake** — Scale Bearer of [[Rakkath]]. Copper-scaled dragonborn with a merchant's patience and a magistrate's memory.
 
 ### Notable Figures
 
-**Ralvik Brightcoil** — Scale Bearer of Dalath (appointed 1018 after his father's assassination). Stern, procedural, and openly contemptuous of corruption.
+**Ralvik Brightcoil** — Scale Bearer of [[Dalath]] (appointed 1018 after his father's assassination). Stern, procedural, and openly contemptuous of corruption.
 
-**General Draknar Kiz** — Architect of the Emberwood burning. Semi-retired, now serving as trainer and advisor. Championed rail logistics. A defining and controversial figure in Dominion history.
+**General [[Draknar Kiz]]** — Architect of the Emberwood burning. Semi-retired, now serving as trainer and advisor. Championed rail logistics. A defining and controversial figure in Dominion history.
 
-**Shaka the Cracked** — Leader of the Cracked Scale. Golden-scaled dragonborn fixer, smuggler, and information broker who understands the difference between crime that weakens the Dominion and crime that oils its gears.
+**[[Shaka the Cracked]]** — Leader of [[The Cracked Scale]]. Golden-scaled dragonborn fixer, smuggler, and information broker who understands the difference between crime that weakens the Dominion and crime that oils its gears.
 
-**High Envoy Sareth Vokar** — Oversees Drakhal'Rath's harbor and foreign delegations. Gracious in the way only a powerful nation can afford to be.
+**High Envoy [[Sareth]] Vokar** — Oversees [[Drakhal'Rath]]'s harbor and foreign delegations. Gracious in the way only a powerful nation can afford to be.
 
-**Archivist Vikka Ninesoot** — Keeper of the Dominion's public records of service, disgrace, abdication, adoption, promotion, and removal in Drakhal'Rath. Few citizens mistake her small office for small power.
+**Archivist Vikka Ninesoot** — Keeper of the Dominion's public records of service, disgrace, abdication, adoption, promotion, and removal in [[Drakhal'Rath]]. Few citizens mistake her small office for small power.

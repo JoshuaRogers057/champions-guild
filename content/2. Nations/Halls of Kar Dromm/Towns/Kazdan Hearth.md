@@ -11,5 +11,5 @@
 
 # Kazdan Hearth
 
-**Leader:** Matriarch Threna Hearthblood
+**Leader:** Matriarch [[Threna Hearthblood]]
 **Known For:** Communal housing and food hall

@@ -11,5 +11,5 @@
 
 # Axebend
 
-**Leader:** Weaponsmith Krugg Blackhaft
+**Leader:** Weaponsmith [[Krugg Blackhaft]]
 **Known For:** Axe production and polearm crafting

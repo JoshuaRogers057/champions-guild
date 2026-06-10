@@ -11,5 +11,5 @@
 
 # Drakfast
 
-**Leader:** Defender Korrin Bronzeplate
+**Leader:** Defender [[Korrin Bronzeplate]]
 **Known For:** Military stronghold and winter training camp

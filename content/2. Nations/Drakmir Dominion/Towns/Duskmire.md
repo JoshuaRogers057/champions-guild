@@ -12,7 +12,7 @@
 
 # Duskmire
 
-**Leader:** Magistrate Kol Drayven
+**Leader:** Magistrate [[Kol Drayven]]
 **Known For:** Swamp farming and potion distillation
 
 **Notable Feature:** The Breathvault — a sealed tower holding unstable or classified potions; trespassers risk hallucination, coma, or vaporization

@@ -8,7 +8,7 @@
 </div>
 # Shardwind Raiders
 
-**Leader:** Captain Cyr Draven
+**Leader:** Captain [[Cyr Draven]]
 
 ---
 

@@ -12,7 +12,7 @@
 
 # Sondriel Vale
 
-**Leader:** Luminary Iriss Dawnwatcher
+**Leader:** Luminary [[Iriss Dawnwatcher]]
 **Known For:** Livestock and prophetic dream-herding
 
 **Notable Feature:** The Echo Hill — speaking one's worries aloud brings nightly dreams of guidance

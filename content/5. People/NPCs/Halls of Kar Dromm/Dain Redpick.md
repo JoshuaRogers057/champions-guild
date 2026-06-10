@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Chief Prospector Dain Redpick Function: Iron mining and ore refining Description: One of the most productive ironworks in the realm, Redpick Vale operates around a central forge vent and uses heat siphoning runes to refine ore with speed and efficiency. Dain leads from the front with soot on his beard and fire in his lungs.
+- Leader: Chief Prospector Dain Redpick Function: Iron mining and ore refining Description: One of the most productive ironworks in the realm, [[Redpick Vale]] operates around a central forge vent and uses heat siphoning runes to refine ore with speed and efficiency. Dain leads from the front with soot on his beard and fire in his lungs.
 
 ## Source Documents
 - Dwarves Final.docx

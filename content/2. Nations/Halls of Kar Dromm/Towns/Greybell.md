@@ -11,5 +11,5 @@
 
 # Greybell
 
-**Leader:** Bellmaster Harn Greybeard
+**Leader:** Bellmaster [[Harn Greybeard]]
 **Known For:** Bell foundry and signal tower

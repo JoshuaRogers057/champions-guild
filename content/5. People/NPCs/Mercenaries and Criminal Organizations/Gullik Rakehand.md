@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Leader: Scraplord Gullik Rakehand
-- The Rusted Crown – Scraplord Gullik Rakehand
+- The [[Rusted Crown]] – Scraplord Gullik Rakehand
 
 ## Source Documents
 - Criminals and mercenaries.docx

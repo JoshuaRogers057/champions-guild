@@ -12,7 +12,7 @@
 
 # Celesthar's Edge
 
-**Leader:** Wavebinder Anya Seral
+**Leader:** Wavebinder [[Anya Seral]]
 **Known For:** Coastal fishing and seawater purification
 
 **Notable Feature:** The Salt Prism — a glowing basin that desalinates seawater and reveals lies when gazed into

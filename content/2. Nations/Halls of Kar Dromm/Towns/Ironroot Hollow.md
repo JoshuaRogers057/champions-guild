@@ -11,5 +11,5 @@
 
 # Ironroot Hollow
 
-**Leader:** Elder Varn Underoak
+**Leader:** Elder [[Varn]] Underoak
 **Known For:** Mushroom farming and root vegetables

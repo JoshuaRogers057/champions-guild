@@ -19,7 +19,7 @@ tags:
 
 ## Role & Notes
 - Highlady Marcelline Aestra – Lady of Mercy
-- Highlady Marcelline Aestra – Public heart and voice of Auris Prime.
+- Highlady Marcelline Aestra – Public heart and voice of [[Auris Prime]].
 
 ## Source Documents
 - Aasimar Final.docx

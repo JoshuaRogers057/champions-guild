@@ -11,5 +11,5 @@
 
 # Volgrimm's Roost
 
-**Leader:** Beastmaster Skolda Bearbane
+**Leader:** Beastmaster [[Skolda Bearbane]]
 **Known For:** Beast taming and mount training

@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- No figure better symbolizes this age than Chief Engineer Varnak Brightcoil of Dalath, a kobold planner whose genius was useful rather than theatrical. Brightcoil championed irrigation systems that reclaimed poor farmland, modular forge layouts that increase...
+- No figure better symbolizes this age than Chief Engineer Varnak Brightcoil of [[Dalath]], a kobold planner whose genius was useful rather than theatrical. Brightcoil championed irrigation systems that reclaimed poor farmland, modular forge layouts that increase...
 
 ## Source Documents
 - Drakmir Dominion.docx

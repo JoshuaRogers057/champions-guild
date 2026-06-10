@@ -12,7 +12,7 @@
 
 # Blackcairn
 
-**Leader:** Priest Oswin Dred
+**Leader:** Priest [[Oswin Dred]]
 **Known For:** Tomb-guarding and necromantic rites
 
 **Notable Feature:** The Bone Lanterns — iron sconces filled with eternal flame enchanted to flicker when undead stir nearby

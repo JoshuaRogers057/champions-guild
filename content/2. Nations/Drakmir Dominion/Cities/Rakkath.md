@@ -49,7 +49,7 @@ The Dominion likes to imagine its wealth as disciplined and honorable, but Rakka
 
 **Harbor-Marshal Kavrix Tidemark** — Commands the Grand Harbors. Blue-scaled dragonborn who believes a dock delay can be as dangerous as a pirate raid.
 
-**Shaka the Cracked** — Rules the shadow side of Rakkath. Golden-scaled dragonborn fixer, smuggler, and information broker. Leader of the Cracked Scale criminal syndicate.
+**[[Shaka the Cracked]]** — Rules the shadow side of Rakkath. Golden-scaled dragonborn fixer, smuggler, and information broker. Leader of [[The Cracked Scale]] criminal syndicate.
 
 **Velkit Brass-Eye** — City's most feared customs auditor. Gray kobold with a brass replacement eye and no visible sense of humor.
 

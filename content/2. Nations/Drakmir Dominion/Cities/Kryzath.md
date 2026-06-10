@@ -17,7 +17,7 @@ Kryzath is the military heart of the Drakmir Dominion, built in a broad mountain
 
 A single road cuts through Kryzath from base to summit without bend, turn, or softened climb — the **Spear Road**. Movement through the city is tightly controlled. Each tier has its own wall, gate, and standard of permission. Suspended gondolas run along the valley walls, carrying officers, supplies, messages, and approved travelers over the city's hard geometry.
 
-The arrival of the rail changed Kryzath whether its commanders welcomed the change or not. Drill yards now sit beside market halls. Barracks overlook apartments. Rail depots unload grain, ore, leather, and civilian goods beneath the same statues that once watched only soldiers pass. Older officers grumble that trade has softened the city. Quartermaster Vronkik is fond of saying that an army that hates freight will eventually starve with perfect posture.
+The arrival of the rail changed Kryzath whether its commanders welcomed the change or not. Drill yards now sit beside market halls. Barracks overlook apartments. Rail depots unload grain, ore, leather, and civilian goods beneath the same statues that once watched only soldiers pass. Older officers grumble that trade has softened the city. Quartermaster [[Vronkik]] is fond of saying that an army that hates freight will eventually starve with perfect posture.
 
 It was at the Legion Forgeworks that the Dominion's first true airship was born — a hard-ribbed vessel of fragment engines, armored lift vanes, and disciplined ambition.
 
@@ -37,12 +37,12 @@ It was at the Legion Forgeworks that the Dominion's first true airship was born 
 
 ## Leadership
 
-**Scale Bearer Kravel Vorrask** — Believes war exposes the truth of people. A commander's first duty is to remove weakness before weakness reaches the field.
+**Scale Bearer [[Kravel Vorrask]]** — Believes war exposes the truth of people. A commander's first duty is to remove weakness before weakness reaches the field.
 
-**General Ysarka Flamegut** — Oversees active deployments with a patience that unsettles younger officers. Prefers silence to discipline a room before she speaks.
+**General [[Ysarka Flamegut]]** — Oversees active deployments with a patience that unsettles younger officers. Prefers silence to discipline a room before she speaks.
 
-**Drillmaster Grottik Surescale** — Kobold veteran. His voice is said to break hesitation faster than fear ever could.
+**Drillmaster [[Grottik Surescale]]** — Kobold veteran. His voice is said to break hesitation faster than fear ever could.
 
 **Commander Varessa Korrin** — Oversees the Spear Road gates. Infamous for denying entry to nobles, officers, and foreign envoys with the same flat stare.
 
-**Skywright Pellix Varn** — The kobold engineer behind the first Drakmir airship. Both celebrated and resented for proving that the future of war may no longer belong only to roads and marching feet.
+**Skywright Pellix [[Varn]]** — The kobold engineer behind the first Drakmir airship. Both celebrated and resented for proving that the future of war may no longer belong only to roads and marching feet.

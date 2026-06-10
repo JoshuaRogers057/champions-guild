@@ -11,5 +11,5 @@
 
 # Stonebarrow
 
-**Leader:** Foreman Durgan Anvilhelm
+**Leader:** Foreman [[Durgan Anvilhelm]]
 **Known For:** Copper and tin mining

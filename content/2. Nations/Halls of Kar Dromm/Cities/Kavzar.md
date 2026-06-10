@@ -13,7 +13,7 @@
 
 # Kavzar
 
-Kavzar is the gleaming engine of dwarven precision and magical integration. The Clan of Steel governs here with mechanical discipline and clockwork efficiency. High Forgemaster Thrain Steelmantle views city planning like crafting a perfect blade — each part has purpose, each flaw is unacceptable. The city reflects the cold, shimmering light of the fragment veins that snake through its walls and streets.
+Kavzar is the gleaming engine of dwarven precision and magical integration. The Clan of Steel governs here with mechanical discipline and clockwork efficiency. High Forgemaster [[Thrain Steelmantle]] views city planning like crafting a perfect blade — each part has purpose, each flaw is unacceptable. The city reflects the cold, shimmering light of the fragment veins that snake through its walls and streets.
 
 **Fragment Mine:** Kavzar is home to the largest of the three major fragment mines in the dwarven lands.
 

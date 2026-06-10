@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Overseer Vorrak Flamebrow – A red-scaled dragonborn commander of Dalath’s heavy labor corps. Silent, massive, and revered, Vorrak is known for solving disputes with a single glance. His gauntlets are forged from blast-tempered fragment-steel.
+- Overseer Vorrak Flamebrow – A red-scaled dragonborn commander of [[Dalath]]’s heavy labor corps. Silent, massive, and revered, Vorrak is known for solving disputes with a single glance. His gauntlets are forged from blast-tempered fragment-steel.
 
 ## Source Documents
 - Drakmir Dominion.docx

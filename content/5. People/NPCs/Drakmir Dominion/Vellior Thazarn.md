@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- • Scale Bearer Vellior Thazarn – The silver-scaled archmage and Vorth’s representative on the Drakmir Conclave. A cold and calculating storm mage, he pioneered the fragment-bonding technique that lets arcane armor store lightning. the technique is closely g...
+- • Scale Bearer Vellior Thazarn – The silver-scaled archmage and [[Vorth]]’s representative on the Drakmir Conclave. A cold and calculating storm mage, he pioneered the fragment-bonding technique that lets arcane armor store lightning. the technique is closely g...
 
 ## Source Documents
 - Drakmir Dominion.docx

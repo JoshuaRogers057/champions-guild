@@ -12,7 +12,7 @@
 
 # Harrowreach
 
-**Leader:** Archbinder Krel
+**Leader:** [[Archbinder Krel]]
 **Known For:** Livestock experimentation and ritual enhancement
 
 **Notable Feature:** The Brazen Paddock — an iron-banded field where test animals are fed magical infusions under observation of ritecallers

@@ -11,7 +11,7 @@
 </div>
 # The Bronze Talons
 
-**Leader:** Deyla.
+**Leader:** [[Deyla]].
 
 **Specialties:** Caravan protection, debt enforcement, urban security, bodyguard duty, and rapid response contracts.
 

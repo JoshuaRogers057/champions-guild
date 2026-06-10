@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Elder [[Varn Underoak]] Function: Mushroom farming and root vegetables Description: Nestled in a fungal cavern of shimmering lichen and fertile stone, Ironroot Hollow provides the staple food crops for much of the underground realm. Elder Varn maintains...
+- Leader: Elder [[Varn Underoak]] Function: Mushroom farming and root vegetables Description: Nestled in a fungal cavern of shimmering lichen and fertile stone, [[Ironroot Hollow]] provides the staple food crops for much of the underground realm. Elder Varn maintains...
 
 ## Source Documents
 - Dwarves Final.docx

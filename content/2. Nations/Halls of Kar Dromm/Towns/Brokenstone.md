@@ -11,5 +11,5 @@
 
 # Brokenstone
 
-**Leader:** Defender Dalkara Grimjaw
+**Leader:** Defender [[Dalkara Grimjaw]]
 **Known For:** Old fortress under renovation

@@ -8,7 +8,7 @@
 </div>
 # Emberwake Company
 
-**Leader:** Scorch-Speaker Izira Flameborn
+**Leader:** Scorch-Speaker [[Izira Flameborn]]
 
 ---
 

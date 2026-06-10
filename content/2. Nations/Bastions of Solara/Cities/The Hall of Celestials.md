@@ -13,9 +13,9 @@
 
 # The Hall of Celestials
 
-The Hall of Celestials is the shining veil of diplomacy within the Bastions of Solara — a place where truth is spoken, peace is brokered, and judgment is passed down "untainted" by politics. The Hall was built as a neutral zone, open even to enemies under banners of truce. It is where oaths are sworn, treaties signed, and sins weighed before radiant courts.
+The Hall of Celestials is the shining veil of diplomacy within the [[Bastions of Solara]] — a place where truth is spoken, peace is brokered, and judgment is passed down "untainted" by politics. The Hall was built as a neutral zone, open even to enemies under banners of truce. It is where oaths are sworn, treaties signed, and sins weighed before radiant courts.
 
-It was here that the last global conflict was finally ended — brokering peace between the Drakmir Dominion and the Republic of Sylvandar. Architecture is open and airy: domes of blessed glass, echoing colonnades, and sanctuaries that let the sky in. The city is lit by golden fragment lights. Even in the Hall's purity, purity can be performance. Every meeting is carefully managed. Every trial overseen by those chosen for loyalty to the image of virtue, not to the weight of justice.
+It was here that the last global conflict was finally ended — brokering peace between the Drakmir Dominion and the Republic of [[Sylvandar]]. Architecture is open and airy: domes of blessed glass, echoing colonnades, and sanctuaries that let the sky in. The city is lit by golden fragment lights. Even in the Hall's purity, purity can be performance. Every meeting is carefully managed. Every trial overseen by those chosen for loyalty to the image of virtue, not to the weight of justice.
 
 ---
 

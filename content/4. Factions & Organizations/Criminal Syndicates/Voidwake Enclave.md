@@ -8,7 +8,7 @@
 </div>
 # Voidwake Enclave
 
-**Leader:** Captain Myrren Vask
+**Leader:** Captain [[Myrren Vask]]
 
 ---
 

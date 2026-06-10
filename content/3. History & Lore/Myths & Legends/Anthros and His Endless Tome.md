@@ -1,10 +1,10 @@
 # Anthros and His Endless Tome
 
-Across Eryndor there are conquerors whose names fill monuments, kings whose bloodlines shape borders, and heroes whose deeds grow larger with each retelling. Yet few names carry the same weight in every land as **Anthros**.
+Across Eryndor there are conquerors whose names fill monuments, kings whose bloodlines shape borders, and heroes whose deeds grow larger with each retelling. Yet few names carry the same weight in every land as **[[Anthros]]**.
 
-Anthros is regarded as the greatest historian, anthropologist, archivist, and chronicler in the known world. He is the author of *Anthros's Endless Tome* — a living book whose copies are found in royal courts, private libraries, monasteries, universities, guild vaults, and hidden collections across Eryndor. Where wise rulers preserve relic blades and crowns, wiser rulers preserve a copy of his Tome.
+[[Anthros]] is regarded as the greatest historian, anthropologist, archivist, and chronicler in the known world. He is the author of *[[Anthros]]'s Endless Tome* — a living book whose copies are found in royal courts, private libraries, monasteries, universities, guild vaults, and hidden collections across Eryndor. Where wise rulers preserve relic blades and crowns, wiser rulers preserve a copy of his Tome.
 
-Many call him a legend. Some believe he is immortal. Others insist he is merely mortal and extraordinarily old. Anthros himself has never clarified the matter.
+Many call him a legend. Some believe he is immortal. Others insist he is merely mortal and extraordinarily old. [[Anthros]] himself has never clarified the matter.
 
 ---
 
@@ -42,4 +42,4 @@ A senator in Sylvandar may open her copy to discover a new account of a desert u
 
 ## Limits
 
-Anthros does not record everything immediately. Some events appear days later. Some years later. This suggests he values truth over speed.
+[[Anthros]] does not record everything immediately. Some events appear days later. Some years later. This suggests he values truth over speed.

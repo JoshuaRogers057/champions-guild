@@ -33,7 +33,7 @@ The realm-wide legal framework recognized across nations. Useful for understandi
 
 ## Explore the World
 
-Use the **Explorer** panel on the left to browse the full compendium, including nations, cities, history, factions, NPCs, and the pantheon.
+Use the **Explorer** panel on the left to browse the full compendium, including nations, cities, history, factions, [[NPCs]], and the pantheon.
 
 > *The world of Eryndor is shaped by the choices of its Champions. Every quest matters. Every decision leaves a mark.*
 >

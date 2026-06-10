@@ -11,5 +11,5 @@
 
 # Redpick Vale
 
-**Leader:** Chief Prospector Dain Redpick
+**Leader:** Chief Prospector [[Dain Redpick]]
 **Known For:** Iron mining and ore refining

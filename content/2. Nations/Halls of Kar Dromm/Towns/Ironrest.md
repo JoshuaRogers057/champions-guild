@@ -11,5 +11,5 @@
 
 # Ironrest
 
-**Leader:** Elder Makka Forgevein
+**Leader:** Elder [[Makka]] Forgevein
 **Known For:** Town for retired smiths and craftsfolk

@@ -113,13 +113,13 @@ Dwarven noble families and individuals with noble lineage within four generation
 
 | Clan/Region | Representative |
 |---|---|
-| Bardrith | Thurdek Bardrith |
+| [[Bardrith]] | Thurdek [[Bardrith]] |
 | Grimhold | Gagna Grimhold |
-| Kavzar | Kled Kavzar |
-| Dunthral | Bronva Dunthral |
+| [[Kavzar]] | Kled [[Kavzar]] |
+| [[Dunthral]] | Bronva [[Dunthral]] |
 | Khazorith | Breda Khazorith |
 | Rocdrum | Tharnak Rocdrum |
 | Velgrith | Helvarna Velgrith |
 | Morndel | Durvek Morndel |
 | Zarothal | Gradla Zarothal |
-| Huarthal | Varnin Huarthal |
+| [[Huarthal]] | Varnin [[Huarthal]] |

@@ -12,7 +12,7 @@
 
 # Duskwatch
 
-**Leader:** Nightwarden Thass
+**Leader:** [[Nightwarden Thass]]
 **Known For:** Mushroom farming and cloak tailoring
 
 **Notable Feature:** The Spore Halls — cavernous drying caves filled with spores that glow faintly and release calming scents

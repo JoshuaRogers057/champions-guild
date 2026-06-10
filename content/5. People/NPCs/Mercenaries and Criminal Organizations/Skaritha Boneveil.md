@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Leader: Matron Skaritha Boneveil
-- The Bone-Eaters – Matron Skaritha Boneveil
+- The [[Bone-Eaters]] – Matron Skaritha Boneveil
 
 ## Source Documents
 - Criminals and mercenaries.docx

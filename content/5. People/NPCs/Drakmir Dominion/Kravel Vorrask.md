@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Scale Bearer Kravel Vorrask – Crimson-scaled dragonborn general and Kryzath’s representative to the Conclave. Commanding and severe, Vorrask speaks in tactical maxims and treats military failure as spiritual weakness. His shardsteel spear, Blood Oath, has never broken.
+- Scale Bearer Kravel Vorrask – Crimson-scaled dragonborn general and [[Kryzath]]’s representative to the Conclave. Commanding and severe, Vorrask speaks in tactical maxims and treats military failure as spiritual weakness. His shardsteel spear, Blood Oath, has never broken.
 
 ## Source Documents
 - Drakmir Dominion.docx

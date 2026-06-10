@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Defender Korrin Bronzeplate Function: Military stronghold and winter training camp Description: High in the snowbound peaks, Drakfast trains warriors in survival, cold-weather combat, and siege tactics. Korrin is a stoic leader known for enduring a full blizzard in plate armor to inspire recruits.
+- Leader: Defender Korrin Bronzeplate Function: Military stronghold and winter training camp Description: High in the snowbound peaks, [[Drakfast]] trains warriors in survival, cold-weather combat, and siege tactics. Korrin is a stoic leader known for enduring a full blizzard in plate armor to inspire recruits.
 
 ## Source Documents
 - Dwarves Final.docx

@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Leader: Priestess Veyna Kael
-- The Painted Blades –Priestess Veyna Kael
+- The [[Painted Blades]] –Priestess Veyna Kael
 
 ## Source Documents
 - Criminals and mercenaries.docx

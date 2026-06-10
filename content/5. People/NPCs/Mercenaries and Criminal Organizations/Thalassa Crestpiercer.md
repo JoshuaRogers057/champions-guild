@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Leader: Admiral Thalassa Crestpiercer
-- The Coralshard Armada – Admiral Thalassa Crestpiercer
+- The [[Coralshard Armada]] – Admiral Thalassa Crestpiercer
 
 ## Source Documents
 - Criminals and mercenaries.docx

@@ -62,7 +62,7 @@ Old elven manipulation left deep human resentment; formal peace does not mean wa
 ### Drakmir Dominion
 **Status:** 🟠 Wary
 
-The Dominion is disciplined and dangerous, but not Kastalshire's most immediate enemy.
+The Dominion is disciplined and dangerous, but not [[Kastalshire]]'s most immediate enemy.
 
 ### Ash-Korrath
 **Status:** 🔵 Distant

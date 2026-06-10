@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Leader: High Stalker Sssslat
-- The Mirefang Collective – High Stalker Sssslat
+- The [[Mirefang Collective]] – High Stalker Sssslat
 
 ## Source Documents
 - Criminals and mercenaries.docx

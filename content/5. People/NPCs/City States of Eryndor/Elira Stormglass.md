@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Captain Elira Stormglass of the Shardwind Raiders – Young, brilliant, and reckless enough to think speed could outrun patience.
+- Captain Elira Stormglass of the [[Shardwind Raiders]] – Young, brilliant, and reckless enough to think speed could outrun patience.
 
 ## Source Documents
 - City states of Eryndor final.docx

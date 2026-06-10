@@ -11,5 +11,5 @@
 
 # Garnhold
 
-**Leader:** Smithlord Orrek Garnson
+**Leader:** Smithlord [[Orrek Garnson]]
 **Known For:** Toolsmithing and repair

@@ -10,7 +10,7 @@
 </div>
 # The Sunbroken
 
-**Leader:** Ser Malrec Dawnfall — a disgraced former legion captain.
+**Leader:** Ser [[Malrec Dawnfall]] — a disgraced former legion captain.
 
 ---
 

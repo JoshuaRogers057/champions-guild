@@ -11,5 +11,5 @@
 
 # Thrammar Deep
 
-**Leader:** Deepmaster Kelgra Mournpick
+**Leader:** Deepmaster [[Kelgra Mournpick]]
 **Known For:** Gemstone mining and tunnel mapping

@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Deepmaster Kelgra Mournpick Function: Gemstone mining and tunnel mapping Description: Thrammar Deep is famed for its blue diamonds and labyrinthine tunnels. Under Kelgra’s guidance, it also serves as a cartographic hub, charting forgotten passages and marking ancient dangers.
+- Leader: Deepmaster Kelgra Mournpick Function: Gemstone mining and tunnel mapping Description: [[Thrammar Deep]] is famed for its blue diamonds and labyrinthine tunnels. Under Kelgra’s guidance, it also serves as a cartographic hub, charting forgotten passages and marking ancient dangers.
 
 ## Source Documents
 - Dwarves Final.docx

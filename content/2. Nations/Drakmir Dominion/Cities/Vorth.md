@@ -39,13 +39,13 @@ Beneath the Stormspire lies the **Shardstorm Vein** — a volatile Fragment mine
 
 ## Leadership
 
-**Scale Bearer Vellior Thazarn** — Silver-scaled archmage whose calm feels almost unnatural beneath the city's constant thunder.
+**Scale Bearer [[Vellior Thazarn]]** — Silver-scaled archmage whose calm feels almost unnatural beneath the city's constant thunder.
 
-**Dean Rhessira Flamecoil** — Leads the Storm Keep with the harsh certainty of a former general. Little patience for students who confuse power with mastery.
+**Dean [[Rhessira Flamecoil]]** — Leads the Storm Keep with the harsh certainty of a former general. Little patience for students who confuse power with mastery.
 
-**Artificer-Master Yillix the Bold** — White-scaled kobold with frost-tipped whiskers, scarred hands, and a reputation for surviving disasters that should have ended his career.
+**Artificer-Master [[Yillix the Bold]]** — White-scaled kobold with frost-tipped whiskers, scarred hands, and a reputation for surviving disasters that should have ended his career.
 
-**Marshal Cael Drakrin** — Commands the city guard. Bronze dragonborn veteran with old scars and a precise understanding of how quickly magical arrogance can become mass death.
+**Marshal [[Cael Drakrin]]** — Commands the city guard. Bronze dragonborn veteran with old scars and a precise understanding of how quickly magical arrogance can become mass death.
 
 **Minewarden Sikka Voltclaw** — Blue-scaled kobold. Jeweled prosthetic eye that flickers when unstable Fragments are near.
 

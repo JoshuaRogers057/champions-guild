@@ -11,5 +11,5 @@
 
 # Gildbell Hollow
 
-**Leader:** Matron Wysa Goldloom
+**Leader:** Matron [[Wysa Goldloom]]
 **Known For:** Textile weaving and harvest festivals

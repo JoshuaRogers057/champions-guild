@@ -12,7 +12,7 @@
 
 # Gloamrest
 
-**Leader:** Elder Shyra
+**Leader:** Elder [[Shyra]]
 **Known For:** Retirement town and orchard tending
 
 **Notable Feature:** The Crown Chair Circle — a shaded grove where veterans gather for storytelling, strategy games, and watching the next generation

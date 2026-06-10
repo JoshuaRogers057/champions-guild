@@ -12,7 +12,7 @@
 
 # Vireholt
 
-**Leader:** Librarian Sareth
+**Leader:** Librarian [[Sareth]]
 **Known For:** Herb drying and scroll parchment production
 
 **Notable Feature:** The Bough of Leaves — a great herbal library built inside a living tree; every leaf corresponds to a known herb species

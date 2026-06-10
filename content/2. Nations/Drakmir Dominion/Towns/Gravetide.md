@@ -12,7 +12,7 @@
 
 # Gravetide
 
-**Leader:** Sir Yorin Kreel
+**Leader:** [[Sir Yorin Kreel]]
 **Known For:** Seaweed farming and salt harvesting
 
 **Notable Feature:** The Saltwind Chimera — a massive wind-powered drying wheel shaped like a sea serpent skeleton

@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Matron Brunna Goldhand Function: Food storage and preservation Description: A cool, dry stronghold deep beneath the Stone Road, Hearthvault is where the kingdom stores its long-term food supplies. Brunna’s meticulous stewardship ensures nothing spoils and nothing is wasted.
+- Leader: Matron Brunna Goldhand Function: Food storage and preservation Description: A cool, dry stronghold deep beneath the Stone Road, [[Hearthvault]] is where the kingdom stores its long-term food supplies. Brunna’s meticulous stewardship ensures nothing spoils and nothing is wasted.
 
 ## Source Documents
 - Dwarves Final.docx

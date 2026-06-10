@@ -8,7 +8,7 @@
 </div>
 # Cursed Chain
 
-**Leader:** Karr Volthrak
+**Leader:** [[Karr Volthrak]]
 
 ---
 

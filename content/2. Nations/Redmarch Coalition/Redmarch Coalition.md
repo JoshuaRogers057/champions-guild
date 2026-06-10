@@ -126,6 +126,6 @@ Marked by red-black tattoos, battle visions, or rage-induced strength. Anyone wh
 **Chief [[Axelnar]]** — Bugbear overlord of [[Borgnar]]. Silent, brutal, and absolutely obeyed. Leads the Broken Fangs.
 **Chief [[Kane]]** — Hobgoblin shaman of [[Urthak Var]]. Wears painted bone charms.
 **General [[Urshak]]** — Goblin dire wolf rider. Leads [[Molgarak]]'s warbands.
-**The [[Veiled Whisper]]** — Mythical goblin leading the Duskwatch from the shadows.
+**The [[Veiled Whisper]]** — Mythical goblin leading [[The Duskwatch]] from the shadows.
 **[[Skaz Ironshank]]** — Mercenary recruiter in [[Molgarak]]. Known for selling warbands to both sides of a conflict.
 **[[Marr the Mawhand]]** — Ogre enforcer of the Maw Market.

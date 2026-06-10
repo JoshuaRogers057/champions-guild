@@ -27,4 +27,4 @@ Perched above an ancient crystal faultline, Bardrith is the dwarves' foremost ci
 
 **Echodepth Ward** — Subterranean mines and refinery caverns where raw fragments are excavated and processed. Every mine entrance is rune-locked and guarded.
 
-**Crystal Basilica** — A gleaming temple and research sanctum to Moradin, where religious rites blend with arcane experiments. Rumors speak of fragment-forged golems seen during full moons.
+**Crystal Basilica** — A gleaming temple and research sanctum to [[Moradin]], where religious rites blend with arcane experiments. Rumors speak of fragment-forged golems seen during full moons.

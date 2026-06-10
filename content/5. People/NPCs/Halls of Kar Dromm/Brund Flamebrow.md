@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Leader: Bardthane Brund Flamebrow – a laughing giant of a dwarf whose songs are known in five languages.
-- Bardthane Brund Flamebrow of Morndrin Thorr died peacefully after a long and respected rule. His funeral drew one of the largest gatherings seen in Kar Dromm in decades. Clan lords, guild envoys, foreign merchants, mercenary captains, and common mourners at...
+- Bardthane Brund Flamebrow of [[Morndrin Thorr]] died peacefully after a long and respected rule. His funeral drew one of the largest gatherings seen in Kar Dromm in decades. Clan lords, guild envoys, foreign merchants, mercenary captains, and common mourners at...
 
 ## Source Documents
 - Dwarves Final.docx

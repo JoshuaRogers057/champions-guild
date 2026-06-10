@@ -8,7 +8,7 @@
 </div>
 # Bone-Eaters
 
-**Leader:** Matron Skaritha Boneveil
+**Leader:** Matron [[Skaritha Boneveil]]
 
 ---
 

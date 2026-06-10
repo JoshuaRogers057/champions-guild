@@ -15,7 +15,7 @@
 
 Bal Kreggar is a sparkling marvel of wealth and arcane innovation built around a vertical chasm lined with shimmering gems. It serves as both mine and city. Matriarch Halla governs from a crystal tower, blending elegance with strategic brilliance. Scholars study the Echo Chasm to track earthquakes and mana tides. Wealth, magic, and strict accounting define this gleaming metropolis.
 
-*Note: Bal Kreggar holds land won in the Valley War that it still struggles to fully tame. The seat of clan leadership remains in transition following the loss of Lord Garrum Ironvein.*
+*Note: Bal Kreggar holds land won in the Valley War that it still struggles to fully tame. The seat of clan leadership remains in transition following the loss of Lord [[Garrum Ironvein]].*
 
 ---
 

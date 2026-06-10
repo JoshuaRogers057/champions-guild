@@ -20,9 +20,9 @@ tags:
 - **Occurrences in source material:** 4
 
 ## Role & Notes
-- Mistress Tolla Rakefang – Halfling chief of the Gutter Sails. If your ship is gone, ask politely.
+- Mistress Tolla Rakefang – Halfling chief of the [[Gutter Sails]]. If your ship is gone, ask politely.
 - Leader: Mistress Tolla Rakefang
-- The Gutter Sails – Mistress Tolla Rakefang
+- The [[Gutter Sails]] – Mistress Tolla Rakefang
 
 ## Source Documents
 - City states of Eryndor final.docx

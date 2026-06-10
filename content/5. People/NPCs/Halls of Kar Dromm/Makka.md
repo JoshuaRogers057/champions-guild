@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Elder Makka Forgevein Function: Town for retired smiths and craftsfolk Description: Nestled between green hills and calm stone paths, Ironrest is home to aging artisans who still teach the craft to young apprentices. Elder Makka, once a royal weapon...
+- Leader: Elder Makka Forgevein Function: Town for retired smiths and craftsfolk Description: Nestled between green hills and calm stone paths, [[Ironrest]] is home to aging artisans who still teach the craft to young apprentices. Elder Makka, once a royal weapon...
 
 ## Source Documents
 - Dwarves Final.docx

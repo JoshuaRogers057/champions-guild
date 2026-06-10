@@ -15,7 +15,7 @@
 
 Azurath stands at the mouth of the Blackrun River where dark water empties into the Ice Sea. The city rises from black coastal stone, its walls facing the wind like the prow of a ship. Fog rolls in from the water most mornings, thick enough to swallow towers and dull the sound of bells. The city was built to endure.
 
-South of the city, the Blackrun River widens into Blackrun Lake, where barges gather before continuing inland. Azurath lives under pressure from every direction: the Redmarch Coalition threatens from the east, Thundrakar looms to the northwest, and the sea itself becomes an enemy in winter.
+South of the city, the Blackrun River widens into Blackrun Lake, where barges gather before continuing inland. Azurath lives under pressure from every direction: the [[Redmarch Coalition]] threatens from the east, [[Thundrakar]] looms to the northwest, and the sea itself becomes an enemy in winter.
 
 ---
 
@@ -53,7 +53,7 @@ South of the city, the Blackrun River widens into Blackrun Lake, where barges ga
 
 **Tikkit Redledger** — Kobold overseer of the Rivergate ledgers and city supply flow. Small, red-scaled, and famously unpleasant. Has exposed more criminals with arithmetic than most marshals have with swords.
 
-**Marshal Ygrax Stonebreath** — Commands the Eastwatch. Gray-scaled, severe, feared by her own soldiers.
+**Marshal Ygrax Stonebreath** — Commands the [[Eastwatch]]. Gray-scaled, severe, feared by her own soldiers.
 
 **Sivra Blackpine** — Leads many Ashen Antler patrols. Lean, quiet, more at ease beneath trees than beneath banners.
 

@@ -11,5 +11,5 @@
 
 # Wyrmwatch
 
-**Leader:** Scoutmaster Bregga Flameeye
+**Leader:** Scoutmaster [[Bregga Flameeye]]
 **Known For:** Dragon monitoring and sky patrols

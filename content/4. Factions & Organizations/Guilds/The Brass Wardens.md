@@ -11,7 +11,7 @@
 </div>
 # The Brass Wardens
 
-**Leader:** Marshal Tivik Brassmere — an aging gnome veteran with a steel left arm, monocle targeting lens, and a reputation for absolute punctuality.
+**Leader:** Marshal [[Tivik Brassmere]] — an aging gnome veteran with a steel left arm, monocle targeting lens, and a reputation for absolute punctuality.
 
 **Specialties:** Rail security, vault protection, cargo escort, urban defense, siege support, and anti-bandit operations.
 

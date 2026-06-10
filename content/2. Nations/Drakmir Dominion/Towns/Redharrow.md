@@ -12,7 +12,7 @@
 
 # Redharrow
 
-**Leader:** Taskmistress Vyssa
+**Leader:** Taskmistress [[Vyssa]]
 **Known For:** Berry farming and cloth dyeing
 
 **Notable Feature:** The Stainwheel Canal — a brightly colored waterwheel powered by berry runoff, used to mix dyes and mill fabrics

@@ -22,8 +22,8 @@ tags:
 - **Occurrences in source material:** 3
 
 ## Role & Notes
-- The Stalwart Legion: Based in Thumdar, led by Tharvik “Ironhead” Gravestone. They honor contracts above all and never break them.
-- Tharvik “Ironhead” Gravestone — Leader of the Stalwart Legion, based in Thumdar
+- [[The Stalwart Legion]]: Based in [[Thumdar]], led by Tharvik “Ironhead” Gravestone. They honor contracts above all and never break them.
+- Tharvik “Ironhead” Gravestone — Leader of [[The Stalwart Legion]], based in [[Thumdar]]
 - Leader: Tharvik “Ironhead” Gravestone
 
 ## Source Documents

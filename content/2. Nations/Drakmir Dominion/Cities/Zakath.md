@@ -37,12 +37,12 @@ The city rises upward and downward at once. Merchant halls and vault towers clim
 
 ## Leadership
 
-**Scale Bearer Myrrik Velthorn** — Gold-scaled dragonborn economist and master of trade law. Known for treating value as a language most people speak badly.
+**Scale Bearer [[Myrrik Velthorn]]** — Gold-scaled dragonborn economist and master of trade law. Known for treating value as a language most people speak badly.
 
 **Krellit Nine-Ring** — Kobold guildmaster leading the Fragment Smith Academy. Golden monocle, pleasant voice, and a habit of becoming dangerous the moment someone mishandles his mine.
 
-**Lazarra Thornebrand** — Controls several of the city's most powerful broker towers. Silver-scaled, immaculate, generous in public.
+**[[Lazarra Thornebrand]]** — Controls several of the city's most powerful broker towers. Silver-scaled, immaculate, generous in public.
 
-**Magister Bolth Kegclamp** — Oversees lift safety, mine mechanisms, and the city's moving infrastructure. Was a blacksmith before bureaucracy claimed him.
+**Magister [[Bolth Kegclamp]]** — Oversees lift safety, mine mechanisms, and the city's moving infrastructure. Was a blacksmith before bureaucracy claimed him.
 
 **Deepwarden Sarvok Rusk** — Commands the mine guard. Black-scaled dragonborn with a cracked voice and a reputation for refusing evacuation orders until every living worker has been counted.

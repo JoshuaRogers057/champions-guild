@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Marshal Brega Stonefist — Military commander at Stoneward Academy
-- Stoneward Bastion: The military heart of Thumdar, home to Stoneward Academy and its legions of disciplined warriors. Marshal Brega Stonefist, a war hero, trains soldiers in siege warfare, tunnel fighting, and disciplined formation combat.
+- Stoneward Bastion: The military heart of [[Thumdar]], home to Stoneward Academy and its legions of disciplined warriors. Marshal Brega Stonefist, a war hero, trains soldiers in siege warfare, tunnel fighting, and disciplined formation combat.
 
 ## Source Documents
 - Dwarves Final.docx

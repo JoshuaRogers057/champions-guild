@@ -11,5 +11,5 @@
 
 # Tavik's Span
 
-**Leader:** Bridgewarden Tavik Stoneshield
+**Leader:** Bridgewarden [[Tavik Stoneshield]]
 **Known For:** Bridge maintenance and toll collection

@@ -11,5 +11,5 @@
 
 # Hearthvault
 
-**Leader:** Matron Brunna Goldhand
+**Leader:** Matron [[Brunna Goldhand]]
 **Known For:** Food storage and preservation

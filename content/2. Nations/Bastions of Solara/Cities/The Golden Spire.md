@@ -13,7 +13,7 @@
 
 # The Golden Spire
 
-The Golden Spire is the beating spiritual heart of the Bastions of Solara — a sacred mountain-temple said to be "touched by the first breath of light." It is where Aasimar come to receive visions, seek divine purpose, or beg forgiveness. Yet it is not built to ascend — it **descends**. Contrary to its name, the Spire plunges downward in perfect spirals through the living mountain, its walls etched with celestial glyphs that shimmer faintly in the dark.
+The Golden Spire is the beating spiritual heart of the [[Bastions of Solara]] — a sacred mountain-temple said to be "touched by the first breath of light." It is where Aasimar come to receive visions, seek divine purpose, or beg forgiveness. Yet it is not built to ascend — it **descends**. Contrary to its name, the Spire plunges downward in perfect spirals through the living mountain, its walls etched with celestial glyphs that shimmer faintly in the dark.
 
 Sunlight never reaches it naturally. Instead, the entire structure glows from within — its golden veins pulsing with radiant magic and old, divine power. Pilgrims approach it with awe. Scholars treat it with fear. Only the most elite are ever permitted to its deepest levels, where divine "voices" speak… or so it is claimed.
 

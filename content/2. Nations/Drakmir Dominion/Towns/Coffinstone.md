@@ -12,7 +12,7 @@
 
 # Coffinstone
 
-**Leader:** Mason Rokk Vall
+**Leader:** Mason [[Rokk Vall]]
 **Known For:** Quarrying and furniture crafting
 
 **Notable Feature:** The Singing Saws — enchanted cutting tools that harmonize during festivals and serve as both tool and instrument

@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Thumdar is a colossal underground metropolis carved into the roots of the world. Its vaulted caverns stretch for over a mile vertically, lit by veins of glowing moss and enchanted fragment lanterns. The city echoes with the clang of forges, the murmur of pr...
+- [[Thumdar]] is a colossal underground metropolis carved into the roots of the world. Its vaulted caverns stretch for over a mile vertically, lit by veins of glowing moss and enchanted fragment lanterns. The city echoes with the clang of forges, the murmur of pr...
 
 ## Source Documents
 - Dwarves Final.docx

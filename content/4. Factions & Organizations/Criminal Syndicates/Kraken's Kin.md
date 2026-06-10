@@ -8,7 +8,7 @@
 </div>
 # Kraken's Kin
 
-**Leader:** Yarrax
+**Leader:** [[Yarrax]]
 
 ---
 

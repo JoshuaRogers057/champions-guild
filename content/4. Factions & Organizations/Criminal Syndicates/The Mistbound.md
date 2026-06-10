@@ -10,7 +10,7 @@
 </div>
 # The Mistbound
 
-**Leader:** Veyra Galehand — a daring genasi smuggler queen who knows every current, ruin, and storm path within the Scar.
+**Leader:** [[Veyra Galehand]] — a daring genasi smuggler queen who knows every current, ruin, and storm path within the Scar.
 
 ---
 

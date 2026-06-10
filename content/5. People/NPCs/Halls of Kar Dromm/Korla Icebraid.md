@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Snowwarden Korla Icebraid Function: Cold-weather gear and fur trade Description: A timber-and-stone town in a mountain pass, snowy in winter Frostglen exports thick furs, oil, and frost-resistant armor. Korla maintains defense against mountain beasts and harsh winds alike.
+- Leader: Snowwarden Korla Icebraid Function: Cold-weather gear and fur trade Description: A timber-and-stone town in a mountain pass, snowy in winter [[Frostglen]] exports thick furs, oil, and frost-resistant armor. Korla maintains defense against mountain beasts and harsh winds alike.
 
 ## Source Documents
 - Dwarves Final.docx

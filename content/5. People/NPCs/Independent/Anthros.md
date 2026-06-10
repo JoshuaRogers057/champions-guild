@@ -38,12 +38,12 @@ tags:
 ## Role & Notes
 - Greatest historian, anthropologist, archivist, and chronicler in the known world
 - author of Anthros’s Endless Tome.
-- Anthros and his endless tome.
+- [[Anthros and His Endless Tome]].
 - Across Eryndor there are conquerors whose names fill monuments, kings whose bloodlines shape borders, and heroes whose deeds grow larger with each retelling. Yet few names carry the same weight in every land as Anthros.
 - Anthros is regarded as the greatest historian, anthropologist, archivist, and chronicler in the known world. He is the author of Anthros’s Endless Tome, a living book whose copies are found in royal courts, private libraries, monasteries, universities, guil...
 
 ## Source Documents
-- Anthros and his endless tome.docx
+- [[Anthros and His Endless Tome]].docx
 - [[Nation of Lexovar]] - final.docx
 - Dwarves Final.docx
 - Drakmir Dominion.docx
@@ -56,14 +56,14 @@ tags:
 
 ## Paragraph References
 - 2
-- Anthros and his endless tome.docx ¶1
-- Anthros and his endless tome.docx ¶2
-- Anthros and his endless tome.docx ¶3
-- Anthros and his endless tome.docx ¶4
-- Anthros and his endless tome.docx ¶5
-- Anthros and his endless tome.docx ¶9
-- Anthros and his endless tome.docx ¶10
-- Anthros and his endless tome.docx ¶21
+- [[Anthros and His Endless Tome]].docx ¶1
+- [[Anthros and His Endless Tome]].docx ¶2
+- [[Anthros and His Endless Tome]].docx ¶3
+- [[Anthros and His Endless Tome]].docx ¶4
+- [[Anthros and His Endless Tome]].docx ¶5
+- [[Anthros and His Endless Tome]].docx ¶9
+- [[Anthros and His Endless Tome]].docx ¶10
+- [[Anthros and His Endless Tome]].docx ¶21
 - [[Nation of Lexovar]] - final.docx ¶241
 - Dwarves Final.docx ¶221
 - ...

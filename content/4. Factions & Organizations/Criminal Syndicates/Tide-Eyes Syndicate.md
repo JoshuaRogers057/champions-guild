@@ -8,7 +8,7 @@
 </div>
 # Tide-Eyes Syndicate
 
-**Leader:** Pell Varros
+**Leader:** [[Pell Varros]]
 
 ---
 

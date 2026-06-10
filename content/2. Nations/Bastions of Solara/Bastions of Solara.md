@@ -119,32 +119,32 @@ An unofficial resistance group operating beneath Auris Prime in the tunnels of t
 
 ### The Triumvirate of Radiance
 
-**Highlord Kaelion Draeven — Lord of Valor**
-Towering war hero and commander of the Dawnward Legions. A master strategist who carefully controls conflict optics. Golden plate armor; silver hair.
+**Highlord [[Kaelion Draeven]] — Lord of Valor**
+Towering war hero and commander of the [[Dawnward]] Legions. A master strategist who carefully controls conflict optics. Golden plate armor; silver hair.
 
-**Highlord Seris Valrien — Lord of Wisdom**
-Keeper of sacred laws and master of bureaucratic nuance. His neutrality is a mask, and his legal system favors adaptability to power.
+**Highlord [[Seris Valrien]] — Lord of Wisdom**
+Keeper of sacred laws and master of bureaucratic nuance. His neutrality is a [[Mask]], and his legal system favors adaptability to power.
 
-**Highlady Marcelline Aestra — Lady of Mercy**
+**Highlady [[Marcelline Aestra]] — Lady of Mercy**
 Radiant public figure and chief diplomat. Her compassion is leveraged for political gain. Kings know her face.
 
 ### Solara Bastion
 
-**Commander-Militant Vaeron Solmarch** — Warpriest and fortress-lord. Ruthless, lawful fury. Delivers both sermons and executions with the same hand.
+**Commander-Militant [[Vaeron Solmarch]]** — Warpriest and fortress-lord. Ruthless, lawful fury. Delivers both sermons and executions with the same hand.
 
-**High Marshal Thessira Dawnrend ("The Dawnstorm")** — Supreme General of the Sunblade Legions. Rumored to be next in line to become a Highlord.
+**High Marshal [[Thessira Dawnrend]] ("The Dawnstorm")** — Supreme General of the Sunblade Legions. Rumored to be next in line to become a Highlord.
 
 ### The Starforges
 
-**Forge-Canon Helvar Rimebraze** — Veteran artificer-priest and battle commander. Lost his arm in battle, replaced with a radiant-forged divine limb.
+**Forge-Canon [[Helvar Rimebraze]]** — Veteran artificer-priest and battle commander. Lost his arm in battle, replaced with a radiant-forged divine limb.
 
 ### The Hall of Celestials — The Trisphere
 
-**Arbiter Delen Marr (Judgment)** — Cold, razor-eyed judge. Views compromise as weakness. Final rulings known as absolute.
+**Arbiter [[Delen Marr]] (Judgment)** — Cold, razor-eyed judge. Views compromise as weakness. Final rulings known as absolute.
 
-**Arbiter Nyelle of the Folded Flame (Healing)** — Warm, motherly, and terrifying in political manipulation. Uses redemptive penance for political gain. An unmatched healer.
+**Arbiter [[Nyelle of the Folded Flame]] (Healing)** — Warm, motherly, and terrifying in political manipulation. Uses redemptive penance for political gain. An unmatched healer.
 
-**Arbiter Callien Starhelm (Clarity)** — Scholar-priest resolving matters of faith and arcane crime. Loyal to the Highlords' image.
+**Arbiter [[Callien Starhelm]] (Clarity)** — Scholar-priest resolving matters of faith and arcane crime. Loyal to the Highlords' image.
 
 ### The Golden Spire
 
@@ -152,4 +152,4 @@ Radiant public figure and chief diplomat. Her compassion is leveraged for politi
 
 ### Empyrean Hold
 
-**High Skywarden Seraphiel Thorne** — Commander of the Skyborne Cavalry. Obsessed with altitude, precision, and swift punishment. Her authority is near-total on the eastern front.
+**High Skywarden Seraphiel [[Thorne]]** — Commander of the Skyborne Cavalry. Obsessed with altitude, precision, and swift punishment. Her authority is near-total on the eastern front.

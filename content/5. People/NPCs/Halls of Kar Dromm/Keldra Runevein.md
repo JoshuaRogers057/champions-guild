@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Dean Keldra Runevein — Head of Runeforge College and magitech defenses
-- Runeforge Hall: The arcane and defensive center of the city, where magical engineers maintain wards and enchantments across Thumdar. Dean Keldra Runevein directs the Runeforge College and is known for her mastery of defensive magitech.
+- Runeforge Hall: The arcane and defensive center of the city, where magical engineers maintain wards and enchantments across [[Thumdar]]. Dean Keldra Runevein directs the Runeforge College and is known for her mastery of defensive magitech.
 
 ## Source Documents
 - Dwarves Final.docx

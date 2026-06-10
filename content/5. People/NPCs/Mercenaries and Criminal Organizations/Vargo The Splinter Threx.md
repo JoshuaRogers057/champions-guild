@@ -23,7 +23,7 @@ tags:
 
 ## Role & Notes
 - Leader: Captain Vargo “The Splinter” Threx
-- The Bloodwake Corsairs – Captain Vargo “The Splinter” Threx
+- The [[Bloodwake Corsairs]] – Captain Vargo “The Splinter” Threx
 
 ## Source Documents
 - Criminals and mercenaries.docx

@@ -8,7 +8,7 @@
 </div>
 # Ironwake Brotherhood
 
-**Leader:** Commander Jorran Veld
+**Leader:** Commander [[Jorran Veld]]
 
 ---
 

@@ -11,5 +11,5 @@
 
 # Molthrak's Spine
 
-**Leader:** Overseer Brokk Earthshaker
+**Leader:** Overseer [[Brokk Earthshaker]]
 **Known For:** Stonecutting and construction

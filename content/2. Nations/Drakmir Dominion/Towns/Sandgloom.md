@@ -12,7 +12,7 @@
 
 # Sandgloom
 
-**Leader:** Warden Jex Talgrin
+**Leader:** Warden [[Jex Talgrin]]
 **Known For:** Cactus fruit harvesting and heat-resistant fabric weaving
 
 **Notable Feature:** The Stillsun Looms — wind-powered fabric weavers that whisper warnings of nearby predators when the wind sings right

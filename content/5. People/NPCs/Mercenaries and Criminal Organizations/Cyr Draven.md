@@ -21,7 +21,7 @@ tags:
 
 ## Role & Notes
 - Leader: Captain Cyr Draven
-- The Shardwind Raiders – Captain Cyr Draven
+- The [[Shardwind Raiders]] – Captain Cyr Draven
 
 ## Source Documents
 - Criminals and mercenaries.docx

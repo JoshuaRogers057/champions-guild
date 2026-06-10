@@ -13,7 +13,7 @@
 
 # Solara Bastion
 
-Solara Bastion is the gleaming spear-tip of the Bastions of Solara — the first line of defense at the edge of the sacred corridor to the west. Carved into the cliffs like a god's throne, the fortress looms with the weight of holy war, casting long shadows over those who would challenge Solara's might.
+Solara Bastion is the gleaming spear-tip of the [[Bastions of Solara]] — the first line of defense at the edge of the sacred corridor to the west. Carved into the cliffs like a god's throne, the fortress looms with the weight of holy war, casting long shadows over those who would challenge Solara's might.
 
 From the outside, it is blindingly beautiful: gold-veined stonework, radiant banners that shimmer with heatless flame, and statues of winged warriors with blades drawn skyward. But within those polished walls lies a brutal truth — the city is one enormous training ground, a crucible for zealotry and control. Soldiers are sculpted here, not just trained. Righteousness is forged like iron, bent until it obeys.
 

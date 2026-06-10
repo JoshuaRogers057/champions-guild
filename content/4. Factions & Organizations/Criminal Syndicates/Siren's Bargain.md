@@ -8,7 +8,7 @@
 </div>
 # Siren's Bargain
 
-**Leader:** Voice-Speaker Nalyrien
+**Leader:** Voice-Speaker [[Nalyrien]]
 
 ---
 

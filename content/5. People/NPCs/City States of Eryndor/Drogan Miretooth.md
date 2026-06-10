@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Admiral Drogan Miretooth of the Mirefang Collective – A cold strategist who sought control of the docks, bilges, and poison trade.
+- Admiral Drogan Miretooth of the [[Mirefang Collective]] – A cold strategist who sought control of the docks, bilges, and poison trade.
 
 ## Source Documents
 - City states of Eryndor final.docx

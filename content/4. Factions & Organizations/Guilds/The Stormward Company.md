@@ -11,7 +11,7 @@
 </div>
 # The Stormward Company
 
-**Leader:** Admiral Seressa Vaelor — a sharp-eyed half-elf commander with silver braided hair, sea-blue tattoos, and a reputation for winning battles before the first blade is drawn.
+**Leader:** Admiral [[Seressa Vaelor]] — a sharp-eyed half-elf commander with silver braided hair, sea-blue tattoos, and a reputation for winning battles before the first blade is drawn.
 
 **Specialties:** Naval warfare, coastal defense, escort contracts, boarding actions, weather magic, and rapid strike deployments from sea to shore.
 

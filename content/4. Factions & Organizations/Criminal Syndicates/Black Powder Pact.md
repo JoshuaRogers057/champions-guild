@@ -8,7 +8,7 @@
 </div>
 # Black Powder Pact
 
-**Leader:** Brixel Boomwhistle
+**Leader:** [[Brixel Boomwhistle]]
 
 ---
 
