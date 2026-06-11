@@ -1,30 +1,18 @@
----
-name: "Nyriel Daewen"
-type: npc
-location: "[[Thalasyr]]"
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 2
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Nyriel Daewen | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | Marshal |
+| Last Known Location | [[Thalasyr]] |
+
+</div>
 
 # Nyriel Daewen
 
-## Overview
-- **Location / Context:** [[Thalasyr]]
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- [[Thalasyr]] is led by Marshal Nyriel Daewen and is known for military border defense.
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- 31
-- [[Sylvandar]] full final.docx ¶31
+[[Thalasyr]] is led by Marshal Nyriel Daewen and is known for military border defense.

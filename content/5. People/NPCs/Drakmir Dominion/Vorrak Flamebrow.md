@@ -1,28 +1,18 @@
----
-name: "Vorrak Flamebrow"
-type: npc
-affiliations:
-  - "[[Drakmir Dominion]]"
-sources:
-  - "Drakmir Dominion.docx"
-occurrences: 2
-tags:
-  - npc
-  - drakmir-dominion
----
+<div class="infobox">
+
+| Vorrak Flamebrow | |
+|:--|:--|
+| Species | Dragonborn |
+| Home Nation | [[Drakmir Dominion]] |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Drakmir Dominion]] |
+| Occupation | Overseer |
+| Last Known Location | — |
+
+</div>
 
 # Vorrak Flamebrow
 
-## Overview
-- **Affiliation:** [[Drakmir Dominion]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- Overseer Vorrak Flamebrow – A red-scaled dragonborn commander of [[Dalath]]’s heavy labor corps. Silent, massive, and revered, Vorrak is known for solving disputes with a single glance. His gauntlets are forged from blast-tempered fragment-steel.
-
-## Source Documents
-- Drakmir Dominion.docx
-
-## Paragraph References
-- Drakmir Dominion.docx ¶151
-- 151
+Overseer Vorrak Flamebrow – A red-scaled dragonborn commander of [[Dalath]]’s heavy labor corps. Silent, massive, and revered, Vorrak is known for solving disputes with a single glance. His gauntlets are forged from blast-tempered fragment-steel.

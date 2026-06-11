@@ -1,28 +1,18 @@
----
-name: "Pip Thistlereed"
-type: npc
-affiliations:
-  - "[[City States of Eryndor]]"
-sources:
-  - "City states of Eryndor final.docx"
-occurrences: 2
-tags:
-  - npc
-  - city-states-of-eryndor
----
+<div class="infobox">
+
+| Pip Thistlereed | |
+|:--|:--|
+| Species | Satyr |
+| Home Nation | City-States of Eryndor |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | City-States of Eryndor |
+| Occupation | — |
+| Last Known Location | — |
+
+</div>
 
 # Pip Thistlereed
 
-## Overview
-- **Affiliation:** [[City States of Eryndor]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- Pip Thistlereed – Satyr collector of tales, scandal, and songs. Cheerful, dangerous, and welcomed almost nowhere officially.
-
-## Source Documents
-- City states of Eryndor final.docx
-
-## Paragraph References
-- 564
-- City states of Eryndor final.docx ¶564
+Pip Thistlereed – Satyr collector of tales, scandal, and songs. Cheerful, dangerous, and welcomed almost nowhere officially.

@@ -1,29 +1,18 @@
----
-name: "Ruk Stormscar"
-type: npc
-location: "[[Gravetooth – East Thundrakar]]"
-affiliations:
-  - "[[Thundrakar]]"
-sources:
-  - "Thundrakar final.docx"
-occurrences: 1
-tags:
-  - npc
-  - thundrakar
----
+<div class="infobox">
+
+| Ruk Stormscar | |
+|:--|:--|
+| Species | Giant |
+| Home Nation | [[Thundrakar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Thundrakar]] |
+| Occupation | Warleader of [[Gravetooth – East Thundrakar]] |
+| Last Known Location | [[Gravetooth – East Thundrakar]] |
+
+</div>
 
 # Ruk Stormscar
 
-## Overview
-- **Location / Context:** [[Gravetooth – East Thundrakar]]
-- **Affiliation:** [[Thundrakar]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Warleader Ruk Stormscar Function: Bone forge and trophy-weapon crafting Primary Beasts: Giant polar bears, mammoths
-
-## Source Documents
-- [[Thundrakar]] final.docx
-
-## Paragraph References
-- 222
+Warleader Ruk Stormscar. Function: Bone forge and trophy-weapon crafting Primary Beasts: Giant polar bears, mammoths

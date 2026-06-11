@@ -1,27 +1,18 @@
----
-name: "Sir Yorin Kreel"
-type: npc
-affiliations:
-  - "[[Drakmir Dominion]]"
-sources:
-  - "Drakmir Dominion.docx"
-occurrences: 1
-tags:
-  - npc
-  - drakmir-dominion
----
+<div class="infobox">
+
+| Sir Yorin Kreel | |
+|:--|:--|
+| Species | Dragonborn |
+| Home Nation | [[Drakmir Dominion]] |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Drakmir Dominion]] |
+| Occupation | — |
+| Last Known Location | — |
+
+</div>
 
 # Sir Yorin Kreel
 
-## Overview
-- **Affiliation:** [[Drakmir Dominion]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Sir Yorin Kreel — A retired paladin of the Dominion Navy who now governs from a harpoon-carved stone chair. His weather-beaten scale cloak marks him as a stormborn traditionalist.
-
-## Source Documents
-- Drakmir Dominion.docx
-
-## Paragraph References
-- Drakmir Dominion.docx ¶307
+Sir Yorin Kreel — A retired paladin of the Dominion Navy who now governs from a harpoon-carved stone chair. His weather-beaten scale cloak marks him as a stormborn traditionalist.

@@ -1,27 +1,22 @@
----
-name: "Borin Stonemantle"
-type: npc
-affiliations:
-  - "[[Halls of Kar Dromm]]"
-sources:
-  - "Dwarves Final.docx"
-occurrences: 1
-tags:
-  - npc
-  - halls-of-kar-dromm
----
+<div class="infobox">
+
+| Borin Stonemantle | |
+|:--|:--|
+| Species | Dwarf |
+| Home Nation | [[Halls of Kar Dromm]] |
+| Gender | Male |
+| Status | Dead † |
+| Aliases | — |
+| Affiliation | [[Halls of Kar Dromm]] |
+| Occupation | High King |
+| Last Known Location | — |
+
+</div>
 
 # Borin Stonemantle
 
-## Overview
-- **Affiliation:** [[Halls of Kar Dromm]]
-- **Occurrences in source material:** 1
+---
 
-## Role & Notes
-- High King [[Borin Stonemantle|Borin]] Stonemantle died shortly after the war. His passing was followed by six months of negotiation within the Stone Council before [[Durak Stonemantle]] was chosen.
+## Death
 
-## Source Documents
-- Dwarves Final.docx
-
-## Paragraph References
-- Dwarves Final.docx ¶230
+High King Borin Stonemantle died shortly after the war. His passing was followed by six months of negotiation within the Stone Council before [[Durak Stonemantle]] was chosen.

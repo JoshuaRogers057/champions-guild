@@ -1,30 +1,18 @@
----
-name: "Sylthiel Virell"
-type: npc
-location: "[[Myrrhwood]]"
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 2
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Sylthiel Virell | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | Warden |
+| Last Known Location | [[Myrrhwood]] |
+
+</div>
 
 # Sylthiel Virell
 
-## Overview
-- **Location / Context:** [[Myrrhwood]]
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- [[Myrrhwood]] is led by Warden Sylthiel Virell and is known for sacred herb farming and healing arts.
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- 16
-- [[Sylvandar]] full final.docx ¶16
+[[Myrrhwood]] is led by Warden Sylthiel Virell and is known for sacred herb farming and healing arts.

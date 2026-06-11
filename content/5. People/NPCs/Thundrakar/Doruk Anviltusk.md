@@ -1,29 +1,18 @@
----
-name: "Doruk Anviltusk"
-type: npc
-location: "[[Ironpeak – East Thundrakar]]"
-affiliations:
-  - "[[Thundrakar]]"
-sources:
-  - "Thundrakar final.docx"
-occurrences: 1
-tags:
-  - npc
-  - thundrakar
----
+<div class="infobox">
+
+| Doruk Anviltusk | |
+|:--|:--|
+| Species | Goliath |
+| Home Nation | [[Thundrakar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Thundrakar]] |
+| Occupation | Forgefather of [[Ironpeak – East Thundrakar]] |
+| Last Known Location | [[Ironpeak – East Thundrakar]] |
+
+</div>
 
 # Doruk Anviltusk
 
-## Overview
-- **Location / Context:** [[Ironpeak – East Thundrakar]]
-- **Affiliation:** [[Thundrakar]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Forgefather Doruk Anviltusk Function: Metalworking and stormsteel smelting Primary Beasts: Mammoths, rhinos
-
-## Source Documents
-- [[Thundrakar]] final.docx
-
-## Paragraph References
-- 228
+Forgefather Doruk Anviltusk. Function: Metalworking and stormsteel smelting Primary Beasts: Mammoths, rhinos

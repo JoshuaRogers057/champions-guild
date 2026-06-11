@@ -1,30 +1,18 @@
----
-name: "Keryn Lott"
-type: npc
-location: "[[Duchy of Rath]]"
-affiliations:
-  - "[[Kastalshire]]"
-sources:
-  - "Kastalshire final.docx"
-occurrences: 2
-tags:
-  - npc
-  - kastalshire
----
+<div class="infobox">
+
+| Keryn Lott | |
+|:--|:--|
+| Species | Human |
+| Home Nation | [[Kastalshire]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Kastalshire]] |
+| Occupation | Dockmaster of [[Duchy of Rath]] |
+| Last Known Location | [[Duchy of Rath]] |
+
+</div>
 
 # Keryn Lott
 
-## Overview
-- **Location / Context:** [[Duchy of Rath]]
-- **Affiliation:** [[Kastalshire]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- [[Riverrun]] – Fishing and river transport Leader: Dockmaster Keryn Lott
-
-## Source Documents
-- [[Kastalshire]] final.docx
-
-## Paragraph References
-- 150
-- [[Kastalshire]] final.docx ¶150
+[[Riverrun]] – Fishing and river transport Leader: Dockmaster Keryn Lott

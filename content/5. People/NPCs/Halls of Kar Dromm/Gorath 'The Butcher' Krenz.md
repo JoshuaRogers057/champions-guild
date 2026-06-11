@@ -1,35 +1,22 @@
----
-name: 'Gorath "The Butcher" Krenz'
-type: npc
-affiliations:
-  - "[[Halls of Kar Dromm]]"
-  - "[[Mercenaries and Criminal Organizations]]"
-sources:
-  - "Dwarves Final.docx"
-  - "Criminals and mercenaries.docx"
-occurrences: 3
-tags:
-  - npc
-  - halls-of-kar-dromm
----
+<div class="infobox">
+
+| Gorath "The Butcher" Krenz | |
+|:--|:--|
+| Species | Dwarf |
+| Home Nation | [[Halls of Kar Dromm]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | "The Butcher" |
+| Affiliation | [[Halls of Kar Dromm]], Mercenaries and Criminal Organizations |
+| Occupation | — |
+| Last Known Location | — |
+
+</div>
 
 # Gorath "The Butcher" Krenz
 
-## Overview
-- **Affiliation:** [[Halls of Kar Dromm]], [[Mercenaries and Criminal Organizations]]
-- **Occurrences in source material:** 3
+[[The Rotrok Marauders]]: A rogue coalition of bandits and mercenaries led by Gorath "The Butcher" Krenz, a ruthless artificer with a passion for chaos.
 
-## Role & Notes
-- [[The Rotrok Marauders]]: A rogue coalition of bandits and mercenaries led by Gorath "The Butcher" Krenz, a ruthless artificer with a passion for chaos.
-- Gorath "The Butcher" Krenz — Leader of [[The Rotrok Marauders]], a rogue artificer mercenary
-- Leader: Gorath “The Butcher” Krenz
+Gorath "The Butcher" Krenz — Leader of [[The Rotrok Marauders]], a rogue artificer mercenary
 
-## Source Documents
-- Dwarves Final.docx
-- Criminals and mercenaries.docx
-
-## Paragraph References
-- Dwarves Final.docx ¶136
-- Dwarves Final.docx ¶209
-- 160
-- Criminals and mercenaries.docx ¶160
+Gorath “The Butcher” Krenz

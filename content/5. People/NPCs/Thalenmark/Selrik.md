@@ -4,6 +4,7 @@
 |:--|:--|
 | Species | Unknown |
 | Home Nation | Unknown |
+| Gender | Unknown |
 | Status | Alive (presumed) |
 | Aliases | The Gold Mask |
 | Affiliation | The Velvet Ledger (Leader) |

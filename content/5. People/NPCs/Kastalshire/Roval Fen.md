@@ -1,30 +1,18 @@
----
-name: "Roval Fen"
-type: npc
-location: "[[Duchy of Rath]]"
-affiliations:
-  - "[[Kastalshire]]"
-sources:
-  - "Kastalshire final.docx"
-occurrences: 2
-tags:
-  - npc
-  - kastalshire
----
+<div class="infobox">
+
+| Roval Fen | |
+|:--|:--|
+| Species | Human |
+| Home Nation | [[Kastalshire]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Kastalshire]] |
+| Occupation | Captain of [[Duchy of Rath]] |
+| Last Known Location | [[Duchy of Rath]] |
+
+</div>
 
 # Roval Fen
 
-## Overview
-- **Location / Context:** [[Duchy of Rath]]
-- **Affiliation:** [[Kastalshire]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- [[Veldenmark]] – River patrol and ferry guard Leader: Captain Roval Fen
-
-## Source Documents
-- [[Kastalshire]] final.docx
-
-## Paragraph References
-- 155
-- [[Kastalshire]] final.docx ¶155
+[[Veldenmark]] – River patrol and ferry guard Leader: Captain Roval Fen

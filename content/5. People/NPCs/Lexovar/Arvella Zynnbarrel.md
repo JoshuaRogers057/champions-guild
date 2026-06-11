@@ -1,39 +1,22 @@
----
-name: Arvella Zynnbarrel
-type: npc
-location: "[[Ciliren]]"
-affiliations:
-  - "[[Lexovar]]"
-sources:
-  - Nation of Lexovar - final.docx
-  - Nation of lexovar. full final.docx
-occurrences: 2
-tags:
-  - npc
-  - lexovar
----
+<div class="infobox">
+
+| Arvella Zynnbarrel | |
+|:--|:--|
+| Species | Gnome |
+| Home Nation | [[Nation of Lexovar]] |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Nation of Lexovar]] |
+| Occupation | — |
+| Last Known Location | [[Ciliren]] |
+
+</div>
 
 # Arvella Zynnbarrel
 
-## Overview
-- **Location / Context:** [[Ciliren]]
-- **Affiliation:** [[Lexovar]]
-- **Occurrences in source material:** 2
+[[Ciliren]] is ruled by Governor Arvella Zynnbarrel, Chair of the Arcane Council. She is known for her sharp mind, cool demeanor, and relentless pursuit of efficiency. Her background in magitech law and economic engineering makes her a formidable administrator.
 
-## Role & Notes
-- [[Ciliren]] is ruled by Governor Arvella Zynnbarrel, Chair of the Arcane Council. She is known for her sharp mind, cool demeanor, and relentless pursuit of efficiency. Her background in magitech law and economic engineering makes her a formidable administrator.
-- The Arcane Council responded with unusual speed and unusual unity. Governor Arvella Zynnbarrel authorized the construction of a permanent exclusion perimeter around the Dome. Watchtowers, ward pylons, patrol roads, fortified gates, and observation stations ...
-- Many nations remained stronger in war. None could rival the logistical prowess of Lexovar. Governor Arvella Zynnbarrel remarked during the opening ceremonies that roads connect places, while rails create futures. Her critics observed that rails also create ...
+The Arcane Council responded with unusual speed and unusual unity. Governor Arvella Zynnbarrel authorized the construction of a permanent exclusion perimeter around the Dome. Watchtowers, ward pylons, patrol roads, fortified gates, and observation stations ...
 
-## Source Documents
-- [[Nation of Lexovar]] - final.docx
-- [[Nation of lexovar]]. full final.docx
-
-## Paragraph References
-- 67
-- [[Nation of Lexovar]] - final.docx ¶67
-- [[Nation of Lexovar]] - final.docx ¶248
-- [[Nation of Lexovar]] - final.docx ¶289
-- [[Nation of lexovar]]. full final.docx ¶67
-- [[Nation of lexovar]]. full final.docx ¶233
-- [[Nation of lexovar]]. full final.docx ¶274
+Many nations remained stronger in war. None could rival the logistical prowess of Lexovar. Governor Arvella Zynnbarrel remarked during the opening ceremonies that roads connect places, while rails create futures. Her critics observed that rails also create ...

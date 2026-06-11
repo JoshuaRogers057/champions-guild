@@ -1,29 +1,18 @@
----
-name: "Kaema Thundertread"
-type: npc
-location: "[[Frostbreak – East Thundrakar]]"
-affiliations:
-  - "[[Thundrakar]]"
-sources:
-  - "Thundrakar final.docx"
-occurrences: 1
-tags:
-  - npc
-  - thundrakar
----
+<div class="infobox">
+
+| Kaema Thundertread | |
+|:--|:--|
+| Species | Giant |
+| Home Nation | [[Thundrakar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Thundrakar]] |
+| Occupation | Jarl of [[Frostbreak – East Thundrakar]] |
+| Last Known Location | [[Frostbreak – East Thundrakar]] |
+
+</div>
 
 # Kaema Thundertread
 
-## Overview
-- **Location / Context:** [[Frostbreak – East Thundrakar]]
-- **Affiliation:** [[Thundrakar]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Jarl Kaema Thundertread Function: Border defense and frost giant scouting Primary Beasts: Mammoths, winter wolves
-
-## Source Documents
-- [[Thundrakar]] final.docx
-
-## Paragraph References
-- 216
+Jarl Kaema Thundertread. Function: Border defense and frost giant scouting Primary Beasts: Mammoths, winter wolves

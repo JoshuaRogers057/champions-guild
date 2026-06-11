@@ -4,6 +4,7 @@
 |:--|:--|
 | Species | Halfling |
 | Home Nation | [[Thalenmark Empire]] |
+| Gender | Female |
 | Status | Alive |
 | Aliases | Matron of Snootburrow |
 | Affiliation | [[Snootburrow]] (Leader) |

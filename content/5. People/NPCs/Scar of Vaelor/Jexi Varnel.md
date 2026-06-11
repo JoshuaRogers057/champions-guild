@@ -1,30 +1,18 @@
----
-name: "Jexi Varnel"
-type: npc
-location: "[[Glimmervault]]"
-affiliations:
-  - "[[Scar of Vaelor]]"
-sources:
-  - "Scar of Vaelor Final.docx"
-occurrences: 2
-tags:
-  - npc
-  - scar-of-vaelor
----
+<div class="infobox">
+
+| Jexi Varnel | |
+|:--|:--|
+| Species | Unknown |
+| Home Nation | Scar of Vaelor |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | Scar of Vaelor |
+| Occupation | Archivist of [[Glimmervault]] |
+| Last Known Location | [[Glimmervault]] |
+
+</div>
 
 # Jexi Varnel
 
-## Overview
-- **Location / Context:** [[Glimmervault]]
-- **Affiliation:** [[Scar of Vaelor]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- Leader: Archivist Jexi Varnel
-
-## Source Documents
-- Scar of Vaelor Final.docx
-
-## Paragraph References
-- 75
-- Scar of Vaelor Final.docx ¶75
+Archivist Jexi Varnel

@@ -1,27 +1,18 @@
----
-name: "Makka"
-type: npc
-affiliations:
-  - "[[Halls of Kar Dromm]]"
-sources:
-  - "Dwarves Final.docx"
-occurrences: 1
-tags:
-  - npc
-  - halls-of-kar-dromm
----
+<div class="infobox">
+
+| Makka | |
+|:--|:--|
+| Species | Dwarf |
+| Home Nation | [[Halls of Kar Dromm]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Halls of Kar Dromm]] |
+| Occupation | Elder of [[Ironrest]] |
+| Last Known Location | — |
+
+</div>
 
 # Makka
 
-## Overview
-- **Affiliation:** [[Halls of Kar Dromm]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Elder Makka Forgevein Function: Town for retired smiths and craftsfolk Description: Nestled between green hills and calm stone paths, [[Ironrest]] is home to aging artisans who still teach the craft to young apprentices. Elder Makka, once a royal weapon...
-
-## Source Documents
-- Dwarves Final.docx
-
-## Paragraph References
-- Dwarves Final.docx ¶176
+Nestled between green hills and calm stone paths, [[Ironrest]] is home to aging artisans who still teach the craft to young apprentices. Elder Makka, once a royal weapon...

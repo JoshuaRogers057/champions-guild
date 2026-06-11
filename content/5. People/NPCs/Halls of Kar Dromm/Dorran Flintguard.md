@@ -1,27 +1,18 @@
----
-name: "Dorran Flintguard"
-type: npc
-affiliations:
-  - "[[Halls of Kar Dromm]]"
-sources:
-  - "Dwarves Final.docx"
-occurrences: 1
-tags:
-  - npc
-  - halls-of-kar-dromm
----
+<div class="infobox">
+
+| Dorran Flintguard | |
+|:--|:--|
+| Species | Dwarf |
+| Home Nation | [[Halls of Kar Dromm]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Halls of Kar Dromm]] |
+| Occupation | Marshal |
+| Last Known Location | — |
+
+</div>
 
 # Dorran Flintguard
 
-## Overview
-- **Affiliation:** [[Halls of Kar Dromm]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Marshal Dorran Flintguard commanded the city forces brought in when strikes turned violent.
-
-## Source Documents
-- Dwarves Final.docx
-
-## Paragraph References
-- Dwarves Final.docx ¶270
+Marshal Dorran Flintguard commanded the city forces brought in when strikes turned violent.

@@ -1,27 +1,18 @@
----
-name: "Vronkik"
-type: npc
-affiliations:
-  - "[[Drakmir Dominion]]"
-sources:
-  - "Drakmir Dominion.docx"
-occurrences: 2
-tags:
-  - npc
-  - drakmir-dominion
----
+<div class="infobox">
+
+| Vronkik | |
+|:--|:--|
+| Species | Kobold |
+| Home Nation | [[Drakmir Dominion]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Drakmir Dominion]] |
+| Occupation | Quartermaster |
+| Last Known Location | — |
+
+</div>
 
 # Vronkik
 
-## Overview
-- **Affiliation:** [[Drakmir Dominion]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- Quartermaster Vronkik – A twitchy kobold with a precision obsession. Oversees all weapons production. Infamous for arguing with himself mid-sentence while doing mental inventory.
-
-## Source Documents
-- Drakmir Dominion.docx
-
-## Paragraph References
-- Drakmir Dominion.docx ¶125
+Quartermaster Vronkik – A twitchy kobold with a precision obsession. Oversees all weapons production. Infamous for arguing with himself mid-sentence while doing mental inventory.

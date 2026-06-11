@@ -1,37 +1,22 @@
----
-name: "Tolla Rakefang"
-type: npc
-affiliations:
-  - "[[City States of Eryndor]]"
-  - "[[Mercenaries and Criminal Organizations]]"
-sources:
-  - "City states of Eryndor final.docx"
-  - "Criminals and mercenaries.docx"
-occurrences: 4
-tags:
-  - npc
-  - city-states-of-eryndor
----
+<div class="infobox">
+
+| Tolla Rakefang | |
+|:--|:--|
+| Species | Halfling |
+| Home Nation | City-States of Eryndor |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | City-States of Eryndor, Mercenaries and Criminal Organizations |
+| Occupation | Mistress |
+| Last Known Location | — |
+
+</div>
 
 # Tolla Rakefang
 
-## Overview
-- **Affiliation:** [[City States of Eryndor]], [[Mercenaries and Criminal Organizations]]
-- **Occurrences in source material:** 4
+Mistress Tolla Rakefang – Halfling chief of the [[Gutter Sails]]. If your ship is gone, ask politely.
 
-## Role & Notes
-- Mistress Tolla Rakefang – Halfling chief of the [[Gutter Sails]]. If your ship is gone, ask politely.
-- Leader: Mistress Tolla Rakefang
-- The [[Gutter Sails]] – Mistress Tolla Rakefang
+Mistress Tolla Rakefang
 
-## Source Documents
-- City states of Eryndor final.docx
-- Criminals and mercenaries.docx
-
-## Paragraph References
-- 677
-- 186
-- City states of Eryndor final.docx ¶677
-- Criminals and mercenaries.docx ¶186
-- City states of Eryndor final.docx ¶115
-- City states of Eryndor final.docx ¶677
+The [[Gutter Sails]] – Mistress Tolla Rakefang

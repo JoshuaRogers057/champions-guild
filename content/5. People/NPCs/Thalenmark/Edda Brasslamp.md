@@ -4,6 +4,7 @@
 |:--|:--|
 | Species | Halfling |
 | Home Nation | [[Thalenmark Empire]] |
+| Gender | Female |
 | Status | Alive |
 | Aliases | — |
 | Affiliation | Gilded Council (Steady Ledger) |

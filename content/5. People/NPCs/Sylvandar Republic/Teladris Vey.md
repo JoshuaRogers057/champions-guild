@@ -1,30 +1,18 @@
----
-name: "Teladris Vey"
-type: npc
-location: "[[Larethien]]"
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 2
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Teladris Vey | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | — |
+| Last Known Location | [[Larethien]] |
+
+</div>
 
 # Teladris Vey
 
-## Overview
-- **Location / Context:** [[Larethien]]
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- [[Larethien]] is led by Archmage Teladris Vey and is known for arcane research and scroll making.
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- 20
-- [[Sylvandar]] full final.docx ¶20
+[[Larethien]] is led by Archmage Teladris Vey and is known for arcane research and scroll making.

@@ -1,29 +1,18 @@
----
-name: "Rokk Vall"
-type: npc
-location: "[[Coffinstone]]"
-affiliations:
-  - "[[Drakmir Dominion]]"
-sources:
-  - "Drakmir Dominion.docx"
-occurrences: 1
-tags:
-  - npc
-  - drakmir-dominion
----
+<div class="infobox">
+
+| Rokk Vall | |
+|:--|:--|
+| Species | Dragonborn |
+| Home Nation | [[Drakmir Dominion]] |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Drakmir Dominion]] |
+| Occupation | Mason of [[Coffinstone]] |
+| Last Known Location | [[Coffinstone]] |
+
+</div>
 
 # Rokk Vall
 
-## Overview
-- **Location / Context:** [[Coffinstone]]
-- **Affiliation:** [[Drakmir Dominion]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: [[Rokk Vall|Mason Rokk Vall]] — A barrel-chested dragonborn with speckled gray scales and a voice like a drumroll. He wears a leather apron over his robes and prefers conversation over contracts.
-
-## Source Documents
-- Drakmir Dominion.docx
-
-## Paragraph References
-- 247
+Mason Rokk Vall — A barrel-chested dragonborn with speckled gray scales and a voice like a drumroll. He wears a leather apron over his robes and prefers conversation over contracts.

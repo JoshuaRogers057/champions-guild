@@ -1,31 +1,22 @@
----
-name: "Seris Valrien"
-type: npc
-affiliations:
-  - "[[Bastions of Solara]]"
-sources:
-  - "Aasimar Final.docx"
-occurrences: 2
-tags:
-  - npc
-  - bastions-of-solara
----
+<div class="infobox">
+
+| Seris Valrien | |
+|:--|:--|
+| Species | Aasimar |
+| Home Nation | [[Bastions of Solara]] |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Bastions of Solara]] |
+| Occupation | — |
+| Last Known Location | — |
+
+</div>
 
 # Seris Valrien
 
-## Overview
-- **Affiliation:** [[Bastions of Solara]]
-- **Occurrences in source material:** 2
+Highlord Seris Valrien – Lord of Wisdom
 
-## Role & Notes
-- Highlord Seris Valrien – Lord of Wisdom
-- Highlord Seris Valrien – Highest judicial authority
-- hears national cases here.
+Highlord Seris Valrien – Highest judicial authority
 
-## Source Documents
-- Aasimar Final.docx
-
-## Paragraph References
-- Aasimar Final.docx ¶257
-- Aasimar Final.docx ¶263
-- 257
+hears national cases here.

@@ -1,33 +1,20 @@
----
-name: "Jorran Veld"
-type: npc
-affiliations:
-  - "[[Mercenaries and Criminal Organizations]]"
-  - "[[City States of Eryndor]]"
-sources:
-  - "Criminals and mercenaries.docx"
-  - "City states of Eryndor final.docx"
-occurrences: 2
-tags:
-  - npc
-  - mercenaries-and-criminal-organizations
----
+<div class="infobox">
+
+| Jorran Veld | |
+|:--|:--|
+| Species | Unknown |
+| Home Nation | Unknown |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | Mercenaries and Criminal Organizations, City-States of Eryndor |
+| Occupation | Commander |
+| Last Known Location | — |
+
+</div>
 
 # Jorran Veld
 
-## Overview
-- **Affiliation:** [[Mercenaries and Criminal Organizations]], [[City States of Eryndor]]
-- **Occurrences in source material:** 2
+Commander Jorran Veld
 
-## Role & Notes
-- Leader: Commander Jorran Veld
-- The [[Ironwake Brotherhood]] – Commander Jorran Veld
-
-## Source Documents
-- Criminals and mercenaries.docx
-- City states of Eryndor final.docx
-
-## Paragraph References
-- 206
-- Criminals and mercenaries.docx ¶206
-- City states of Eryndor final.docx ¶125
+The [[Ironwake Brotherhood]] – Commander Jorran Veld

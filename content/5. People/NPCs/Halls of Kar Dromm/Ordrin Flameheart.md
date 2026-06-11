@@ -1,33 +1,20 @@
----
-name: "Ordrin Flameheart"
-type: npc
-location: "[[Thumdar: Capital NPCs]]"
-affiliations:
-  - "[[Halls of Kar Dromm]]"
-sources:
-  - "Dwarves Final.docx"
-occurrences: 3
-tags:
-  - npc
-  - halls-of-kar-dromm
----
+<div class="infobox">
+
+| Ordrin Flameheart | |
+|:--|:--|
+| Species | Dwarf |
+| Home Nation | [[Halls of Kar Dromm]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Halls of Kar Dromm]] |
+| Occupation | — |
+| Last Known Location | [[Thumdar: Capital NPCs]] |
+
+</div>
 
 # Ordrin Flameheart
 
-## Overview
-- **Location / Context:** [[Thumdar: Capital NPCs]]
-- **Affiliation:** [[Halls of Kar Dromm]]
-- **Occurrences in source material:** 3
+High Forgefather Ordrin Flameheart — Overseer of the Grand Temple of [[Moradin]] and the Royal Forge
 
-## Role & Notes
-- High Forgefather Ordrin Flameheart — Overseer of the Grand Temple of [[Moradin]] and the Royal Forge
-- The Anvilspire: The city’s spiritual and symbolic center, dominated by the towering Grand Temple of [[Moradin]]. Here, High Forgefather Ordrin Flameheart oversees both worship and the sacred Royal Forge, where ancestral weapons are blessed and reforged.
-
-## Source Documents
-- Dwarves Final.docx
-
-## Paragraph References
-- 201
-- Dwarves Final.docx ¶201
-- Dwarves Final.docx ¶41
-- Dwarves Final.docx ¶201
+The Anvilspire: The city’s spiritual and symbolic center, dominated by the towering Grand Temple of [[Moradin]]. Here, High Forgefather Ordrin Flameheart oversees both worship and the sacred Royal Forge, where ancestral weapons are blessed and reforged.

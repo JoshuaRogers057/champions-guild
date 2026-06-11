@@ -1,30 +1,18 @@
----
-name: "Syren Elowen"
-type: npc
-location: "[[Glimmerdusk]]"
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 2
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Syren Elowen | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | — |
+| Last Known Location | [[Glimmerdusk]] |
+
+</div>
 
 # Syren Elowen
 
-## Overview
-- **Location / Context:** [[Glimmerdusk]]
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- [[Glimmerdusk]] is led by Jewelcrafter Syren Elowen and is known for gem cutting and jewelry.
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- 37
-- [[Sylvandar]] full final.docx ¶37
+[[Glimmerdusk]] is led by Jewelcrafter Syren Elowen and is known for gem cutting and jewelry.

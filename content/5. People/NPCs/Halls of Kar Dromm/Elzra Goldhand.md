@@ -1,27 +1,18 @@
----
-name: "Elzra Goldhand"
-type: npc
-affiliations:
-  - "[[Halls of Kar Dromm]]"
-sources:
-  - "Dwarves Final.docx"
-occurrences: 1
-tags:
-  - npc
-  - halls-of-kar-dromm
----
+<div class="infobox">
+
+| Elzra Goldhand | |
+|:--|:--|
+| Species | Dwarf |
+| Home Nation | [[Halls of Kar Dromm]] |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Halls of Kar Dromm]] |
+| Occupation | Matron |
+| Last Known Location | — |
+
+</div>
 
 # Elzra Goldhand
 
-## Overview
-- **Affiliation:** [[Halls of Kar Dromm]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Matron [[Elzra Goldhand|Elzra]] Goldhand – a quiet, steel-eyed matriarch and master sculptor.
-
-## Source Documents
-- Dwarves Final.docx
-
-## Paragraph References
-- Dwarves Final.docx ¶100
+Matron Elzra Goldhand – a quiet, steel-eyed matriarch and master sculptor.

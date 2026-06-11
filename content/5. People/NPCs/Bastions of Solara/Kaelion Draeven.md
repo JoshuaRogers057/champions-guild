@@ -1,30 +1,20 @@
----
-name: "Kaelion Draeven"
-type: npc
-affiliations:
-  - "[[Bastions of Solara]]"
-sources:
-  - "Aasimar Final.docx"
-occurrences: 2
-tags:
-  - npc
-  - bastions-of-solara
----
+<div class="infobox">
+
+| Kaelion Draeven | |
+|:--|:--|
+| Species | Aasimar |
+| Home Nation | [[Bastions of Solara]] |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Bastions of Solara]] |
+| Occupation | — |
+| Last Known Location | — |
+
+</div>
 
 # Kaelion Draeven
 
-## Overview
-- **Affiliation:** [[Bastions of Solara]]
-- **Occurrences in source material:** 2
+Highlord Kaelion Draeven – Lord of Valor
 
-## Role & Notes
-- Highlord Kaelion Draeven – Lord of Valor
-- Highlord Kaelion Draeven – Also rules militarily from here.
-
-## Source Documents
-- Aasimar Final.docx
-
-## Paragraph References
-- Aasimar Final.docx ¶255
-- Aasimar Final.docx ¶262
-- 255
+Highlord Kaelion Draeven – Also rules militarily from here.

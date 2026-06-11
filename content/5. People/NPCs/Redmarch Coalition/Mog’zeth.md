@@ -1,27 +1,18 @@
----
-name: "Mog’zeth"
-type: npc
-affiliations:
-  - "[[Redmarch Coalition]]"
-sources:
-  - "Redmarch Coalition Final.docx"
-occurrences: 1
-tags:
-  - npc
-  - redmarch-coalition
----
+<div class="infobox">
+
+| Mog’zeth | |
+|:--|:--|
+| Species | Unknown |
+| Home Nation | [[Redmarch Coalition]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Redmarch Coalition]] |
+| Occupation | Warlock |
+| Last Known Location | — |
+
+</div>
 
 # Mog’zeth
 
-## Overview
-- **Affiliation:** [[Redmarch Coalition]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Warlock Mog’zeth – A whispering cultist draped in shadows and hexes. Function: Dark ritual site and occult center Description: Eldritch winds coil around this spiraled ruin, where pact-bound warlocks and mad seers delve into things better left burie...
-
-## Source Documents
-- [[Redmarch Coalition]] Final.docx
-
-## Paragraph References
-- [[Redmarch Coalition]] Final.docx ¶222
+Eldritch winds coil around this spiraled ruin, where pact-bound warlocks and mad seers delve into things better left burie...

@@ -4,6 +4,7 @@
 |:--|:--|
 | Species | Halfling |
 | Home Nation | [[Thalenmark Empire]] |
+| Gender | Unknown |
 | Status | Alive |
 | Aliases | — |
 | Affiliation | [[Thimblefen]] (Leader) |

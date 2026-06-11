@@ -1,30 +1,18 @@
----
-name: "Arylin Vaelith"
-type: npc
-location: "[[Sylvandar history / politics]]"
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 2
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Arylin Vaelith | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | Queen |
+| Last Known Location | — |
+
+</div>
 
 # Arylin Vaelith
 
-## Overview
-- **Location / Context:** [[Sylvandar history / politics]]
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- Prince-General [[Caelthir Vaelith|Caelthir Vaelith]], noble-born third son of Queen Arylin Vaelith, had been entrusted with the defense of the inner forest approaches and the containment of Dominion advances. Accounts agree that he was gifted, proud, and possessed of the calm certainty common to princes raised among those who mistake breeding for destiny.
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- 197
-- [[Sylvandar]] full final.docx ¶197
+Prince-General [[Caelthir Vaelith|Caelthir Vaelith]], noble-born third son of Queen Arylin Vaelith, had been entrusted with the defense of the inner forest approaches and the containment of Dominion advances. Accounts agree that he was gifted, proud, and possessed of the calm certainty common to princes raised among those who mistake breeding for destiny.

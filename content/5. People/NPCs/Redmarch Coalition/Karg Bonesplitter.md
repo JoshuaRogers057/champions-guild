@@ -1,33 +1,20 @@
----
-name: "Karg Bonesplitter"
-type: npc
-location: "[[Council of Blood]]"
-affiliations:
-  - "[[Redmarch Coalition]]"
-sources:
-  - "Redmarch Coalition Final.docx"
-occurrences: 2
-tags:
-  - npc
-  - redmarch-coalition
----
+<div class="infobox">
+
+| Karg Bonesplitter | |
+|:--|:--|
+| Species | Hobgoblin |
+| Home Nation | [[Redmarch Coalition]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Redmarch Coalition]] |
+| Occupation | — |
+| Last Known Location | [[Council of Blood]] |
+
+</div>
 
 # Karg Bonesplitter
 
-## Overview
-- **Location / Context:** [[Council of Blood]]
-- **Affiliation:** [[Redmarch Coalition]]
-- **Occurrences in source material:** 2
+Karg Bonesplitter – Hobgoblin strategist. Cold, analytical, always planning contingencies.
 
-## Role & Notes
-- Karg Bonesplitter – Hobgoblin strategist. Cold, analytical, always planning contingencies.
-- Karg Bonesplitter: Hobgoblin strategist of the Shattered Pike tribe, responsible for military logistics and battle formations.
-
-## Source Documents
-- [[Redmarch Coalition]] Final.docx
-
-## Paragraph References
-- 266
-- [[Redmarch Coalition]] Final.docx ¶23
-- [[Redmarch Coalition]] Final.docx ¶101
-- [[Redmarch Coalition]] Final.docx ¶266
+Karg Bonesplitter: Hobgoblin strategist of the Shattered Pike tribe, responsible for military logistics and battle formations.

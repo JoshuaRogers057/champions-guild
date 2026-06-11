@@ -1,30 +1,18 @@
----
-name: "Selric Norr"
-type: npc
-location: "[[Crimson Wane]]"
-affiliations:
-  - "[[Drakmir Dominion]]"
-sources:
-  - "Drakmir Dominion.docx"
-occurrences: 2
-tags:
-  - npc
-  - drakmir-dominion
----
+<div class="infobox">
+
+| Selric Norr | |
+|:--|:--|
+| Species | Dragonborn |
+| Home Nation | [[Drakmir Dominion]] |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Drakmir Dominion]] |
+| Occupation | Warden of [[Crimson Wane]] |
+| Last Known Location | [[Crimson Wane]] |
+
+</div>
 
 # Selric Norr
 
-## Overview
-- **Location / Context:** [[Crimson Wane]]
-- **Affiliation:** [[Drakmir Dominion]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- Leader: Warden Selric Norr — A former field general turned master-of-arms, clad in crimson half-plate and known for winning duels with a sharpened tuning fork. He trains his students personally—then sends them away forever.
-
-## Source Documents
-- Drakmir Dominion.docx
-
-## Paragraph References
-- 252
-- Drakmir Dominion.docx ¶252
+Warden Selric Norr — A former field general turned master-of-arms, clad in crimson half-plate and known for winning duels with a sharpened tuning fork. He trains his students personally—then sends them away forever.

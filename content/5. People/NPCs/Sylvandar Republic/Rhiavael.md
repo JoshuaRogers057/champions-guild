@@ -1,30 +1,18 @@
----
-name: "Rhiavael"
-type: npc
-location: "[[Elarien Spire]]"
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 2
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Rhiavael | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | — |
+| Last Known Location | [[Elarien Spire]] |
+
+</div>
 
 # Rhiavael
 
-## Overview
-- **Location / Context:** [[Elarien Spire]]
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- [[Elarien Spire]] is led by Lady Rhiavael and is known for artistic performance.
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- 25
-- [[Sylvandar]] full final.docx ¶25
+[[Elarien Spire]] is led by Lady Rhiavael and is known for artistic performance.

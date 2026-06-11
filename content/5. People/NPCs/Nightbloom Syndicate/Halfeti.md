@@ -1,31 +1,20 @@
----
-name: "Halfeti"
-type: npc
-location: "[[Sylvandar / Nightbloom Syndicate]]"
-affiliations:
-  - "[[Nightbloom Syndicate]]"
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 1
-tags:
-  - npc
-  - nightbloom-syndicate
----
+<div class="infobox">
+
+| Halfeti | |
+|:--|:--|
+| Species | Unknown |
+| Home Nation | Unknown |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[The Nightbloom Syndicate]], [[Republic of Sylvandar]] |
+| Occupation | — |
+| Last Known Location | [[Sylvandar / Nightbloom Syndicate]] |
+
+</div>
 
 # Halfeti
 
-## Overview
-- **Location / Context:** [[Sylvandar / Nightbloom Syndicate]]
-- **Affiliation:** [[Nightbloom Syndicate]], [[Sylvandar Republic]]
-- **Occurrences in source material:** 1
+Blonde high elf leader of [[The Nightbloom Syndicate]]
 
-## Role & Notes
-- Blonde high elf leader of [[The Nightbloom Syndicate]]
-- appears hooded and keeps her face partly hidden.
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- Manual add from [[Sylvandar]] Nightbloom section
+appears hooded and keeps her face partly hidden.

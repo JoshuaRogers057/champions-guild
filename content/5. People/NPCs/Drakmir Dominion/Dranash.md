@@ -1,27 +1,18 @@
----
-name: "Dranash"
-type: npc
-affiliations:
-  - "[[Drakmir Dominion]]"
-sources:
-  - "Drakmir Dominion.docx"
-occurrences: 1
-tags:
-  - npc
-  - drakmir-dominion
----
+<div class="infobox">
+
+| Dranash | |
+|:--|:--|
+| Species | Dragonborn |
+| Home Nation | [[Drakmir Dominion]] |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Drakmir Dominion]] |
+| Occupation | Huntcaller |
+| Last Known Location | — |
+
+</div>
 
 # Dranash
 
-## Overview
-- **Affiliation:** [[Drakmir Dominion]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Huntcaller Dranash – A scarred dragonborn with two sets of binoculars, both scratched from use. She trains townsfolk to track and avoid desert predators as part of morning chores.
-
-## Source Documents
-- Drakmir Dominion.docx
-
-## Paragraph References
-- Drakmir Dominion.docx ¶357
+Huntcaller Dranash – A scarred dragonborn with two sets of binoculars, both scratched from use. She trains townsfolk to track and avoid desert predators as part of morning chores.

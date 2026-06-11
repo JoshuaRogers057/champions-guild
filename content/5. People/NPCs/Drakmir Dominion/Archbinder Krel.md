@@ -1,27 +1,18 @@
----
-name: "Archbinder Krel"
-type: npc
-affiliations:
-  - "[[Drakmir Dominion]]"
-sources:
-  - "Drakmir Dominion.docx"
-occurrences: 1
-tags:
-  - npc
-  - drakmir-dominion
----
+<div class="infobox">
+
+| Archbinder Krel | |
+|:--|:--|
+| Species | Dragonborn |
+| Home Nation | [[Drakmir Dominion]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Drakmir Dominion]] |
+| Occupation | — |
+| Last Known Location | — |
+
+</div>
 
 # Archbinder Krel
 
-## Overview
-- **Affiliation:** [[Drakmir Dominion]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Archbinder Krel — A gaunt dragonborn who wears chains instead of robes. Known for binding dark forces to serve the Dominion, Krel speaks in archaic dialects and walks with a shadow that moves independently.
-
-## Source Documents
-- Drakmir Dominion.docx
-
-## Paragraph References
-- Drakmir Dominion.docx ¶312
+Archbinder Krel — A gaunt dragonborn who wears chains instead of robes. Known for binding dark forces to serve the Dominion, Krel speaks in archaic dialects and walks with a shadow that moves independently.

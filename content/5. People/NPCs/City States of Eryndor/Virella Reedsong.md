@@ -1,28 +1,18 @@
----
-name: "Virella Reedsong"
-type: npc
-affiliations:
-  - "[[City States of Eryndor]]"
-sources:
-  - "City states of Eryndor final.docx"
-occurrences: 2
-tags:
-  - npc
-  - city-states-of-eryndor
----
+<div class="infobox">
+
+| Virella Reedsong | |
+|:--|:--|
+| Species | Unknown |
+| Home Nation | City-States of Eryndor |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | City-States of Eryndor |
+| Occupation | Sister |
+| Last Known Location | — |
+
+</div>
 
 # Virella Reedsong
 
-## Overview
-- **Affiliation:** [[City States of Eryndor]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- Sister Virella Reedsong – Keeper of one of the reconstructed memory circles after the theft of 1015. Believes the missing archive was stolen to hide something, not to possess it.
-
-## Source Documents
-- City states of Eryndor final.docx
-
-## Paragraph References
-- City states of Eryndor final.docx ¶567
-- 567
+Sister Virella Reedsong – Keeper of one of the reconstructed memory circles after the theft of 1015. Believes the missing archive was stolen to hide something, not to possess it.

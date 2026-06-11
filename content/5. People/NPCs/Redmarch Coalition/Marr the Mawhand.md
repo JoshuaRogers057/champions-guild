@@ -1,30 +1,18 @@
----
-name: "Marr the Mawhand"
-type: npc
-location: "[[Criminal and Mercenary Figures]]"
-affiliations:
-  - "[[Redmarch Coalition]]"
-sources:
-  - "Redmarch Coalition Final.docx"
-occurrences: 2
-tags:
-  - npc
-  - redmarch-coalition
----
+<div class="infobox">
+
+| Marr the Mawhand | |
+|:--|:--|
+| Species | Ogre |
+| Home Nation | [[Redmarch Coalition]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Redmarch Coalition]] |
+| Occupation | — |
+| Last Known Location | [[Criminal and Mercenary Figures]] |
+
+</div>
 
 # Marr the Mawhand
 
-## Overview
-- **Location / Context:** [[Criminal and Mercenary Figures]]
-- **Affiliation:** [[Redmarch Coalition]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- Marr the Mawhand – Ogre enforcer of the Maw Market. Known for crushing skulls in barter disputes.
-
-## Source Documents
-- [[Redmarch Coalition]] Final.docx
-
-## Paragraph References
-- 273
-- [[Redmarch Coalition]] Final.docx ¶273
+Marr the Mawhand – Ogre enforcer of the Maw Market. Known for crushing skulls in barter disputes.

@@ -1,29 +1,18 @@
----
-name: "Ellu Snowthread"
-type: npc
-location: "[[Frostember Trail]]"
-affiliations:
-  - "[[Thundrakar]]"
-sources:
-  - "Thundrakar final.docx"
-occurrences: 1
-tags:
-  - npc
-  - thundrakar
----
+<div class="infobox">
+
+| Ellu Snowthread | |
+|:--|:--|
+| Species | Goliath |
+| Home Nation | [[Thundrakar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Thundrakar]] |
+| Occupation | Sky-Seer of [[Frostember Trail]] |
+| Last Known Location | [[Frostember Trail]] |
+
+</div>
 
 # Ellu Snowthread
 
-## Overview
-- **Location / Context:** [[Frostember Trail]]
-- **Affiliation:** [[Thundrakar]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Sky-Seer Ellu Snowthread Population: ~300 Primary Herds: Snow sheep, wooly lizards, and one ice elemental guide Specialty: Spiritual divination, song-chronicling, and burial rites
-
-## Source Documents
-- [[Thundrakar]] final.docx
-
-## Paragraph References
-- 247
+Sky-Seer Ellu Snowthread Population: ~300 Primary Herds: Snow sheep, wooly lizards, and one ice elemental guide Specialty: Spiritual divination, song-chronicling, and burial rites

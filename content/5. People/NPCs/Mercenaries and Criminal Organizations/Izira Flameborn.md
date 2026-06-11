@@ -1,33 +1,20 @@
----
-name: "Izira Flameborn"
-type: npc
-affiliations:
-  - "[[Mercenaries and Criminal Organizations]]"
-  - "[[City States of Eryndor]]"
-sources:
-  - "Criminals and mercenaries.docx"
-  - "City states of Eryndor final.docx"
-occurrences: 2
-tags:
-  - npc
-  - mercenaries-and-criminal-organizations
----
+<div class="infobox">
+
+| Izira Flameborn | |
+|:--|:--|
+| Species | Unknown |
+| Home Nation | Unknown |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | Mercenaries and Criminal Organizations, City-States of Eryndor |
+| Occupation | Scorch-Speaker |
+| Last Known Location | — |
+
+</div>
 
 # Izira Flameborn
 
-## Overview
-- **Affiliation:** [[Mercenaries and Criminal Organizations]], [[City States of Eryndor]]
-- **Occurrences in source material:** 2
+Scorch-Speaker Izira Flameborn
 
-## Role & Notes
-- Leader: Scorch-Speaker Izira Flameborn
-- The [[Emberwake Company]] – Scorch-Speaker Izira Flameborn
-
-## Source Documents
-- Criminals and mercenaries.docx
-- City states of Eryndor final.docx
-
-## Paragraph References
-- 210
-- Criminals and mercenaries.docx ¶210
-- City states of Eryndor final.docx ¶127
+The [[Emberwake Company]] – Scorch-Speaker Izira Flameborn

@@ -1,30 +1,18 @@
----
-name: "Orli Stonebraid"
-type: npc
-location: "[[Brambleflint]]"
-affiliations:
-  - "[[Drakmir Dominion]]"
-sources:
-  - "Drakmir Dominion.docx"
-occurrences: 2
-tags:
-  - npc
-  - drakmir-dominion
----
+<div class="infobox">
+
+| Orli Stonebraid | |
+|:--|:--|
+| Species | Dragonborn |
+| Home Nation | [[Drakmir Dominion]] |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Drakmir Dominion]] |
+| Occupation | Matron of [[Brambleflint]] |
+| Last Known Location | [[Brambleflint]] |
+
+</div>
 
 # Orli Stonebraid
 
-## Overview
-- **Location / Context:** [[Brambleflint]]
-- **Affiliation:** [[Drakmir Dominion]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- Leader: Matron Orli Stonebraid — A stocky dragonborn known for her volcanic tea and her collection of needleproof gloves. Her home is half greenhouse, half weapons locker.
-
-## Source Documents
-- Drakmir Dominion.docx
-
-## Paragraph References
-- 242
-- Drakmir Dominion.docx ¶242
+Matron Orli Stonebraid — A stocky dragonborn known for her volcanic tea and her collection of needleproof gloves. Her home is half greenhouse, half weapons locker.

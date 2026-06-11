@@ -1,29 +1,18 @@
----
-name: "Seraphiel Thorne"
-type: npc
-affiliations:
-  - "[[Bastions of Solara]]"
-sources:
-  - "Aasimar Final.docx"
-occurrences: 1
-tags:
-  - npc
-  - bastions-of-solara
----
+<div class="infobox">
+
+| Seraphiel Thorne | |
+|:--|:--|
+| Species | Aasimar |
+| Home Nation | [[Bastions of Solara]] |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Bastions of Solara]] |
+| Occupation | High Skywarden |
+| Last Known Location | — |
+
+</div>
 
 # Seraphiel Thorne
 
-## Overview
-- **Affiliation:** [[Bastions of Solara]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- High Skywarden Seraphiel Thorne commands the fortress with precision and fire. Once a soaring champion of the Skyborne Cavalry, she now rules from the Aerie of Wills—a vast command chamber suspended from a central skybridge tower. Clad in sky-blue armor wit...
-- High Skywarden Seraphiel Thorne
-
-## Source Documents
-- Aasimar Final.docx
-
-## Paragraph References
-- Aasimar Final.docx ¶109
-- Aasimar Final.docx ¶284
+High Skywarden Seraphiel Thorne commands the fortress with precision and fire. Once a soaring champion of the Skyborne Cavalry, she now rules from the Aerie of Wills—a vast command chamber suspended from a central skybridge tower. Clad in sky-blue armor wit...

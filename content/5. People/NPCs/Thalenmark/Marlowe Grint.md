@@ -4,6 +4,7 @@
 |:--|:--|
 | Species | Halfling |
 | Home Nation | [[Thalenmark Empire]] |
+| Gender | Male |
 | Status | Dead † |
 | Aliases | "Silvertongue" |
 | Affiliation | Gilded Council (Steady Ledger) |

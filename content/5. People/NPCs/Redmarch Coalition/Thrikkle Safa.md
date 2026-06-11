@@ -1,33 +1,20 @@
----
-name: "Thrikkle Safa"
-type: npc
-location: "[[Council of Blood]]"
-affiliations:
-  - "[[Redmarch Coalition]]"
-sources:
-  - "Redmarch Coalition Final.docx"
-occurrences: 2
-tags:
-  - npc
-  - redmarch-coalition
----
+<div class="infobox">
+
+| Thrikkle Safa | |
+|:--|:--|
+| Species | Goblin |
+| Home Nation | [[Redmarch Coalition]] |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Redmarch Coalition]] |
+| Occupation | — |
+| Last Known Location | [[Council of Blood]] |
+
+</div>
 
 # Thrikkle Safa
 
-## Overview
-- **Location / Context:** [[Council of Blood]]
-- **Affiliation:** [[Redmarch Coalition]]
-- **Occurrences in source material:** 2
+Thrikkle Safa – Goblin beastmaster. Often rides Scream, his giant wolf spider, into council meetings.
 
-## Role & Notes
-- Thrikkle Safa – Goblin beastmaster. Often rides Scream, his giant wolf spider, into council meetings.
-- Thrikkle Safa: Goblin beast rider commander, still rides into council meetings on a Giant Wolf Spider named Scream.
-
-## Source Documents
-- [[Redmarch Coalition]] Final.docx
-
-## Paragraph References
-- 268
-- [[Redmarch Coalition]] Final.docx ¶25
-- [[Redmarch Coalition]] Final.docx ¶103
-- [[Redmarch Coalition]] Final.docx ¶268
+Thrikkle Safa: Goblin beast rider commander, still rides into council meetings on a Giant Wolf Spider named Scream.

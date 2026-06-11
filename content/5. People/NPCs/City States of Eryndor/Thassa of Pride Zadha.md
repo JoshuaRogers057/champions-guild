@@ -1,27 +1,18 @@
----
-name: "Thassa of Pride Zadha"
-type: npc
-affiliations:
-  - "[[City States of Eryndor]]"
-sources:
-  - "City states of Eryndor final.docx"
-occurrences: 1
-tags:
-  - npc
-  - city-states-of-eryndor
----
+<div class="infobox">
+
+| Thassa of Pride Zadha | |
+|:--|:--|
+| Species | Unknown |
+| Home Nation | City-States of Eryndor |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | City-States of Eryndor |
+| Occupation | Sage |
+| Last Known Location | — |
+
+</div>
 
 # Thassa of Pride Zadha
 
-## Overview
-- **Affiliation:** [[City States of Eryndor]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Sage Thassa of Pride Zadha
-
-## Source Documents
-- City states of Eryndor final.docx
-
-## Paragraph References
-- City states of Eryndor final.docx ¶332
+Sage Thassa of Pride Zadha

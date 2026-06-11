@@ -1,29 +1,18 @@
----
-name: "Thaloras Vaelith"
-type: npc
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 1
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Thaloras Vaelith | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | King |
+| Last Known Location | — |
+
+</div>
 
 # Thaloras Vaelith
 
-## Overview
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Though King Thaloras Vaelith serves as a ceremonial monarch, true authority lies with the Senate of Sixteen. Eight members are elected representatives and eight noble-born senators known as the Eterna Voca. The eight permanent positions reserved for the nob...
-- King Thaloras Vaelith
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- [[Sylvandar]] full final.docx ¶123
-- [[Sylvandar]] full final.docx ¶135
+Though King Thaloras Vaelith serves as a ceremonial monarch, true authority lies with the Senate of Sixteen. Eight members are elected representatives and eight noble-born senators known as the Eterna Voca. The eight permanent positions reserved for the nob...

@@ -1,27 +1,18 @@
----
-name: "Thorne Marrek"
-type: npc
-affiliations:
-  - "[[City States of Eryndor]]"
-sources:
-  - "City states of Eryndor final.docx"
-occurrences: 1
-tags:
-  - npc
-  - city-states-of-eryndor
----
+<div class="infobox">
+
+| Thorne Marrek | |
+|:--|:--|
+| Species | Unknown |
+| Home Nation | City-States of Eryndor |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | City-States of Eryndor |
+| Occupation | Captain |
+| Last Known Location | — |
+
+</div>
 
 # Thorne Marrek
 
-## Overview
-- **Affiliation:** [[City States of Eryndor]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Captain Thorne Marrek
-
-## Source Documents
-- City states of Eryndor final.docx
-
-## Paragraph References
-- City states of Eryndor final.docx ¶432
+Captain Thorne Marrek

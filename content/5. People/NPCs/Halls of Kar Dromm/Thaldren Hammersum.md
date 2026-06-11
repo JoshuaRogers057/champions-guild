@@ -1,33 +1,20 @@
----
-name: "Thaldren Hammersum"
-type: npc
-location: "[[Thumdar: Capital NPCs]]"
-affiliations:
-  - "[[Halls of Kar Dromm]]"
-sources:
-  - "Dwarves Final.docx"
-occurrences: 3
-tags:
-  - npc
-  - halls-of-kar-dromm
----
+<div class="infobox">
+
+| Thaldren Hammersum | |
+|:--|:--|
+| Species | Dwarf |
+| Home Nation | [[Halls of Kar Dromm]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Halls of Kar Dromm]] |
+| Occupation | — |
+| Last Known Location | [[Thumdar: Capital NPCs]] |
+
+</div>
 
 # Thaldren Hammersum
 
-## Overview
-- **Location / Context:** [[Thumdar: Capital NPCs]]
-- **Affiliation:** [[Halls of Kar Dromm]]
-- **Occurrences in source material:** 3
+Coinwarden Thaldren Hammersum — Oversees Deepmarket trade and taxation
 
-## Role & Notes
-- Coinwarden Thaldren Hammersum — Oversees Deepmarket trade and taxation
-- Deepmarket: A sprawling trade hub of forges, gemcutters, and merchant guilds, open to non-dwarves. Coinwarden Thaldren Hammersum ensures fair trade (and collects every coin due).
-
-## Source Documents
-- Dwarves Final.docx
-
-## Paragraph References
-- 204
-- Dwarves Final.docx ¶204
-- Dwarves Final.docx ¶44
-- Dwarves Final.docx ¶204
+Deepmarket: A sprawling trade hub of forges, gemcutters, and merchant guilds, open to non-dwarves. Coinwarden Thaldren Hammersum ensures fair trade (and collects every coin due).

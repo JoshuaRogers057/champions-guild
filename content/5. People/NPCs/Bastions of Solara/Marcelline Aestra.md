@@ -1,30 +1,20 @@
----
-name: "Marcelline Aestra"
-type: npc
-affiliations:
-  - "[[Bastions of Solara]]"
-sources:
-  - "Aasimar Final.docx"
-occurrences: 2
-tags:
-  - npc
-  - bastions-of-solara
----
+<div class="infobox">
+
+| Marcelline Aestra | |
+|:--|:--|
+| Species | Aasimar |
+| Home Nation | [[Bastions of Solara]] |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Bastions of Solara]] |
+| Occupation | — |
+| Last Known Location | — |
+
+</div>
 
 # Marcelline Aestra
 
-## Overview
-- **Affiliation:** [[Bastions of Solara]]
-- **Occurrences in source material:** 2
+Highlady Marcelline Aestra – Lady of Mercy
 
-## Role & Notes
-- Highlady Marcelline Aestra – Lady of Mercy
-- Highlady Marcelline Aestra – Public heart and voice of [[Auris Prime]].
-
-## Source Documents
-- Aasimar Final.docx
-
-## Paragraph References
-- Aasimar Final.docx ¶259
-- Aasimar Final.docx ¶264
-- 259
+Highlady Marcelline Aestra – Public heart and voice of [[Auris Prime]].

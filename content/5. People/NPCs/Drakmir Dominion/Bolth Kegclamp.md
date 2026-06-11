@@ -1,28 +1,18 @@
----
-name: "Bolth Kegclamp"
-type: npc
-affiliations:
-  - "[[Drakmir Dominion]]"
-sources:
-  - "Drakmir Dominion.docx"
-occurrences: 3
-tags:
-  - npc
-  - drakmir-dominion
----
+<div class="infobox">
+
+| Bolth Kegclamp | |
+|:--|:--|
+| Species | Dragonborn |
+| Home Nation | [[Drakmir Dominion]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Drakmir Dominion]] |
+| Occupation | Magister |
+| Last Known Location | — |
+
+</div>
 
 # Bolth Kegclamp
 
-## Overview
-- **Affiliation:** [[Drakmir Dominion]]
-- **Occurrences in source material:** 3
-
-## Role & Notes
-- Magister Bolth Kegclamp – A blacksmith-turned-bureaucrat who oversees mechanical systems for mine safety and elevator operation. this kobold is all gruff.
-
-## Source Documents
-- Drakmir Dominion.docx
-
-## Paragraph References
-- 105
-- Drakmir Dominion.docx ¶105
+Magister Bolth Kegclamp – A blacksmith-turned-bureaucrat who oversees mechanical systems for mine safety and elevator operation. this kobold is all gruff.

@@ -1,29 +1,18 @@
----
-name: "Drega Kargrim"
-type: npc
-location: "[[Bladeshiver Kin]]"
-affiliations:
-  - "[[Thundrakar]]"
-sources:
-  - "Thundrakar final.docx"
-occurrences: 1
-tags:
-  - npc
-  - thundrakar
----
+<div class="infobox">
+
+| Drega Kargrim | |
+|:--|:--|
+| Species | Goliath |
+| Home Nation | [[Thundrakar]] |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Thundrakar]] |
+| Occupation | Steel-Mother of [[Bladeshiver Kin]] |
+| Last Known Location | [[Bladeshiver Kin]] |
+
+</div>
 
 # Drega Kargrim
 
-## Overview
-- **Location / Context:** [[Bladeshiver Kin]]
-- **Affiliation:** [[Thundrakar]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Steel-Mother Drega Kargrim Population: ~490 Primary Herds: Battle-bred mammoths Specialty: Weapon smithing and arena-style combat
-
-## Source Documents
-- [[Thundrakar]] final.docx
-
-## Paragraph References
-- 241
+Steel-Mother Drega Kargrim Population: ~490 Primary Herds: Battle-bred mammoths Specialty: Weapon smithing and arena-style combat

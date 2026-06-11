@@ -1,30 +1,18 @@
----
-name: "Halden Torv"
-type: npc
-location: "[[Duchy of Rath]]"
-affiliations:
-  - "[[Kastalshire]]"
-sources:
-  - "Kastalshire final.docx"
-occurrences: 2
-tags:
-  - npc
-  - kastalshire
----
+<div class="infobox">
+
+| Halden Torv | |
+|:--|:--|
+| Species | Human |
+| Home Nation | [[Kastalshire]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Kastalshire]] |
+| Occupation | Scribe of [[Duchy of Rath]] |
+| Last Known Location | [[Duchy of Rath]] |
+
+</div>
 
 # Halden Torv
 
-## Overview
-- **Location / Context:** [[Duchy of Rath]]
-- **Affiliation:** [[Kastalshire]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- [[2. Nations/Kastalshire/Towns/Kelmere|Kelmere]] – Record keeping and local archives Leader: Scribe Halden Torv
-
-## Source Documents
-- [[Kastalshire]] final.docx
-
-## Paragraph References
-- 146
-- [[Kastalshire]] final.docx ¶146
+[[2. Nations/Kastalshire/Towns/Kelmere|Kelmere]] – Record keeping and local archives Leader: Scribe Halden Torv

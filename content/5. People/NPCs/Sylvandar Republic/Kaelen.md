@@ -1,30 +1,18 @@
----
-name: "Kaelen"
-type: npc
-location: "[[Iverthil]]"
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 2
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Kaelen | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | Songmaster |
+| Last Known Location | [[Iverthil]] |
+
+</div>
 
 # Kaelen
 
-## Overview
-- **Location / Context:** [[Iverthil]]
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- [[Iverthil]] is led by Songmaster Kaelen and is known for bardic tradition.
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- 32
-- [[Sylvandar]] full final.docx ¶32
+[[Iverthil]] is led by Songmaster Kaelen and is known for bardic tradition.

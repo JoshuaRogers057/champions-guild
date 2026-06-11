@@ -1,29 +1,20 @@
----
-name: "Whisperclaw Reedbeak"
-type: npc
-affiliations:
-  - "[[City States of Eryndor]]"
-sources:
-  - "City states of Eryndor final.docx"
-occurrences: 2
-tags:
-  - npc
-  - city-states-of-eryndor
----
+<div class="infobox">
+
+| Whisperclaw Reedbeak | |
+|:--|:--|
+| Species | Unknown |
+| Home Nation | City-States of Eryndor |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | City-States of Eryndor |
+| Occupation | — |
+| Last Known Location | — |
+
+</div>
 
 # Whisperclaw Reedbeak
 
-## Overview
-- **Affiliation:** [[City States of Eryndor]]
-- **Occurrences in source material:** 2
+Whisperclaw Reedbeak –  master of concealment, signal systems, and civic emergency planning. Rarely speaks in his own voice.
 
-## Role & Notes
-- Whisperclaw Reedbeak –  master of concealment, signal systems, and civic emergency planning. Rarely speaks in his own voice.
-- Whisperclaw Reedbeak – master of concealment, signal systems, and civic emergency planning. Rarely speaks in his own voice.
-
-## Source Documents
-- City states of Eryndor final.docx
-
-## Paragraph References
-- 481
-- City states of Eryndor final.docx ¶481
+Whisperclaw Reedbeak – master of concealment, signal systems, and civic emergency planning. Rarely speaks in his own voice.

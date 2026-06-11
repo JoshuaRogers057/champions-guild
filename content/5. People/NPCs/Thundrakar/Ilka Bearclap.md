@@ -1,29 +1,18 @@
----
-name: "Ilka Bearclap"
-type: npc
-location: "[[Tundrathorn – East Thundrakar]]"
-affiliations:
-  - "[[Thundrakar]]"
-sources:
-  - "Thundrakar final.docx"
-occurrences: 1
-tags:
-  - npc
-  - thundrakar
----
+<div class="infobox">
+
+| Ilka Bearclap | |
+|:--|:--|
+| Species | Goliath |
+| Home Nation | [[Thundrakar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Thundrakar]] |
+| Occupation | Huntmistress of [[Tundrathorn – East Thundrakar]] |
+| Last Known Location | [[Tundrathorn – East Thundrakar]] |
+
+</div>
 
 # Ilka Bearclap
 
-## Overview
-- **Location / Context:** [[Tundrathorn – East Thundrakar]]
-- **Affiliation:** [[Thundrakar]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Huntmistress Ilka Bearclap Function: Beast taming and cold-weather tracking Primary Beasts: Dire wolves, wooly rhinos, winter wolves
-
-## Source Documents
-- [[Thundrakar]] final.docx
-
-## Paragraph References
-- 237
+Huntmistress Ilka Bearclap. Function: Beast taming and cold-weather tracking Primary Beasts: Dire wolves, wooly rhinos, winter wolves

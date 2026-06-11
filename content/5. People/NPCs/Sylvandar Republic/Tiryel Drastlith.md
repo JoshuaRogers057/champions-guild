@@ -1,31 +1,18 @@
----
-name: "Tiryel Drastlith"
-type: npc
-location: "[[Sylvandar / Major City NPCs]]"
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 2
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Tiryel Drastlith | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | Commander |
+| Last Known Location | [[Sylvandar / Major City NPCs]] |
+
+</div>
 
 # Tiryel Drastlith
 
-## Overview
-- **Location / Context:** [[Sylvandar / Major City NPCs]]
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- Grand Commander Tiryel Drastlith – Overseer of Valiant Hall and master of ambush warfare. She trains the next generation of elven scouts and insists on teaching the first lessons herself.
-- Grand Commander Tiryel Drastlith
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- 180
-- [[Sylvandar]] full final.docx ¶180
+Grand Commander Tiryel Drastlith – Overseer of Valiant Hall and master of ambush warfare. She trains the next generation of elven scouts and insists on teaching the first lessons herself.

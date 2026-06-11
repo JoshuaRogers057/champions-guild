@@ -1,27 +1,18 @@
----
-name: "Elran Mistelis"
-type: npc
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 1
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Elran Mistelis | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | High Sage |
+| Last Known Location | — |
+
+</div>
 
 # Elran Mistelis
 
-## Overview
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- High Sage Elran Mistelis
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- [[Sylvandar]] full final.docx ¶141
+High Sage Elran Mistelis

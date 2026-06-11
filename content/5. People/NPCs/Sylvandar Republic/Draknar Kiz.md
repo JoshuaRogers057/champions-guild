@@ -1,35 +1,20 @@
----
-name: "Draknar Kiz"
-type: npc
-location: "[[Sylvandar history / politics]]"
-affiliations:
-  - "[[Sylvandar Republic]]"
-  - "[[Drakmir Dominion]]"
-sources:
-  - "sylvandar full final.docx"
-  - "Drakmir Dominion.docx"
-occurrences: 2
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Draknar Kiz | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]], [[Drakmir Dominion]] |
+| Occupation | Commander |
+| Last Known Location | — |
+
+</div>
 
 # Draknar Kiz
 
-## Overview
-- **Location / Context:** [[Sylvandar history / politics]]
-- **Affiliation:** [[Sylvandar Republic]], [[Drakmir Dominion]]
-- **Occurrences in source material:** 2
+When young Commander Draknar Kiz was granted broad authority on the opposing side, the character of the war changed. Rather than defeat the forest, he chose to destroy its usefulness.
 
-## Role & Notes
-- When young Commander Draknar Kiz was granted broad authority on the opposing side, the character of the war changed. Rather than defeat the forest, he chose to destroy its usefulness.
-- It was here that the aging General Draknar Kiz, now semi-retired and serving largely as trainer and advisor, returned once more to prominence. Kiz championed disciplined freight corridors, fortified depots, efficient customs houses, and rail-linked military...
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-- Drakmir Dominion.docx
-
-## Paragraph References
-- 198
-- Drakmir Dominion.docx ¶442
-- [[Sylvandar]] full final.docx ¶198
+It was here that the aging General Draknar Kiz, now semi-retired and serving largely as trainer and advisor, returned once more to prominence. Kiz championed disciplined freight corridors, fortified depots, efficient customs houses, and rail-linked military...

@@ -1,28 +1,18 @@
----
-name: "Olzira Maeshowe"
-type: npc
-affiliations:
-  - "[[Korivar Compact]]"
-sources:
-  - "Korivar City State.docx"
-occurrences: 2
-tags:
-  - npc
-  - korivar-compact
----
+<div class="infobox">
+
+| Olzira Maeshowe | |
+|:--|:--|
+| Species | Half-Elf |
+| Home Nation | Korivar Compact |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | Korivar Compact |
+| Occupation | — |
+| Last Known Location | — |
+
+</div>
 
 # Olzira Maeshowe
 
-## Overview
-- **Affiliation:** [[Korivar Compact]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- The line is currently led by Olzira Maeshowe, a prodigy of ocean magic.
-
-## Source Documents
-- Korivar City State.docx
-
-## Paragraph References
-- 34
-- Korivar City State.docx ¶34
+The line is currently led by Olzira Maeshowe, a prodigy of ocean magic.

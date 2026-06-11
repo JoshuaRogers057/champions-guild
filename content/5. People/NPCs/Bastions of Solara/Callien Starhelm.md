@@ -1,33 +1,20 @@
----
-name: "Callien Starhelm"
-type: npc
-location: "[[Arbiter Callien Starhelm – Clarity]]"
-affiliations:
-  - "[[Bastions of Solara]]"
-sources:
-  - "Aasimar Final.docx"
-occurrences: 3
-tags:
-  - npc
-  - bastions-of-solara
----
+<div class="infobox">
+
+| Callien Starhelm | |
+|:--|:--|
+| Species | Aasimar |
+| Home Nation | [[Bastions of Solara]] |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Bastions of Solara]] |
+| Occupation | — |
+| Last Known Location | [[Arbiter Callien Starhelm – Clarity]] |
+
+</div>
 
 # Callien Starhelm
 
-## Overview
-- **Location / Context:** [[Arbiter Callien Starhelm – Clarity]]
-- **Affiliation:** [[Bastions of Solara]]
-- **Occurrences in source material:** 3
+Arbiter Callien Starhelm – Clarity
 
-## Role & Notes
-- Arbiter Callien Starhelm – Clarity
-- Arbiter Callien Starhelm (Clarity) presides over disputes of faith and magical offense. He appears as a scholar-priest, impartial and methodical. Behind his patient tone lies a quiet obsession with ensuring the Highlords’ will is never openly questioned.
-
-## Source Documents
-- Aasimar Final.docx
-
-## Paragraph References
-- 278
-- Aasimar Final.docx ¶278
-- Aasimar Final.docx ¶152
-- Aasimar Final.docx ¶278
+Arbiter Callien Starhelm (Clarity) presides over disputes of faith and magical offense. He appears as a scholar-priest, impartial and methodical. Behind his patient tone lies a quiet obsession with ensuring the Highlords’ will is never openly questioned.

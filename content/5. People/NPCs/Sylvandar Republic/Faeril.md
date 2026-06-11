@@ -1,30 +1,18 @@
----
-name: "Faeril"
-type: npc
-location: "[[Brightmere]]"
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 2
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Faeril | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | — |
+| Last Known Location | [[Brightmere]] |
+
+</div>
 
 # Faeril
 
-## Overview
-- **Location / Context:** [[Brightmere]]
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- [[Brightmere]] is led by High Gardener Faeril and is known for botanical sanctuary work.
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- 30
-- [[Sylvandar]] full final.docx ¶30
+[[Brightmere]] is led by High Gardener Faeril and is known for botanical sanctuary work.

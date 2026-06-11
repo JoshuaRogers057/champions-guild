@@ -1,27 +1,18 @@
----
-name: "Svarl"
-type: npc
-affiliations:
-  - "[[Redmarch Coalition]]"
-sources:
-  - "Redmarch Coalition Final.docx"
-occurrences: 1
-tags:
-  - npc
-  - redmarch-coalition
----
+<div class="infobox">
+
+| Svarl | |
+|:--|:--|
+| Species | Goblin |
+| Home Nation | [[Redmarch Coalition]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Redmarch Coalition]] |
+| Occupation | High Fang of [[Blackfang]] |
+| Last Known Location | — |
+
+</div>
 
 # Svarl
 
-## Overview
-- **Affiliation:** [[Redmarch Coalition]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: High Fang Svarl – A hide-cloaked goblin who crafts war masks from beast skulls. Function: Leatherworking and beast hide treatment Description: Smoking pits and drying racks line [[Blackfang]]’s perimeter. The scent of boiling hide marks the town from mi...
-
-## Source Documents
-- [[Redmarch Coalition]] Final.docx
-
-## Paragraph References
-- [[Redmarch Coalition]] Final.docx ¶208
+Smoking pits and drying racks line [[Blackfang]]’s perimeter. The scent of boiling hide marks the town from mi...

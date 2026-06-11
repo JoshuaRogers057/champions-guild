@@ -1,32 +1,22 @@
----
-name: "Urshak"
-type: npc
-affiliations:
-  - "[[Redmarch Coalition]]"
-sources:
-  - "Redmarch Coalition Final.docx"
-occurrences: 1
-tags:
-  - npc
-  - redmarch-coalition
----
+<div class="infobox">
+
+| Urshak | |
+|:--|:--|
+| Species | Goblin |
+| Home Nation | [[Redmarch Coalition]] |
+| Gender | Male |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Redmarch Coalition]] |
+| Occupation | General |
+| Last Known Location | — |
+
+</div>
 
 # Urshak
 
-## Overview
-- **Affiliation:** [[Redmarch Coalition]]
-- **Occurrences in source material:** 1
+General Urshak, dire wolf-rider and goblin warlord of the Outer Clans
 
-## Role & Notes
-- Ruler: General Urshak, dire wolf-rider and goblin warlord of the Outer Clans
-- General Urshak rides a dire wolf named Razzles and trains warpacks personally. His authority stems from a trail of shattered camps and stolen supplies. There are no better troops for lightning raids across all Eryndor. The Outrider clans are highly sought a...
-- General Urshak – Goblin dire wolf rider. Leads [[Molgarak]]’s warbands with cunning raids and guerrilla strikes.
+General Urshak rides a dire wolf named Razzles and trains warpacks personally. His authority stems from a trail of shattered camps and stolen supplies. There are no better troops for lightning raids across all Eryndor. The Outrider clans are highly sought a...
 
-## Source Documents
-- [[Redmarch Coalition]] Final.docx
-
-## Paragraph References
-- [[Redmarch Coalition]] Final.docx ¶156
-- [[Redmarch Coalition]] Final.docx ¶159
-- [[Redmarch Coalition]] Final.docx ¶264
-- [[Redmarch Coalition]] Final.docx ¶309
+General Urshak – Goblin dire wolf rider. Leads [[Molgarak]]’s warbands with cunning raids and guerrilla strikes.

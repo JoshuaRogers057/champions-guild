@@ -1,27 +1,18 @@
----
-name: "Skarnash"
-type: npc
-affiliations:
-  - "[[Redmarch Coalition]]"
-sources:
-  - "Redmarch Coalition Final.docx"
-occurrences: 1
-tags:
-  - npc
-  - redmarch-coalition
----
+<div class="infobox">
+
+| Skarnash | |
+|:--|:--|
+| Species | Unknown |
+| Home Nation | [[Redmarch Coalition]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Redmarch Coalition]] |
+| Occupation | Jarl of [[Gnashrift]] |
+| Last Known Location | — |
+
+</div>
 
 # Skarnash
 
-## Overview
-- **Affiliation:** [[Redmarch Coalition]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Jarl Skarnash – A beastlord who rides a razorclaw lizard into war. Function: Beast training and exotic animal hunting Description: Hidden in dense scrubland, [[Gnashrift]] breeds warbeasts and monster mounts. Taming is brutal. Survival is respect. Alleg...
-
-## Source Documents
-- [[Redmarch Coalition]] Final.docx
-
-## Paragraph References
-- [[Redmarch Coalition]] Final.docx ¶226
+Hidden in dense scrubland, [[Gnashrift]] breeds warbeasts and monster mounts. Taming is brutal. Survival is respect. Alleg...

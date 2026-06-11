@@ -1,30 +1,18 @@
----
-name: "Kyel Orn'lara"
-type: npc
-location: "[[Tirathil]]"
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 2
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Kyel Orn'lara | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | — |
+| Last Known Location | [[Tirathil]] |
+
+</div>
 
 # Kyel Orn'lara
 
-## Overview
-- **Location / Context:** [[Tirathil]]
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 2
-
-## Role & Notes
-- [[Tirathil]] is led by Bladesinger Kyel Orn'lara and is known for sword and martial training.
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- 22
-- [[Sylvandar]] full final.docx ¶22
+[[Tirathil]] is led by Bladesinger Kyel Orn'lara and is known for sword and martial training.

@@ -4,6 +4,7 @@
 |:--|:--|
 |Species|Halfling|
 |Home Nation|[[Thalenmark Empire]]|
+| Gender | Female |
 |Status|Dead †|
 |Aliases|The Prophetess, "Saint of the Reckoning"|
 |Affiliation|Yondallan faith|

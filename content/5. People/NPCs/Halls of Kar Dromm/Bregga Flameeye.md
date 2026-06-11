@@ -1,29 +1,18 @@
----
-name: "Bregga Flameeye"
-type: npc
-location: "[[Wyrmwatch]]"
-affiliations:
-  - "[[Halls of Kar Dromm]]"
-sources:
-  - "Dwarves Final.docx"
-occurrences: 1
-tags:
-  - npc
-  - halls-of-kar-dromm
----
+<div class="infobox">
+
+| Bregga Flameeye | |
+|:--|:--|
+| Species | Dwarf |
+| Home Nation | [[Halls of Kar Dromm]] |
+| Gender | Female |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Halls of Kar Dromm]] |
+| Occupation | Scoutmaster of [[Wyrmwatch]] |
+| Last Known Location | [[Wyrmwatch]] |
+
+</div>
 
 # Bregga Flameeye
 
-## Overview
-- **Location / Context:** [[Wyrmwatch]]
-- **Affiliation:** [[Halls of Kar Dromm]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- Leader: Scoutmaster Bregga Flameeye Function: Dragon monitoring and sky patrols Description: Perched on a jagged peak with a full view of the sky, [[Wyrmwatch]] houses a specialized division that watches for draconic threats and flying invaders. Bregga, who lost an eye to a wyvern, commands her scouts with ruthless precision.
-
-## Source Documents
-- Dwarves Final.docx
-
-## Paragraph References
-- 150
+Perched on a jagged peak with a full view of the sky, [[Wyrmwatch]] houses a specialized division that watches for draconic threats and flying invaders. Bregga, who lost an eye to a wyvern, commands her scouts with ruthless precision.

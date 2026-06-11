@@ -1,27 +1,18 @@
----
-name: "Selura Duskweave"
-type: npc
-affiliations:
-  - "[[Sylvandar Republic]]"
-sources:
-  - "sylvandar full final.docx"
-occurrences: 1
-tags:
-  - npc
-  - sylvandar-republic
----
+<div class="infobox">
+
+| Selura Duskweave | |
+|:--|:--|
+| Species | Elf |
+| Home Nation | [[Republic of Sylvandar]] |
+| Gender | Unknown |
+| Status | Alive |
+| Aliases | — |
+| Affiliation | [[Republic of Sylvandar]] |
+| Occupation | — |
+| Last Known Location | — |
+
+</div>
 
 # Selura Duskweave
 
-## Overview
-- **Affiliation:** [[Sylvandar Republic]]
-- **Occurrences in source material:** 1
-
-## Role & Notes
-- First Arbiter Selura Duskweave
-
-## Source Documents
-- [[Sylvandar]] full final.docx
-
-## Paragraph References
-- [[Sylvandar]] full final.docx ¶137
+First Arbiter Selura Duskweave
