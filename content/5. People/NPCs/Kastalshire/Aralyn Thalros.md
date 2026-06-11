@@ -20,7 +20,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Queen [[Aralyn]] Thalros
+- Queen [[Aralyn Thalros|Aralyn]] Thalros
 
 ## Source Documents
 - [[Kastalshire]] final.docx

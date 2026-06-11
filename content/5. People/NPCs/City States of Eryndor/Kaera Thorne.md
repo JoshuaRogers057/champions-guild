@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Marshal Kaera [[Thorne]]
+- Marshal Kaera Thorne
 
 ## Source Documents
 - City states of Eryndor final.docx

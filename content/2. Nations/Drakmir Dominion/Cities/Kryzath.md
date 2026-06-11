@@ -45,4 +45,4 @@ It was at the Legion Forgeworks that the Dominion's first true airship was born 
 
 **Commander Varessa Korrin** — Oversees the Spear Road gates. Infamous for denying entry to nobles, officers, and foreign envoys with the same flat stare.
 
-**Skywright Pellix [[Varn]]** — The kobold engineer behind the first Drakmir airship. Both celebrated and resented for proving that the future of war may no longer belong only to roads and marching feet.
+**Skywright Pellix Varn** — The kobold engineer behind the first Drakmir airship. Both celebrated and resented for proving that the future of war may no longer belong only to roads and marching feet.

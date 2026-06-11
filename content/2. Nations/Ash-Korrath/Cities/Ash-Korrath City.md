@@ -33,7 +33,7 @@ Located at the bottom of the city's spiraling descent. Houses the **Infernal Thr
 Primary hub of commerce. The **Firetongue Bazaar** offers everything from hell-etched daggers to bottled demon breath. Overseen by **[[Rinvali Emberlace]]**.
 
 ### The Ashen Mantle
-Homes carved into glowing rock faces, linked by skywalks and hovering bridges. Houses the **Pacthall Academy**, ruled by **[[Vaelith]] Cindervow**.
+Homes carved into glowing rock faces, linked by skywalks and hovering bridges. Houses the **Pacthall Academy**, ruled by **[[Vaelith Cindervow|Vaelith Cindervow]]**.
 
 ### Crucible Row
 Metal baptized in soulfire at the **Soulforge Crucible**. **Warden [[Thalkur Brazevein]]** oversees the Molten Guard.

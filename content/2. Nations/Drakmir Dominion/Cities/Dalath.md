@@ -43,4 +43,4 @@ When the old fighting made the surface too exposed, the Drakmir drove workshops,
 
 **Forge-Captain Dorrak Cindermane** — Commands the Chain Assembly's military production yards. Treats every war machine as something that must be trained before it can be trusted.
 
-**Rootwarden Saelrix [[Thorne]]** — Green-scaled kobold historian-engineer. Studies the old elven chambers beneath the city. Insists that Dalath's future depends on understanding what the Dominion buried under its own victory.
+**Rootwarden Saelrix Thorne** — Green-scaled kobold historian-engineer. Studies the old elven chambers beneath the city. Insists that Dalath's future depends on understanding what the Dominion buried under its own victory.

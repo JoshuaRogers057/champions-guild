@@ -13,7 +13,7 @@
 
 # Duraz-Mor
 
-Duraz-Mor is serene, radiant, and meticulously sculpted. Every street and plaza reflects the reverence this city holds for legacy and memory. Matron [[Elzra]] sees artistry as dwarven immortality. The Veinspire Tree blossoms with the memory of the honored dead, each branch a growing tapestry of crystal-bound names.
+Duraz-Mor is serene, radiant, and meticulously sculpted. Every street and plaza reflects the reverence this city holds for legacy and memory. Matron [[Elzra Goldhand|Elzra]] sees artistry as dwarven immortality. The Veinspire Tree blossoms with the memory of the honored dead, each branch a growing tapestry of crystal-bound names.
 
 **Note:** Duraz-Mor was the site of the Coin Shame (981–986), when the city was found to have debased coinage while preserving official marks. High King Durak transferred national coin production to [[Thumdar]] as a result, permanently reducing Duraz-Mor's political influence.
 

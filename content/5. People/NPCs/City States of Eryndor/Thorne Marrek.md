@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Captain [[Thorne]] Marrek
+- Captain Thorne Marrek
 
 ## Source Documents
 - City states of Eryndor final.docx

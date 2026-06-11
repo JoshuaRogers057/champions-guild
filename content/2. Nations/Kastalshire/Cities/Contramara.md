@@ -47,6 +47,6 @@ The Arcanum is Kastalshire's battle-magic school. Admission requires either a no
 
 **Queen [[Aralyn Thalros]]** — Formerly of Varondale. Politically brilliant, handles the realm's soft power. See main [[Kastalshire]] file for full entry.
 
-**Prince [[Dorian Thalros]], The Iron Spear** — Military prodigy. Stoic, loyal, commander's mind. Currently stationed in [[Falbrin]] evaluating Duke [[Velmouth]].
+**Prince [[Dorian Thalros]], The Iron Spear** — Military prodigy. Stoic, loyal, commander's mind. Currently stationed in [[Falbrin]] evaluating Duke [[Garran Velmouth|Velmouth]].
 
-**Prince [[Kaelen]] Thalros, The Silver Tongue** — Charismatic, ambitious, studies at The Arcanum. Travels between Lyricast and Rath courting political favor.
+**Prince [[Kaelen Thalros|Kaelen]] Thalros, The Silver Tongue** — Charismatic, ambitious, studies at The Arcanum. Travels between Lyricast and Rath courting political favor.

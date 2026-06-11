@@ -152,4 +152,4 @@ Radiant public figure and chief diplomat. Her compassion is leveraged for politi
 
 ### Empyrean Hold
 
-**High Skywarden Seraphiel [[Thorne]]** — Commander of the Skyborne Cavalry. Obsessed with altitude, precision, and swift punishment. Her authority is near-total on the eastern front.
+**High Skywarden [[Seraphiel Thorne|Seraphiel Thorne]]** — Commander of the Skyborne Cavalry. Obsessed with altitude, precision, and swift punishment. Her authority is near-total on the eastern front.

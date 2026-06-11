@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- High King [[Borin]] Stonemantle died shortly after the war. His passing was followed by six months of negotiation within the Stone Council before [[Durak Stonemantle]] was chosen.
+- High King [[Borin Stonemantle|Borin]] Stonemantle died shortly after the war. His passing was followed by six months of negotiation within the Stone Council before [[Durak Stonemantle]] was chosen.
 
 ## Source Documents
 - Dwarves Final.docx

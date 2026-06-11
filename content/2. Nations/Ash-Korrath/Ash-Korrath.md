@@ -102,7 +102,7 @@ Ash-Korrath has extensive smuggling rings, soul traffickers, and infernal debt c
 **High Sovereign [[Velcryn Dreadmark]]** — Silent ruler who issues orders through fire-glyphs.
 **Archpactress [[Neralza Chainborn]]** — Blindfolded contract master of the Cinder Court.
 **[[Rinvali Emberlace]]** — Flame-silk-draped matron of Emberreach Market.
-**[[Vaelith]] Cindervow** — Pacthall Academy's stern headmistress.
+**[[Vaelith Cindervow|Vaelith Cindervow]]** — Pacthall Academy's stern headmistress.
 **Warden [[Thalkur Brazevein]]** — Brass-jawed commander of the Molten Guard.
 **Foreman [[Grothar Leadskull]]** — Respected steward of the Hollowshade Warrens.
 **Magistrate [[Olvik the Smoke-Scarred]]** — Blind enforcer of truth and punishment.

@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 1
 
 ## Role & Notes
-- Leader: Huntcaller Dranash – A scarred dragonborn with two sets of binoculars, both scratched from use. She trains townrs to track and avoid desert predators as part of morning chores.
+- Leader: Huntcaller Dranash – A scarred dragonborn with two sets of binoculars, both scratched from use. She trains townsfolk to track and avoid desert predators as part of morning chores.
 
 ## Source Documents
 - Drakmir Dominion.docx

@@ -35,6 +35,6 @@ The realm-wide legal framework recognized across nations. Useful for understandi
 
 Use the **Explorer** panel on the left to browse the full compendium, including nations, cities, history, factions, [[NPCs]], and the pantheon.
 
-> *The world of Eryndor is shaped by the choices of its Champions. Every quest matters and any decision could leaves a mark.*
+> *The world of Eryndor is shaped by the choices of its Champions. Every quest matters and any decision could leave a mark.*
 >
 > *— Josh, Lead DM*

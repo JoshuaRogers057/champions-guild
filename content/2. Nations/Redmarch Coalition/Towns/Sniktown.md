@@ -12,6 +12,6 @@
 
 # Sniktown
 
-**Leader:** Knife Queen [[Raz]]
+**Leader:** Knife Queen [[Knife Queen Raz|Raz]]
 **Allegiance:** [[Borgnar]]
 **Known For:** Assassins' guild and stealth training

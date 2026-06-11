@@ -18,7 +18,7 @@ tags:
 - **Occurrences in source material:** 2
 
 ## Role & Notes
-- Prince Dorian Thalros – “The Iron Spear” Stoic and loyal, a commander’s mind. He is a military prodigy trained by the senior captains of Caer Thian and Aremir. Leads inspections of militia training and regional levies. Currently stationed in [[Falbrin]], quietly evaluating Duke [[Velmouth]]’s loyalty. Rumored to be promised in marriage to a noblewoman of House Dallinar to further stabilize Aremir.
+- Prince Dorian Thalros – “The Iron Spear” Stoic and loyal, a commander’s mind. He is a military prodigy trained by the senior captains of Caer Thian and Aremir. Leads inspections of militia training and regional levies. Currently stationed in [[Falbrin]], quietly evaluating Duke [[Garran Velmouth|Velmouth]]’s loyalty. Rumored to be promised in marriage to a noblewoman of House Dallinar to further stabilize Aremir.
 
 ## Source Documents
 - [[Kastalshire]] final.docx
