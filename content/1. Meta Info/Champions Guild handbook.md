@@ -7,7 +7,7 @@
 
 > We're an inclusive, accepting group made up of individuals from all walks of life, who have formed a community around our love of D&D and collaborative story-telling. You'll like it here.
 
-The Champions Guild is similar in structure to Adventurers League or a West Marches-style game, but with a major difference: your choices matter.
+The [[Champions Guild]] is similar in structure to Adventurers League or a West Marches-style game, but with a major difference: your choices matter.
 
 This is a long-term campaign with an evolving world shaped by the players. You can join games whenever your schedule allows, take breaks as needed, and always come back to a living world that moves forward with or without you.
 
@@ -21,19 +21,19 @@ Most quests are 1 to 3 sessions. Not every mission will change the world—but a
 
 ## Joining the Guild
 
-The Champions Guild is a newly established adventuring guild based in Ciliren, Eryndor's largest city and the epicenter of gnomish innovation. Perched on a windswept plateau where river meets sea, Ciliren is a city of endless invention and organized chaos—and it's here that the Champions Guild has carved out its first foothold. In a world of gears and glyphs, they bring stories, sacrifice, and the strength to make a difference. It's a modest beginning, but every great banner starts with a single oath… and a few brave souls willing to take the risk.
+The [[Champions Guild]] is a newly established adventuring guild based in Ciliren, Eryndor's largest city and the epicenter of gnomish innovation. Perched on a windswept plateau where river meets sea, Ciliren is a city of endless invention and organized chaos—and it's here that the [[Champions Guild]] has carved out its first foothold. In a world of gears and glyphs, they bring stories, sacrifice, and the strength to make a difference. It's a modest beginning, but every great banner starts with a single oath… and a few brave souls willing to take the risk.
 
-The Champions Guild is made up entirely of Player Characters—adventurers who've taken up the badge and pledged to face danger in exchange for coin, glory, and the chance to change the world. No one stumbles into this life. Whether your character seeks gold, justice, power, or something more personal, they chose to walk through the guildhall doors and take up the mantle of a Champion. This is a calling, and every member is here for a reason.
+The [[Champions Guild]] is made up entirely of Player Characters—adventurers who've taken up the badge and pledged to face danger in exchange for coin, glory, and the chance to change the world. No one stumbles into this life. Whether your character seeks gold, justice, power, or something more personal, they chose to walk through the guildhall doors and take up the mantle of a Champion. This is a calling, and every member is here for a reason.
 
 > **Age Requirement:** This server is for people 16+ years of age. If you are currently under 16, keep us in mind and revisit when you're older.
 
-### The Champions Guild Culture
+### The [[Champions Guild]] Culture
 
-The Champions Guild is made up of adventurers from every walk of life—soldiers, spellcasters, scholars, and scoundrels. But what unites them isn't power, it's purpose.
+The [[Champions Guild]] is made up of adventurers from every walk of life—soldiers, spellcasters, scholars, and scoundrels. But what unites them isn't power, it's purpose.
 
 > What makes your character interesting isn't what they are—it's who they are. The guild accepts all classes and skills. What you bring to the table matters, but we care far more about the person swinging the sword than the sword itself.
 
-The Champions Guild is more than a collection of adventurers—it's a shared name, a reputation, and a commitment to something greater than yourself.
+The [[Champions Guild]] is more than a collection of adventurers—it's a shared name, a reputation, and a commitment to something greater than yourself.
 
 We don't expect you to be a selfless soldier. You'll have your own goals, your own motives—but when you wear the guild's badge, you're expected to uphold our values, work with your allies, and protect the people of this land... or at least not get caught doing otherwise.
 
@@ -50,7 +50,7 @@ You are responsible for creating and maintaining your character sheet using eith
 **D&D Beyond**
 If you use this option, make sure your character sheet is set to "Public".
 
-**Champions Guild–Hosted Foundry Server**
+**[[Champions Guild]]–Hosted Foundry Server**
 If you'd like to use Foundry to manage your character, go to **#join-barracks** on Discord.
 
 > You are fully responsible for maintaining your own character sheet. Whether you use Foundry or D&D Beyond, it's up to you to ensure your sheet is accurate, up to date, and reflects any changes to your character. Use whichever platform you prefer—just keep it current.
@@ -71,7 +71,7 @@ If you'd like to use Foundry to manage your character, go to **#join-barracks** 
 
 ### Backstory
 
-All characters are members of the Champions Guild, headquartered in Ciliren, the capital of the Gnomes. Your character can originate from anywhere in Eryndor, but they must have a reason for joining the guild.
+All characters are members of the [[Champions Guild]], headquartered in Ciliren, the capital of the Gnomes. Your character can originate from anywhere in Eryndor, but they must have a reason for joining the guild.
 
 > As part of character creation, you'll need to answer the three questions below. These aren't just fluff—they're meant to help you build a character with depth, purpose, and a real place in the world.
 >
@@ -90,7 +90,7 @@ All characters are members of the Champions Guild, headquartered in Ciliren, the
 
 ### Submitting Your Character
 
-Once your character is complete, it must be logged and approved on the Champions Guild website before you can play.
+Once your character is complete, it must be logged and approved on the [[Champions Guild]] website before you can play.
 
 1. Go to the **My Characters** section on the site
 2. Click **Add New Character** and fill in all required information
@@ -127,13 +127,13 @@ You cannot earn more XP than what's required to reach your next level. Once you'
 
 ### Ranks
 
-The Champions Guild uses a rank structure to reflect a character's experience and progression. Ranks are tied directly to your character's level, and promotions happen automatically as you level up—there are no trials or evaluations required.
+The [[Champions Guild]] uses a rank structure to reflect a character's experience and progression. Ranks are tied directly to your character's level, and promotions happen automatically as you level up—there are no trials or evaluations required.
 
 **Prospect (Levels 1–2)**
 Prospects are not official guild members yet. These characters are new recruits proving themselves. To join the guild fully, a Prospect must complete 2 Prospect Quests.
 
 **Initiate (Levels 3–4)**
-Initiate is the first official rank within the Champions Guild. If you've already completed your Prospect Quests on a different character, you may start new characters at this rank.
+Initiate is the first official rank within the [[Champions Guild]]. If you've already completed your Prospect Quests on a different character, you may start new characters at this rank.
 
 ---
 
@@ -188,7 +188,7 @@ The Auction allows players to buy and sell magical equipment using gold. You can
 
 ### How Auctions Work
 
-Champions Guild uses a proxy bidding system (similar to eBay). When you place a bid, you enter the maximum amount you're willing to pay. The system will automatically increase your bid just enough to stay ahead of others. You'll only pay what's needed to win—not your full max unless someone else forces it.
+[[Champions Guild]] uses a proxy bidding system (similar to eBay). When you place a bid, you enter the maximum amount you're willing to pay. The system will automatically increase your bid just enough to stay ahead of others. You'll only pay what's needed to win—not your full max unless someone else forces it.
 
 When you bid:
 - Your max bid amount is set aside and put on standby

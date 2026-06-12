@@ -39,7 +39,7 @@ Talvereth is not policed by a city watch alone. Enforcement comes from private m
 
 ## The Talvereth Crisis — Aftermath
 
-Religious divisions, economic strain, and the influence of the Velvet Ledger pushed the city into full-scale riots — ignited by the rigged campaign for Jeffro Goldbrook's vacant Council seat and the preaching of the prophetess [[Bruna Mossvale]] — culminating in the Battle for Talvereth. Eleven [[Thalenmark Empire#The Gilded Council|Gilded Council]] members died; three bombs were handled, one detonating in a Waukeen temple. Champions Guild participants were awarded the title **Shield of Talvereth**.
+Religious divisions, economic strain, and the influence of the Velvet Ledger pushed the city into full-scale riots — ignited by the rigged campaign for Jeffro Goldbrook's vacant Council seat and the preaching of the prophetess [[Bruna Mossvale]] — culminating in the Battle for Talvereth. Eleven [[Thalenmark Empire#The Gilded Council|Gilded Council]] members died; three bombs were handled, one detonating in a Waukeen temple. [[Champions Guild]] participants were awarded the title **Shield of Talvereth**.
 
 **Lingering consequences:**
 - The Velvet Ledger remains active within the city

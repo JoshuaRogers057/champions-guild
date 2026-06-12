@@ -21,4 +21,4 @@ Berrick Copperlane controlled the mining and smelting combines that fed the empi
 
 ## Death
 
-Berrick Copperlane was taken into custody during the riots of [[The Talvereth Crisis]]. A Champions Guild rescue attempt failed to reach him in time — he was killed in custody after the temple explosion.
+Berrick Copperlane was taken into custody during the riots of [[The Talvereth Crisis]]. A [[Champions Guild]] rescue attempt failed to reach him in time — he was killed in custody after the temple explosion.

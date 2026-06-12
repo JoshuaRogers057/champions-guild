@@ -33,7 +33,7 @@ Following [[The Talvereth Crisis]], only **eight Council members survive**; twel
 | [[Brand Oakmantle]] | Free Trade | Timber & textiles cooperatives |
 | [[Rillan Dewdrop]] | Free Trade | Staples exchange (grain/fish) |
 
-*† rescued by Champions Guild teams during the Crisis.*
+*† rescued by [[Champions Guild]] teams during the Crisis.*
 
 **Deceased in the Crisis:** Marlowe "Silvertongue" Grint, Hestira Goldwhistle, Velza Merriweather-Bramblehook, Ruford Halfpenny, Berrick Copperlane, Maela Quickwater, Pella Nighttoll, Tansy Fairwheeler, Liora Warmcoin, Kip Thornettle, Corin Hearthwhistle.
 

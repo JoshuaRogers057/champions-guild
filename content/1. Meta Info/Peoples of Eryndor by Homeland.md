@@ -4,7 +4,7 @@
 
 ## Flavor
 
-All approved playable species are marked with **(Playable)**. Any species not marked as such are **not playable** for the Champions Guild.
+All approved playable species are marked with **(Playable)**. Any species not marked as such are **not playable** for the [[Champions Guild]].
 
 Flavor is free. Players may cosmetically describe their character as another species, lineage, or cultural variant so long as the approved mechanics remain unchanged.
 

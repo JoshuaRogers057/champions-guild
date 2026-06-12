@@ -17,4 +17,4 @@
 
 Fenla Thistlevault champions small traders and open markets on the Gilded Council. Her business spans artisan enchantment and adventuring contracts, making her one of the Council members most familiar to guild adventurers.
 
-During [[The Talvereth Crisis]] she was rescued by a Champions Guild Acolyte team, making her one of the eight surviving Gilded Council members.
+During [[The Talvereth Crisis]] she was rescued by a [[Champions Guild]] Acolyte team, making her one of the eight surviving Gilded Council members.

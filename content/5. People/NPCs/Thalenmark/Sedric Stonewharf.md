@@ -17,4 +17,4 @@
 
 Sedric Stonewharf controls the empire's construction and real-estate trusts — roads, bridges, seawalls, and tenements across the [[Thalenmark Empire]].
 
-During [[The Talvereth Crisis]] he was rescued by a Champions Guild Initiate team, making him one of the eight surviving Gilded Council members.
+During [[The Talvereth Crisis]] he was rescued by a [[Champions Guild]] Initiate team, making him one of the eight surviving Gilded Council members.

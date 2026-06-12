@@ -29,7 +29,7 @@ Beneath both, the Velvet Ledger pulled threads, and the city's religious and eco
 
 ## The Battle for Talvereth
 
-Champions Guild teams deployed across the city.
+[[Champions Guild]] teams deployed across the city.
 
 **Apprentice Team**
 - Rescued [[Dando Thornspill]] from a fortified bank
@@ -49,7 +49,7 @@ Champions Guild teams deployed across the city.
 
 ## Outcome & Recognition
 
-All Champions Guild participants were awarded the title **Shield of Talvereth**.
+All [[Champions Guild]] participants were awarded the title **Shield of Talvereth**.
 
 Eleven Gilded Council members died in the Crisis: Marlowe "Silvertongue" Grint, Hestira Goldwhistle, Velza Merriweather-Bramblehook, Ruford Halfpenny, Berrick Copperlane, Maela Quickwater, Pella Nighttoll, Tansy Fairwheeler, Liora Warmcoin, Kip Thornettle, and Corin Hearthwhistle. With Goldbrook's earlier assassination, twelve of the Council's twenty seats now sit vacant. The eight survivors are listed under [[Thalenmark Empire#The Gilded Council|the Gilded Council]].
 
