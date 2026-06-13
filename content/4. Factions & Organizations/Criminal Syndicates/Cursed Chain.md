@@ -12,4 +12,4 @@
 
 ---
 
-Slavers and debt-enforcers. Dreadwake's iron right hand.
+Slavers and debt-enforcers. [[Dreadwake]]'s iron right hand.

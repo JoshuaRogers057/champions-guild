@@ -2,7 +2,7 @@
 ## The Roost, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -72,10 +72,10 @@ Above all, it watches the sky.
 
 ## Notable Figures
 
-**Cristpas Hutin** — Ancient owlin leader of the Council of the Sky-Wise. Frail in body, formidable in judgment. Said to remember weather patterns from a century ago more clearly than yesterday's meal.
+**[[Cristpas Hutin]]** — Ancient owlin leader of the Council of the Sky-Wise. Frail in body, formidable in judgment. Said to remember weather patterns from a century ago more clearly than yesterday's meal.
 
-**Skymarshal Veera Talonwind** — Commander of aerial defenses and architect of the Talon Reforms. Popular among the young, tolerated by traditionalists.
+**Skymarshal [[Veera Talonwind]]** — Commander of aerial defenses and architect of the Talon Reforms. Popular among the young, tolerated by traditionalists.
 
-**Whisperclaw Reedbeak** — Master of concealment, signal systems, and civic emergency planning. Rarely speaks in his own voice.
+**[[Whisperclaw Reedbeak]]** — Master of concealment, signal systems, and civic emergency planning. Rarely speaks in his own voice.
 
 **Sister Hollowfeather** — Keeper of memory groves in the Whispergroves district. Believes dragons are not hunting, but searching.

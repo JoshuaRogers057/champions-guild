@@ -81,16 +81,16 @@ Spens is located on the far southeastern peninsula of Eryndor, where warm sea wi
 
 ## Notable NPCs
 
-**Matriarch Elyra Vaerendel** — The quiet, calculating ruler of Spens. She sees opportunity where others see chaos. Her presence is subtle, and she rarely gives public addresses, but her word shapes the city more than any blade or ballot.
+**Matriarch [[Elyra Vaerendel]]** — The quiet, calculating ruler of Spens. She sees opportunity where others see chaos. Her presence is subtle, and she rarely gives public addresses, but her word shapes the city more than any blade or ballot.
 
 **Vaelin Vaerendel** — Elyra's brother and master of coin. Flamboyant and always dressed for attention, but his mind is razor sharp. The unofficial face of Spens' foreign relations and trusted by the merchant houses.
 
 **Nimire Vaerendel** — Archivist of Spens and interpreter of the Trade Code. She rarely appears in public but is said to know every active contract, every court case, and every political shift in the city. Those who break their word often find her watching.
 
-**Captain Thorne Marrek** — Commander of the Stonebrand Accord, the city's primary defense force. A former sellsword who now trains and leads mercenaries under Spens' banner. Loyal only to his contract and his pride.
+**Captain [[Thorne Marrek]]** — Commander of the Stonebrand Accord, the city's primary defense force. A former sellsword who now trains and leads mercenaries under Spens' banner. Loyal only to his contract and his pride.
 
-**Priestess Malera Sann** — High Oracle of Waukeen and one of the most respected voices in the city's spiritual life. She advises the Vaerendels when asked, and collects coins from merchants not as donations, but as investments in fortune.
+**Priestess [[Malera Sann]]** — High Oracle of [[Waukeen]] and one of the most respected voices in the city's spiritual life. She advises the Vaerendels when asked, and collects coins from merchants not as donations, but as investments in fortune.
 
-**Commander Arven Drell** — Leader of the Spens Defense Force. A no-nonsense human veteran who rose from the Saltreach slums. Wears chainmail even off duty and believes in fast action over politics.
+**Commander [[Arven Drell]]** — Leader of the Spens Defense Force. A no-nonsense human veteran who rose from the Saltreach slums. Wears chainmail even off duty and believes in fast action over politics.
 
-**Marshal Kaera Thorne** — Commander of the Stonebrand Accord. A half-orc mercenary captain known for brutal efficiency and iron discipline. Never breaks a contract. Keeps her troops clean, quiet, and deadly. Feared and respected in equal measure.
+**Marshal [[Kaera Thorne]]** — Commander of the Stonebrand Accord. A half-orc mercenary captain known for brutal efficiency and iron discipline. Never breaks a contract. Keeps her troops clean, quiet, and deadly. Feared and respected in equal measure.

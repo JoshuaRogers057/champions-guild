@@ -7,7 +7,7 @@
 | Leader | Captain Vornek Hollowjaw |
 
 </div>
-# The Driftbone Armada
+# The [[Driftbone Armada]]
 
 Necromantic captains sailing with drowned crews and haunted hulls.
 

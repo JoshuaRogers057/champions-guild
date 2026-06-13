@@ -11,7 +11,7 @@
 </div>
 # The Bloodhand Hall
 
-The Bloodhand Hall sits near Grushnar, where orcs, hobgoblins, bugbears, and goblins are trained in brutal close combat, pain endurance, and battlefield dominance. Its warriors are called **Bloodhands**, and every survivor bears the burned brand of an open hand. The mark is never faked. To wear it without earning it is a death sentence.
+The Bloodhand Hall sits near [[Grushnar]], where orcs, hobgoblins, bugbears, and goblins are trained in brutal close combat, pain endurance, and battlefield dominance. Its warriors are called **Bloodhands**, and every survivor bears the burned brand of an open hand. The mark is never faked. To wear it without earning it is a death sentence.
 
 ---
 

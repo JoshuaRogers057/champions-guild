@@ -7,7 +7,7 @@
 | Leader | Mistress Tolla Rakefang |
 
 </div>
-# The Gutter Sails
+# The [[Gutter Sails]]
 
 Ship thieves and scavengers who steal ships mid-battle and lash wreckage into new homes.
 

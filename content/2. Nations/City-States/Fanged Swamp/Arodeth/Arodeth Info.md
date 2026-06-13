@@ -89,12 +89,12 @@ At the city's center is the **Trade Pool** — a massive, shallow lagoon where b
 
 ## Notable NPCs
 
-**Topha** — Chieftain of the lizardfolk. A towering, broad-scaled warrior who carries a bone greatsword nearly as long as he is tall. Fierce, proud, and convinced of his people's right to rule. Supported by his wife **Tiah**.
+**[[Topha]]** — Chieftain of the lizardfolk. A towering, broad-scaled warrior who carries a bone greatsword nearly as long as he is tall. Fierce, proud, and convinced of his people's right to rule. Supported by his wife **Tiah**.
 
-**Dula** — Matriarch of the bullywugs. A sharp-eyed strategist with a reputation for ending conflicts before they start. A master of poison and politics.
+**[[Dula]]** — Matriarch of the bullywugs. A sharp-eyed strategist with a reputation for ending conflicts before they start. A master of poison and politics.
 
-**Yorrik Blackreed** — Born a lizardfolk, discovered by a kind bullywug family after a yuan-ti raid and raised as one of them. Serves an ideal function as a bridge between the two peoples. Runs the Trade Pool with quiet authority and a memory for every deal ever made.
+**[[Yorrik Blackreed]]** — Born a lizardfolk, discovered by a kind bullywug family after a yuan-ti raid and raised as one of them. Serves an ideal function as a bridge between the two peoples. Runs the Trade Pool with quiet authority and a memory for every deal ever made.
 
-**Vesha the Rootseeker** — Elder shaman of the Stonewake Reaches. She interprets Ubtao's signs and whispers warnings to those wise enough to listen.
+**[[Vesha the Rootseeker]]** — Elder shaman of the Stonewake Reaches. She interprets Ubtao's signs and whispers warnings to those wise enough to listen.
 
-**Croakling Fenji** — Inventor, builder, and occasional trap-setter. Known for wild ideas that sometimes work and sometimes explode. Dula trusts her completely.
+**[[Croakling Fenji]]** — Inventor, builder, and occasional trap-setter. Known for wild ideas that sometimes work and sometimes explode. [[Dula]] trusts her completely.

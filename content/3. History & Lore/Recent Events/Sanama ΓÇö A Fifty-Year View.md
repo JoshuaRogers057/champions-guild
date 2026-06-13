@@ -2,7 +2,7 @@
 ## Sanama, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -62,12 +62,12 @@ Today Sanama is respected, mobile, and increasingly influential. It possesses no
 
 ## Notable Figures
 
-**Crown Asua Redmane** — Leonin champion whose duel preserved unity. Older now, but still formidable and deeply respected.
+**Crown [[Asua Redmane]]** — Leonin champion whose duel preserved unity. Older now, but still formidable and deeply respected.
 
-**Sage Naghara Swiftstep** — Tabaxi strategist, mapkeeper, and negotiator. Said to know every water source worth finding.
+**Sage [[Naghara Swiftstep]]** — Tabaxi strategist, mapkeeper, and negotiator. Said to know every water source worth finding.
 
-**Torren Longstride** — Loxodon caravan-master and monster breaker. Trusted by merchants who fear nearly everyone else.
+**[[Torren Longstride]]** — Loxodon caravan-master and monster breaker. Trusted by merchants who fear nearly everyone else.
 
-**Vexa Moonscent** — Shifter hunt-mistress renowned for tracking quarry across stone, rain, and crowded city streets alike.
+**[[Vexa Moonscent]]** — Shifter hunt-mistress renowned for tracking quarry across stone, rain, and crowded city streets alike.
 
-**Jaro Many-Scars** — Mercenary celebrity, teller of exaggerated truths, and veteran of more contracts than is statistically likely.
+**[[Jaro Many-Scars]]** — Mercenary celebrity, teller of exaggerated truths, and veteran of more contracts than is statistically likely.

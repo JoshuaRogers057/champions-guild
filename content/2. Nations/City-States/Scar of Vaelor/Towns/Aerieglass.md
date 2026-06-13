@@ -11,7 +11,7 @@
 </div>
 # Aerieglass
 
-**Leader:** High-Seer Lunira
+**Leader:** High-Seer [[Lunira]]
 **Function:** Divination sanctum and star-magic nexus
 
 **Unique Feature:** Transparent glass bridges spanning a hollow spire — during certain eclipses, the reflection shows a different world entirely

@@ -7,7 +7,7 @@
 | Leader | Captain Relvyn Marr |
 
 </div>
-# The Hollow Compass
+# The [[Hollow Compass]]
 
 Map-hoarding treasure hunters who always find what is not meant to be found.
 

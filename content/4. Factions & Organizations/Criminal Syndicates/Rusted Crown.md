@@ -12,4 +12,4 @@
 
 ---
 
-Scavenger lords who control Dreadwake's black markets.
+Scavenger lords who control [[Dreadwake]]'s black markets.

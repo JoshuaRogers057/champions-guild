@@ -2,7 +2,7 @@
 ## The Nation of Lexovar, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -110,6 +110,6 @@ The age of rail had made Lexovar master of the land routes. The age of air sugge
 
 ## The Realm in 1026
 
-Modern Lexovar stands prosperous and driven. It possesses the smallest great army and one of the largest influences. Its rivals buy its services while denouncing its arrogance. Its citizens argue constantly and produce wonders between arguments. Its academies still feud. Its perimeter still watches the Dome. Its ledgers still shape trade far beyond its borders.
+Modern Lexovar stands prosperous and driven. It possesses the smallest great army and one of the largest influences. Its rivals buy its services while denouncing its arrogance. Its citizens argue constantly and produce wonders between arguments. Its academies still feud. Its perimeter still watches [[The Dome]]. Its ledgers still shape trade far beyond its borders.
 
 And like many nations built on genius, it remains only one miscalculation away from another lesson.

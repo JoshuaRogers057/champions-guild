@@ -11,7 +11,7 @@
 </div>
 # The Stormwake Tower
 
-The Stormwake Tower rises from the largest island in **Hearthpoint**, a massive lighthouse-temple watching over Kastalshire's dangerous coastal waters. Its beacon, called **The Vigilant Flame**, is blessed each dusk and kept burning through storm, fog, and war.
+The Stormwake Tower rises from the largest island in **[[Hearthpoint]]**, a massive lighthouse-temple watching over [[Kastalshire]]'s dangerous coastal waters. Its beacon, called **The Vigilant Flame**, is blessed each dusk and kept burning through storm, fog, and war.
 
 Its defenders are called the **Stormwake Shepherds**, weather-trained protectors who guide ships through reefs, bless sailors, and track suspicious vessels. Honest captains trust the light. Pirates fear it, because the Shepherds have a habit of appearing out of rain and fog exactly when trouble begins.
 

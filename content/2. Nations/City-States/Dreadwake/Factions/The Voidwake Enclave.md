@@ -7,7 +7,7 @@
 | Leader | Captain Myrren Vask |
 
 </div>
-# The Voidwake Enclave
+# The [[Voidwake Enclave]]
 
 Arcane-pact pirates who vanish and reappear mid-battle. Dangerous and unpredictable.
 

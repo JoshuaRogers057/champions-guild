@@ -11,7 +11,7 @@
 </div>
 # The Salt Grove
 
-The Salt Grove exists on the same storm-battered island chain as the Tempest Crown, but where the Stormwardens embrace the violence of the sea, the druids of the Salt Grove accept its patience, hunger, and memory. They are sea druids who watch tides, reefs, currents, storms, migrations, shipwrecks, and the strange things that rise from the deep.
+The Salt Grove exists on the same storm-battered island chain as [[The Tempest Crown]], but where the Stormwardens embrace the violence of the sea, the druids of the Salt Grove accept its patience, hunger, and memory. They are sea druids who watch tides, reefs, currents, storms, migrations, shipwrecks, and the strange things that rise from the deep.
 
 The druids call themselves **the Tide Circle**, warning ships away from unnatural waters, calming wounded sea beasts, and reading omens in dead fish and broken shells.
 

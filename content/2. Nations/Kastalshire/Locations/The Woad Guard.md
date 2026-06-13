@@ -11,7 +11,7 @@
 </div>
 # The Woad Guard
 
-The Woad Guard is a druidic grove based near the cursed forests of **Caer Valance**, where the old trees press close to the coast and the Wode begins to twist into something darker. They are wardens, hunters, healers, and curse-breakers who guard the border of the Wode and keep its horrors from spilling into nearby farms, roads, and villages.
+The Woad Guard is a druidic grove based near the cursed forests of **[[Caer Valance]]**, where the old trees press close to the coast and the Wode begins to twist into something darker. They are wardens, hunters, healers, and curse-breakers who guard the border of the Wode and keep its horrors from spilling into nearby farms, roads, and villages.
 
 The Woad Guard fight hags, vampires, undead, cursed beasts, blighted plants, and dream-haunted travelers. They believe the Wode can bleed, and every horror stopped at the treeline is a victory.
 

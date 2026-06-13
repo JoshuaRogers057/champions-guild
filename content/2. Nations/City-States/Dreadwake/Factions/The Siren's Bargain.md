@@ -7,7 +7,7 @@
 | Leader | Voice-Speaker Nalyrien |
 
 </div>
-# The Siren's Bargain
+# The [[Siren's Bargain]]
 
 Enchanters, sea elves, and sirens who use charm magic and illusions to wreck ships.
 

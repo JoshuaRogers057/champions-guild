@@ -7,7 +7,7 @@
 | Leader | Brixel Boomwhistle |
 
 </div>
-# The Black Powder Pact
+# The [[Black Powder Pact]]
 
 Gnomish and dwarven engineers with unstable explosives on their ships.
 

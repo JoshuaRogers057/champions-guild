@@ -105,8 +105,8 @@ Nobody truly knows what caused the Scar of Vaelor. Every culture has a different
 
 ## Notable NPCs
 
-**Eryssa of the Shifting Wind** — Air Genasi elder, current leader of the Circle of Currents.
+**[[Eryssa of the Shifting Wind]]** — Air Genasi elder, current leader of the Circle of Currents.
 
-**Kaelen Thundershade** — A half-fey, half-fire genasi stormrider, famous for dueling an entire pirate crew in a lightning storm.
+**[[Kaelen]] Thundershade** — A half-fey, half-fire genasi stormrider, famous for dueling an entire pirate crew in a lightning storm.
 
-**Mira Thornwell** — An enigmatic "songmage" who claims to speak to the Scar itself.
+**[[Mira Thornwell]]** — An enigmatic "songmage" who claims to speak to the Scar itself.

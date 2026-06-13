@@ -7,9 +7,9 @@
 | Leader | Karr Volthrak |
 
 </div>
-# The Cursed Chain
+# The [[Cursed Chain]]
 
-Slavers and debt-enforcers. Dreadwake's iron right hand.
+Slavers and debt-enforcers. [[Dreadwake]]'s iron right hand.
 
 ---
 

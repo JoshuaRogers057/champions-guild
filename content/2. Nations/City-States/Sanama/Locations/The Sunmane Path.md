@@ -11,7 +11,7 @@
 </div>
 # The Sunmane Path
 
-The Sunmane Path is a **mobile monastic order** that travels with the prides and hunting bands of **Sanama**. Its monks are lionin and tabaxi ascetics who train through running, wrestling, hunting, climbing, and ritual combat beneath the open sky. They have no permanent monastery — their monastery is the road, the grassland, the hunt, and the campfire after blood has been spilled.
+The Sunmane Path is a **mobile monastic order** that travels with the prides and hunting bands of **[[Sanama]]**. Its monks are lionin and tabaxi ascetics who train through running, wrestling, hunting, climbing, and ritual combat beneath the open sky. They have no permanent monastery — their monastery is the road, the grassland, the hunt, and the campfire after blood has been spilled.
 
 ---
 

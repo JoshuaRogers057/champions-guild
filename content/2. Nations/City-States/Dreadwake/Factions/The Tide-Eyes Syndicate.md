@@ -7,7 +7,7 @@
 | Leader | Pell Varros |
 
 </div>
-# The Tide-Eyes Syndicate
+# The [[Tide-Eyes Syndicate]]
 
 Informants and shadow brokers who know everyone's secrets.
 

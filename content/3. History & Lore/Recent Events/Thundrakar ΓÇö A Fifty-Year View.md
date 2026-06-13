@@ -2,7 +2,7 @@
 ## Thundrakar, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -102,6 +102,6 @@ Drogath Stormvein still rules in 1026, but every serious observer recognizes the
 
 ## Anthros's Closing Observation
 
-Thundrakar is often called a raider nation. This is true, but incomplete. It is a defeated nation that refuses to behave as one. It is a hungry nation that turned hardship into discipline, memory, and weapon.
+[[Thundrakar]] is often called a raider nation. This is true, but incomplete. It is a defeated nation that refuses to behave as one. It is a hungry nation that turned hardship into discipline, memory, and weapon.
 
-The goliaths of Thundrakar do not raid merely because they love violence. They raid because fertile lands were lost, because winter remains relentless, because pride alone does not feed children, and because survival in the north has always demanded strength.
+The goliaths of [[Thundrakar]] do not raid merely because they love violence. They raid because fertile lands were lost, because winter remains relentless, because pride alone does not feed children, and because survival in the north has always demanded strength.

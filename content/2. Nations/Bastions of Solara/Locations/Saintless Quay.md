@@ -10,7 +10,7 @@
 </div>
 # Saintless Quay
 
-Saintless Quay sits below the cliffs near **Empyrean Hold**, where supply lifts, military docks, and sea caves create blind spots even the Skyborne cannot fully watch.
+Saintless Quay sits below the cliffs near **[[Empyrean Hold]]**, where supply lifts, military docks, and sea caves create blind spots even the Skyborne cannot fully watch.
 
 Everyone who works the Quay understands the risk: if Solara catches them, there will be no trial worth remembering.
 

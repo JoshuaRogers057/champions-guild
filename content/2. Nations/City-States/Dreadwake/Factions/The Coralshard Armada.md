@@ -7,7 +7,7 @@
 | Leader | Admiral Thalassa Crestpiercer |
 
 </div>
-# The Coralshard Armada
+# The [[Coralshard Armada]]
 
 Deep-sea tritons and merfolk who strike from below.
 

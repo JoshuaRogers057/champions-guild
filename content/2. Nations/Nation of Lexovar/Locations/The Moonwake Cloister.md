@@ -11,7 +11,7 @@
 </div>
 # The Moonwake Cloister
 
-The Moonwake Cloister is a hidden druidic grove on a quiet lake in eastern **Lexovar**, spread across small islands, sandbars, reed beds, and half-sunken stone paths. Its druids worship Selûne and study moonlight, water, dreams, tides, and starlit navigation. At night, the whole grove glows with silver reflection.
+The Moonwake Cloister is a hidden druidic grove on a quiet lake in eastern **Lexovar**, spread across small islands, sandbars, reed beds, and half-sunken stone paths. Its druids worship [[Selûne]] and study moonlight, water, dreams, tides, and starlit navigation. At night, the whole grove glows with silver reflection.
 
 The druids call themselves **the Still Wake**, serving as seers, healers, guides, and quiet protectors of the lake country. The Cloister is hard to find unless invited.
 

@@ -7,7 +7,7 @@
 | Leader | Yarrax |
 
 </div>
-# The Kraken's Kin
+# The [[Kraken's Kin]]
 
 Cult-like beast masters who tame and worship sea monsters.
 

@@ -11,7 +11,7 @@
 </div>
 # Skyreach Hollow
 
-**Leader:** Matron Seris Windgleam
+**Leader:** Matron [[Seris Windgleam]]
 **Function:** Weather harvesting and sky-charting
 
 **Unique Feature:** The Tempest Loom — an arcane observatory that captures and stores storm energy

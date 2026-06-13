@@ -2,7 +2,7 @@
 ## The Sylvandar Republic, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -88,4 +88,4 @@ Thus both factions agree on elven superiority. Their dispute concerns packaging.
 
 The current First Arbiter, **Flavith Erilis**, has one year remaining in what is generally judged a competent tenure. Stability at the top has prevented factional rivalry from becoming crisis.
 
-Sylvandar stands prosperous, cultured, militarily capable, and entirely convinced it remains indispensable to civilization.
+[[Sylvandar]] stands prosperous, cultured, militarily capable, and entirely convinced it remains indispensable to civilization.

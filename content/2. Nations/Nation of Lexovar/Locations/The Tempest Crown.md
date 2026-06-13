@@ -11,7 +11,7 @@
 </div>
 # The Tempest Crown
 
-The Tempest Crown is a storm-worn monastery built across a chain of jagged islands just beyond Lexovar's coast. Its monks worship Talos, not as mindless destruction, but as the brutal truth of wind, wave, and survival. Sailors, smugglers, pirates, and weather-mages come here to learn how to read storms, ride dangerous seas, and bend violent weather just enough to live through it.
+The Tempest Crown is a storm-worn monastery built across a chain of jagged islands just beyond Lexovar's coast. Its monks worship [[Talos]], not as mindless destruction, but as the brutal truth of wind, wave, and survival. Sailors, smugglers, pirates, and weather-mages come here to learn how to read storms, ride dangerous seas, and bend violent weather just enough to live through it.
 
 Its members call themselves **Stormwardens**, equal parts monks, sailors, and sea-witches. Before anyone can join, they must undergo **The Drowning Vow**: held beneath the waves until they die, then dragged back and restored. Those who wake are told they now belong to the storm twice over. Publicly, the Tempest Crown guides ships through deadly waters. Privately, it serves as a smuggler haven hidden among reefs, sea caves, and stormbanks.
 

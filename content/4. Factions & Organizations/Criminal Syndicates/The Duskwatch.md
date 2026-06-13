@@ -8,7 +8,7 @@
 | Symbol | An eye surrounded by cloud |
 
 </div>
-# The [[[[[[Duskwatch]]]]]]
+# The [[[[[[[[Duskwatch]]]]]]]]
 
 **Leader:** The [[Veiled Whisper]] — a mythical goblin believed by some to be multiple individuals throughout time. Identity has never been confirmed.
 

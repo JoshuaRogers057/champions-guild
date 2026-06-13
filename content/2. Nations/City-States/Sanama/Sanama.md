@@ -83,12 +83,12 @@ Ancient fire pits, stone rings, and old bones mark the places Sanama has settled
 
 ## Notable NPCs
 
-**Crown Surok of Pride Asua** — A massive leonin known for his calm presence and deep voice. His mane is thick with braids and beads from past victories. Surok believes in strength guided by patience. He speaks rarely but his words carry weight.
+**Crown [[Surok of Pride Asua]]** — A massive leonin known for his calm presence and deep voice. His mane is thick with braids and beads from past victories. Surok believes in strength guided by patience. He speaks rarely but his words carry weight.
 
-**Sage Vel of Pride Gertua** — A silver-furred tabaxi with a sharp tongue and quicker claws. Vel handles negotiations with precision and oversees many of the mercenary contracts taken by Sanama. Her laughter is as cutting as her blade.
+**Sage [[Vel of Pride Gertua]]** — A silver-furred tabaxi with a sharp tongue and quicker claws. [[Vel]] handles negotiations with precision and oversees many of the mercenary contracts taken by Sanama. Her laughter is as cutting as her blade.
 
-**Crown Rhogar of Pride Amoro** — Younger than the other leaders, Rhogar leads through action. He hunts the biggest monsters, fights the boldest battles, and inspires through sheer presence. His ironwood club is named Skybreaker.
+**Crown [[Rhogar of Pride Amoro]]** — Younger than the other leaders, Rhogar leads through action. He hunts the biggest monsters, fights the boldest battles, and inspires through sheer presence. His ironwood club is named Skybreaker.
 
-**Sage Thassa of Pride Zadha** — An elder tabaxi with a painted face and dark robes. She speaks little, listens much, and sees more than most. Her pride is known for precision kills and silent hunts.
+**Sage [[Thassa of Pride Zadha]]** — An elder tabaxi with a painted face and dark robes. She speaks little, listens much, and sees more than most. Her pride is known for precision kills and silent hunts.
 
-**Crown Baraz of Pride Nagoda** — A weathered lionin with battle scars across his chest and back. He carries a shield said to be made from the bones of a great lion. His gaze can silence a campfire. He does not forgive easily.
+**Crown [[Baraz of Pride Nagoda]]** — A weathered lionin with battle scars across his chest and back. He carries a shield said to be made from the bones of a great lion. His gaze can silence a campfire. He does not forgive easily.

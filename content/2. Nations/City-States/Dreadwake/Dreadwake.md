@@ -118,6 +118,6 @@ Officers get 2 shares, sailors get 1, Dreadwake gets 1.
 
 ## Notable NPCs
 
-**Rake Bloodhorn** — Current Pirate King. Towering red-horned minotaur. Wields a glaive made from sea serpent spine. Crown of bone and anchor chain.
+**[[Rake Bloodhorn]]** — Current Pirate King. Towering red-horned minotaur. Wields a glaive made from sea serpent spine. Crown of bone and anchor chain.
 
 For faction leaders, see the faction table above.

@@ -11,7 +11,7 @@
 </div>
 # The Falling Step
 
-The Falling Step is a monastery spread across several drifting **sky isles** in the Scar of Vaelor, where monks train in broken gravity, sudden drops, shifting bridges, and aerial combat. They learn to fight while falling, leap between islands, and use unstable terrain as a weapon rather than a hazard.
+The Falling Step is a monastery spread across several drifting **sky isles** in the [[Scar of Vaelor]], where monks train in broken gravity, sudden drops, shifting bridges, and aerial combat. They learn to fight while falling, leap between islands, and use unstable terrain as a weapon rather than a hazard.
 
 ---
 

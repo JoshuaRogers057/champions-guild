@@ -7,12 +7,12 @@
 | Leader | Scraplord Gullik Rakehand |
 
 </div>
-# The Rusted Crown
+# The [[Rusted Crown]]
 
-Scavenger lords who control Dreadwake's black markets.
+Scavenger lords who control [[Dreadwake]]'s black markets.
 
 ---
 
 ## Leader: Scraplord Gullik Rakehand
 
-A goblin kingpin who wears a crown of melted anchors and rules Dreadwake's black markets.
+A goblin kingpin who wears a crown of melted anchors and rules [[Dreadwake]]'s black markets.

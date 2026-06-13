@@ -10,7 +10,7 @@
 </div>
 # The Midnight Wharf
 
-The Midnight Wharf sits in a small bay in **Lyraon**, where a quiet fishing village works honestly by day and smuggles by moonlight. Nets, crab pots, and drying racks hide false compartments, while lantern codes guide small boats through fog and marshy inlets.
+The Midnight Wharf sits in a small bay in **[[Lyraon]]**, where a quiet fishing village works honestly by day and smuggles by moonlight. Nets, crab pots, and drying racks hide false compartments, while lantern codes guide small boats through fog and marshy inlets.
 
 The people here are not flashy criminals. They are fishermen, widows, sailors, and coastal families who learned that the law cares more about taxes than survival.
 

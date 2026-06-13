@@ -7,7 +7,7 @@
 | Leader | High Stalker Sssslat |
 
 </div>
-# The Mirefang Collective
+# The [[Mirefang Collective]]
 
 Lizardfolk and bullywugs who excel in poison, sabotage, and ambush.
 

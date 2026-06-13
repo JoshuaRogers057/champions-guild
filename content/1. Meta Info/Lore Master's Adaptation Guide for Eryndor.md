@@ -10,13 +10,13 @@ title: Lore Master's Adaptation Guide for Eryndor
 ### Free City of Spens Freebooter
 *(Replaces: Chondathan Freebooter)*
 
-- **Region:** Free City of Spens & southeastern peninsula of Eryndor.
-- **Lore:** The Free City of Spens draws exiles, gamblers, criminals, dreamers, and those who no longer have a home elsewhere. You might be a dock-rat born between the piers, a refugee from another nation, or someone who fled overwhelming debts and now works the trade lanes.
+- **Region:** [[Free City of Spens]] & southeastern peninsula of Eryndor.
+- **Lore:** The [[Free City of Spens]] draws exiles, gamblers, criminals, dreamers, and those who no longer have a home elsewhere. You might be a dock-rat born between the piers, a refugee from another nation, or someone who fled overwhelming debts and now works the trade lanes.
 - **Skill Set:** Spens Freebooters know smuggler codes, shifting loyalties, trade politics, and the unwritten rules of a port where everyone is hiding something.
 
 ### Dead Magic Dweller
 
-- **Region:** The Ekhara / The Dead-Magic Crater.
+- **Region:** [[The Ekhara]] / The Dead-Magic Crater.
 - **Lore:** The crater known as Ekhara is a scar where magic collapses, flickers, or mutates into something alien. You come from one of the desperate fringe settlements that cling to its edges.
 - **Skill Set:** You learned to live without magic, to distrust arcana, and to survive the unpredictable distortions of the region.
 
@@ -28,7 +28,7 @@ title: Lore Master's Adaptation Guide for Eryndor
 
 ### Genie Touched
 
-- **Region:** The Scar of Vaelor floating islands.
+- **Region:** The [[Scar of Vaelor]] floating islands.
 - **Lore:** A sliver of genie essence touched your lineage when the floating archipelagos of Vaelor fractured into the sky. Your bloodline bears a spark of elemental nobility — storm, flame, mist, sand, or crystal.
 - **Origin:** You might have been raised among the floating shards or discovered your mark later.
 
@@ -54,7 +54,7 @@ title: Lore Master's Adaptation Guide for Eryndor
 ### Mythalkeeper
 
 - **Region:** Any.
-- **Lore:** You serve as a guardian, explorer, student, or adventurer of one of the areas where magic has gathered. It may be the towering Woaden trees, the great wall of [[Thundrakar]], or even the Last Howl tavern. Regardless, this magic has influenced you deeply.
+- **Lore:** You serve as a guardian, explorer, student, or adventurer of one of the areas where magic has gathered. It may be the towering Woaden trees, the great wall of [[Thundrakar]], or even [[The Last Howl]] tavern. Regardless, this magic has influenced you deeply.
 
 ### Velvet Ledger Enforcer
 *(Replaces: Zhentarim Mercenary)*

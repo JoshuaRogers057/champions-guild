@@ -7,7 +7,7 @@
 | Leader | Commander Jorran Veld |
 
 </div>
-# The Ironwake Brotherhood
+# The [[Ironwake Brotherhood]]
 
 Ex-navy mercenaries with a brutal code and flawless discipline.
 

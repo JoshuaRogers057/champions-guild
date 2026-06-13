@@ -7,7 +7,7 @@
 | Leader | Priestess Veyna Kael |
 
 </div>
-# The Painted Blades
+# The [[Painted Blades]]
 
 Ritual duelists who believe tattoos and violence bring divine favor.
 

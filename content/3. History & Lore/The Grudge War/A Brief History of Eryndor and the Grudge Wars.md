@@ -1,6 +1,6 @@
 # A Brief History of Eryndor and the Grudge Wars
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 

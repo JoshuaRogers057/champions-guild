@@ -11,7 +11,7 @@
 </div>
 # The Whale-Bone Grove
 
-The Whale-Bone Grove sits on the **western** ice coast of Thundrakar, built among ancient whale skeletons, frozen tide pools, sea caves, and black kelp beds. These druids are primal sea-witches, beast-speakers, storm-readers, and blood-soaked hunters who believe the Ice Sea gives life only by taking it first.
+The Whale-Bone Grove sits on the **western** ice coast of [[Thundrakar]], built among ancient whale skeletons, frozen tide pools, sea caves, and black kelp beds. These druids are primal sea-witches, beast-speakers, storm-readers, and blood-soaked hunters who believe the Ice Sea gives life only by taking it first.
 
 They protect the old sea paths, the breeding grounds of great beasts, and the balance between hunger and survival. They do not oppose killing. They oppose killing without need, without respect, or without strength enough to answer for it.
 

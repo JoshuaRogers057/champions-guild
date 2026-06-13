@@ -2,7 +2,7 @@
 ## Dreadwake, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -74,12 +74,12 @@ The Bloodwake Corsairs · The Gutter Sails · The Black Powder Pact · The Siren
 
 ## Notable Figures
 
-**Rake Bloodhorn** — Current Pirate King. Towering minotaur with storm-branded horns and sea-serpent glaive.
+**[[Rake Bloodhorn]]** — Current Pirate King. Towering minotaur with storm-branded horns and sea-serpent glaive.
 
-**Mother Salt Mara** — Keeper of three taverns, six secrets, and one smile no one trusts.
+**[[Mother Salt Mara]]** — Keeper of three taverns, six secrets, and one smile no one trusts.
 
-**Brixel Boomwhistle** — Leader of the Black Powder Pact. Missing eyebrows, never discouraged.
+**[[Brixel Boomwhistle]]** — Leader of the [[Black Powder Pact]]. Missing eyebrows, never discouraged.
 
-**Mistress Tolla Rakefang** — Halfling chief of the Gutter Sails. If your ship is gone, ask politely.
+**Mistress [[Tolla Rakefang]]** — Halfling chief of the [[Gutter Sails]]. If your ship is gone, ask politely.
 
-**Voice-Speaker Nalyrien** — Siren's Bargain emissary whose songs have ended wars and marriages alike.
+**Voice-Speaker [[Nalyrien]]** — [[Siren's Bargain]] emissary whose songs have ended wars and marriages alike.

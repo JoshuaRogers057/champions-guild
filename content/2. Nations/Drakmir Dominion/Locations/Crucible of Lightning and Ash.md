@@ -11,7 +11,7 @@
 </div>
 # Crucible of Lightning and Ash
 
-The Crucible of Lightning and Ash stands in the mountains past **Zakath**, built inside the caldera of an old volcano. Its monks specialize in fire, lightning, and protection magic, drilling until they can fight blind through heat, thunder, smoke, and falling cinders.
+The Crucible of Lightning and Ash stands in the mountains past **[[Zakath]]**, built inside the caldera of an old volcano. Its monks specialize in fire, lightning, and protection magic, drilling until they can fight blind through heat, thunder, smoke, and falling cinders.
 
 ---
 

@@ -11,7 +11,7 @@
 </div>
 # Daurgothoth Grove
 
-Daurgothoth Grove sits on a flooded, swampy island off the coast of **Rakkath**, surrounded by black water, heavy kelp beds, and the deep calls of unseen sea beasts. The druids here worship and study the great creatures of the sea, treating whales, leviathans, reef-drakes, and stranger things as living powers worthy of fear and reverence.
+Daurgothoth Grove sits on a flooded, swampy island off the coast of **[[Rakkath]]**, surrounded by black water, heavy kelp beds, and the deep calls of unseen sea beasts. The druids here worship and study the great creatures of the sea, treating whales, leviathans, reef-drakes, and stranger things as living powers worthy of fear and reverence.
 
 ---
 

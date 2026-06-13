@@ -81,4 +81,4 @@ Spam, including but not limited to the following behaviors, is unacceptable:
 
 ---
 
-*This is a living document and may be updated periodically to reflect the evolving needs of our community. By participating in the Champions Guild, you agree to uphold these standards for the comfort and enjoyment of everyone.*
+*This is a living document and may be updated periodically to reflect the evolving needs of our community. By participating in the [[Champions Guild]], you agree to uphold these standards for the comfort and enjoyment of everyone.*

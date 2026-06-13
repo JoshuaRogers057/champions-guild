@@ -2,7 +2,7 @@
 ## The Herds of Elora, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -74,10 +74,10 @@ Today the Herds remain vibrant, decentralized, and far more influential than set
 
 **Grandmother Lyrahoof** — Revered centaur Wise One whose memory is said to stretch back farther than written ledgers in some courts.
 
-**Pip Thistlereed** — Satyr collector of tales, scandal, and songs. Cheerful, dangerous, and welcomed almost nowhere officially.
+**[[Pip Thistlereed]]** — Satyr collector of tales, scandal, and songs. Cheerful, dangerous, and welcomed almost nowhere officially.
 
 **Captain Marron Valekick** — Minotaur commander of the Hearth Guard. Massive, disciplined, unexpectedly gentle with children.
 
-**Tumble Quickburrow** — Harengon outrider and message-runner known for crossing three kingdoms in eight days.
+**[[Tumble Quickburrow]]** — Harengon outrider and message-runner known for crossing three kingdoms in eight days.
 
-**Sister Virella Reedsong** — Keeper of one of the reconstructed memory circles after the theft of 1015. Believes the missing archive was stolen to hide something, not to possess it.
+**Sister [[Virella Reedsong]]** — Keeper of one of the reconstructed memory circles after the theft of 1015. Believes the missing archive was stolen to hide something, not to possess it.

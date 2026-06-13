@@ -11,7 +11,7 @@
 </div>
 # Glimmervault
 
-**Leader:** Archivist Jexi Varnel
+**Leader:** Archivist [[Jexi Varnel]]
 **Function:** Magical artifact repository
 
 **Unique Feature:** Inverted floating pyramid vault that glows at night — a single bell tower opposite has never rung

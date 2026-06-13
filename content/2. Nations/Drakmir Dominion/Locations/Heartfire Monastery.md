@@ -11,7 +11,7 @@
 </div>
 # Heartfire Monastery
 
-Heartfire Monastery is a blackstone citadel carved into the mountains near **Kryzath**, built around an eternal flame that has never gone out. Pilgrims come seeking judgment, healing, blessing, or protection, but the monks decide what each visitor truly needs. Some are aided, some are tested, and some are turned away under armed guard.
+Heartfire Monastery is a blackstone citadel carved into the mountains near **[[Kryzath]]**, built around an eternal flame that has never gone out. Pilgrims come seeking judgment, healing, blessing, or protection, but the monks decide what each visitor truly needs. Some are aided, some are tested, and some are turned away under armed guard.
 
 ---
 

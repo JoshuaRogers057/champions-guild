@@ -2,7 +2,7 @@
 ## The Forged Sands, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -96,4 +96,4 @@ In the northwestern reaches bordering the Drakmir Dominion, something emerged in
 
 ## 1018–1026: Present State of the Forged Sands
 
-Today the Forged Sands stand more connected, more informed, and more cautious than they were fifty years ago. They are eager for a fragment mine, and growing desperate.
+Today [[The Forged Sands]] stand more connected, more informed, and more cautious than they were fifty years ago. They are eager for a fragment mine, and growing desperate.

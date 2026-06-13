@@ -7,7 +7,7 @@
 | Leader | Captain Cyr Draven |
 
 </div>
-# The Shardwind Raiders
+# The [[Shardwind Raiders]]
 
 Lightning-fast strike crews using speed and shock to plunder with surgical precision.
 

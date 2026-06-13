@@ -2,7 +2,7 @@
 ## The Fanged Swamp
 ### A History
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 

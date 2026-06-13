@@ -60,7 +60,7 @@ Watched closely by everyone whenever a party is inside the Tower. Spectators gat
 ### Cad
 *Warforged Artificer — Former Adventurer — Proprietor*
 
-A large warforged, Cad's body is reinforced with blackened mithril plating and burnished brass joints. One glowing blue eye gleams from a cracked helm built into his face. A long, barbed scar runs down his arm — damage from an encounter long ago. He speaks in slow, measured tones and remembers every adventurer who has ever entered the tower. His hands and feet are covered with gadgets.
+A large warforged, Cad's body is reinforced with blackened mithril plating and burnished brass joints. One glowing blue eye gleams from a cracked [[Helm]] built into his face. A long, barbed scar runs down his arm — damage from an encounter long ago. He speaks in slow, measured tones and remembers every adventurer who has ever entered the tower. His hands and feet are covered with gadgets.
 
 > *"Pay your gold, hold your nerves, and don't bleed on the carpets."* — Cad, more than once.
 

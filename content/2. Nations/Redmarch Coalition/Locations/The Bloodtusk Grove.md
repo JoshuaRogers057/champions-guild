@@ -11,7 +11,7 @@
 </div>
 # The Bloodtusk Grove
 
-The Bloodtusk Grove sits in the rough hunting lands outside **Grushnar**, where orcs and bugbears raise boars, dire wolves, war lizards, horned chargers, and other brutal beasts used in raids and open battle.
+The Bloodtusk Grove sits in the rough hunting lands outside **[[Grushnar]]**, where orcs and bugbears raise boars, dire wolves, war lizards, horned chargers, and other brutal beasts used in raids and open battle.
 
 Their rites involve blood-marking, dominance trials, scent bonding, and night hunts where rider and beast must kill together or not return.
 

@@ -23,4 +23,4 @@ Its members, known as Champions, come from every walk of life: soldiers, spellca
 
 Champions rise through the guild's ranks — from untested Prospects to legendary Grandmasters — as their deeds accumulate. The guild takes on work others cannot or will not: lost ruins, dangerous beasts, desperate towns, and matters too strange for local authorities.
 
-Today the guild operates from its headquarters in Ciliren, with outposts in [[Talvereth]] and the [[Drakmir Dominion]] extending its reach across Eryndor.
+Today the guild operates from its headquarters in [[Ciliren]], with outposts in [[Talvereth]] and the [[Drakmir Dominion]] extending its reach across Eryndor.

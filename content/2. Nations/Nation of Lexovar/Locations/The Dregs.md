@@ -12,7 +12,7 @@
 
 The Dregs is a pirate-smuggling port hidden along Lexovar's trade coast, close enough to the **Thalenmark border** that cargo can vanish from one nation and reappear in the other before anyone finishes filing the complaint. It sits behind a stretch of ugly mudflats, half-collapsed docks, and salt-rotted fishing shacks that look too worthless to inspect.
 
-The Dregs is rougher than Tinker's Hideaway and much less polite. Pirate crews, black-market brokers, crooked dockmasters, and border smugglers all operate here, protected by bribes, false manifests, and a shared hatred of official attention.
+The Dregs is rougher than [[Tinker's Hideaway]] and much less polite. Pirate crews, black-market brokers, crooked dockmasters, and border smugglers all operate here, protected by bribes, false manifests, and a shared hatred of official attention.
 
 ---
 

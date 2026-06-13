@@ -11,7 +11,7 @@
 </div>
 # The Walking Verse
 
-The Walking Verse is a **mobile monastic order** that travels among the centaurs and satyrs of the **Herds of Elora**. Its monks are storytellers, runners, dancers, memory-keepers, and staff-fighters who believe the body must carry history as faithfully as the tongue does. They have no temple — their monastery is the road between gatherings, the circle around the fire, and the rhythm of hooves crossing open ground.
+The Walking Verse is a **mobile monastic order** that travels among the centaurs and satyrs of the **[[Herds of Elora]]**. Its monks are storytellers, runners, dancers, memory-keepers, and staff-fighters who believe the body must carry history as faithfully as the tongue does. They have no temple — their monastery is the road between gatherings, the circle around the fire, and the rhythm of hooves crossing open ground.
 
 ---
 

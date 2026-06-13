@@ -14,7 +14,7 @@
 # Korivar Compact — Government, Military, Culture & Geography
 *Masters of the Sea, Children of No Nation*
 
-The Korivar Compact is a sovereign island city-state formed three hundred years ago by exiles of mixed elven and human blood. When the great elven and human nations severed all political and cultural ties, those of blended lineage were stripped of inheritance, protection, and citizenship. Rather than scatter, these outcasts followed Tessana Korivar into self-imposed exile and founded a nation capable of surviving through mastery of the sea.
+The Korivar Compact is a sovereign island city-state formed three hundred years ago by exiles of mixed elven and human blood. When the great elven and human nations severed all political and cultural ties, those of blended lineage were stripped of inheritance, protection, and citizenship. Rather than scatter, these outcasts followed [[Tessana Korivar]] into self-imposed exile and founded a nation capable of surviving through mastery of the sea.
 
 Today, the Korivar Compact controls some of the most dangerous and economically vital sea lanes in Eryndor. Their sailors, mages, and chartmakers are unmatched, and their neutrality makes them indispensable to global diplomacy and trade. The people of the Compact call themselves Korivari — not half-elves, not mixed bloods, but a unified people defined by oath, voyage, and shared survival.
 
@@ -89,7 +89,7 @@ The outside world holds mixed views of the Compact. Some nations resent its cont
 
 *Type: Assassins' Guild | Status: Quietly acknowledged, publicly condemned | Headquarters: Unknown*
 
-The Guild of Blades is an infamous, fully illegal assassins' guild believed to operate somewhere within the Compact. Its existence is a poorly kept secret — everyone knows the Guild exists, but no one knows its location, membership, or structure.
+[[The Guild of Blades]] is an infamous, fully illegal assassins' guild believed to operate somewhere within the Compact. Its existence is a poorly kept secret — everyone knows the Guild exists, but no one knows its location, membership, or structure.
 
 The Guild does not advertise its services, negotiate publicly, or engage in chaotic violence. Instead, it performs rare, precise assassinations that seem to target political threats, criminal rivals, foreign infiltrators, or individuals whose elimination prevents greater conflict.
 

@@ -7,7 +7,7 @@
 | Leader | Vesk Draive |
 
 </div>
-# The Gasping Coin
+# The [[Gasping Coin]]
 
 Undead financiers and cursed bankers. They run debt and death like a business.
 

@@ -2,7 +2,7 @@
 ## The Redmarch Coalition, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -102,6 +102,6 @@ After Red Gorge, Grisha's rule matured. Chiefs who obeyed prospered. Trade throu
 
 ## The Coalition in 1026
 
-At forty years of age, Grisha the Ironhowl remains in his prime and shows no sign of yielding power. Rumors persist of a secret favored protégé rather than an obvious heir.
+At forty years of age, [[Grisha the Ironhowl]] remains in his prime and shows no sign of yielding power. Rumors persist of a secret favored protégé rather than an obvious heir.
 
 The old Coalition was dangerous because it was wild. The present Coalition is dangerous because it has learned discipline. Though the greatest danger posed today may be the Blood Pits — few foreigners who enter leave.

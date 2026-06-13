@@ -2,7 +2,7 @@
 ## Kastalshire, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -92,6 +92,6 @@ For now, the project remains experimental and costly. But its pursuit signals co
 
 ## The Realm in 1026
 
-After fifty years, Kastalshire stands intact. Her coasts are guarded. Her northern fields recover under stricter stewardship. Her rails bind every major city to Contramara. Her dukes negotiate more boldly. Her criminals organize more quietly. Her forests whisper. Her skies beckon.
+After fifty years, [[Kastalshire]] stands intact. Her coasts are guarded. Her northern fields recover under stricter stewardship. Her rails bind every major city to [[Contramara]]. Her dukes negotiate more boldly. Her criminals organize more quietly. Her forests whisper. Her skies beckon.
 
-If the last fifty years prove anything, it is this: Kastalshire survives through discipline, adaptation, and the willingness to reform without surrendering authority.
+If the last fifty years prove anything, it is this: [[Kastalshire]] survives through discipline, adaptation, and the willingness to reform without surrendering authority.

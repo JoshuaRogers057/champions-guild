@@ -11,7 +11,7 @@
 </div>
 # Whisperspire
 
-**Leader:** Whisper-Monk Velian Sura
+**Leader:** Whisper-Monk [[Velian Sura]]
 **Function:** Scout and spy training
 
 **Unique Feature:** Acoustics where a whisper at the base carries to the summit but a scream fades before it leaves your throat

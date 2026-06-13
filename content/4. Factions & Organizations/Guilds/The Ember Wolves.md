@@ -17,6 +17,6 @@
 
 ---
 
-The Ember Wolves are [[Sylvandar]]'s most respected martial guild, born from the ashes of Vaelith's Fall. When Prince-General [[Caelthir Vaelith|Caelthir Vaelith]] died inside a burning Woaden Tree, the soldiers who survived believed they had failed their prince, their nation, and the sacred heart of [[Sylvandar]] itself. Rather than return home after the war, they formed a company that could keep fighting beyond the limits of Senate command.
+The Ember Wolves are [[Sylvandar]]'s most respected martial guild, born from the ashes of [[Vaelith]]'s Fall. When Prince-General [[Caelthir Vaelith|Caelthir Vaelith]] died inside a burning Woaden Tree, the soldiers who survived believed they had failed their prince, their nation, and the sacred heart of [[Sylvandar]] itself. Rather than return home after the war, they formed a company that could keep fighting beyond the limits of Senate command.
 
 The Ember Wolves are [[Sylvandar]]'s deniable strength with teeth. Refined enough to work for elven interests, but practical enough to accept outsiders when the mission demands it. They do not always announce themselves with banners and drums. They are capable of striking from concealment and vanishing before the enemy understands how surrounded they truly were.

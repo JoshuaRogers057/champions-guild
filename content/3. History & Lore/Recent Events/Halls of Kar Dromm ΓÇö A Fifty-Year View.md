@@ -2,7 +2,7 @@
 ## The Halls of Kar Dromm, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -96,6 +96,6 @@ Bardthane Brund Flamebrow of Morndrin Thorr died peacefully after a long and res
 
 Kar Dromm remains strong. Its roads function. Its armies are respected. Its trade is broad. Its forges remain among the finest in the world.
 
-Yet power has shifted quietly. Thumdar now controls coin production once centered in Duraz-Mor. By fragment law, the capital also oversees the realm's most valuable resource. Huarthal's port has changed internal trade. Kavzar's workers now bargain where once they only endured. Bal Kregger holds land it still struggles to tame. Three clan seats remain vacant: Huarthal, Bal Kregger, and Morndrin Thorr.
+Yet power has shifted quietly. [[Thumdar]] now controls coin production once centered in [[Duraz-Mor]]. By fragment law, the capital also oversees the realm's most valuable resource. [[Huarthal]]'s port has changed internal trade. [[Kavzar]]'s workers now bargain where once they only endured. Bal Kregger holds land it still struggles to tame. Three clan seats remain vacant: [[Huarthal]], Bal Kregger, and [[Morndrin Thorr]].
 
 A cultural matter of growing importance concerns ownership itself. Many dwarves hold that the maker's bond to an object surpasses that of the buyer or inheritor. Foreign nobles proudly keep dwarven-made blades for generations. To outsiders these acts are tribute and respect. To many dwarves they are the permanent withholding of another smith's legacy. Resentment over this matter has grown steadily in recent years.

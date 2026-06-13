@@ -10,7 +10,7 @@
 </div>
 # The Rustwake Quay
 
-The Rustwake Quay is the only major smuggler port tolerated within the Forged Sands, hidden in the lower cliffworks of **Red Harbor** where old cooling tunnels, rust-stained sea caves, and abandoned maintenance docks meet the crimson tide.
+The Rustwake Quay is the only major smuggler port tolerated within [[The Forged Sands]], hidden in the lower cliffworks of **[[Red Harbor]]** where old cooling tunnels, rust-stained sea caves, and abandoned maintenance docks meet the crimson tide.
 
 The Quay survives because it is useful. Steelborn authorities deny its existence, but certain shipments need to arrive quietly.
 

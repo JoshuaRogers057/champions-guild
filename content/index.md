@@ -31,6 +31,13 @@ The realm-wide legal framework recognized across nations. Useful for understandi
 
 ---
 
+## Meet the Staff
+
+**[[Staff]]**
+The DMs, scribes, and organizers who build and run this world. Come say hi.
+
+---
+
 ## Explore the World
 
 Use the **Explorer** panel on the left to browse the full compendium, including nations, cities, history, factions, [[NPCs]], and the pantheon.

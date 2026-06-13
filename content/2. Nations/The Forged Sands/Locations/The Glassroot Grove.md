@@ -11,7 +11,7 @@
 </div>
 # The Glassroot Grove
 
-The Glassroot Grove is a small desert druid grove north of **The Last Tower**, hidden in a dry canyon basin where pale roots push through cracked stone. The grove takes its name from the long **glass siphon tubes** the druids drive into the ground to draw hidden water up from buried veins.
+The Glassroot Grove is a small desert druid grove north of **[[The Last Tower]]**, hidden in a dry canyon basin where pale roots push through cracked stone. The grove takes its name from the long **glass siphon tubes** the druids drive into the ground to draw hidden water up from buried veins.
 
 The druids are quiet survivalists who tend the few living things that can endure the northern wastes. Steelborn travelers respect them because the grove is one of the last reliable living waypoints before the land becomes truly hostile.
 

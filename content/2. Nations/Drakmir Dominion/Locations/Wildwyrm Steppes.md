@@ -10,7 +10,7 @@
 </div>
 # Wildwyrm Steppes
 
-Wildwyrm Steppes begins at a southern harbor near the mouth of the river outside **Rakkath**. Smugglers unload there, then follow the river north through the steppes until they reach a hidden lake used for sorting cargo, changing guides, and waiting out patrols. Wander off the path, and the land eats you.
+Wildwyrm Steppes begins at a southern harbor near the mouth of the river outside **[[Rakkath]]**. Smugglers unload there, then follow the river north through the steppes until they reach a hidden lake used for sorting cargo, changing guides, and waiting out patrols. Wander off the path, and the land eats you.
 
 ---
 

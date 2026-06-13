@@ -10,7 +10,7 @@
 </div>
 # Lowtide Exchange
 
-The Lowtide Exchange is hidden in **Contramara's Lowsea Quarter**, buried beneath fish shops, cheap taverns, storage cellars, and old flood tunnels. At high tide, many of its lower passages vanish underwater. At low tide, secret doors open into a working smuggler network.
+The Lowtide Exchange is hidden in **[[Contramara]]'s Lowsea Quarter**, buried beneath fish shops, cheap taverns, storage cellars, and old flood tunnels. At high tide, many of its lower passages vanish underwater. At low tide, secret doors open into a working smuggler network.
 
 The Exchange survives because it does not look like one organization. It is a web of shopkeepers, dockhands, boatmen, money-changers, and quiet criminals who all profit from the same hidden passages.
 

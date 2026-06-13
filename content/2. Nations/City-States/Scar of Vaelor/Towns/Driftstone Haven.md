@@ -11,7 +11,7 @@
 </div>
 # Driftstone Haven
 
-**Leader:** Artisan Korran Flintbrace
+**Leader:** Artisan [[Korran Flintbrace]]
 **Function:** Stone-shaping and levitation rune research
 
 **Unique Feature:** Rotating ring-shaped floating island with its own daily cycle of dawn, dusk, and eclipse

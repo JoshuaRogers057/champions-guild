@@ -10,7 +10,7 @@
 </div>
 # The Black Maw Den
 
-The Black Maw Den is a smuggler den hidden in the broken stone country near **Kryzath**, tucked beneath old quarry cuts, abandoned military tunnels, and forgotten rail service passages. It does heavy business because Kryzath sits close to the rail, the **Redmarch Coalition**, **Val'Quith**, and the **Bastions of Solara**.
+The Black Maw Den is a smuggler den hidden in the broken stone country near **[[Kryzath]]**, tucked beneath old quarry cuts, abandoned military tunnels, and forgotten rail service passages. It does heavy business because [[Kryzath]] sits close to the rail, the **[[Redmarch Coalition]]**, **[[Val'Quith]]**, and the **[[Bastions of Solara]]**.
 
 ---
 

@@ -11,7 +11,7 @@
 </div>
 # The Thunderroot Grove
 
-The Thunderroot Grove lies in **eastern** Thundrakar, where storm-bent trees grow around giant stones split by lightning. The druids are cold, primal wardens of beast, storm, blood, and old earth. They tend no soft garden — their grove is a place of claw marks, standing stones, frozen roots, storm drums, and animal skulls hung as warnings.
+The Thunderroot Grove lies in **eastern** [[Thundrakar]], where storm-bent trees grow around giant stones split by lightning. The druids are cold, primal wardens of beast, storm, blood, and old earth. They tend no soft garden — their grove is a place of claw marks, standing stones, frozen roots, storm drums, and animal skulls hung as warnings.
 
 They guard ancient giant ruins, storm-touched beasts, and sacred hunting grounds from outsiders and weak claimants.
 

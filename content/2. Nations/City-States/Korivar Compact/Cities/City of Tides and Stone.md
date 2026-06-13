@@ -13,7 +13,7 @@
 # City of Tides and Stone
 
 **Founding Line:** Maeshowe Line
-**Leader:** Olzira Maeshowe
+**Leader:** [[Olzira Maeshowe]]
 **Primary Role:** Navigation, sea magic, chart making
 
 ---
@@ -24,4 +24,4 @@ Their **Living Charts** update seasonally, growing more accurate with each cycle
 
 The city features ancient stone harbors that calm dangerous tides, making it a favored retreat for citizens. Before inheriting leadership, every heir must complete the **Solstice Passage** — navigating cursed reefs at the most treacherous time of year.
 
-Olzira Maeshowe is a prodigy of ocean magic.
+[[Olzira Maeshowe]] is a prodigy of ocean magic.

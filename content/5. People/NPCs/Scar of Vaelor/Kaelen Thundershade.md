@@ -15,4 +15,4 @@
 
 # Kaelen Thundershade
 
-Kaelen Thundershade: A half-fey, half-fire genasi stormrider, famous for dueling an entire pirate crew in a lightning storm.
+[[Kaelen]] Thundershade: A half-fey, half-fire genasi stormrider, famous for dueling an entire pirate crew in a lightning storm.

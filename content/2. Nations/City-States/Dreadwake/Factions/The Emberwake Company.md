@@ -7,7 +7,7 @@
 | Leader | Scorch-Speaker Izira Flameborn |
 
 </div>
-# The Emberwake Company
+# The [[Emberwake Company]]
 
 Fire-wielding genasi and sorcerers who burn coastlines and fire storm-cannons.
 

@@ -10,7 +10,7 @@
 </div>
 # The Hollow Halo
 
-The Hollow Halo is hidden beneath the lower terraces of **Auris Prime**, buried among forgotten service tunnels, old pilgrimage cisterns, and abandoned shrine foundations.
+The Hollow Halo is hidden beneath the lower terraces of **[[Auris Prime]]**, buried among forgotten service tunnels, old pilgrimage cisterns, and abandoned shrine foundations.
 
 The smugglers here survive by dressing crime in holiness: prayer carts, funeral processions, charity wagons, and temple supply crates all hide cargo.
 

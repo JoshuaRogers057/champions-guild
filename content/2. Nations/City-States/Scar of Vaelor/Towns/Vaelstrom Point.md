@@ -11,7 +11,7 @@
 </div>
 # Vaelstrom Point
 
-**Leader:** Warden Elthis Vaelshade
+**Leader:** Warden [[Elthis Vaelshade]]
 **Function:** Sky-beast patrol and aerial defense
 
 **Unique Feature:** Aether Talon roosts for aerial mounts — massive, sleek, feathered reptiles

@@ -13,7 +13,7 @@
 # Harbor of Blades
 
 **Founding Line:** Bakara Line
-**Leader:** High Admiral Namor Bakara
+**Leader:** High Admiral [[Namor Bakara]]
 **Primary Role:** Naval warfare and defense
 
 ---

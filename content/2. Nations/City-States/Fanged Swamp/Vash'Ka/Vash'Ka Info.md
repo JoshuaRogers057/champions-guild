@@ -77,12 +77,12 @@ Vash'Ka rises with the tides and sinks in the storms. It is alive in its own way
 
 ## Notable NPCs
 
-**Anathama** — The ruler of Vash'Ka. A towering yuan-ti abomination with a golden crest and blackened fangs. She speaks rarely, strikes without warning, and has ruled for over eighty years through terror and brilliance. Her coils have crushed rivals and lovers alike.
+**[[Anathama]]** — The ruler of Vash'Ka. A towering yuan-ti abomination with a golden crest and blackened fangs. She speaks rarely, strikes without warning, and has ruled for over eighty years through terror and brilliance. Her coils have crushed rivals and lovers alike.
 
-**Ssssilkra the Bonebinder** — High Scale-Seer and religious leader of the hydra cults. She is said to have bathed in the blood of a seven-headed beast and emerged with second sight. Wears only mud, scales, and her own twisted jewelry.
+**[[Ssssilkra the Bonebinder]]** — High Scale-Seer and religious leader of the hydra cults. She is said to have bathed in the blood of a seven-headed beast and emerged with second sight. Wears only mud, scales, and her own twisted jewelry.
 
 **Vaskith Hollowtongue** — Diplomatic liaison to the port and handler of all foreign traders. A pureblood with a silver tongue and poison in every compliment.
 
-**Gravax the Coil-Breaker** — A rogue abomination from one of the lower Houses who dreams of unifying the swamp by fire and fang. He is dangerous, charismatic, and gathering a loyal warband. He never sleeps in Vash'Ka.
+**[[Gravax the Coil-Breaker]]** — A rogue abomination from one of the lower Houses who dreams of unifying the swamp by fire and fang. He is dangerous, charismatic, and gathering a loyal warband. He never sleeps in Vash'Ka.
 
-**Mother Dreer** — A swamp hag who lives just beyond the city's reach. She speaks in riddles, sings to bones, and claims she once suckled a hydra. Half the city fears her. The other half listens when they shouldn't.
+**[[Mother Dreer]]** — A swamp hag who lives just beyond the city's reach. She speaks in riddles, sings to bones, and claims she once suckled a hydra. Half the city fears her. The other half listens when they shouldn't.

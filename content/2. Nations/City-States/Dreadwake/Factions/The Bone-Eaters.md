@@ -7,7 +7,7 @@
 | Leader | Matron Skaritha Boneveil |
 
 </div>
-# The Bone-Eaters
+# The [[Bone-Eaters]]
 
 Cannibal pirates who wear bones as armor and believe in soul consumption.
 

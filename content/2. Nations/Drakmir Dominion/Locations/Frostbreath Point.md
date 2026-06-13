@@ -10,7 +10,7 @@
 </div>
 # Frostbreath Point
 
-Frostbreath Point is a secret dock hidden in the frozen forests north of **Azurath**, where the trees lean heavy with ice and the shoreline disappears under fog and snow.
+Frostbreath Point is a secret dock hidden in the frozen forests north of **[[Azurath]]**, where the trees lean heavy with ice and the shoreline disappears under fog and snow.
 
 ---
 

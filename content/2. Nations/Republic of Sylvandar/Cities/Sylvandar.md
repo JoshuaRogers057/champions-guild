@@ -48,7 +48,7 @@ The broad lower district, spread across the forest floor beneath the Woaden cano
 
 ## Notable Figures
 
-**King Aelar Vaelith**
+**King Aelar [[Vaelith]]**
 A serene, white-haired monarch robed in radiant blue and silver. Though he rarely intervenes directly in politics, his presence remains a powerful symbol of elven continuity and national unity.
 
 **First Arbiter [[Selura Duskweave]]**

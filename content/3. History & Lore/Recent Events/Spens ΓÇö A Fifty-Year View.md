@@ -2,7 +2,7 @@
 ## Spens, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -74,12 +74,12 @@ Spens offers opportunity to the clever, anonymity to the desperate, and wealth t
 
 ## Notable Figures
 
-**Lady Seralyth Vaerendel** — Current ruler of Spens. Elegant, patient, and reputedly never surprised twice.
+**Lady [[Seralyth Vaerendel]]** — Current ruler of Spens. Elegant, patient, and reputedly never surprised twice.
 
-**Lord Caelen Vaerendel** — Overseer of docks, tariffs, and harbor expansion. Smiles often, reveals little.
+**Lord [[Caelen Vaerendel]]** — Overseer of docks, tariffs, and harbor expansion. Smiles often, reveals little.
 
-**Marshal Brigg Tanner** — Veteran enforcer of the Common Charter. Honest by local standards, which is to say alarming.
+**Marshal [[Brigg Tanner]]** — Veteran enforcer of the Common Charter. Honest by local standards, which is to say alarming.
 
-**Velzi Ninecoins** — Halfling broker of information, introductions, and deniable solutions. Maintains no known enemies because she remembers to pay them.
+**[[Velzi Ninecoins]]** — Halfling broker of information, introductions, and deniable solutions. Maintains no known enemies because she remembers to pay them.
 
-**Captain Renn Blackwake** — Private shipmaster, smuggler, patriot, or pirate depending on which court is asking.
+**Captain [[Renn Blackwake]]** — Private shipmaster, smuggler, patriot, or pirate depending on which court is asking.

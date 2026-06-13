@@ -2,7 +2,7 @@
 ## The Scar of Vaelor, A Fifty-Year View
 ### 976–1026
 
-*Penned by Anthros, Wanderer of Eryndor, Keeper of Histories*
+*Penned by [[Anthros]], Wanderer of Eryndor, Keeper of Histories*
 
 ---
 
@@ -58,8 +58,8 @@ Art is everywhere. Tattoos mark deeds, vows, or elemental lineage. Song is used 
 
 ## 1022–1026: The Present Currents
 
-The Scar of Vaelor today is stable, prosperous, and more influential than many larger powers care to admit. Its elemental crystals remain prized. Its artificers produce devices impossible to replicate elsewhere. Its neutral markets host transactions respectable nations deny needing.
+The [[Scar of Vaelor]] today is stable, prosperous, and more influential than many larger powers care to admit. Its elemental crystals remain prized. Its artificers produce devices impossible to replicate elsewhere. Its neutral markets host transactions respectable nations deny needing.
 
 The Circle of Currents still rules lightly. The Dominion still watches carefully. Spens merchants still arrive smiling.
 
-Meanwhile **Mira Thornwell**, the enigmatic songmage, continues to claim that the Scar itself sings beneath the stone and mist. Most dismiss her as theatrical.
+Meanwhile **[[Mira Thornwell]]**, the enigmatic songmage, continues to claim that the Scar itself sings beneath the stone and mist. Most dismiss her as theatrical.

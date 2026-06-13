@@ -7,7 +7,7 @@
 | Leader | Serel Valcours |
 
 </div>
-# The Silver Sails
+# The [[Silver Sails]]
 
 Duelists and pirate aristocrats. Deadly and elegant.
 
