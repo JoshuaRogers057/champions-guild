@@ -33,8 +33,8 @@ The realm-wide legal framework recognized across nations. Useful for understandi
 
 ## Meet the Staff
 
-**[[Staff]]**
-The DMs, scribes, and organizers who build and run this world. Come say hi.
+**[[The Staff]]**
+The core staff and organizers who build and run this world.
 
 ---
 

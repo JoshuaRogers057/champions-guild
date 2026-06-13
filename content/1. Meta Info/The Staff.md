@@ -31,10 +31,10 @@ Eda has been part of the guild for a couple of years, having gotten her start wi
 ---
 
 ## Slaagathor
-**Master Scribe**
-*Description incoming.*
+**High Scribe**
+*Oversees the guild's scribes, who ensure characters are properly tracked and reflected on the website — keeping the source of truth true.*
 
-Bio incoming.
+Ryan — known around the guild as Slaagathor — serves as High Scribe. He's played D&D for over 30 years, starting with AD&D 1st Edition in the late '80s and never stopping (though he skipped 4th Ed). In 5e his specialties are rogues and barbarians. He's has an easygoing personality and tries to live by the wise words of Monty Python: "Always look on the bright side of life!" If you spot him in the Hangout, come on in, and don't hesitate to reach out with questions. Gaming, movies, exotic pets, and computers are a few of his favorite things.
 
 ---
 
