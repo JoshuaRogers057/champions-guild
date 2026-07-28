@@ -53,7 +53,7 @@ South of the city, the Blackrun River widens into Blackrun Lake, where barges ga
 
 **Tikkit Redledger** — Kobold overseer of the Rivergate ledgers and city supply flow. Small, red-scaled, and famously unpleasant. Has exposed more criminals with arithmetic than most marshals have with swords.
 
-**Marshal Ygrax Stonebreath** — Commands the Eastwatch. Gray-scaled, severe, feared by her own soldiers.
+**Marshal Ygrax Stonebreath** — Commands the Eastwatch district. Gray-scaled, severe, feared by her own soldiers.
 
 **Sivra Blackpine** — Leads many Ashen Antler patrols. Lean, quiet, more at ease beneath trees than beneath banners.
 
