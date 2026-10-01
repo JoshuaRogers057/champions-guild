@@ -48,10 +48,8 @@ Disagreements and rivalries happen. But when it matters, Champions have each oth
 You are responsible for creating and maintaining your character sheet using either:
 
 **D&D Beyond**
-If you use this option, make sure your character sheet is set to "Public".
+**Champions Guild–Hosted Foundry Server**
 
-**[[Champions Guild]]–Hosted Foundry Server**
-If you'd like to use Foundry to manage your character, go to **#join-barracks** on Discord.
 
 > You are fully responsible for maintaining your own character sheet. Whether you use Foundry or D&D Beyond, it's up to you to ensure your sheet is accurate, up to date, and reflects any changes to your character. Use whichever platform you prefer—just keep it current.
 
