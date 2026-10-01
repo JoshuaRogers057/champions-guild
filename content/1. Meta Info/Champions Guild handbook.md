@@ -5,7 +5,7 @@
 
 ## About the Guild
 
-> We're an inclusive, accepting group made up of individuals from all walks of life, who have formed a community around our love of D&D and collaborative story-telling. You'll like it here.
+> We're a welcoming group made up of individuals from all walks of life, who have formed a community around our love of D&D and collaborative story-telling. You'll like it here.
 
 The [[Champions Guild]] is similar in structure to Adventurers League or a West Marches-style game, but with a major difference: your choices matter.
 
@@ -25,7 +25,16 @@ The [[Champions Guild]] is a newly established adventuring guild based in Cilire
 
 The [[Champions Guild]] is made up entirely of Player Characters—adventurers who've taken up the badge and pledged to face danger in exchange for coin, glory, and the chance to change the world. No one stumbles into this life. Whether your character seeks gold, justice, power, or something more personal, they chose to walk through the guildhall doors and take up the mantle of a Champion. This is a calling, and every member is here for a reason.
 
-> **Age Requirement:** This server is for people 16+ years of age. If you are currently under 16, keep us in mind and revisit when you're older.
+> **Age Requirement:** The Champions Guild is for people 18+ years of age.
+
+### How to Join
+
+Everything starts on [championsguildrpg.com](https://championsguildrpg.com/).
+
+1. **Create an account.** Sign up with your email, accept the Terms of Service, and confirm your email address.
+2. **Tell us about yourself.** Pick the name other players and DMs will see, and let us know how familiar you are with D&D.
+3. **Build your character.** The site walks you through choosing where your character lives, building them, and registering them for review. See [[#Character Creation]] below.
+4. **Join the Discord.** Use the **Join our Discord** button on the site. It links your Discord to your guild account and drops you straight into the server.
 
 ### The [[Champions Guild]] Culture
 
@@ -43,22 +52,30 @@ Disagreements and rivalries happen. But when it matters, Champions have each oth
 
 ## Character Creation
 
+New players are guided through character creation step by step on the website. This section covers the same ground so you know what to expect.
+
 ### Where to Build Your Character
 
-You are responsible for creating and maintaining your character sheet using either:
+Each account picks one home for its character sheets:
+
+**The Barracks (Foundry) — Recommended**
+The Barracks is the guild's Foundry server. Build with the guild's library of books, and get hands-on help from **Scribes**, our character support staff.
 
 **D&D Beyond**
-**Champions Guild–Hosted Foundry Server**
+Build with the content you have access to. Scribes can review your sheet and guide you through changes, but you'll make those updates yourself. In D&D Beyond:
+- Under **Character Preferences → Sources**, enable only **5.5e Core Rules** and **5.5e Expanded Rules**
+- Set **Character Privacy** to **Public** so Scribes and DMs can see your sheet
 
+> Your choice applies to your account, not just one character. If you want to switch later, use **Request a switch** on the site and a staff member will move you over.
 
-> You are fully responsible for maintaining your own character sheet. Whether you use Foundry or D&D Beyond, it's up to you to ensure your sheet is accurate, up to date, and reflects any changes to your character. Use whichever platform you prefer—just keep it current.
+> You are fully responsible for maintaining your own character sheet. Whether you use the Barracks or D&D Beyond, it's up to you to ensure your sheet is accurate, up to date, and reflects any changes to your character.
 
 ### Starting Information
 
 |                             |                                                                                                                            |
 | :-------------------------- | :------------------------------------------------------------------------------------------------------------------------- |
 | **Rules**                   | D&D 5e 2024                                                                                                                |
-| **Character Limit**         | Each player is allowed 1 character                                                                                         |
+| **Character Limit**         | Each player is allowed 1 active character                                                                                  |
 | **Level**                   | All new characters begin at 1st level                                                                                      |
 | **Advanced Starting Level** | If you have already leveled a character to 3rd level or higher, you can choose to start subsequent characters at 3rd level |
 | **Allowed Sources**         | Check our [[Allowed & Modified Sources]] doc for the full list                                                             |
@@ -69,9 +86,9 @@ You are responsible for creating and maintaining your character sheet using eith
 
 ### Backstory
 
-All characters are members of the [[Champions Guild]], headquartered in Ciliren, the capital of the Gnomes. Your character can originate from anywhere in Eryndor, but they must have a reason for joining the guild.
+All characters are members of the [[Champions Guild]], headquartered in Ciliren, the capital of the Gnomes. Your character can originate from anywhere in Eryndor, but they must have a reason for joining the guild. Browse the nations of Eryndor on the site or here on the lore wiki to find where your character comes from.
 
-> As part of character creation, you'll need to answer the three questions below. These aren't just fluff—they're meant to help you build a character with depth, purpose, and a real place in the world.
+> We recommend thinking through the three questions below as you build, and adding your answers to your character sheet. These aren't just fluff—they're meant to help you build a character with depth, purpose, and a real place in the world.
 >
 > **Goals:**
 > - What are your character's goals, dreams, or ambitions?
@@ -86,15 +103,14 @@ All characters are members of the [[Champions Guild]], headquartered in Ciliren,
 > - What keeps your character up at night?
 > - This could be a literal fear (like deep water or undead), or something deeper such as failure, abandonment, irrelevance, etc.
 
-### Submitting Your Character
+### Registering Your Character
 
-Once your character is complete, it must be logged and approved on the [[Champions Guild]] website before you can play.
+Once your character is built, register them on the [[Champions Guild]] website for review. You can't sign up for quests until they're approved.
 
-1. Go to the **My Characters** section on the site
-2. Click **Add New Character** and fill in all required information
-3. Click **Submit** when you're ready
+- **Your first character:** the last step of the setup walkthrough asks for your character's name (and your sheet link if you use D&D Beyond). Click **Submit for review**.
+- **Later characters:** go to **My Characters**, click **Register Character**, fill in the details, and click **Submit for Scribe Review**.
 
-A Scribe will review your submission. If anything needs clarification, they'll contact you. Otherwise, they'll approve it—once approved, you're free to sign up for quests!
+A Scribe will review your character, usually within a day. If anything needs fixing, they'll send it back with notes; read them, make the changes, and reply. Once approved, you're free to sign up for quests!
 
 ---
 
@@ -102,7 +118,7 @@ A Scribe will review your submission. If anything needs clarification, they'll c
 
 ### Multiclassing
 
-If appropriate for story reasons, multiclassing becomes available after you've gained 3 levels in your primary class. Any multiclass must get approval on Discord in the **#approvals** channel.
+If appropriate for story reasons, multiclassing becomes available after you've gained 3 levels in your primary class. Any multiclass must be approved by submitting a **Multiclass Approval** ticket on the website.
 
 ### Leveling Up
 
@@ -139,9 +155,9 @@ Initiate is the first official rank within the [[Champions Guild]]. If you've al
 
 ### Quest Access
 
-Quests are posted on the Quest Board on [championsguildrpg.com](https://championsguildrpg.com/), and all signups must happen through the site. Quests are often shared in Discord as well, with a link provided for sign-up. Only Player Characters whose rank matches the quest can sign up.
+Quests are posted on the Quest Board on [championsguildrpg.com](https://championsguildrpg.com/), and all signups must happen through the site. Quests are often shared in Discord as well, with a link provided for sign-up. Each quest is meant for characters of a certain rank.
 
-> DMs may allow higher or lower rank characters to join at their discretion—but you should check with the DM first.
+> If your character is outside the quest's rank, you're still free to sign up—but talk with the DM first. The DM has to allow that character to be included in the roll.
 
 ### Party Formation
 
@@ -169,12 +185,13 @@ You may adjust your consumables up until the quest begins. Once it starts, your 
 
 ### After the Quest
 
-Once the quest concludes, your character's XP, gold, and any earned rewards will be automatically added to your profile on the website. You are responsible for updating your character sheet on D&D Beyond or Foundry VTT to reflect these changes. If your sheet doesn't match the website, a DM may remove you from that quest and future quests until the discrepancy is resolved.
+Once the quest concludes, your character's XP, gold, and any earned rewards will be automatically added to your profile on the website. You are responsible for updating your character sheet in the Barracks or on D&D Beyond to reflect these changes. If your sheet doesn't match the website, a DM may remove you from that quest and future quests until the discrepancy is resolved.
 
 After each session, you'll also have the opportunity to leave feedback:
-- Rating the session overall
-- Giving "Thumbs Up" to players you enjoyed adventuring with
-- Choosing 1 "MVP" for the player who stood out most that game
+- Rating the game overall (1–5 stars)
+- Rating the DM (1–5 stars)
+- Rating each player you adventured with (1–5 stars)
+- Choosing 1 "MVP" for the player who stood out most that game *(optional)*
 
 Feedback helps highlight great teamwork, roleplay, and player contribution—and makes the community better for everyone.
 

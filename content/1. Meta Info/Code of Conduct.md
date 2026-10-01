@@ -2,7 +2,7 @@
 title: Code of Conduct
 ---
 
-The Champions Guild is a welcoming community built on camaraderie, respect, and the thrill of adventure. To maintain a positive, inclusive atmosphere, all members—players and staff alike—are expected to adhere to this Code of Conduct both in-game and in community interactions. The Guild exists to provide a safe, enjoyable space for members to escape, relax, and immerse themselves in adventure.
+The Champions Guild is a welcoming community built on camaraderie, respect, and the thrill of adventure. To maintain a positive, respectful atmosphere, all members—players and staff alike—are expected to adhere to this Code of Conduct both in-game and in community interactions. The Guild exists to provide a safe, enjoyable space for members to escape, relax, and immerse themselves in adventure.
 
 DMs dedicate their time to preparing and running games. Please be respectful of both their effort and the time of your fellow players.
 
