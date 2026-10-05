@@ -8,7 +8,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const baseDir = pathToRoot(fileData.slug!)
   return (
     <h2 class={classNames(displayClass, "page-title")}>
-      <a href="https://championsguildrpg.com/main" class="logo-link">
+      <a href="https://championsguildrpg.com" class="logo-link">
         <img src="/static/logo.png" alt="Champions Guild Logo" class="site-logo" />
       </a>
       <a href={baseDir}>{title}</a>
