@@ -19,7 +19,15 @@
   cursor: crosshair;
 }
 
+/* Quartz styles every <img> with margins and rounded corners; map tiles are images,
+   so undo that or the artwork is drawn 16px below the markers with seams between tiles. */
+.eryndor-map img,
 .eryndor-map .leaflet-tile {
+  margin: 0 !important;
+  border-radius: 0 !important;
+  max-width: none !important;
+  max-height: none !important;
+  content-visibility: visible;
   image-rendering: auto;
 }
 
