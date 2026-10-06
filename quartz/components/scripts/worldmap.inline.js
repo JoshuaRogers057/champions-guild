@@ -34,9 +34,9 @@ const DEFAULTS = {
 // Zoom range in which each kind of place is shown. places.json "types" can override these.
 // Zoomed all the way out is roughly zoom 1; each +1 doubles the scale.
 const DEFAULT_TYPES = {
-  region: { minZoom: 0, maxZoom: 2.75, label: "Nation" },
-  capital: { minZoom: 2, label: "Capital" },
-  city: { minZoom: 2, label: "City" },
+  region: { minZoom: 0, maxZoom: 2.25, label: "Nation" },
+  capital: { minZoom: 2.5, label: "Capital" },
+  city: { minZoom: 2.5, label: "City" },
   town: { minZoom: 3, label: "Town" },
   village: { minZoom: 4, label: "Village" },
   landmark: { minZoom: 3, label: "Landmark" },

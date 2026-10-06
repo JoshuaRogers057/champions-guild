@@ -5,12 +5,12 @@
     "Fields: name (shown on the map), type (region | capital | city | town | village | landmark), x, y.",
     "Optional: nation (shown in the popup), blurb (one sentence in the popup), page (lore page title, or /slug, if it differs from name), minZoom / maxZoom (override the zoom range in which this marker shows).",
     "Links are resolved automatically by matching 'page' (or 'name') against lore page titles.",
-    "'types' sets the zoom range for each kind of marker. Fully zoomed out is about zoom 1 on a desktop; each +1 doubles the scale. Nations show up to 2.75, capitals and cities from 2, towns from 3, villages from 4."
+    "'types' sets the zoom range for each kind of marker. Fully zoomed out is about zoom 1 on a desktop; each +1 doubles the scale. Nations show up to 2.25, capitals and cities from 2.5 (so the two never overlap), towns from 3, villages from 4."
   ],
   "types": {
-    "region": { "minZoom": 0, "maxZoom": 2.75, "label": "Nation" },
-    "capital": { "minZoom": 2, "label": "Capital" },
-    "city": { "minZoom": 2, "label": "City" },
+    "region": { "minZoom": 0, "maxZoom": 2.25, "label": "Nation" },
+    "capital": { "minZoom": 2.5, "label": "Capital" },
+    "city": { "minZoom": 2.5, "label": "City" },
     "town": { "minZoom": 3, "label": "Town" },
     "village": { "minZoom": 4, "label": "Village" },
     "landmark": { "minZoom": 3, "label": "Landmark" }
