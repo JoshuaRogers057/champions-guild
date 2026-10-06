@@ -40,6 +40,9 @@ The core staff and organizers who build and run this world.
 
 ## Explore the World
 
+**[[Map of Eryndor]]**
+An interactive map of the world. Zoom in to find cities, towns and villages, and click a marker to jump to its lore entry.
+
 Use the **Explorer** panel on the left to browse the full compendium, including nations, cities, history, factions, [[NPCs]], and the pantheon.
 
 > *The world of Eryndor is shaped by the choices of its Champions. Every quest matters and any decision could leave a mark.*

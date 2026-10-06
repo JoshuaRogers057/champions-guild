@@ -1,0 +1,29 @@
+{
+  "_readme": [
+    "Markers for the Map of Eryndor page. Coordinates are pixels on the full-size source image (10240 x 5760).",
+    "To find coordinates: open the map page, press the 'Coordinates' button, click a spot (or a numbered unnamed dot), and paste the copied snippet below.",
+    "Fields: name (shown on the map), type (region | capital | city | town | village | landmark), x, y.",
+    "Optional: nation (shown in the popup), blurb (one sentence in the popup), page (lore page title, or /slug, if it differs from name), minZoom (override when this marker appears).",
+    "Links are resolved automatically by matching 'page' (or 'name') against lore page titles. 'types' sets the zoom level at which each kind of marker appears."
+  ],
+  "types": {
+    "region": { "minZoom": 0, "label": "Region" },
+    "capital": { "minZoom": 0, "label": "Capital" },
+    "city": { "minZoom": 2, "label": "City" },
+    "town": { "minZoom": 3, "label": "Town" },
+    "village": { "minZoom": 4, "label": "Village" },
+    "landmark": { "minZoom": 3, "label": "Landmark" }
+  },
+  "places": [
+    { "name": "Contramara", "type": "capital", "nation": "Kastalshire", "x": 1994, "y": 1715 },
+    { "name": "Ash-Korrath", "type": "capital", "nation": "Ash-Korrath", "x": 4446, "y": 1674 },
+    { "name": "Talvereth", "type": "capital", "nation": "Thalenmark Empire", "x": 3109, "y": 2248 },
+    { "name": "Ciliren", "type": "capital", "nation": "Nation of Lexovar", "x": 2305, "y": 2642 },
+    { "name": "Auris Prime", "type": "capital", "nation": "Bastions of Solara", "x": 4863, "y": 2869 },
+    { "name": "Sylvandar", "type": "capital", "nation": "Republic of Sylvandar", "x": 4529, "y": 3604 },
+    { "name": "Grushnar", "type": "capital", "nation": "Redmarch Coalition", "x": 6310, "y": 2088, "_note": "no capital star on this map version; placed on nearest dot, please verify" },
+    { "name": "Nuelhiem", "type": "capital", "nation": "Thundrakar", "x": 9489, "y": 1463, "_note": "no capital star on this map version; placed on nearest dot, please verify" },
+    { "name": "Thumdar", "type": "capital", "nation": "Halls of Kar Dromm", "x": 3033, "y": 4372, "_note": "no capital star on this map version; placed on nearest dot, please verify" },
+    { "name": "Drakhal'Rath", "type": "capital", "nation": "Drakmir Dominion", "x": 6190, "y": 5218, "_note": "no capital star on this map version; placed on nearest dot, please verify" }
+  ]
+}

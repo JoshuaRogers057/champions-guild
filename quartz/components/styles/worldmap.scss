@@ -1,0 +1,285 @@
+/* Styles for the interactive world map (see scripts/worldmap.inline.js). */
+/* Kept to plain CSS syntax so the file can also be served directly as a stylesheet for testing. */
+
+.eryndor-map {
+  position: relative;
+  width: 100%;
+  height: 70vh;
+  min-height: 360px;
+  max-height: 820px;
+  margin: 1rem 0 1.5rem 0;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: #2b414c;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.eryndor-map.em-picking {
+  cursor: crosshair;
+}
+
+.eryndor-map .leaflet-tile {
+  image-rendering: auto;
+}
+
+/* ---- markers ---------------------------------------------------------- */
+
+.em-marker-wrap {
+  background: transparent;
+  border: 0;
+}
+
+.em-marker {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: block;
+  white-space: nowrap;
+  pointer-events: auto;
+  cursor: pointer;
+  font-family: var(--headerFont, serif);
+}
+
+.em-dot {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 10px;
+  height: 10px;
+  margin: -5px 0 0 -5px;
+  border-radius: 50%;
+  background: #f4ecd8;
+  border: 2px solid #2b2b2b;
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.35);
+  box-sizing: border-box;
+}
+
+.em-label {
+  position: absolute;
+  left: 9px;
+  top: 0;
+  transform: translateY(-55%);
+  color: #fdf6e3;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-shadow:
+    0 0 3px #000,
+    0 0 3px #000,
+    1px 1px 2px #000;
+  user-select: none;
+}
+
+.em-marker:hover .em-label {
+  text-decoration: underline;
+}
+
+.em-capital .em-dot {
+  width: 16px;
+  height: 16px;
+  margin: -8px 0 0 -8px;
+  background: #e9c46a;
+  border-width: 3px;
+}
+.em-capital .em-label {
+  left: 12px;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.em-region .em-dot {
+  display: none;
+}
+.em-region .em-label {
+  left: 0;
+  transform: translate(-50%, -50%);
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(255, 248, 230, 0.85);
+  font-style: italic;
+}
+
+.em-city .em-dot {
+  width: 12px;
+  height: 12px;
+  margin: -6px 0 0 -6px;
+  background: #f4ecd8;
+}
+.em-city .em-label {
+  font-size: 13px;
+}
+
+.em-town .em-dot {
+  background: #d9d2c0;
+}
+
+.em-village .em-dot {
+  width: 8px;
+  height: 8px;
+  margin: -4px 0 0 -4px;
+  background: #cfc6b0;
+  border-width: 1.5px;
+}
+.em-village .em-label {
+  font-size: 11px;
+  font-weight: 500;
+  left: 7px;
+}
+
+.em-landmark .em-dot {
+  border-radius: 2px;
+  transform: rotate(45deg);
+  background: #9ad0c2;
+}
+.em-landmark .em-label {
+  font-style: italic;
+}
+
+/* unnamed detected dots, only shown while the coordinate picker is on */
+.em-candidate .em-dot {
+  width: 14px;
+  height: 14px;
+  margin: -7px 0 0 -7px;
+  background: rgba(255, 80, 80, 0.55);
+  border: 2px solid #ff3b3b;
+  box-shadow: none;
+}
+.em-candidate .em-label {
+  left: 9px;
+  font-size: 11px;
+  color: #ffd0d0;
+  font-weight: 700;
+}
+
+/* ---- popups ----------------------------------------------------------- */
+
+.em-popup-box .leaflet-popup-content-wrapper {
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 6px;
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.35);
+}
+.em-popup-box .leaflet-popup-tip {
+  background: var(--light);
+}
+.em-popup-box .leaflet-popup-content {
+  margin: 10px 14px;
+  line-height: 1.35;
+}
+
+.em-popup-title {
+  font-family: var(--headerFont, serif);
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--dark);
+}
+.em-popup-meta {
+  font-size: 0.8rem;
+  color: var(--gray);
+  margin-bottom: 0.35rem;
+}
+.em-popup-blurb {
+  font-size: 0.88rem;
+  margin-bottom: 0.4rem;
+  max-width: 260px;
+}
+.em-popup-link {
+  display: inline-block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--secondary);
+  text-decoration: none;
+  border-bottom: 1px solid var(--secondary);
+}
+.em-popup-link:hover {
+  color: var(--tertiary);
+  border-bottom-color: var(--tertiary);
+}
+.em-popup-missing {
+  font-size: 0.85rem;
+  color: var(--gray);
+  font-style: italic;
+}
+.em-snippet {
+  display: block;
+  font-size: 0.75rem;
+  margin: 0.3rem 0;
+  padding: 0.25rem 0.4rem;
+  background: var(--lightgray);
+  border-radius: 4px;
+  user-select: all;
+}
+
+/* ---- controls --------------------------------------------------------- */
+
+.em-pick-btn {
+  font: inherit;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.55rem;
+  border: 1px solid rgba(0, 0, 0, 0.35);
+  border-radius: 4px;
+  background: rgba(250, 248, 248, 0.92);
+  color: #2b2b2b;
+  cursor: pointer;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+.em-pick-btn:hover {
+  background: #fff;
+}
+.em-pick-btn.active {
+  background: #e9c46a;
+  border-color: #8a6d1d;
+}
+
+.em-legend {
+  background: rgba(22, 22, 24, 0.72);
+  color: #f4ecd8;
+  border-radius: 6px;
+  padding: 0.35rem 0.6rem 0.35rem 0.5rem;
+  font-size: 0.72rem;
+  line-height: 1.6;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+.em-legend-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.em-legend-row .em-marker {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  cursor: default;
+}
+.em-legend-row .em-marker .em-dot {
+  left: 8px;
+  top: 8px;
+}
+.em-legend-row .em-region .em-dot {
+  display: block;
+  width: 10px;
+  height: 2px;
+  margin: -1px 0 0 -5px;
+  border-radius: 1px;
+  border: 0;
+  box-shadow: none;
+  background: rgba(255, 248, 230, 0.85);
+}
+
+@media all and (max-width: 800px) {
+  .eryndor-map {
+    height: 60vh;
+    min-height: 300px;
+  }
+  .em-label {
+    font-size: 11px;
+  }
+  .em-capital .em-label {
+    font-size: 13px;
+  }
+}
