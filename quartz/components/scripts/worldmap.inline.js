@@ -31,10 +31,11 @@ const DEFAULTS = {
   extraZoom: 1, // how much further than native the reader may zoom (tiles get upscaled)
 }
 
-// Zoom level at which each kind of place appears. places.json "types" can override these.
+// Zoom range in which each kind of place is shown. places.json "types" can override these.
+// Zoomed all the way out is roughly zoom 1; each +1 doubles the scale.
 const DEFAULT_TYPES = {
-  region: { minZoom: 0, label: "Region" },
-  capital: { minZoom: 0, label: "Capital" },
+  region: { minZoom: 0, maxZoom: 2.75, label: "Nation" },
+  capital: { minZoom: 2, label: "Capital" },
   city: { minZoom: 2, label: "City" },
   town: { minZoom: 3, label: "Town" },
   village: { minZoom: 4, label: "Village" },
@@ -218,8 +219,16 @@ async function buildMap(L, el, index) {
     const typeKey = types[place.type] ? place.type : "town"
     const type = types[typeKey]
     const minZoom = typeof place.minZoom === "number" ? place.minZoom : type.minZoom
-    const groupKey = typeKey + "@" + minZoom
-    if (!groups.has(groupKey)) groups.set(groupKey, { minZoom: minZoom, layer: L.layerGroup() })
+    const maxZoomFor =
+      typeof place.maxZoom === "number"
+        ? place.maxZoom
+        : typeof type.maxZoom === "number"
+          ? type.maxZoom
+          : Infinity
+    const groupKey = typeKey + "@" + minZoom + "-" + maxZoomFor
+    if (!groups.has(groupKey)) {
+      groups.set(groupKey, { minZoom: minZoom, maxZoom: maxZoomFor, layer: L.layerGroup() })
+    }
     usedTypes.set(typeKey, type)
 
     const slug = resolveSlug(place, index)
@@ -253,11 +262,12 @@ async function buildMap(L, el, index) {
   const syncVisibility = () => {
     const z = map.getZoom()
     for (const g of groups.values()) {
-      const show = z + 1e-6 >= g.minZoom
+      const show = z + 1e-6 >= g.minZoom && z - 1e-6 <= g.maxZoom
       if (show && !map.hasLayer(g.layer)) g.layer.addTo(map)
       else if (!show && map.hasLayer(g.layer)) map.removeLayer(g.layer)
     }
     el.dataset.zoom = z.toFixed(2)
+    el.dataset.zoomBand = String(Math.max(0, Math.min(4, Math.floor(z)))) // used by CSS to size labels
   }
   map.on("zoomend", syncVisibility)
   syncVisibility()
