@@ -17,7 +17,7 @@ This page lists every sourcebook and special rule allowed on the server. If some
 | [[#Forgotten Realms — Heroes of Faerûn\|Forgotten Realms: Heroes of Faerûn]] | ⚠️ Allowed with Limits |
 | [[#Lorwyn — First Light\|Lorwyn: First Light]] | ⚠️ Allowed with Limits |
 | [[#Ravenloft — The Horrors Within\|Ravenloft: The Horrors Within]] | ⚠️ Allowed with Limits |
-| [[#Astarion's Book of Hungers\|Astarion's Book of Hungers]] | 🛡️ Requires Approval |
+| [[#Astarion's Book of Hungers\|Astarion's Book of Hungers]] | ⚠️ Allowed with Limits |
 | [[#Custom Feats\|Custom Feats]] | 🔧 Server Custom |
 
 **Requires Approval** means you must **open a ticket** for admin approval before adding that content to your character sheet.
@@ -108,6 +108,8 @@ Only the following pieces from this book are allowed.
 - **Spirit Medium** (Background)
 
 ### Astarion's Book of Hungers
+
+You may use content from this book. Two options need approval before they go on your sheet:
 
 **Requires Approval**
 - **Vampire Devotee** (Background)
