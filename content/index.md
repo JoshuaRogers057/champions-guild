@@ -31,6 +31,16 @@ The realm-wide legal framework recognized across nations. Useful for understandi
 
 ---
 
+## The Guild's Story
+
+**[[Current Stories]]**
+The stories still shaping Eryndor, kept by the Guild Archive and updated every week from the Guild's quests.
+
+**[[This Week in Eryndor (latest)|This Week in Eryndor]]**
+The latest weekly digest: what moved, what grew, and what the Guild's members saw.
+
+---
+
 ## Meet the Staff
 
 **[[The Staff]]**
