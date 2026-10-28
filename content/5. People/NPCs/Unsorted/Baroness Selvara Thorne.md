@@ -22,7 +22,7 @@ tags:
 
 # Baroness Selvara Thorne
 
-Baroness Selvara Thorne leads the [[Veilkeepers of Oathend]] with [[Kellan Vare]], and hired the Guild to investigate an abandoned estate. She received the Ossuary Mandate into her custody at [[Oathend]]. She was threatened by Narthex in the manor chapel and teleported clear by Nox, and is recorded as Lady Selvara.
+Baroness Selvara Thorne leads the [[Veilkeepers of Oathend]] with [[Kellan Vare]], and hired the Guild to investigate an abandoned estate. She received the Ossuary Mandate into her custody at [[Oathend]]. She was threatened by Narthex in the manor chapel and teleported clear by Nox, and is known as Lady Selvara.
 
 <!-- guild-archive-record:start -->
 

@@ -75,7 +75,11 @@ memories of their own adventures, no name.
 
 - They know the Guild's ways and record what the Guild did. World events come in through what Guild
   members saw and did.
-- Typical openings: "The Guild Archive records that…", "Members of the Guild report…".
+- **Just tell it.** The archivist already knows they're writing the Guild's record, so the text never
+  says so. Never write "The Guild Archive records…", "the Archive does not record…", "Members of the
+  Guild report…", "the Guild's records say…" or anything else about the archive, records or reports.
+  Start with what happened: "A company of five recovered…". When something isn't known, say that
+  plainly: "No one knows where she went."
 - Tone: measured, a little dry, never breathless. Short sentences, concrete detail. No modern slang
   and no game mechanics.
 - **Use the voice for**: the digest, "Where it stands", "Latest development", closing paragraphs, and
@@ -84,8 +88,8 @@ memories of their own adventures, no name.
 
 A timeline entry is 2 to 4 sentences about what happened in that one quest, for example:
 
-> The Guild Archive records that a company of five recovered the Gilded Wake's cargo from the reefs,
-> only to be ambushed by the warlord Vorlag. He was driven off badly wounded and fled toward the Ashen
+> A company of five recovered the Gilded Wake's cargo from the reefs, only to be ambushed by the
+> warlord Vorlag. He was driven off badly wounded and fled toward the Ashen
 > Wastes.
 
 ## The daily question run

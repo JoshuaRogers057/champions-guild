@@ -283,7 +283,7 @@ function buildThreads(threads, prose) {
       "",
       "## Where it stands",
       "",
-      status === "Resolved" && (p?.closingParagraph ?? t.closingParagraph) ? (p?.closingParagraph ?? t.closingParagraph).trim() : where || "*The Guild Archive has yet to record how this stands.*",
+      status === "Resolved" && (p?.closingParagraph ?? t.closingParagraph) ? (p?.closingParagraph ?? t.closingParagraph).trim() : where || "*How this stands is not yet known.*",
       latest ? `\n**Latest development:** ${latest}` : "",
       questions.length ? `\n## Unanswered questions\n\n${questions.map((q) => `- ${q}`).join("\n")}` : "",
     ].join("\n")
@@ -448,7 +448,7 @@ function buildFrontDoor(threads, threadNames, published) {
     "  - chronicle",
     "---",
     "",
-    "*The stories still shaping Eryndor, as the Guild Archive records them. Rewritten every Friday.*",
+    "*The stories still shaping Eryndor. Rewritten every Friday.*",
     "",
     "> [!tip] This week: [[This Week in Eryndor (latest)|This Week in Eryndor]]",
     "",
