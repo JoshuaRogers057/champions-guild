@@ -29,6 +29,44 @@ when they have no `Z`.
 6. **If publishing is paused** (`GET status` → `publishingPaused: true`), the Friday run writes and
    pushes nothing. The daily run still asks questions.
 
+## Standing rulings
+
+The head of the Guild settled these while the campaign's history was written in (October 2026). Don't
+ask about them again.
+
+- **The Last Howl** builds a new dungeon each time someone goes through its portal, and the dungeon vanishes
+  once it's cleared. Last Howl runs are standalone: never link one to a thread.
+- **Fragments** are a magical stone found across Eryndor. They turn up in many quests but never connect
+  them, so never link quests or threads because they share fragments.
+- **Spellings:** Mr. Cuttles, Duskwatch, Talvereth, Thalenmark, Kalamathet, Vathros, Smyles (Digdug's wife;
+  the gang is the Smiles Gang), Calderis, Serrixa, Elkhara, Shedinn, Nesser.
+- **Conflicting records:** the DM's summary beats a report, and a later summary beats an earlier one.
+- **Guild-only knowledge** (something the Guild knows but the world doesn't) may appear in public text when
+  it's framed that way, for example "Known only within the Guild: …". Thread `secretNotes` never appear at all.
+
+## Stories left to rest
+
+The head of the Guild chose to leave these in the past. They have no thread and get none. Never propose a
+`NewThread`, `ThreadPick`, `Revival` or `Page` for them, and leave them out of digests. If a DM deliberately
+links a new quest to one (it then shows up in `GET threads`), follow the site.
+
+| Story | You'll recognise it by |
+|---|---|
+| The Death Cult and the Fallen Celestial | The Echoes in the Sand pyramid, the corrupted celestial, the murder of Sune's High Priestess |
+| Trouble on the Ciliren Docks | Tivon and Alfie's shipyard, Drekle and the Bronze Talons, Captain Brunsprout |
+| The Temples of Mystra | Rinku winning back the Weave, Alaric's order to Mystra, Ecli the Librarian |
+| The White Eye | The Savage Waters series, the merfolk, Osmund Pike |
+| The Blue Drug | The Mamalii bakery and its blue hallucinogen |
+| The Ashen Antler Fog | The fog in northern Drakmir, the worg siblings, the cursed doll |
+| The Erased | The memory-wiping order, Diax's taint |
+| The Asylum Reclamation | The asylum cleared floor by floor, now a plague hospital |
+| Boddle and Wimbleton | The construct Wimbleton and his captive maker Boddle |
+| Nephele's Feywild Bargain | The Seelie wedding, the Feywild gate at Morfaren |
+| Murcon's Stolen Name | Thalion Starbough |
+| The Broken Bargain | The forged treaty from Sylvandar's archives, the Nightbloom |
+| The Mists of Barovia | The Curse of Strahd run: another plane, not part of Eryndor's chronicle |
+| The Fragments | Not a story at all (see Standing rulings) |
+
 ## The voice: the Guild archivist
 
 The archive is kept by a recently retired member of the Champions Guild, who now reads the members'

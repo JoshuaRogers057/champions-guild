@@ -153,3 +153,23 @@ Radiant public figure and chief diplomat. Her compassion is leveraged for politi
 ### Empyrean Hold
 
 **High Skywarden [[Seraphiel Thorne|Seraphiel Thorne]]** — Commander of the Skyborne Cavalry. Obsessed with altitude, precision, and swift punishment. Her authority is near-total on the eastern front.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Fall of Talvereth]] · [[The Bastions of Solara and the Resonance Loom]]
+
+**Quest appearances:**
+
+- 14 Apr 2026: [Hostile Streets](https://championsguildrpg.com/questLogs/429)
+- 15 Apr 2026: [Trial By Fire](https://championsguildrpg.com/questLogs/432)
+- 8 May 2026: [Supply and Demand.](https://championsguildrpg.com/questLogs/462)
+- 9 May 2026: [Enemy of My Enemy](https://championsguildrpg.com/questLogs/464)
+- 24 May 2026: [A Mole Among Us](https://championsguildrpg.com/questLogs/498)
+- 22 Aug 2026: [The Road Between Lights](https://championsguildrpg.com/questLogs/625)
+- 28 Aug 2026: [Clear the Marsh](https://championsguildrpg.com/questLogs/630)
+
+<!-- guild-archive-record:end -->

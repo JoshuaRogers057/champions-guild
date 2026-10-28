@@ -40,3 +40,19 @@ Underground sanctuaries where newly forged relics are consecrated. Not open to t
 
 ### Solmarch Landing
 A small, fortified docking plateau for bringing in refined ore and carrying out finished arms. Managed by the **Flamegild Guard**. Also serves as the only entrance for outsiders — and a checkpoint thick with divine wards.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Bastions of Solara and the Resonance Loom]]
+
+**Quest appearances:**
+
+- 24 May 2026: [A Mole Among Us](https://championsguildrpg.com/questLogs/498)
+- 22 Aug 2026: [The Road Between Lights](https://championsguildrpg.com/questLogs/625)
+- 28 Aug 2026: [Clear the Marsh](https://championsguildrpg.com/questLogs/630)
+
+<!-- guild-archive-record:end -->

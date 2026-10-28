@@ -54,3 +54,19 @@ The Dominion likes to imagine its wealth as disciplined and honorable, but Rakka
 **Velkit Brass-Eye** — City's most feared customs auditor. Gray kobold with a brass replacement eye and no visible sense of humor.
 
 **Marro Veylorn** — Commands the city watch with exhausted competence. Knows Rakkath cannot be made clean, so he focuses on keeping it functional.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Rat and the Scale]]
+
+**Quest appearances:**
+
+- 25 Jan 2026: [New Managment](https://championsguildrpg.com/questLogs/330)
+- 28 Jan 2026: ["Strategic pivot"](https://championsguildrpg.com/questLogs/332)
+- 12 Feb 2026: [Breaking the Scale's Hold](https://championsguildrpg.com/questLogs/352)
+
+<!-- guild-archive-record:end -->

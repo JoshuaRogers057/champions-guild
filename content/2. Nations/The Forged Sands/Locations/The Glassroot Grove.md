@@ -20,3 +20,18 @@ The druids are quiet survivalists who tend the few living things that can endure
 ## Sandkeeper: Sandkeeper Maura Vess
 
 A weathered human druid with sun-dark skin, gray-brown braids, and robes patched with desert cloth. She speaks rarely, wastes nothing, and treats water like a sacred resource.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Corruption of Kalamathet]]
+
+**Quest appearances:**
+
+- 10 Jul 2026: [The Withered Scale](https://championsguildrpg.com/questLogs/557)
+- 10 Jul 2026: [The Scales Weight - Next Part](https://championsguildrpg.com/questLogs/558)
+
+<!-- guild-archive-record:end -->

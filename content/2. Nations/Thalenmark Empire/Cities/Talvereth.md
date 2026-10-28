@@ -53,3 +53,21 @@ Religious divisions, economic strain, and the influence of the Velvet Ledger pus
 ## Culture Check
 
 Talvereth is not a city of adventurers alone. It is a city of brokers, movers, and manipulators. Its walls are guarded by gold, not just steel. Behind every lavish contract is a knife, and behind every smiling merchant, a scheme. To walk Talvereth is to walk the edge of prosperity and peril.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Fall of Talvereth]] · [[The Thing Beneath Talvereth]]
+
+**Quest appearances:**
+
+- 20 Sep 2025: [Champions Game (For Champion Tier only)](https://championsguildrpg.com/questLogs/203)
+- 17 Mar 2026: [A Quiet Inspection](https://championsguildrpg.com/questLogs/384)
+- 22 Mar 2026: [Shadow War: The Last Ascent](https://championsguildrpg.com/questLogs/395)
+- 28 Mar 2026: [Shadow War: Epic (Josh)](https://championsguildrpg.com/questLogs/403)
+- 8 May 2026: [Supply and Demand.](https://championsguildrpg.com/questLogs/462)
+
+<!-- guild-archive-record:end -->

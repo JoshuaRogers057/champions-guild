@@ -32,3 +32,20 @@ The industrial belly of Auris Prime, where divine weapons and relics are forged.
 
 ### The Hollow Steps
 An unofficial, nearly forgotten layer beneath the city. Its tunnels and dim shrines house the poor, the heretical, and the disillusioned. Home to the best taverns in Auris Prime — most notably the **Rowdy Temple**, a place of worship for many. Whispers speak of the **Ashwings**, who resist Solara's hypocrisy with ink, blade, and stolen fire.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Bastions of Solara and the Resonance Loom]]
+
+**Quest appearances:**
+
+- 13 Aug 2026: [A Judgment Most High](https://championsguildrpg.com/questLogs/611)
+- 22 Aug 2026: [The Road Between Lights](https://championsguildrpg.com/questLogs/625)
+- 27 Aug 2026: [A Voice Beneath the Choir](https://championsguildrpg.com/questLogs/628)
+- 13 Sep 2026: [Ashes of the First Oath](https://championsguildrpg.com/questLogs/649)
+
+<!-- guild-archive-record:end -->

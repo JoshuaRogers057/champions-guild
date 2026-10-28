@@ -37,3 +37,20 @@ Borgnar is a bastion of brutal order, unusual among Redmarch settlements for its
 ## School of Note
 
 **The Gloamtongue School** — Espionage and negotiation academy hidden beneath the market. Trains students in subterfuge, coded language, blackmail, and coercive deal-making.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Vampire War and the Fall of Castle Bran]] · [[The Bloodpits of Borgnar]]
+
+**Quest appearances:**
+
+- 3 Oct 2025: [Retribution](https://championsguildrpg.com/questLogs/215)
+- 6 Oct 2025: [Retribution conclusion](https://championsguildrpg.com/questLogs/218)
+- 22 Jan 2026: [Bridge of Broken Oaths](https://championsguildrpg.com/questLogs/326)
+- 22 Apr 2026: [Bloody Entertaining 1: Suitable Offerings](https://championsguildrpg.com/questLogs/444)
+
+<!-- guild-archive-record:end -->

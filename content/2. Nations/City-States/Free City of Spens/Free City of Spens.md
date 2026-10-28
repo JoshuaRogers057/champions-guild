@@ -94,3 +94,22 @@ Spens is located on the far southeastern peninsula of Eryndor, where warm sea wi
 **Commander [[Arven Drell]]** — Leader of the Spens Defense Force. A no-nonsense human veteran who rose from the Saltreach slums. Wears chainmail even off duty and believes in fast action over politics.
 
 **Marshal [[Kaera Thorne]]** — Commander of the Stonebrand Accord. A half-orc mercenary captain known for brutal efficiency and iron discipline. Never breaks a contract. Keeps her troops clean, quiet, and deadly. Feared and respected in equal measure.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Rat and the Scale]] · [[The Eye of Kaos]] · [[The Railroad East]]
+
+**Quest appearances:**
+
+- 23 Sep 2025: [Free City of Spens](https://championsguildrpg.com/questLogs/205)
+- 5 Oct 2025: [Eastbound and down](https://championsguildrpg.com/questLogs/217)
+- 1 Feb 2026: [Emergency Delivery](https://championsguildrpg.com/questLogs/339)
+- 4 Apr 2026: [The city of a thousand hulls](https://championsguildrpg.com/questLogs/421)
+- 13 Apr 2026: [Prologue to Kaos](https://championsguildrpg.com/questLogs/427)
+- 5 May 2026: [Deep Swamps](https://championsguildrpg.com/questLogs/458)
+
+<!-- guild-archive-record:end -->

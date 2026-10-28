@@ -50,3 +50,21 @@ The Arcanum is Kastalshire's battle-magic school. Admission requires either a no
 **Prince [[Dorian Thalros]], The Iron Spear** — Military prodigy. Stoic, loyal, commander's mind. Currently stationed in [[Falbrin]] evaluating Duke [[Garran Velmouth|Velmouth]].
 
 **Prince [[Kaelen Thalros|Kaelen]] Thalros, The Silver Tongue** — Charismatic, ambitious, studies at The Arcanum. Travels between Lyricast and Rath courting political favor.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Fall of Talvereth]] · [[The Rat and the Scale]] · [[The Railroad East]]
+
+**Quest appearances:**
+
+- 4 Jul 2025: [Progress Rolls On](https://championsguildrpg.com/questLogs/111)
+- 11 Jul 2025: [Progress Rolls On. Part 2 Splinters on the Line](https://championsguildrpg.com/questLogs/117)
+- 18 Jul 2025: [Progress rolls on part 3](https://championsguildrpg.com/questLogs/125)
+- 20 Feb 2026: [Troubled Waters](https://championsguildrpg.com/questLogs/359)
+- 4 Apr 2026: [Favors Earned](https://championsguildrpg.com/questLogs/414)
+
+<!-- guild-archive-record:end -->

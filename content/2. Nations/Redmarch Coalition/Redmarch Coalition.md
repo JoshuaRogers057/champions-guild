@@ -129,3 +129,21 @@ Marked by red-black tattoos, battle visions, or rage-induced strength. Anyone wh
 **The [[Veiled Whisper]]** — Mythical goblin leading [[The Duskwatch]] from the shadows.
 **[[Skaz Ironshank]]** — Mercenary recruiter in [[Molgarak]]. Known for selling warbands to both sides of a conflict.
 **[[Marr the Mawhand]]** — Ogre enforcer of the Maw Market.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Vampire War and the Fall of Castle Bran]] · [[The Bloodpits of Borgnar]]
+
+**Quest appearances:**
+
+- 17 Aug 2025: [Blood Claw](https://championsguildrpg.com/questLogs/153)
+- 3 Oct 2025: [Retribution](https://championsguildrpg.com/questLogs/215)
+- 6 Oct 2025: [Retribution conclusion](https://championsguildrpg.com/questLogs/218)
+- 15 Nov 2025: [Response Team (Anaelle personalized)](https://championsguildrpg.com/questLogs/253)
+- 22 Apr 2026: [Bloody Entertaining 1: Suitable Offerings](https://championsguildrpg.com/questLogs/444)
+
+<!-- guild-archive-record:end -->

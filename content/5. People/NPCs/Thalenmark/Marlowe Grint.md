@@ -24,3 +24,17 @@ His distant cousin, Matron [[Bellamy Goodbarrel]] of [[Sweetroot]], despised wha
 ## Death
 
 Killed during [[The Talvereth Crisis]]. The exact circumstances of their death are not publicly known.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Fall of Talvereth]]
+
+**Quest appearances:**
+
+- 6 Sep 2026: [Closing The Account](https://championsguildrpg.com/questLogs/641)
+
+<!-- guild-archive-record:end -->

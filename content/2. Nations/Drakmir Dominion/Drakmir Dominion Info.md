@@ -153,3 +153,20 @@ Powerful dragonborn families may develop the Old Blood of the Wyrm. These bloodl
 **High Envoy [[Sareth]] Vokar** — Oversees [[Drakhal'Rath]]'s harbor and foreign delegations. Gracious in the way only a powerful nation can afford to be.
 
 **Archivist Vikka Ninesoot** — Keeper of the Dominion's public records of service, disgrace, abdication, adoption, promotion, and removal in [[Drakhal'Rath]]. Few citizens mistake her small office for small power.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Vampire War and the Fall of Castle Bran]] · [[The Kryzath Outpost]]
+
+**Quest appearances:**
+
+- 23 Sep 2025: [Free City of Spens](https://championsguildrpg.com/questLogs/205)
+- 21 Nov 2025: [Containment Perimeter](https://championsguildrpg.com/questLogs/260)
+- 25 Nov 2025: [Trailing Shadows](https://championsguildrpg.com/questLogs/265)
+- 28 Dec 2025: [Sins of the Father](https://championsguildrpg.com/questLogs/296)
+
+<!-- guild-archive-record:end -->

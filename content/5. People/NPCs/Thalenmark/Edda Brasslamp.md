@@ -18,3 +18,17 @@
 Edda Brasslamp oversees the arcanotech infrastructure of [[Talvereth]] — wards, power lattices, and upkeep of the Loop's stations. With the city's transportation systems crippled after [[The Talvereth Crisis]], her work has never been more critical.
 
 She is one of the eight Gilded Council members to survive the Crisis.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Fall of Talvereth]]
+
+**Quest appearances:**
+
+- 17 Mar 2026: [A Quiet Inspection](https://championsguildrpg.com/questLogs/384)
+
+<!-- guild-archive-record:end -->

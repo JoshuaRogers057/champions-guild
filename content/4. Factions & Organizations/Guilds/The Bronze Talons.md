@@ -20,3 +20,18 @@
 The Bronze Talons are Thalenmark's rapid-response contract troops, known for polished professionalism and profitable efficiency. Merchant houses, councils, and wealthy families hire them when a threat needs answered quickly and cleanly.
 
 Their scouts, mounted couriers, crossbow teams, and disciplined infantry move fast, secure the problem, and send the invoice afterward. Their bronze talon gripping a silver coin tells the truth: once value is in their grasp, they do not let it slip.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[Fortunes Crossing]]
+
+**Quest appearances:**
+
+- 23 Jul 2025: [Fortunes Crossing (Part 1)](https://championsguildrpg.com/questLogs/131)
+- 30 Jul 2025: [Fortunes Crossing: Part 2](https://championsguildrpg.com/questLogs/138)
+
+<!-- guild-archive-record:end -->

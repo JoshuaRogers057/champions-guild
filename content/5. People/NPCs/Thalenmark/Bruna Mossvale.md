@@ -24,3 +24,19 @@ Her movement became one of the key sparks of [[The Talvereth Crisis]]. Some town
 ## Death
 
 Bruna Mossvale died during [[The Talvereth Crisis]]. Her followers remain active, and her death has only deepened her legend among the rural faithful.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Fall of Talvereth]]
+
+**Quest appearances:**
+
+- 20 Feb 2026: [Coin and Cinders](https://championsguildrpg.com/questLogs/360)
+- 18 Mar 2026: [Faith in Flight](https://championsguildrpg.com/questLogs/385)
+- 28 Mar 2026: [Acolyte Table (Eda) -  Shadow War: Epic](https://championsguildrpg.com/questLogs/405)
+
+<!-- guild-archive-record:end -->

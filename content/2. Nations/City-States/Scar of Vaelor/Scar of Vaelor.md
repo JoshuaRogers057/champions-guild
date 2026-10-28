@@ -110,3 +110,18 @@ Nobody truly knows what caused the Scar of Vaelor. Every culture has a different
 **[[Kaelen]] Thundershade** — A half-fey, half-fire genasi stormrider, famous for dueling an entire pirate crew in a lightning storm.
 
 **[[Mira Thornwell]]** — An enigmatic "songmage" who claims to speak to the Scar itself.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Vampire War and the Fall of Castle Bran]]
+
+**Quest appearances:**
+
+- 9 Nov 2025: [Hope for fair winds](https://championsguildrpg.com/questLogs/249)
+- 11 Nov 2025: [Something Old, Something New](https://championsguildrpg.com/questLogs/250)
+
+<!-- guild-archive-record:end -->

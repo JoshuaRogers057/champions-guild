@@ -42,3 +42,19 @@ Unlike the clan-run cities, Thumdar is ruled directly by **High King [[Durak Sto
 **The Embervaults** — A volatile forge and industrial sector powered by magma channels. Accidents are common, but so is invention. Artificer-Master [[Brumli Ashbelt]] leads the Ember Guild, working with rune-powered prosthetic arms after losing both in a blast.
 
 **King's Reach** — A high terrace lined with watchtowers and ceremonial halls housing the Thronehold and royal archives. Each clan holds and keeps a hall here where councilors and chiefs stay when in Thumdar. Lord Steward [[Farnik Graymantle]] manages the palace and its elite Stonecloak Guard.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Stone Accord]]
+
+**Quest appearances:**
+
+- 30 May 2026: [Dwarven Series - P2 -](https://championsguildrpg.com/questLogs/495)
+- 6 Jun 2026: [Dwarven Series - P3 -](https://championsguildrpg.com/questLogs/502)
+- 13 Jun 2026: [Dwarven Series - P4](https://championsguildrpg.com/questLogs/518)
+
+<!-- guild-archive-record:end -->

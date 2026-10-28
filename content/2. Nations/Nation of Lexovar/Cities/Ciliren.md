@@ -15,7 +15,6 @@ title: Ciliren
 
 </div>
 
-
 # Ciliren — Capital City
 
 Ciliren is the largest city in Eryndor and the heart of gnomish civilization. More than a million people live within its towering districts, though less than half are gnomes. Every people of Eryndor can be found somewhere in Ciliren, drawn by rail, trade, or invention.
@@ -68,3 +67,20 @@ No major academy claims the Lower Wards, though all of them watch it. Unsafe ide
 Ciliren's armored wall — a fortified military ring that stores constructs and houses the Automaton Barracks. Built into the city's outer defenses, it stands ready for invasion, disaster, or invention gone wrong. The district feels controlled, fortified, and humorless.
 
 **Gearwright Seminary** belongs here. Its divine constructs guard Ciliren's most important places. The school gives the Bastion a sacred severity, as if the city's walls have been taught to pray before they kill.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Smiles Gang]] · [[The Dusk Queen's Shattered Soul]]
+
+**Quest appearances:**
+
+- 12 Aug 2025: [Taken](https://championsguildrpg.com/questLogs/147)
+- 23 Dec 2025: [The Naughty List](https://championsguildrpg.com/questLogs/292)
+- 8 Apr 2026: [Unicorn Sighting](https://championsguildrpg.com/questLogs/419)
+- 30 Jul 2026: [Give Me the Money](https://championsguildrpg.com/questLogs/584)
+
+<!-- guild-archive-record:end -->

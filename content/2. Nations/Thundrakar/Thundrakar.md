@@ -121,3 +121,20 @@ A mobile warband of berserker-cavalry raised from Clan Frostbane and Hillroot (~
 **Hrogan Vowscar** — Senior beastmaster of The Beast Rows. Trains woolly rhinos by whispering their names in Old Giant.
 **Kelra Moongale** — Stormseer of Skycaller's Perch. Said to have cursed a pirate fleet by singing into the clouds.
 **Brunna Steelbraid** — Tattoo-mistress of the Glowroot Wells. Chooses whose deeds are worthy of being immortalized in ink.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[Polaris in Thundrakar]]
+
+**Quest appearances:**
+
+- 29 Nov 2025: [Below Zero (Personalized Quest)](https://championsguildrpg.com/questLogs/270)
+- 21 Mar 2026: [The Chill of Death](https://championsguildrpg.com/questLogs/390)
+- 15 Apr 2026: [A Heavy Burden](https://championsguildrpg.com/questLogs/431)
+- 4 Oct 2026: [A Giant Problem (Pt 2)](https://championsguildrpg.com/questLogs/668)
+
+<!-- guild-archive-record:end -->

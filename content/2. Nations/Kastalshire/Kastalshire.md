@@ -219,3 +219,20 @@ Stoic and loyal with a commander's mind. A military prodigy trained by senior ca
 Charismatic, clever, and ambitious. Studies diplomacy and arcane history at The Arcanum. Travels frequently between Lyricast and Rath, courting favor among counts and manipulating courtly politics. Rumored to support annexing Caer Thian's coast as a crown-controlled province if piracy cannot be curbed.
 
 The twins are extremely close but often take differing approaches: Dorian through force and loyalty, [[Kaelen Thalros|Kaelen]] through charm and intrigue. They are rumored to both love the same woman, though her identity remains a mystery.
+
+<!-- guild-archive-record:start -->
+
+## Guild Archive record
+
+*Kept by the Guild Archive and updated automatically. The text above is hand-written.*
+
+**Threads:** [[The Vampire War and the Fall of Castle Bran]] · [[The Railroad East]] · [[Fog over Raethalor]]
+
+**Quest appearances:**
+
+- 4 Jul 2025: [Progress Rolls On](https://championsguildrpg.com/questLogs/111)
+- 1 Aug 2025: [Fog and Whispers](https://championsguildrpg.com/questLogs/140)
+- 11 Nov 2025: [Something Old, Something New](https://championsguildrpg.com/questLogs/250)
+- 15 Nov 2025: [Rescue Op](https://championsguildrpg.com/questLogs/254)
+
+<!-- guild-archive-record:end -->
