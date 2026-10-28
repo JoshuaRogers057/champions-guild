@@ -13,7 +13,7 @@ chronicle-thread-id: 26
 
 ## Where it stands
 
-The Guild Archive records that a werewolf curse has taken hold around Lakebarrow. At the opening festival the young lord, a young orc servant and two of his advisers were revealed as werewolves, and in the woods a lieutenant of the Big Bad Wolf had cursed a girl named Red and a boy named Conan. The lord was subdued and the children were brought home, but the Big Bad Wolf and the two advisers who fled into the woods are still at large. The red-scaled wolf that attacked Conan was never found. Grandmother Hettie, who had been experimenting on werewolves in search of a cure, faced no consequences.
+A werewolf curse has taken hold around Lakebarrow. At the opening festival the young lord, a young orc servant and two of his advisers were revealed as werewolves, and in the woods a lieutenant of the Big Bad Wolf had cursed a girl named Red and a boy named Conan. The lord was subdued and the children were brought home, but the Big Bad Wolf and the two advisers who fled into the woods are still at large. The red-scaled wolf that attacked Conan was never found. Grandmother Hettie, who had been experimenting on werewolves in search of a cure, faced no consequences.
 
 **Latest development:** In the woods the company defeated the Big Bad Wolf's lieutenant and freed Red and Conan, but the Wolf itself remained at large.
 

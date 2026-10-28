@@ -13,7 +13,7 @@ chronicle-thread-id: 3
 
 ## Where it stands
 
-The Guild Archive records that the Vivisectionist, Dr. Vathros, was killed in his castle by the assembled Guild forces, and the Guild believes him dead. His death did not end the Dome Crisis. Three domes still stand over Eryndor, at Oathend, at Greyspire and over the wreck of Castle Bran, and the one man known to understand how to unmake them took that knowledge with him. Lord Mask, Lady Mask and Lord Varos remain at large. Creatures bred in the domes are now being studied for use as defences.
+The original dome over Zindariel still stands, and the Vivisectionist's war added smaller ones, each about a mile across: the vault beneath the Veilkeepers' manor at Oathend, the wreck of Castle Bran and Greyspire Fortress. Dr. Vathros was killed in his castle in August, but the one man known to understand how to unmake the domes took that knowledge with him. Lord Mask, Lady Mask and Lord Varos remain at large. In October, members of the Guild who tested a defensive bunker for Professor Honeywell found it built on specimens taken from the domes, and destroyed it. Whatever happened during the Vivisectionist crisis has permanently changed the map of Eryndor.
 
 **Latest development:** In October the Guild broke into Professor Honeywell's HIVE bunker, destroyed the monster being built there, and left the remaining scientist to be arrested by the Ciliren guards.
 
@@ -33,7 +33,7 @@ The Guild Archive records that the Vivisectionist, Dr. Vathros, was killed in hi
 <!-- quest:433 -->
 **17 Apr 2026: Ashes of the Unwritten (Davian Personalized)**
 
-The Guild Archive records that Davian Stone and three companions recovered a malign book from the Ruins of Naerwyn and carried it into the Dome to destroy it. The official account is that the book is gone for good. The archive notes that this account is given with more firmness than evidence.
+Davian Stone and three companions recovered a malign book from the Ruins of Naerwyn and carried it into the Dome to destroy it. The official account is that the book is gone for good. This account is given with more firmness than evidence.
 
 *Guild members present:* [Davian Stone](https://championsguildrpg.com/characters/181/backstory) · [Elwyn Shadowbreak](https://championsguildrpg.com/characters/218/backstory) · [Tristan Hammerborn](https://championsguildrpg.com/characters/182/backstory) · [Tivonna](https://championsguildrpg.com/characters/284/backstory)
 
@@ -91,7 +91,7 @@ The same company went on into the deepest part of Elkhara to destroy the Nest. O
 <!-- quest:602 -->
 **10 Aug 2026: Veil Torn: Mini Epic! (Acolyte)**
 
-The Guild Archive records the fall of Oathend. Narthex, once a member of the Guild and now corrupted, arrived at the Veilkeepers' manor with an item he said needed storing; what he released was a horde of undead, and a green mist rose that has not lifted. Five members of the Guild held the yard for an hour and a half, and nine villagers died regardless. They found Narthex in the chapel with a knife at Lady Selvara's throat, and Nox teleported her clear. A vampire in the manor told them that Oathend was the first of many and that the mist would consume Eryndor. The Guild then broke open the vault and freed a second Guild party sealed inside, and destroyed the machine below, which halted the dome's growth but did not end it. Oathend was lost.
+Narthex, once a member of the Guild and now corrupted, arrived at the Veilkeepers' manor with an item he said needed storing; what he released was a horde of undead, and a green mist rose that has not lifted. Five members of the Guild held the yard for an hour and a half, and nine villagers died regardless. They found Narthex in the chapel with a knife at Lady Selvara's throat, and Nox teleported her clear. A vampire in the manor told them that Oathend was the first of many and that the mist would consume Eryndor. The Guild then broke open the vault and freed a second Guild party sealed inside, and destroyed the machine below, which halted the dome's growth but did not end it. Oathend was lost.
 
 *Guild members present:* [Nox](https://championsguildrpg.com/characters/385/backstory) · [Marr Runeblade](https://championsguildrpg.com/characters/251/backstory) · [Mamira](https://championsguildrpg.com/characters/374/backstory) · [Ki'a-Mat](https://championsguildrpg.com/characters/175/backstory) · [Ignis](https://championsguildrpg.com/characters/417/backstory)
 
@@ -121,7 +121,7 @@ Five members of the Guild were sent to bring in Sir Kale, who had escaped the Do
 <!-- quest:614 -->
 **16 Aug 2026: Empire of Bones: Epic-05 (Acolyte)**
 
-The Guild Archive records the Empire of Bones, the Guild's assault on the Vivisectionist's strongholds. This team approached Greyspire Fortress by sea, was dragged into the lower reaches by the Undertow, and fought upward, killing Marshal Drazan Volsk but never reaching the prisoners held below. The rituals were completed and the Greyspire Dome took hold, leaving the Wall and Thundrakar badly exposed. Avalin Florrelington, called Vali in the record, turned on the necromancer Malvaren Duskweaver as the dome closed, and the colour began to drain from her; the rest escaped believing her dead.
+The Empire of Bones was the Guild's assault on the Vivisectionist's strongholds. This team approached Greyspire Fortress by sea, was dragged into the lower reaches by the Undertow, and fought upward, killing Marshal Drazan Volsk but never reaching the prisoners held below. The rituals were completed and the Greyspire Dome took hold, leaving the Wall and Thundrakar badly exposed. Avalin Florrelington, called Vali, turned on the necromancer Malvaren Duskweaver as the dome closed, and the colour began to drain from her; the rest escaped believing her dead.
 
 *Guild members present:* [Avalin Florrelington](https://championsguildrpg.com/characters/427/backstory) · [G'Kar](https://championsguildrpg.com/characters/431/backstory) · [Marr Runeblade](https://championsguildrpg.com/characters/251/backstory) · [Clay "Country" Walker](https://championsguildrpg.com/characters/221/backstory)
 

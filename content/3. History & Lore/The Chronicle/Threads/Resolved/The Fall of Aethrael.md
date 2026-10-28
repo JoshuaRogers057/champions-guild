@@ -13,7 +13,7 @@ chronicle-thread-id: 8
 
 ## Where it stands
 
-The Guild Archive records that the Chosen of Lathander were gathered over a few months, named one by one, and tested against the Dreaming Dark's agents in the Woad, at the Veiled Chorus and in the Astral Sea. Their last act was to close two connected rifts at the same moment, above and below, and to take Aethrael alive. Skraggapost was emptied of danger before the bridge fell, and not one of its people was lost. The old darkness Lathander warned of was not destroyed, only denied a door.
+The Chosen of Lathander were gathered over a few months, named one by one, and tested against the Dreaming Dark's agents in the Woad, at the Veiled Chorus and in the Astral Sea. Their last act was to close two connected rifts at the same moment, above and below, and to take Aethrael alive; he remains imprisoned. Skraggapost was emptied of danger before the bridge fell, and not one of its people was lost. Some elements of the Better Dawn escaped, and the greater Dreaming Dark still lies beyond Eryndor, but the door Aethrael built is gone. The old darkness Lathander warned of was not destroyed, only denied its way in.
 
 **Latest development:** In August the assembled Chosen of Lathander closed the rifts at Skraggapost, saved its whole population and captured Aethrael.
 
@@ -160,4 +160,5 @@ The Chosen of Lathander gathered at Skraggapost, with Aubrey standing in for Ki 
 - [[The Rootlet and Cogveil College]]
 - [[The Bloodpits of Borgnar]]
 - [[Tannis and the Deep Tower]]
+- [[Uncertainty in the Forged Sands]]
 <!-- chronicle:lists:end -->

@@ -13,7 +13,7 @@ chronicle-thread-id: 14
 
 ## Where it stands
 
-The Guild Archive records that Digdug's search for his stolen son began with a carved toy and ended with his family together. The trail ran through a Velvet Ledger coinhouse to Marnie's cottage in the Wild Woods, where Firebug was found, and on to a ritual of clay, ancient wood, purple worm venom and draconic essence that gave Smyles her own body back. Firebug's magic is still unsteady, but the three are together.
+Digdug's search for his stolen son began with a carved toy and ended with his family together. The trail ran through a Velvet Ledger coinhouse to Marnie's cottage in the Wild Woods, where Firebug was found, and on to a ritual of clay, ancient wood, purple worm venom and draconic essence that gave Smyles her own body back. Firebug's magic is still unsteady, but the three are together.
 
 **Latest development:** Smyles was restored to her own body and reunited with Digdug and Firebug.
 
@@ -42,7 +42,7 @@ Following a carved toy to a Velvet Ledger coinhouse, the company uncovered the t
 <!-- quest:580 -->
 **2 Aug 2026: Going On A Witch - PART 2**
 
-Having escaped the cave, the company found a camp that was strangely still and laid out as if for sleep, yet eerie. They headed out into the mists. Little more is recorded of this stage of the hunt.
+Having escaped the cave, the company found a camp that was strangely still and laid out as if for sleep, yet eerie. They headed out into the mists. Little more is known of this stage of the hunt.
 
 *Guild members present:* [Valdrin](https://championsguildrpg.com/characters/343/backstory) · [Ivar Thundercall](https://championsguildrpg.com/characters/238/backstory) · [Dark Knight](https://championsguildrpg.com/characters/194/backstory) · [Davian Stone](https://championsguildrpg.com/characters/181/backstory) · [Digdug](https://championsguildrpg.com/characters/84/backstory) · [Luca Rasvid](https://championsguildrpg.com/characters/285/backstory)
 
@@ -102,4 +102,5 @@ Digdug called on the Guild to restore his wife, Smyles, who had remained trapped
 - [[The Rootlet and Cogveil College]]
 - [[The Silence of Naerwyn]]
 - [[Fortunes Crossing]]
+- [[Uncertainty in the Forged Sands]]
 <!-- chronicle:lists:end -->

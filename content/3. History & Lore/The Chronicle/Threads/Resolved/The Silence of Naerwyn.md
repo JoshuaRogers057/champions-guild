@@ -13,7 +13,7 @@ chronicle-thread-id: 24
 
 ## Where it stands
 
-The Guild Archive closes the matter of Naerwyn with the old temple cleared and one member of the Guild lost. The party had gone in on a contracted recovery job, reportedly racing other factions for the relics of the site, and the Velvet Ledger appears to have got below first. Vorga died holding back a powerful undead entity so that the others could reach the surface. Of what she faced, and of what the Ledger set loose, the Guild's records say little, and the Archive will not guess. Kestrel, changed by what he found there, was restored only when Davian later carried the book taken from the ruins to Dr. Vathros.
+The matter of Naerwyn closes with the old temple cleared and one member of the Guild lost. The party had gone in on a contracted recovery job, reportedly racing other factions for the relics of the site, and the Velvet Ledger appears to have got below first. Vorga died holding back a powerful undead entity so that the others could reach the surface. Of what she faced, and of what the Ledger set loose, little is known. Kestrel, changed by what he found there, was restored only when Davian later carried the book taken from the ruins to Dr. Vathros.
 
 **Latest development:** The expedition ended in January 2026 with Vorga dead and Davian Stone maimed; Kestrel, transformed there, was restored months later.
 

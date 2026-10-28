@@ -7,9 +7,9 @@ tags:
 
 > [!note] The newest weekly digest, for 27 Oct 2026. Earlier weeks: [[Current Stories#Past digests|past digests]].
 
-# The Guild Archive Opens
+# The Story So Far
 
-The Guild Archive records the Guild's deeds from its first days in Eryndor to the present. Its threads follow the stories still unfolding and keep the ones that have ended.
+Three domes still stand over Eryndor, Talvereth has not recovered from its fall, and Polaris is still at work in Thundrakar's mountains. Closer to home, Allan Willmer is dead and the Smiles Gang's leader is loose somewhere in the floating isles.
 
 ## Major developments
 

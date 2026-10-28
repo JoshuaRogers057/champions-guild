@@ -13,7 +13,7 @@ chronicle-thread-id: 20
 
 ## Where it stands
 
-The Guild Archive records that the corrupted dragon Kalamathet has been killed twice: once in his nest in the desert, and again in a portal realm during the Guild's assault on the Vivisectionist. Heliothrax, the Sun's Rage, was cured of his venom, and Glassroot Grove still stands. The Crimson Scale taken from Kalamathet's body vanished from Molly Quilhart's pack and is in unknown hands. Given his history, members of the Guild decline to treat his death as certain.
+The corrupted dragon Kalamathet has been killed twice: once in his nest in the desert, where the cure for Heliothrax was completed and Glassroot Grove saved, and again in a portal realm during the Guild's assault on the Vivisectionist. He had last been placed in the Labyrinth, and his ultimate fate was held to be unresolved. The Crimson Scale taken from his body vanished from Molly Quilhart's pack and is in unknown hands. Given his history, members of the Guild decline to treat his death as certain.
 
 **Latest development:** In August, Valdrin and his companions defeated Kalamathet again in a portal realm, though they judged his death unlikely to be permanent.
 

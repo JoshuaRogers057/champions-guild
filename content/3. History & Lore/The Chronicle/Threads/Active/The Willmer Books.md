@@ -13,7 +13,7 @@ chronicle-thread-id: 19
 
 ## Where it stands
 
-The Guild Archive records that Allan Willmer, a librarian of Lakebarrow, used magic books to trap the Guild's members and to afflict others, and that the Guild first met him through an offer of books for its library. He is dead. The hag Madam Frump, with whom he had made a bargain, killed him when he nearly gave away her secrets. What she wanted from him is unknown, and the cursed books he wrote may not all be accounted for.
+Allan Willmer, a librarian of Lakebarrow, used magic books to trap the Guild's members and to afflict others, and the Guild first met him through an offer of books for its library. He is dead. The hag Madam Frump, with whom he had made a bargain, killed him when he nearly gave away her secrets. What she wanted from him is unknown, and the cursed books he wrote may not all be accounted for.
 
 **Latest development:** In a fairy mound near Lakebarrow, Madam Frump killed Allan Willmer for nearly spilling her secrets.
 

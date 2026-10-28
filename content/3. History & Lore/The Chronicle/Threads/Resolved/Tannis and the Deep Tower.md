@@ -13,7 +13,7 @@ chronicle-thread-id: 30
 
 ## Where it stands
 
-The Guild Archive records that Tannis, the member everyone thought lost in Talvereth, was found alive and then lost for good. He survived a prison cart and Gurvan's fighting pits, in which four fellow prisoners died, and he lived to see Gurvan destroyed. He chose to close the portal himself rather than leave the labyrinth open, and he went through it knowingly. The land he left the Guild in northeast Kastalshire is his last gift. Members of the party that stood with him speak of him with great respect.
+Tannis, the member everyone thought lost in Talvereth, was found alive and then lost for good. He survived a prison cart and Gurvan's fighting pits, in which four fellow prisoners died, and he lived to see Gurvan destroyed. He chose to close the portal himself rather than leave the labyrinth open, and he went through it knowingly. The land he left the Guild in northeast Kastalshire is his last gift. Members of the party that stood with him speak of him with great respect.
 
 **Latest development:** Tannis stepped into the portal of his own free will and left this world, after granting the Guild a parcel of land in northeast Kastalshire.
 
@@ -27,7 +27,7 @@ The Guild Archive records that Tannis, the member everyone thought lost in Talve
 <!-- quest:435 -->
 **18 Apr 2026: The wayfarer**
 
-The Guild Archive records that Tannis stayed in Talvereth after the blast to pull survivors from the rubble and was captured by agents of the Duskwatch. In a prison cart bound for an unknown place he met four fellow prisoners, Geeth, Faela, Senith and Hessia, and protected them as best he could, though all four died on the road, Geeth and Faela in forced fights and the others of sickness and wounds. The caravan was run by the orc Gurvan, who took pleasure in setting prisoners against each other. It reached the Deep Tower, a labyrinth like the Last Howl but more tightly controlled, sealed behind an arcane portal, and Tannis joined a party of Guild members to enter it and shut the portal down.
+Tannis stayed in Talvereth after the blast to pull survivors from the rubble and was captured by agents of the Duskwatch. In a prison cart bound for an unknown place he met four fellow prisoners, Geeth, Faela, Senith and Hessia, and protected them as best he could, though all four died on the road, Geeth and Faela in forced fights and the others of sickness and wounds. The caravan was run by the orc Gurvan, who took pleasure in setting prisoners against each other. It reached the Deep Tower, a labyrinth like the Last Howl but more tightly controlled, sealed behind an arcane portal, and Tannis joined a party of Guild members to enter it and shut the portal down.
 
 *Guild members present:* [Tannis Pendragon](https://championsguildrpg.com/characters/173/backstory)
 
@@ -84,4 +84,5 @@ Luca, Airie, Eldarin and Bison went to a labyrinth on the border of the Drakmir 
 - [[The Rat and the Scale]]
 - [[The Kryzath Outpost]]
 - [[The Bloodpits of Borgnar]]
+- [[The Airship Race]]
 <!-- chronicle:lists:end -->

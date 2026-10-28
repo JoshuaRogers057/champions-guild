@@ -13,7 +13,7 @@ chronicle-thread-id: 13
 
 ## Where it stands
 
-The Guild Archive records that Old Marnie, an alchemist of Nogglefen who dealt with the Guild, was in truth an Arch Hag in league with the Velvet Ledger. She was defeated at her cottage in the Wild Woods, and two of the stolen children came home, but her daughters escaped by emergency teleportation. Several children from the Guild's orphanage, Sasha among them, are still unaccounted for. The Velvet Ledger's wider operation has been partly exposed, though Borrim, one of the two brothers behind the kidnappings, escaped. The Archive has no record of any search since.
+Old Marnie, an alchemist of Nogglefen who dealt with the Guild, was in truth an Arch Hag in league with the Velvet Ledger. She was defeated at her cottage in the Wild Woods, and two of the stolen children came home, but her daughters escaped by emergency teleportation. Several children from the Guild's orphanage, Sasha among them, are still unaccounted for. The Velvet Ledger's wider operation has been partly exposed, though Borrim, one of the two brothers behind the kidnappings, escaped. Nothing is known of any search since.
 
 **Latest development:** At her cottage the company defeated the Arch Hag Marnie, but her daughters escaped and several orphanage children, Sasha among them, remain missing.
 

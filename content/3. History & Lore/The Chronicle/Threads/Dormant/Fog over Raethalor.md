@@ -13,7 +13,7 @@ chronicle-thread-id: 21
 
 ## Where it stands
 
-The Guild Archive records that Raethalor lies under Sire Valkek's permanent garrison, and that Countess Vyra Nashen has been turned out of her manor. The hag Melthora stands behind much else: Captain Redfall swore to return her cursed music box, and she now holds bargains with several members of the Guild, who owe her favours. Tallo, the boy mid-way through a monstrous transformation, was carried to her in the hope that her price for his healing could be paid, but the archive does not record how that ended. The orphanage keeper, Mistress Ellid, is likewise unaccounted for. Elsewhere a vampire lord has fallen, and the vampires he held walk free.
+Raethalor lies under Sire Valkek's permanent garrison, and Countess Vyra Nashen has been turned out of her manor. The hag Melthora stands behind much else: Captain Redfall swore to return her cursed music box, and she now holds bargains with several members of the Guild, who owe her favours. Tallo, the boy mid-way through a monstrous transformation, was carried to her in the hope that her price for his healing could be paid, but how that ended is not known. The orphanage keeper, Mistress Ellid, is likewise unaccounted for. Elsewhere a vampire lord has fallen, and the vampires he held walk free.
 
 **Latest development:** At Stonehall, Bogrum buried his father, killed his brother and learned disturbing things about his pact with Melthora.
 
@@ -33,7 +33,7 @@ The Guild Archive records that Raethalor lies under Sire Valkek's permanent garr
 <!-- quest:116 -->
 **8 Jul 2025: Shipwreck of the Emerald Wake**
 
-The Guild Archive records that a company of five commissioned Captain Redfall to seek out the treasure wreck of the Emerald Wake. They recovered it after battling the sea and the monsters of the deep.
+A company of five commissioned Captain Redfall to seek out the treasure wreck of the Emerald Wake. They recovered it after battling the sea and the monsters of the deep.
 
 *Guild members present:* [Zacari Seras](https://championsguildrpg.com/characters/21/backstory) · [Everrett Stonehelm](https://championsguildrpg.com/characters/12/backstory) · [Sigmond Edward Yukon](https://championsguildrpg.com/characters/30/backstory) · [Zavaria](https://championsguildrpg.com/characters/31/backstory) · [Aysa](https://championsguildrpg.com/characters/16/backstory)
 
@@ -69,7 +69,7 @@ Commissioned by the sailor Captain Redfall, the party entered the long-abandoned
 <!-- quest:140 -->
 **1 Aug 2025: Fog and Whispers**
 
-The Guild Archive records that Mistress Ellid, keeper of the orphanage, had been kidnapped and the boy Tallo was missing. The party learned that illegitimate nobles had vanished across Kastalshire, and that Sire Valkek had brought a permanent garrison to Raethalor and evicted Countess Vyra from her manor. They rescued Tallo and found him in the midst of a transformation; after debating whether to kill him, they chose to take him to the hag Melthora in the hope of paying her price for his healing. The countess told them of a smugglers' cove where a ship could be had.
+Mistress Ellid, keeper of the orphanage, had been kidnapped and the boy Tallo was missing. The party learned that illegitimate nobles had vanished across Kastalshire, and that Sire Valkek had brought a permanent garrison to Raethalor and evicted Countess Vyra from her manor. They rescued Tallo and found him in the midst of a transformation; after debating whether to kill him, they chose to take him to the hag Melthora in the hope of paying her price for his healing. The countess told them of a smugglers' cove where a ship could be had.
 
 *Guild members present:* [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Bogrum](https://championsguildrpg.com/characters/15/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory) · [Wizbit](https://championsguildrpg.com/characters/5/backstory) · [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory)
 

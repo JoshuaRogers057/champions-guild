@@ -13,7 +13,7 @@ chronicle-thread-id: 28
 
 ## Where it stands
 
-The Guild Archive records that the clocktower ticks on and Prairie Park stands because of what was done at Dravonnis. Aysa carried the hourglass home and used it on the fracture, and the laboratory below was closed. Shedinn fell fighting the undead of the fort, and Fletcher held the time dragon at bay so that Aysa could escape. The Guild keeps both names in its records among those who gave their lives for others.
+The clocktower ticks on and Prairie Park stands because of what was done at Dravonnis. Aysa carried the hourglass home and used it on the fracture, and the laboratory below was closed. Shedinn fell fighting the undead of the fort, and Fletcher held the time dragon at bay so that Aysa could escape. The Guild keeps both names among those who gave their lives for others.
 
 **Latest development:** Aysa returned alone from Dravonnis with the dragon's breath and used it to repair the time fracture beneath the clocktower.
 
@@ -30,7 +30,7 @@ The Guild Archive records that the clocktower ticks on and Prairie Park stands b
 <!-- quest:221 -->
 **8 Oct 2025: The Hidden Heart**
 
-The Guild Archive records that Aysa, Shedinn and Fletcher traced the ticking beneath the Prairie Park clocktower to a secret laboratory. They passed its traps and puzzles and read the chronomancy research of its former owner, Warton, and his wife Zephia. The records showed that Zephia had been dying of a terminal illness. An illusory Warton asked the party to bring him the breath of a time dragon to restore her.
+Aysa, Shedinn and Fletcher traced the ticking beneath the Prairie Park clocktower to a secret laboratory. They passed its traps and puzzles and read the chronomancy research of its former owner, Warton, and his wife Zephia. The research showed that Zephia had been dying of a terminal illness. An illusory Warton asked the party to bring him the breath of a time dragon to restore her.
 
 *Guild members present:* [Aysa](https://championsguildrpg.com/characters/16/backstory) · [Shedinn](https://championsguildrpg.com/characters/8/backstory) · [Fletcher](https://championsguildrpg.com/characters/44/backstory)
 

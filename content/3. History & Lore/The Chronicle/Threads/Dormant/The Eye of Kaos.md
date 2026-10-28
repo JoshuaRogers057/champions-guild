@@ -13,7 +13,7 @@ chronicle-thread-id: 9
 
 ## Where it stands
 
-The Guild Archive records that the Eye of Kaos, a vast and mysterious ship, remains out of reach. Scarlett Hawkins's company gathered keys from island to island and held three of them when talks with the Driftbone Armada, which held two, bought the freedom of Spens at the price of one. Eliot Marsh then stole a key and escaped, and he has taken blood from Guild members on two separate occasions: a drop from Axum, and a vial from each member of a later company. The Archive has no record of any pursuit since.
+The Eye of Kaos, a vast ship hidden beyond reach, has not been brought to account, and its destination and intentions remain unknown. Scarlett Hawkins's company gathered keys from island to island and held three of them when talks with the Driftbone Armada, which held two, bought the freedom of Spens at the price of one. Eliot Marsh then stole a key and escaped, and he has since taken blood from Guild members twice: a drop from Axum, and a vial from each member of a later company. Nothing is known of any pursuit.
 
 **Latest development:** In the Forged Sands, a company escorting a Steelborn home learned that their travelling companion Varessa Thornveil served Eliot Marsh, and she took a vial of blood from each of them.
 
@@ -33,7 +33,7 @@ The Guild Archive records that the Eye of Kaos, a vast and mysterious ship, rema
 <!-- quest:339 -->
 **1 Feb 2026: Emergency Delivery**
 
-The Guild Archive records that Faelar Stormscale, Hector Headwinds and Axum sailed under Captain Janus to deliver a small package to Spens. On the way they drove off Sahuagin raiders who wanted it, then arbitrated a dispute between Captain Valessa Nocthyr, a vampirate, and the elf Captain Rourke Blackwake over a map to a mysterious treasure. Rourke was given the map and broke his deal with Valessa, and the crews sped off after one another; the Guild's members also met a crew of elemental pirates named Airiel, Firel, Waven and Earl. In Spens the package went to a halfling named Eliot Marsh and his tall, frightened associate, Nice, and Axum left a drop of her blood with him.
+Faelar Stormscale, Hector Headwinds and Axum sailed under Captain Janus to deliver a small package to Spens. On the way they drove off Sahuagin raiders who wanted it, then arbitrated a dispute between Captain Valessa Nocthyr, a vampirate, and the elf Captain Rourke Blackwake over a map to a mysterious treasure. Rourke was given the map and broke his deal with Valessa, and the crews sped off after one another; the Guild's members also met a crew of elemental pirates named Airiel, Firel, Waven and Earl. In Spens the package went to a halfling named Eliot Marsh and his tall, frightened associate, Nice, and Axum left a drop of her blood with him.
 
 *Guild members present:* [Faelar Stormscale](https://championsguildrpg.com/characters/241/backstory) · [Hector Headwinds](https://championsguildrpg.com/characters/224/backstory) · [Axum/Axia](https://championsguildrpg.com/characters/235/backstory)
 
@@ -151,4 +151,8 @@ Ki Ka'Rah and four other Guild members escorted a Steelborn duplicate home to th
 - [[The Kryzath Outpost]]
 - [[Digdug's Lost Ember]]
 - [[The Rootlet and Cogveil College]]
+- [[The Rebuilding of Spens]]
+- [[Uncertainty in the Forged Sands]]
+- [[The War of the Fanged Swamp]]
+- [[Lexovar's Hidden War]]
 <!-- chronicle:lists:end -->

@@ -13,7 +13,7 @@ chronicle-thread-id: 23
 
 ## Where it stands
 
-The Guild Archive records that a Guild company died in the Redmarch blood pits in 2025 and that the record of it ends with a vow: blood will be met with blood. A later company brought Mira Veynar out alive, and Grashna the Blood-Priest, who first declared a blood feud on the Guild, ended his hostility in the arena when he put out his own eye beside Torgar. Grakka One-Eye and Dura now treat the Guild with some regard. Murcon and Nephele were last recorded as hunted by the Duskwatch and the Redmarch warlords, and a black coin binds two members to Mog'zeth's price. Mog'zeth has now offered to share what she knows of Borgnar's factions if the Guild helps her find whoever is fixing the matches.
+A Guild company died in the Redmarch blood pits in 2025, and its story ends with a vow: blood will be met with blood. A later company brought Mira Veynar out alive, and Grashna the Blood-Priest, who first declared a blood feud on the Guild, ended his hostility in the arena when he put out his own eye beside Torgar. Grakka One-Eye and Dura now treat the Guild with some regard. Murcon and Nephele were last known to be hunted by the Duskwatch and the Redmarch warlords, and a black coin binds two members to Mog'zeth's price. Mog'zeth has now offered to share what she knows of Borgnar's factions if the Guild helps her find whoever is fixing the matches.
 
 **Latest development:** Mog'zeth agreed to go on sharing what she knows of Borgnar's factions if the Guild helps her find whoever is fixing the arena matches.
 
@@ -43,7 +43,7 @@ The party dealt with the hag Melthora, and several of them left with bargains to
 <!-- quest:153 -->
 **17 Aug 2025: Blood Claw**
 
-The Guild Archive records that Hashmal, Thalai Starwhisper Thundercall, Jovial Star, Benny Thatcher and Lyssa travelled to the Redmarch Coalition to enter a fighting tournament, the prize a red fragment. All five died in the final match in the blood pits, and the fragment was not won. The record closes with a vow: blood will be met with blood.
+Hashmal, Thalai Starwhisper Thundercall, Jovial Star, Benny Thatcher and Lyssa travelled to the Redmarch Coalition to enter a fighting tournament, the prize a red fragment. All five died in the final match in the blood pits, and the fragment was not won. Their story ends with a vow: blood will be met with blood.
 
 *Guild members present:* [Hashmal](https://championsguildrpg.com/characters/64/backstory) · [Thalai "Starwhisper" Thundercall](https://championsguildrpg.com/characters/97/backstory) · [Jovial Star](https://championsguildrpg.com/characters/100/backstory) · [Benny Thatcher](https://championsguildrpg.com/characters/102/backstory) · [Lyssa](https://championsguildrpg.com/characters/101/backstory)
 
@@ -65,7 +65,7 @@ The Champions Odyssey, the first airship in Eryndor, carried Ren Stray, Vaelynn 
 <!-- quest:218 -->
 **6 Oct 2025: Retribution conclusion**
 
-The Guild Archive records that the rescue ended in open defiance. Ren Stray and Vaelynn Whisperwind fought publicly in the Bloodpits of Redmarch and freed Mira Veynar, a captured fighter and Ren's childhood friend, winning the admiration of the crowd and the fury of the Redmarch warlords. In Borgnar, Murcon and Nephele broke into vaults held by the Duskwatch and took back the stolen Woaden Seed, a relic that could ignite war between Sylvandar and any nation holding it. The theft exposed them to the Duskwatch and to the vampires tied to the auction; Grashna the Blood-Priest declared a blood feud, the Duskwatch demanded retribution, and posters across the Redmarch Coalition now offer a bounty on Nephele and Murcon, dead or alive.
+The rescue ended in open defiance. Ren Stray and Vaelynn Whisperwind fought publicly in the Bloodpits of Redmarch and freed Mira Veynar, a captured fighter and Ren's childhood friend, winning the admiration of the crowd and the fury of the Redmarch warlords. In Borgnar, Murcon and Nephele broke into vaults held by the Duskwatch and took back the stolen Woaden Seed, a relic that could ignite war between Sylvandar and any nation holding it. The theft exposed them to the Duskwatch and to the vampires tied to the auction; Grashna the Blood-Priest declared a blood feud, the Duskwatch demanded retribution, and posters across the Redmarch Coalition now offer a bounty on Nephele and Murcon, dead or alive.
 
 *Guild members present:* [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Nephele ](https://championsguildrpg.com/characters/19/backstory) · [Vaelynn Whisperwind](https://championsguildrpg.com/characters/79/backstory) · [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory)
 
@@ -77,7 +77,7 @@ The Guild Archive records that the rescue ended in open defiance. Ren Stray and 
 <!-- quest:326 -->
 **22 Jan 2026: Bridge of Broken Oaths**
 
-The Guild Archive records that Kelsen Mossgarden, Sero, Day-Z, Luminary Blessedlight and Qhiri Faust Bronte were led into Borgnar by two guides, the sharp-tongued orc warrior Dura and the near-silent young goblin warlock Slaak, to Bloodpit, a settlement where strength is law. There Warlord Grakka One-Eye blamed the village of Dregspire for the infestation of a bridge, while Dregspire, speaking through the goblin warlock Mog'zeth, told another tale. To prove themselves the party faced a basilisk; Kelsen and Qhiri were turned to stone, and Mog'zeth restored them but pressed a black coin on them, promising to return one day for a sacrifice that was not blood. The bridge was cleared, with no sabotage to lay at either village's door, and the quarrel between them remained unresolved.
+Kelsen Mossgarden, Sero, Day-Z, Luminary Blessedlight and Qhiri Faust Bronte were led into Borgnar by two guides, the sharp-tongued orc warrior Dura and the near-silent young goblin warlock Slaak, to Bloodpit, a settlement where strength is law. There Warlord Grakka One-Eye blamed the village of Dregspire for the infestation of a bridge, while Dregspire, speaking through the goblin warlock Mog'zeth, told another tale. To prove themselves the party faced a basilisk; Kelsen and Qhiri were turned to stone, and Mog'zeth restored them but pressed a black coin on them, promising to return one day for a sacrifice that was not blood. The bridge was cleared, with no sabotage to lay at either village's door, and the quarrel between them remained unresolved.
 
 *Guild members present:* [Kelsen Mossgarden](https://championsguildrpg.com/characters/212/backstory) · [Qhiri Faust Bronte](https://championsguildrpg.com/characters/234/backstory) · [Day-Z](https://championsguildrpg.com/characters/34/backstory) · [Sero](https://championsguildrpg.com/characters/191/backstory) · [Luminary Blessedlight](https://championsguildrpg.com/characters/256/backstory)
 
@@ -99,7 +99,7 @@ The Guild was invited to the Opening Games of the Pit of Blood, a gladiatorial a
 <!-- quest:450 -->
 **29 Apr 2026: Bloody Entertaining 2: One-Eye's Judgement**
 
-The Guild Archive records that Dura led Burnwick Firebeard, Valdrin, Torgar Solemn Brother and Borba to the Guild's private barracks, which she appeared to have prepared herself, and that Grashna came to warn them that impure sacrifices would not be tolerated. The company overcame Grashna's acolytes with ease, and then the Wanderer, a cambion who seized control of Valdrin until a kick from Torgar broke the hold; Valdrin sprouted wings and carried the Wanderer aloft and down onto the arena floor in a pile of ash. Before the roaring crowd Torgar drove a worg fang from Dura into his own left eye in honour of Gruumsh and of Krok of Gruumsh, his fallen brother in arms; Grashna wept, came down to the sand and put out his own left eye in kind, and his hostility to the Guild ended. Grakka delivered the purses, Axelnar hinted at a partnership to come, and Dura declined Valdrin's gift of coin and asked to be paid in training.
+Dura led Burnwick Firebeard, Valdrin, Torgar Solemn Brother and Borba to the Guild's private barracks, which she appeared to have prepared herself, and Grashna came to warn them that impure sacrifices would not be tolerated. The company overcame Grashna's acolytes with ease, and then the Wanderer, a cambion who seized control of Valdrin until a kick from Torgar broke the hold; Valdrin sprouted wings and carried the Wanderer aloft and down onto the arena floor in a pile of ash. Before the roaring crowd Torgar drove a worg fang from Dura into his own left eye in honour of Gruumsh and of Krok of Gruumsh, his fallen brother in arms; Grashna wept, came down to the sand and put out his own left eye in kind, and his hostility to the Guild ended. Grakka delivered the purses, Axelnar hinted at a partnership to come, and Dura declined Valdrin's gift of coin and asked to be paid in training.
 
 *Guild members present:* [Burnwick Firebeard](https://championsguildrpg.com/characters/373/backstory) · [Valdrin](https://championsguildrpg.com/characters/343/backstory) · [Torgar Solemn Brother](https://championsguildrpg.com/characters/372/backstory) · [Borba](https://championsguildrpg.com/characters/356/backstory)
 
@@ -111,7 +111,7 @@ The Guild Archive records that Dura led Burnwick Firebeard, Valdrin, Torgar Sole
 <!-- quest:511 -->
 **9 Jun 2026: Bloody Entertaining 3: At Odds**
 
-The Guild Archive records that Prime, Jaden, Borba and Auto returned to the arena and defeated Tivvan the Indebted with her horde of skeletons, and a wyvern. Mog'zeth asked them to tell her who was fixing the fights. Using magic to see the unseen giver of a gift, the party learned he was a nondescript red hobgoblin in commoner's clothes, and handed Mog'zeth the note left for them, which read 'Mind the tail', a warning about the wyvern. Mog'zeth agreed to go on sharing what she knows of Borgnar's factions if the Guild keeps helping her find the culprit.
+Prime, Jaden, Borba and Auto returned to the arena and defeated Tivvan the Indebted with her horde of skeletons, and a wyvern. Mog'zeth asked them to tell her who was fixing the fights. Using magic to see the unseen giver of a gift, the party learned he was a nondescript red hobgoblin in commoner's clothes, and handed Mog'zeth the note left for them, which read 'Mind the tail', a warning about the wyvern. Mog'zeth agreed to go on sharing what she knows of Borgnar's factions if the Guild keeps helping her find the culprit.
 
 *Guild members present:* [Prime](https://championsguildrpg.com/characters/313/backstory) · [Jaden](https://championsguildrpg.com/characters/38/backstory) · [Borba](https://championsguildrpg.com/characters/356/backstory) · [Auto](https://championsguildrpg.com/characters/425/backstory)
 
@@ -190,4 +190,5 @@ The Guild Archive records that Prime, Jaden, Borba and Auto returned to the aren
 - [[Fog over Raethalor]]
 - [[The Railroad East]]
 - [[Tannis and the Deep Tower]]
+- [[The Rebuilding of Spens]]
 <!-- chronicle:lists:end -->

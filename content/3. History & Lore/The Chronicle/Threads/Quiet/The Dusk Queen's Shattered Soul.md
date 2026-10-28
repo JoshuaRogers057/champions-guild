@@ -13,7 +13,7 @@ chronicle-thread-id: 12
 
 ## Where it stands
 
-The Guild Archive records that the Dusk Queen's soul was broken into pieces, and that Guild companies have taken several of them from her: a glowing staff, a corrupted unicorn, and the five shards of a broken mirror. The last of these now lie with the Oakspire Enclave, a druidic order sworn to destroy her. The Queen has not been laid to rest, and she is hunting both the shards and the Enclave. Synthia, the girl the Guild took in, belongs to the Enclave, and its members want her back; the Archive does not record whether she has gone.
+The Dusk Queen's soul was broken into pieces, and Guild companies have taken several of them from her: a glowing staff, a corrupted unicorn, and the five shards of a broken mirror. The last of these now lie with the Oakspire Enclave, a druidic order sworn to destroy her. The Queen has not been laid to rest, and she is hunting both the shards and the Enclave. Synthia, the girl the Guild took in, belongs to the Enclave, and its members want her back; no one knows whether she has gone.
 
 **Latest development:** The shards of the Dusk Queen's soul were delivered to the Oakspire Enclave just ahead of the Queen's pursuit, and the Enclave demanded Synthia's return.
 

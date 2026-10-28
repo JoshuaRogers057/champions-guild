@@ -13,7 +13,7 @@ chronicle-thread-id: 16
 
 ## Where it stands
 
-The Guild Archive records that the Guild went to Thumdar as envoys to the dwarves, and that the journey cost Ranmir IronFist his life in a forge held by hostile forces. At his funeral Rhanak promised to see the forge restored, and a Guild party has since driven the salamanders from the lower works and cleared the temple beneath them. The dwarves of Thumdar think well of the Guild, and the Council has set it a task. No record says the task was carried out, nor what lay behind the sealed boxes the company opened.
+The Guild went to Thumdar as envoys to the dwarves, and the journey cost Ranmir IronFist his life in a forge held by hostile forces. At his funeral Rhanak promised to see the forge restored, and a Guild party has since driven the salamanders from the lower works and cleared the temple beneath them. The dwarves of Thumdar think well of the Guild, and the Council has set it a task. It is not known whether the task was carried out, nor what lay behind the sealed boxes the company opened.
 
 **Latest development:** In the lower works beneath the forge, a Guild party defeated Leader Salamandir and his salamanders, cleared the ancient temple and honoured Ranmir's sacrifice.
 
@@ -32,7 +32,7 @@ The Guild Archive records that the Guild went to Thumdar as envoys to the dwarve
 <!-- quest:486 -->
 **23 May 2026: Dwarven Series - P1 - Footfalls In The Stone Halls**
 
-The Guild Archive records that Rhanak Steelwind, Cage, Lovet Haisnest, Narthex and Ranmir IronFist spent several days travelling through Lexaror toward the Hall of Kar Drumm, and for a time the road was merry. Then the caravan was ambushed by archers firing from above, spellcasters and heavily armed fighters closing in from several sides. Several of the company were knocked down, but they rallied, defeated the attackers and secured the cavern wagon. They reached Stonegate Hold battered but whole.
+Rhanak Steelwind, Cage, Lovet Haisnest, Narthex and Ranmir IronFist spent several days travelling through Lexaror toward the Hall of Kar Drumm, and for a time the road was merry. Then the caravan was ambushed by archers firing from above, spellcasters and heavily armed fighters closing in from several sides. Several of the company were knocked down, but they rallied, defeated the attackers and secured the cavern wagon. They reached Stonegate Hold battered but whole.
 
 *Guild members present:* [Rhanak Steelwind](https://championsguildrpg.com/characters/363/backstory) · [Cage](https://championsguildrpg.com/characters/332/backstory) · [Lovet Haisnest](https://championsguildrpg.com/characters/249/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory) · [Ranmir IronFist](https://championsguildrpg.com/characters/401/backstory)
 

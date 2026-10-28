@@ -13,7 +13,7 @@ chronicle-thread-id: 25
 
 ## Where it stands
 
-The Guild Archive records that the affair ended beneath Goldbrook Manor. The company went in as destitute guests at the Founders' Day feast and found a temple to Asmodeus and the gold meant for a dark ritual. They slaughtered the cultists. Jeffro then arrived and, enraged by the doom brought on his children, struck Thad down, and Zafan killed him in return with his burning maul. Istral and the Velvet Ledger secured the aftermath, and the party took what gold it could carry. The victory did not last. Days after Thad was buried, the company watched Miren taken at the tavern by infernal magic and dragged into the Nine Hells.
+The affair ended beneath Goldbrook Manor. The company went in as destitute guests at the Founders' Day feast and found a temple to Asmodeus and the gold meant for a dark ritual. They slaughtered the cultists. Jeffro then arrived and, enraged by the doom brought on his children, struck Thad down, and Zafan killed him in return with his burning maul. Istral and the Velvet Ledger secured the aftermath, and the party took what gold it could carry. The victory did not last. Days after Thad was buried, the company watched Miren taken at the tavern by infernal magic and dragged into the Nine Hells.
 
 **Latest development:** Days after the fight at Goldbrook Manor, Miren was seized by infernal magic at the tavern and dragged into the Nine Hells as a Lemure.
 
@@ -32,7 +32,7 @@ The Guild Archive records that the affair ended beneath Goldbrook Manor. The com
 <!-- quest:131 -->
 **23 Jul 2025: Fortunes Crossing (Part 1)**
 
-The Guild Archive records that a brawl at Fortunes Crossing left one patron dead while the Watch kept out of it. Soon after, Dorian Pellshade offered a company of members city property in return for finding his missing friend, Jasper Belrose. Their search took them through the trinket shop Whims & Wonders, where they collected strange curios, among them a purple diamond, and on to a tavern in Saltgate and a Velvet Ledger hideout. They killed four kenku there and freed Sylas Vintarre, who named the Bronze Talons as Jasper's captors, just as Captain Elias Greythorn and the City Watch arrived.
+A brawl at Fortunes Crossing left one patron dead while the Watch kept out of it. Soon after, Dorian Pellshade offered a company of members city property in return for finding his missing friend, Jasper Belrose. Their search took them through the trinket shop Whims & Wonders, where they collected strange curios, among them a purple diamond, and on to a tavern in Saltgate and a Velvet Ledger hideout. They killed four kenku there and freed Sylas Vintarre, who named the Bronze Talons as Jasper's captors, just as Captain Elias Greythorn and the City Watch arrived.
 
 *Guild members present:* [Kairis Velnorrin](https://championsguildrpg.com/characters/66/backstory) · [Thadak "Wildcarver" Thuligo](https://championsguildrpg.com/characters/37/backstory) · [Zafan](https://championsguildrpg.com/characters/77/backstory) · ["Zed" Zedicus d'Thuranni](https://championsguildrpg.com/characters/55/backstory)
 

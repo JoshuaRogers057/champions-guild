@@ -13,7 +13,7 @@ chronicle-thread-id: 7
 
 ## Where it stands
 
-The Guild Archive records that Clan Glimveil, a small goliath clan of the far northern tundra, has gained a castle. Castle Kelgor is led by Rurik Grimveil. Its former ruler, Lord Elric Halister, was killed by members of the Guild during an infiltration in March, and the castle's plans were passed to Rurik. A clan once always one bad winter from extinction now holds a stronghold of its own. The Guild's standing with Rurik, built over three missions, remains good.
+Rurik Grimveil's Clan Glimveil, a small goliath clan of the far northern tundra that was once always one bad winter from extinction, now holds Castle Kelgor, said to lie in far eastern Kastalshire. Lord Elric Halister, its former ruler, was killed by members of the Guild who entered as traders in March, and the castle's plans and a hidden tunnel route were given to Rurik. The stronghold gives Thundrakar's goliaths a fortified foothold for raids into Kastalshire. The Crown is unlikely to tolerate the incursion for long, and a major Kastalshire response is expected, though none is yet known. The Guild's standing with Rurik, built over three missions, remains good.
 
 **Latest development:** In March, members of the Guild infiltrated Castle Kelgor, killed Lord Elric Halister, and delivered the castle's plans to Rurik.
 

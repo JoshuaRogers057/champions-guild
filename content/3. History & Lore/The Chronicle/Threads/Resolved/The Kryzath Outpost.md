@@ -13,7 +13,7 @@ chronicle-thread-id: 11
 
 ## Where it stands
 
-The Guild Archive closes the Kryzath outpost with its management settled. General Kiz had offered permission for a hall in the city in return for one more mission, and the Guild received it. The first manager, a Cracked Scale appointee, sold Anathema to a Dominion officer for questioning and was dismissed for it. Anathema, whose lineage appears to be both divine and draconic, took her place with the Dominion's approval.
+Management of the Kryzath outpost is settled. General Kiz had offered permission for a hall in the city in return for one more mission, and the Guild received it. The first manager, a Cracked Scale appointee, sold Anathema to a Dominion officer for questioning and was dismissed for it. Anathema, whose lineage appears to be both divine and draconic, took her place with the Dominion's approval.
 
 **Latest development:** In late December 2025 a Guild party reconciled General Kiz with a young cadet, his illegitimate son Drakath, and called off the duel of honor between them.
 
@@ -130,4 +130,6 @@ Lily of the Wood, Donder Stormbringer, Hunter and Zhek'har Valoran travelled to 
 - [[Digdug's Lost Ember]]
 - [[The Rootlet and Cogveil College]]
 - [[Tannis and the Deep Tower]]
+- [[The Airship Race]]
+- [[Uncertainty in the Forged Sands]]
 <!-- chronicle:lists:end -->

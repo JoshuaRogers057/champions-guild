@@ -13,7 +13,7 @@ chronicle-thread-id: 5
 
 ## Where it stands
 
-The Guild Archive records that a spreading sickness of mutation and corrupted crystal has been traced, piece by piece, to the dark beneath Talvereth. Diseased creatures have turned up in the blocks near the Gilder's Rise crater and in the waters along the coast, and the Guild holds samples of both. In the catacombs the company found a corrupted fragment, undead activity and floating eye-creatures, and the Guild now believes a beholder may be working below the city, searching for such fragments. A scarred, bald man was seen urging the afflicted to embrace the corruption, and he abandoned them when the Guild came; he has not been identified, and the wider source of the contamination is still unknown.
+A spreading sickness of mutation and corrupted crystal has been traced, piece by piece, to the dark beneath Talvereth. Diseased creatures have turned up in the blocks near the Gilder's Rise crater and in the waters along the coast, and the Guild holds samples of both. In the catacombs the company found a corrupted fragment, undead activity and floating eye-creatures, and the Guild now believes a beholder may be working below the city, searching for such fragments. A scarred, bald man was seen urging the afflicted to embrace the corruption, and he abandoned them when the Guild came; he has not been identified, and the wider source of the contamination is still unknown.
 
 **Latest development:** The Guild located a warehouse where a corrupted fragment was changing those who guarded it, took the fragment back to the guild hall, and watched a scarred bald man flee.
 

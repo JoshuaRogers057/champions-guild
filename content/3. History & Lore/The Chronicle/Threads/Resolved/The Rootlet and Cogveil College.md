@@ -13,7 +13,7 @@ chronicle-thread-id: 15
 
 ## Where it stands
 
-The Guild Archive records that the Rootlet affair began with a runaway sprout and ended with a college's secrets laid open. Cogveil's thefts, its false records and its duplicate constructs were uncovered, the stolen tree was saved, and the systems that had bound it were destroyed. The Rootlet returned to her tree on her own terms and rests within it, beginning to grow again. The Guild's part in the matter is done.
+The Rootlet affair began with a runaway sprout and ended with a college's secrets laid open. Cogveil's thefts, its false records and its duplicate constructs were uncovered, the stolen tree was saved, and the systems that had bound it were destroyed. The Rootlet returned to her tree on her own terms and rests within it, beginning to grow again. The Guild's part in the matter is done.
 
 **Latest development:** At the replanting ceremony, a Guild party destroyed Cogveil's last hold on the tree and freed the Rootlet, who returned to it of her own will.
 
@@ -31,7 +31,7 @@ The Guild Archive records that the Rootlet affair began with a runaway sprout an
 <!-- quest:367 -->
 **28 Feb 2026: The Runaway Rootlet**
 
-The Guild Archive records that Ivankor Scalebound, Eldarin Solari, Boarin Duskshield, Tivonna and Adagio Ravensong answered an urgent call from the Brassleaf Institute after the Rootlet, a newly unveiled botanical construct, escaped during a public demonstration. The chase led through the marketplace, enchanted gardens and institute grounds, past illusions, animated objects and a maze. The company found the Rootlet and returned it unharmed, and the Institute considered the matter closed.
+Ivankor Scalebound, Eldarin Solari, Boarin Duskshield, Tivonna and Adagio Ravensong answered an urgent call from the Brassleaf Institute after the Rootlet, a newly unveiled botanical construct, escaped during a public demonstration. The chase led through the marketplace, enchanted gardens and institute grounds, past illusions, animated objects and a maze. The company found the Rootlet and returned it unharmed, and the Institute considered the matter closed.
 
 *Guild members present:* [Ivankor Scalebound](https://championsguildrpg.com/characters/296/backstory) · [Eldarin Solari](https://championsguildrpg.com/characters/310/backstory) · [Boarin Duskshield](https://championsguildrpg.com/characters/232/backstory) · [Tivonna](https://championsguildrpg.com/characters/284/backstory) · [Adagio Ravensong](https://championsguildrpg.com/characters/273/backstory)
 
@@ -45,7 +45,7 @@ The Guild Archive records that Ivankor Scalebound, Eldarin Solari, Boarin Dusksh
 <!-- quest:461 -->
 **6 May 2026: Rootlet’s Call for Help**
 
-The Guild Archive records that the Guild was sent to the Brassleaf Institute when the Rootlet's bonded tree went missing. The tree seemed to stand where it always had, but the company found it hidden by powerful illusion, along with false records, altered memories, hidden bug-like spy devices and evidence planted to mislead them. All of it pointed to Cogveil College: the tree had been taken alive and whole, and the Rootlet crumbled, leaving only her heart-seed. The Guild had seven days to find the tree and restore her, and any mission to Cogveil would need an undercover team, since open attack on a college with such ties could start a major conflict.
+The Guild was sent to the Brassleaf Institute when the Rootlet's bonded tree went missing. The tree seemed to stand where it always had, but the company found it hidden by powerful illusion, along with false records, altered memories, hidden bug-like spy devices and evidence planted to mislead them. All of it pointed to Cogveil College: the tree had been taken alive and whole, and the Rootlet crumbled, leaving only her heart-seed. The Guild had seven days to find the tree and restore her, and any mission to Cogveil would need an undercover team, since open attack on a college with such ties could start a major conflict.
 
 *Guild members present:* [Cage](https://championsguildrpg.com/characters/332/backstory) · [Borba](https://championsguildrpg.com/characters/356/backstory) · [Ivankor Scalebound](https://championsguildrpg.com/characters/296/backstory) · [Rhanak Steelwind](https://championsguildrpg.com/characters/363/backstory) · [Tivonna](https://championsguildrpg.com/characters/284/backstory) · [Ranmir IronFist](https://championsguildrpg.com/characters/401/backstory)
 
@@ -93,7 +93,7 @@ While Zed held the lecture hall's attention, the company completed its investiga
 <!-- quest:542 -->
 **1 Jul 2026: The Lost Son of Steel**
 
-The Guild Archive records that Ki Ka'Rah, Rhanak Steelwind, Jaden, Tristan Hammerborn and Tartaglia Starling were sent to escort the Steelborn duplicate home to the Forged Sands. They were ambushed at the train station by the Obsidian Chain, stopped the attackers without harm to bystanders, and on the train befriended a woman named Varessa Thornveil, then stopped an artificer of the Golden Chain who took hostages and fought off an assault by the Cracked Scale on the roof of the moving train. Varessa revealed that she worked for Eliot Marsh and Nice, and on their behalf collected a promised favour and a vial of blood from each member of the party. At the Forged Sands the Steelborn recognised the Guild as Friends of Steel and promised that future missions would come.
+Ki Ka'Rah, Rhanak Steelwind, Jaden, Tristan Hammerborn and Tartaglia Starling were sent to escort the Steelborn duplicate home to the Forged Sands. They were ambushed at the train station by the Obsidian Chain, stopped the attackers without harm to bystanders, and on the train befriended a woman named Varessa Thornveil, then stopped an artificer of the Golden Chain who took hostages and fought off an assault by the Cracked Scale on the roof of the moving train. Varessa revealed that she worked for Eliot Marsh and Nice, and on their behalf collected a promised favour and a vial of blood from each member of the party. At the Forged Sands the Steelborn recognised the Guild as Friends of Steel and promised that future missions would come.
 
 *Guild members present:* [Ki Ka'Rah](https://championsguildrpg.com/characters/178/backstory) · [Rhanak Steelwind](https://championsguildrpg.com/characters/363/backstory) · [Jaden](https://championsguildrpg.com/characters/38/backstory) · [Tristan Hammerborn](https://championsguildrpg.com/characters/182/backstory) · [ Tartaglia Starling](https://championsguildrpg.com/characters/345/backstory)
 
@@ -164,4 +164,6 @@ Invited to the Brassleaf Institute for the Rootlet's replanting ceremony, Tivonn
 - [[The Rat and the Scale]]
 - [[The Kryzath Outpost]]
 - [[Digdug's Lost Ember]]
+- [[Uncertainty in the Forged Sands]]
+- [[Lexovar's Hidden War]]
 <!-- chronicle:lists:end -->

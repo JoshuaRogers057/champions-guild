@@ -13,7 +13,7 @@ chronicle-thread-id: 2
 
 ## Where it stands
 
-The Guild Archive closes the Vampire War with the fall of Castle Bran. Through the autumn of 2025 members of the Guild met vampires at masquerades, in casinos and manors, and on the open sea, and two of their errands were set by Septimus Vex, who presented himself as a retired adventurer in need of relics and proved to be one of the undead. When the flying fortress, which the Guild may have unwittingly set loose over the Scar of Vaelor, was boarded in a three-team assault from the Guild's airship and brought down, the war lost its centre. Vex fell on the bridge but did not stay fallen, and only a second visit to the wreck ended him. What remains is the Dominion's cordon around the wreck, the dome that has risen over it, and the question of the vampires who escaped before it.
+The Vampire War closes with the fall of Castle Bran. Through the autumn of 2025 members of the Guild met vampires at masquerades, in casinos and manors, and on the open sea, and two of their errands were set by Septimus Vex, who presented himself as a retired adventurer in need of relics and proved to be one of the undead. When the flying fortress, which the Guild may have unwittingly set loose over the Scar of Vaelor, was boarded in a three-team assault from the Guild's airship and brought down, the war lost its centre. Vex fell on the bridge but did not stay fallen, and only a second visit to the wreck ended him. What remains is the Dominion's cordon around the wreck, the dome that has risen over it, and the question of the vampires who escaped before it.
 
 **Latest development:** In December 2025 a Guild party sent to inspect the crash site destroyed Septimus Vex for good among the ruins of Castle Bran, killed a shadow dragon named Darc, and let a band of looters go.
 
@@ -33,7 +33,7 @@ The Guild Archive closes the Vampire War with the fall of Castle Bran. Through t
 <!-- quest:159 -->
 **22 Aug 2025: Wispers and Fog**
 
-The Guild Archive records that a company of five attended a masquerade and found its guests to be vampires. They killed the vampire lord Tavard, who stood at its heart. In doing so they accidentally freed a number of vampires he had held in thrall, and those vampires were loosed upon the world.
+A company of five attended a masquerade and found its guests to be vampires. They killed the vampire lord Tavard, who stood at its heart. In doing so they accidentally freed a number of vampires he had held in thrall, and those vampires were loosed upon the world.
 
 *Guild members present:* [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory) · [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Wizbit](https://championsguildrpg.com/characters/5/backstory) · [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory)
 
@@ -374,4 +374,6 @@ Narthex took Aubrey, Ren Stray and Warjo to inspect the ruins of the fallen Cast
 - [[The Railroad East]]
 - [[The Bloodpits of Borgnar]]
 - [[Tannis and the Deep Tower]]
+- [[The Rebuilding of Spens]]
+- [[The Airship Race]]
 <!-- chronicle:lists:end -->

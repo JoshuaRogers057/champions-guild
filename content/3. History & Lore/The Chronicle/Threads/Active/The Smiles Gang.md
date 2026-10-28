@@ -13,7 +13,7 @@ chronicle-thread-id: 18
 
 ## Where it stands
 
-The Guild Archive records that the Smiles Gang, a band of criminals dressed as clowns, has troubled Ciliren for more than a year, with ransom traps in the mountains, victims lured from the streets, and fencing for sea elves, all under the eye of a servant of Norebo. Guild companies have broken their schemes more than once, yet the gang's leader in the floating isles escaped through a portal, in ruins marked with the sign of Cyric that offered a trial of rebirth. The strange girl Nesser, kept in the gang's bunker, is unexplained. The Guild holds records of the guards the gang bribed and means to send members back to deal with them.
+The Smiles Gang, a band of criminals dressed as clowns, has troubled Ciliren for more than a year, with ransom traps in the mountains, victims lured from the streets, and fencing for sea elves, all under the eye of a servant of Norebo. Guild companies have broken their schemes more than once, yet the gang's leader in the floating isles escaped through a portal, in ruins marked with the sign of Cyric that offered a trial of rebirth. The strange girl Nesser, kept in the gang's bunker, is unexplained. The Guild holds records of the guards the gang bribed and means to send members back to deal with them.
 
 **Latest development:** A second team in the floating isles defeated the fallen angel guarding the temple's trial of rebirth, though the gang's leader there remains at large.
 

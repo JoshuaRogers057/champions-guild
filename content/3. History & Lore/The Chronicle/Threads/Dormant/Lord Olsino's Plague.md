@@ -13,7 +13,7 @@ chronicle-thread-id: 27
 
 ## Where it stands
 
-The Guild Archive records that a deadly disease that sickened settlers and some Guild members traces back to Lord Olsino, who paid a den of vampires to perfect it while the false cleric Lita carried out experiments on settlers. Lita was taken into the Guild's custody, and the Guild holds her notes and a vial of the disease. The vampires of that den were slain, but Lord Olsino's manor has not been entered. Whether the plague at the Elkhara is the same sickness is not recorded.
+A deadly disease that sickened settlers and some Guild members traces back to Lord Olsino, who paid a den of vampires to perfect it while the false cleric Lita carried out experiments on settlers. Lita was taken into the Guild's custody, and the Guild holds her notes and a vial of the disease. The vampires of that den were slain, but Lord Olsino's manor has not been entered. Whether the plague at the Elkhara is the same sickness is not known.
 
 **Latest development:** The company slew the vampires, freed their captives, and learned that Lord Olsino funded the work, setting their sights on his manor.
 

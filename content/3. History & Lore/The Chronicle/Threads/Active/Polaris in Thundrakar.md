@@ -13,7 +13,7 @@ chronicle-thread-id: 6
 
 ## Where it stands
 
-The Guild Archive records that Polaris is an arcane order the Guild has met in dungeons, on the tundra, at sea and across the gate to the Abyss, always at work on fragments, souls or fiends. Over a year the Guild has thwarted it again and again, and has earned the respect of several goliath clans in doing so. In October the Guild caught up with its remaining forces in Thundrakar's eastern mountains and kept them from the Stygian devil Stagor's animated remains. Polaris is still active, and its purpose remains unknown.
+Polaris is an arcane order the Guild has met in dungeons, on the tundra, at sea and across the gate to the Abyss, always at work on fragments, souls or fiends. Over a year the Guild has thwarted it again and again and earned the respect of several goliath clans, and in October it caught up with Polaris's remaining forces in Thundrakar's eastern mountains and kept them from the Stygian devil Stagor's animated remains. Drogath Stormvein will not rule Thundrakar forever, and uncertainty surrounds what comes after him. Polaris continues to operate while foreign powers quietly watch the coming succession, and its purpose remains unknown.
 
 **Latest development:** In October the Guild caught up with Polaris in the eastern mountains and kept it from the animated remains of the Stygian devil Stagor.
 

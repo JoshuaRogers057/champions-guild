@@ -1,19 +1,21 @@
 ---
 title: "The Fall of Talvereth"
+aliases:
+  - "3. History & Lore/The Chronicle/Threads/Quiet/The Fall of Talvereth"
 tags:
   - chronicle
   - thread
-  - status/quiet
+  - status/active
   - scale/nation
 chronicle-thread-id: 4
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Quiet** · Nation · Crises & Wars · last moved 6 Sep 2026
+> [!info] **Ongoing** · Nation · Crises & Wars · last moved 6 Sep 2026
 
 ## Where it stands
 
-The Guild Archive records that Talvereth has come through the riots of the Shadow War scarred, but standing. Several Guild companies went in to retake the courts, the docks and the districts, bombs were defused in the temples of Waukeen, and a measure of order returned, at the cost of Koal EmberHome and Warjo. The Velvet Ledger has been struck in its warehouses, safehouses and tunnels, yet it still works, and a shipment of Glass seized at the docks pointed toward two members of the Gilded Council. The Bastions of Solara keep an army outside the city and ambassadors within it, and have lately pressed the trade routes with fees and seizures. Beneath it all, Perrin Grint now stands as heir to a second Ledger that his father built to oppose the first.
+Talvereth came through the riots of the Shadow War badly scarred, and the Gilded Council is broken. Guild companies retook the courts, the docks and the districts at the cost of Koal EmberHome and Warjo, and though the Velvet Ledger has been struck in its warehouses and tunnels it still works; a shipment of Glass seized at the docks pointed toward two members of the Council. The Bastions of Solara keep an army outside the city and ambassadors within it, and press both for reconstruction and for a restructuring of the Council that would divide representation between the halflings and the other peoples of the city. Their armies have also strained the trade routes with fees and seizures. Perrin Grint now stands as heir to the Quiet Ledger, an intelligence network his father built to oppose the Velvet Ledger. Negotiations over the city's future are still under way, and whatever they settle will reach beyond Talvereth to trade across Eryndor.
 
 **Latest development:** Perrin Grint learned that his late father, the councilor Marlowe Grint, had secretly run the Quiet Ledger, and for now he has sealed its archive and left the choice open.
 
@@ -33,7 +35,7 @@ The Guild Archive records that Talvereth has come through the riots of the Shado
 <!-- quest:203 -->
 **20 Sep 2025: Champions Game**
 
-The Guild Archive records that a discreet patron retained a team of three, Shalk, Alben Watchwell and Nephele, to look into Velvet Ledger influence over the Gilded Council. Posing as a visiting professor and his company, they gained entry to the Sablemark Institute of Trade & Advancement and found an accounting folio said to link shell firms to Council business. The folio was trapped with a planar curse that carried them into a spectacle-realm ruled by Rakdos, Demon Lord of Entertainment, where they endured a lethal trial by audience. Released back to Talvereth with the ledger in hand, they gave their client fresh knowledge of the Velvet Ledger's networks.
+A discreet patron retained a team of three, Shalk, Alben Watchwell and Nephele, to look into Velvet Ledger influence over the Gilded Council. Posing as a visiting professor and his company, they gained entry to the Sablemark Institute of Trade & Advancement and found an accounting folio said to link shell firms to Council business. The folio was trapped with a planar curse that carried them into a spectacle-realm ruled by Rakdos, Demon Lord of Entertainment, where they endured a lethal trial by audience. Released back to Talvereth with the ledger in hand, they gave their client fresh knowledge of the Velvet Ledger's networks.
 
 *Guild members present:* [Shalk](https://championsguildrpg.com/characters/2/backstory) · [Alben Watchwell](https://championsguildrpg.com/characters/33/backstory) · [Nephele ](https://championsguildrpg.com/characters/19/backstory)
 
@@ -494,4 +496,5 @@ Perrin Grint, son of the late Gilded Council member Marlowe Grint and disowned b
 - [[The Silence of Naerwyn]]
 - [[Fortunes Crossing]]
 - [[Tannis and the Deep Tower]]
+- [[The Airship Race]]
 <!-- chronicle:lists:end -->

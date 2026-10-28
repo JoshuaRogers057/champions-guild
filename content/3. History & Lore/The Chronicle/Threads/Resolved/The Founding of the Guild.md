@@ -13,7 +13,7 @@ chronicle-thread-id: 1
 
 ## Where it stands
 
-The Guild Archive closes the founding with the debt it began with. A tax collector greeted the new owners of the gnome's property with a scroll and ninety days to pay. The odd jobs of that first summer, among them a day in the other market raising funds for the guild, gathered what they could, and the debt was finally paid in full with the gold the Guild won in the assault on Castle Bran.
+The founding ends where it began, with a debt. A tax collector greeted the new owners of the gnome's property with a scroll and ninety days to pay. The odd jobs of that first summer, among them a day in the other market raising funds for the guild, gathered what they could, and the debt was finally paid in full with the gold the Guild won in the assault on Castle Bran.
 
 **Latest development:** The new hall was furnished, and the back taxes on the gnome's old property were paid in full.
 

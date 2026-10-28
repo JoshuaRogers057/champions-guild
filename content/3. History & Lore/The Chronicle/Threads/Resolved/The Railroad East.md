@@ -13,7 +13,7 @@ chronicle-thread-id: 22
 
 ## Where it stands
 
-The Guild Archive records that the railroad east began as a commission at Rails End and ended as a finished line to the Free City of Spens. Along the way the Guild sealed caves, fought tree spirits, bought four days' protection from the Brotherhood of the Rat and stopped robberies on the trains. When the last rails were laid, Spens had its railroad. The Guild's part in that work was done, though the city's other troubles were not.
+The railroad east began as a commission at Rails End and ended as a finished line to the Free City of Spens. Along the way the Guild sealed caves, fought tree spirits, bought four days' protection from the Brotherhood of the Rat and stopped robberies on the trains. When the last rails were laid, Spens had its railroad. The Guild's part in that work was done, though the city's other troubles were not.
 
 **Latest development:** A Guild company escorted an archaeologist to Spens and stopped a train robbery, which let the railroad workers complete the track all the way into the city.
 
@@ -31,7 +31,7 @@ The Guild Archive records that the railroad east began as a commission at Rails 
 <!-- quest:111 -->
 **4 Jul 2025: Progress Rolls On**
 
-The Guild Archive records that the party met Captain Mary of the Queen's Pleasure and sailed with her to Contramara. There Lord Alric, Minister of Transportation of Kastalshire, set them their work for the railroad at Rails End, a mobile town. They met the railboss, and then rescued surveyors from local bandits.
+The party met Captain Mary of the Queen's Pleasure and sailed with her to Contramara. There Lord Alric, Minister of Transportation of Kastalshire, set them their work for the railroad at Rails End, a mobile town. They met the railboss, and then rescued surveyors from local bandits.
 
 *Guild members present:* [Wizbit](https://championsguildrpg.com/characters/5/backstory) · [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Bogrum](https://championsguildrpg.com/characters/15/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory) · [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory)
 
@@ -63,7 +63,7 @@ At Contramara the party took part in a tournament, where Ren Stray did well at t
 <!-- quest:205 -->
 **23 Sep 2025: Free City of Spens**
 
-The Guild Archive records that the party travelled to the Free City of Spens, where the elven ambassador Lamar El' Lavor told them trade had slowed sharply, with bandits on the roads and pirates at sea. They dealt with bandits attacking the rails, and found evidence of a threat to the city coordinated by vampires, who appear to hold a ruined watchtower near the border of the Drakmir Dominion.
+The party travelled to the Free City of Spens, where the elven ambassador Lamar El' Lavor told them trade had slowed sharply, with bandits on the roads and pirates at sea. They dealt with bandits attacking the rails, and found evidence of a threat to the city coordinated by vampires, who appear to hold a ruined watchtower near the border of the Drakmir Dominion.
 
 *Guild members present:* [Mazgar Thorrak](https://championsguildrpg.com/characters/63/backstory) · [Maurice Seelie](https://championsguildrpg.com/characters/11/backstory) · [Cragga Forgefrown ](https://championsguildrpg.com/characters/61/backstory) · [Sombersun](https://championsguildrpg.com/characters/104/backstory) · [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory)
 
@@ -134,4 +134,5 @@ Bo, Oren Nero, Rousseau, Kyber'lex the kobold and Bili Ruben were hired to escor
 - [[Fog over Raethalor]]
 - [[The Bloodpits of Borgnar]]
 - [[Lord Olsino's Plague]]
+- [[The Rebuilding of Spens]]
 <!-- chronicle:lists:end -->

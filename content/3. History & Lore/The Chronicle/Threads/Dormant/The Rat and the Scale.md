@@ -13,7 +13,7 @@ chronicle-thread-id: 10
 
 ## Where it stands
 
-The Guild Archive records that the Cracked Scale's hold on Rakkath has been broken, though a few of its outposts remain, and the Brotherhood of the Rat feels secure there for now. The Guild has worked for both sides, and the Cracked Scale's Vorthak Cinderscale still controls the area around a warehouse in the town while Klein, a Rat pirate, has taken over Rakkath itself. The assassin Leothin was reported preparing an assault on Rakkath and has never been caught, and Serrixa has escaped the Guild more than once and is now loose again. Aveline has split from the Rats and is gathering the pirate admirals to seize the free city of Spens, and the Guild of Blades is clearing its defenders before the pirates arrive.
+Criminal organisations across Eryndor are growing more organised, wealthy and politically entrenched, and the Brotherhood of the Rat, Dreadwake interests, the Velvet Ledger and others appear to be pieces of one larger struggle for the underworld. In Rakkath the Guild broke the Cracked Scale's hold, though a few outposts remain: Vorthak Cinderscale still controls the area around a warehouse, and Klein, a Rat pirate, has taken Rakkath itself. The assassin Leothin has never been caught, and Serrixa has escaped the Guild more than once and is loose again. Aveline has split from the Rats and gathered the pirate admirals to seize the free city of Spens, with the Guild of Blades clearing its defenders first. Spens did fall to a pirate armada in April, and was later bought free in a bargain struck in the Fanged Swamp.
 
 **Latest development:** On Korivar, Vaelynn passed the trial of five blades, rescued Elowen from the pirates, and made a secret deal with the hag Seana.
 
@@ -210,4 +210,6 @@ On Korivar the company found the obelisk and met Bith, an old one-armed assassin
 - [[The Railroad East]]
 - [[The Bloodpits of Borgnar]]
 - [[Tannis and the Deep Tower]]
+- [[The Rebuilding of Spens]]
+- [[Uncertainty in the Forged Sands]]
 <!-- chronicle:lists:end -->
