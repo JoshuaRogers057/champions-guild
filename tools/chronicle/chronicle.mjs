@@ -279,7 +279,7 @@ function buildThreads(threads, prose) {
     const category = t.category ? CATEGORY[t.category] ?? t.category : null
 
     const top = [
-      `> [!info] **${status}** · ${t.scale}${category ? ` · ${category}` : ""}${lastMoved ? ` · last moved ${lastMoved}` : ""}`,
+      `> [!info] **${statusLabel(t)}** · ${t.scale}${category ? ` · ${category}` : ""}${lastMoved ? ` · last moved ${lastMoved}` : ""}`,
       "",
       "## Where it stands",
       "",
@@ -397,19 +397,46 @@ function buildDigest(weekOf, digest, threadNames) {
   return dateName
 }
 
+// Current Stories keeps the shape of the old hand-written page: three world sections, then the Guild's own.
+const SECTIONS = [
+  ["ActiveCrises", "Aftermath & Active Crises", "Recent victories changed the world. They did not settle it."],
+  ["NationsInMotion", "Nations in Motion", "Governments, cultures, resources, and new technology are shifting the balance of power."],
+  ["ThreatsAndMysteries", "Unresolved Threats & Mysteries", "Some dangers survived. Others are only beginning to reveal themselves."],
+  ["GuildStories", "The Guild's Own Stories", "Debts, rescues, rivals and old wounds: the stories the Guild's members carry."],
+]
+const STATUS_ORDER = ["Active", "Quiet", "Dormant"]
+
+/** The site sends each thread's section; older data falls back the same way the site does. */
+function sectionOf(t) {
+  if (SECTIONS.some(([k]) => k === t.section)) return t.section
+  if (["Personal", "Faction", "City"].includes(t.scale)) return "GuildStories"
+  return t.category === "CrisesAndWars" ? "ActiveCrises" : t.category === "IntrigueAndCrime" ? "NationsInMotion" : "ThreatsAndMysteries"
+}
+const statusLabel = (t) => (t.isOngoing && statusOf(t) !== "Resolved" ? "Ongoing" : statusOf(t))
+
 function buildFrontDoor(threads, threadNames, published) {
-  const byStatus = (s) =>
-    threads
-      .filter((t) => !t.isHidden && threadNames.has(t.id) && statusOf(t) === s)
-      .sort((a, b) => SCALE_ORDER.indexOf(a.scale) - SCALE_ORDER.indexOf(b.scale) || String(a.name).localeCompare(String(b.name)))
+  const shown = threads.filter((t) => !t.isHidden && threadNames.has(t.id))
   const info = new Map(published.map((p) => [p.t.id, p]))
   const firstSentence = (s) => (String(s ?? "").match(/^[\s\S]*?[.!?](\s|$)/) ?? [String(s ?? "")])[0].trim()
   const tag = (t) => (t.category ? ` · ${CATEGORY[t.category] ?? t.category}` : "")
+  // Ongoing threads report as Active, so live stories and standing conditions mix, largest first.
+  const order = (a, b) =>
+    STATUS_ORDER.indexOf(statusOf(a)) - STATUS_ORDER.indexOf(statusOf(b)) ||
+    SCALE_ORDER.indexOf(a.scale) - SCALE_ORDER.indexOf(b.scale) || String(a.name).localeCompare(String(b.name))
+  const card = (t) => `### [[${threadNames.get(t.id)}]]\n*${statusLabel(t)} · ${t.scale}${tag(t)}*\n\n${(info.get(t.id)?.where ?? t.whereItStands ?? "").trim()}`
+  const line = (t) => `- [[${threadNames.get(t.id)}]] (${statusLabel(t)}): ${firstSentence(info.get(t.id)?.latest || t.whereItStands)}`
 
-  const active = byStatus("Active")
-  const quiet = byStatus("Quiet")
-  const dormant = byStatus("Dormant")
-  const resolved = byStatus("Resolved")
+  const sections = SECTIONS.map(([key, title, blurb]) => {
+    const list = shown.filter((t) => statusOf(t) !== "Resolved" && sectionOf(t) === key).sort(order)
+    if (!list.length) return ""
+    // World sections read like the old page, one paragraph each. In the Guild's own stories only the live
+    // ones get a paragraph; the quiet and dormant ones are a line each.
+    const full = key === "GuildStories" ? list.filter((t) => t.isOngoing || statusOf(t) === "Active") : list
+    const brief = list.filter((t) => !full.includes(t))
+    return [`## ${title}`, `*${blurb}*`, ...full.map(card), brief.length ? `#### Quiet and lingering\n\n${brief.map(line).join("\n")}` : ""]
+      .filter(Boolean).join("\n\n")
+  })
+  const resolved = shown.filter((t) => statusOf(t) === "Resolved").sort((a, b) => String(a.name).localeCompare(String(b.name)))
   const digests = walk(DIGESTS).map((f) => noExt(path.basename(f))).sort().reverse()
 
   const parts = [
@@ -425,14 +452,8 @@ function buildFrontDoor(threads, threadNames, published) {
     "",
     "> [!tip] This week: [[This Week in Eryndor (latest)|This Week in Eryndor]]",
     "",
-    "## Active",
-    "",
-    active.length
-      ? active.map((t) => `### [[${threadNames.get(t.id)}]]\n*${t.scale}${tag(t)}*\n\n${(info.get(t.id)?.where ?? t.whereItStands ?? "").trim()}`).join("\n\n")
-      : "*No active threads this week.*",
-    quiet.length ? `## Quiet\n\n${quiet.map((t) => `- [[${threadNames.get(t.id)}]] (${t.scale}): ${firstSentence(info.get(t.id)?.latest || t.whereItStands)}`).join("\n")}` : "",
-    dormant.length ? `## Lingering threads\n\n*Nothing has moved here in months. Last known state:*\n\n${dormant.map((t) => `- [[${threadNames.get(t.id)}]] (${t.scale}): ${firstSentence(t.whereItStands)}`).join("\n")}` : "",
-    resolved.length ? `## Resolved\n\n${resolved.map((t) => `- [[${threadNames.get(t.id)}]]${t.resolvedUtc ? ` (${monthHeading(t.resolvedUtc)})` : ""}`).join("\n")}` : "",
+    ...sections,
+    resolved.length ? `## Concluded Stories\n\n${resolved.map((t) => `- [[${threadNames.get(t.id)}]]${t.resolvedUtc ? ` (${monthHeading(t.resolvedUtc)})` : ""}`).join("\n")}` : "",
     digests.length ? `## Past digests\n\n${digests.map((d) => `- [[${d}]]`).join("\n")}` : "",
   ]
   const [frontmatter, blocks] = [parts.slice(0, 7).join("\n"), parts.slice(7).filter((s) => s !== "")]

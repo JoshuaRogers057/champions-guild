@@ -214,7 +214,7 @@ commit an empty week.
 
 | Path under `content/3. History & Lore/The Chronicle/` | What it is |
 |---|---|
-| `Current Stories.md` | The front door, rebuilt every run. It also redirects the old Current Stories address. |
+| `Current Stories.md` | The front door, rebuilt every run, in four sections: Aftermath & Active Crises, Nations in Motion, Unresolved Threats & Mysteries, and The Guild's Own Stories, then Concluded Stories. Each thread's `section` and `isOngoing` come from the site (the lore master sets them on the Lore Desk; never change them). It also redirects the old Current Stories address. |
 | `This Week in Eryndor (latest).md` | A stable link to the newest digest. The lore homepage links here. |
 | `This Week in Eryndor/This Week in Eryndor YYYY-MM-DD.md` | One digest per week. |
 | `Threads/<Active\|Quiet\|Dormant\|Resolved>/<Thread>.md` | One page per thread, moved when its status changes. The old path stays as an alias, so old links redirect. |
