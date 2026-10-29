@@ -36,8 +36,8 @@ Kellan Vare is co-leader of the [[Veilkeepers of Oathend]]. Kellan received the 
 
 **Quest appearances:**
 
-- 5 Jun 2026: [Dead Weight (Lathander Calls)](https://championsguildrpg.com/questLogs/505)
-- 19 Jul 2026: [The Lost Cult](https://championsguildrpg.com/questLogs/568)
-- 29 Jul 2026: [The ruins below](https://championsguildrpg.com/questLogs/581)
+- 5 Jun 1026: [Dead Weight (Lathander Calls)](https://championsguildrpg.com/questLogs/505)
+- 19 Jul 1026: [The Lost Cult](https://championsguildrpg.com/questLogs/568)
+- 29 Jul 1026: [The ruins below](https://championsguildrpg.com/questLogs/581)
 
 <!-- guild-archive-record:end -->

@@ -9,7 +9,7 @@ chronicle-thread-id: 13
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Quiet** · City · Intrigue & Crime · last moved 30 Jul 2026
+> [!info] **Quiet** · City · Intrigue & Crime · last moved 30 Jul 1026
 
 ## Where it stands
 
@@ -28,10 +28,10 @@ Old Marnie, an alchemist of Nogglefen who dealt with the Guild, was in truth an 
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### February 2026
+### February 1026
 
 <!-- quest:345 -->
-**5 Feb 2026: Mushroom Meandering**
+**5 Feb 1026: Mushroom Meandering**
 
 At the request of the herbalist of Grita, the Guild sent a company to Nogglefen to recover valuable herbal supplies for the herbalist's contact in Fizzleforge. The company met puzzles, challenges and a tracking task, and gathered every ingredient asked of them, including one needed to make a crucial preparation for Fizzleforge.
 
@@ -41,7 +41,7 @@ At the request of the herbalist of Grita, the Guild sent a company to Nogglefen 
 <!-- /quest:345 -->
 
 <!-- quest:350 -->
-**15 Feb 2026: Mushroom Meandering P1**
+**15 Feb 1026: Mushroom Meandering P1**
 
 Another company went to Nogglefen to help restock its supplies and was set three ingredients to find. They sought the mountain sunset rose first, requested by the alchemist affectionately known as Old Marnie, crossing the old logging bridge and climbing the mountain toward sunset. The rose had been magically stored away, so the company had to solve a puzzle to reach it, and found it at sunset in time to coax it into bloom. Two ingredients were still to be fetched.
 
@@ -50,10 +50,10 @@ Another company went to Nogglefen to help restock its supplies and was set three
 [Read the full quest record →](https://championsguildrpg.com/questLogs/350)
 <!-- /quest:350 -->
 
-### March 2026
+### March 1026
 
 <!-- quest:383 -->
-**14 Mar 2026: The Price of Protection**
+**14 Mar 1026: The Price of Protection**
 
 At Old Marnie's request, six members went to Nogglefen to look into Tasmin, a hedge witch newly arrived and offering charms and blessings to the villagers. They questioned the locals, kept on cordial terms with Marnie, and went into the nearby swamp to find Tasmin, where they came upon strange ruins holding a corrupted teleportation circle of unknown origin. Several members stepped into the circle and vanished, and the rest soon followed. The company had not returned, and its whereabouts were unknown.
 
@@ -63,7 +63,7 @@ At Old Marnie's request, six members went to Nogglefen to look into Tasmin, a he
 <!-- /quest:383 -->
 
 <!-- quest:393 -->
-**21 Mar 2026: Price Of Protection P2**
+**21 Mar 1026: Price Of Protection P2**
 
 Marnie proved to have betrayed the company, having struck a bargain with Borrim of the Velvet Ledger, and the circle carried them to a dungeon beneath Talvereth. They fought through the castle's depths and freed hostages seized after the collapse of the Brass Ladle, then met the two brothers behind the kidnappings: Borrick was killed, but Borrim escaped. Emerging at the docks into a city in flames and riot, the company won passage on a boat and took the rescued prisoners with them.
 
@@ -74,10 +74,10 @@ Marnie proved to have betrayed the company, having struck a bargain with Borrim 
 [Read the full quest record →](https://championsguildrpg.com/questLogs/393)
 <!-- /quest:393 -->
 
-### June 2026
+### June 1026
 
 <!-- quest:541 -->
-**30 Jun 2026: The Boy in the Ledger - (Rearranged)**
+**30 Jun 1026: The Boy in the Ledger - (Rearranged)**
 
 Searching for the missing foundling Pip, the company followed his trail to the Cosse & Coinledger Counting House, a respectable front with far darker business beneath it. They gathered enough evidence to show that the Velvet Ledger was involved and exposed part of its wider operation, freeing prisoners and recovering documents. The papers gave the Guild a firm lead: the woman known as Marthina 'Marnie' has been traced to the Drakmir Dominion.
 
@@ -86,10 +86,10 @@ Searching for the missing foundling Pip, the company followed his trail to the C
 [Read the full quest record →](https://championsguildrpg.com/questLogs/541)
 <!-- /quest:541 -->
 
-### July 2026
+### July 1026
 
 <!-- quest:576 -->
-**26 Jul 2026: Going on a Witch Hunt (Actual series!)**
+**26 Jul 1026: Going on a Witch Hunt (Actual series!)**
 
 Word reached the Guild that Marnie had taken six children connected to it, and a company traveled to the remote settlement of the Last Hearth. There they heard of missing villagers, damaged memories, changeling activity, unnatural storms and rivers that had changed course. They learned of a hidden route beyond an old bridge, guarded by magical mists and old fae customs, and after obtaining a special draught and the song needed to follow the path they crossed and found a troll lair beneath the bridge. As the cavern began to shift under their feet the hunt became a fight for survival, with a possible underwater passage ahead.
 
@@ -99,7 +99,7 @@ Word reached the Guild that Marnie had taken six children connected to it, and a
 <!-- /quest:576 -->
 
 <!-- quest:585 -->
-**30 Jul 2026: Going On A Witch - Next Part 3**
+**30 Jul 1026: Going On A Witch - Next Part 3**
 
 The company crossed Troll Bridge, defeated the creature beneath it, and made its way through submerged tunnels and Marnie's twisted Wild Woods to her isolated cottage. There Marnie argued that she had acted to protect the children, and Davian seemed half persuaded, but the talk turned to a brutal battle that nearly killed several members before the Arch Hag fell; her daughters escaped by emergency teleportation, their whereabouts and aims unknown. Digdug recovered his son Firebug and his wife Smyles, whom Firebug had accidentally turned into a doll after the Velvet Ledger discarded her, and Ivar brought Pip back to Posy, with the discovery that both descend from Marnie's own bloodline. Several children from the Guild's orphanage, Sasha among them, are still missing.
 

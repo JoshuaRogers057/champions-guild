@@ -29,6 +29,6 @@ She is one of the eight Gilded Council members to survive the Crisis.
 
 **Quest appearances:**
 
-- 17 Mar 2026: [A Quiet Inspection](https://championsguildrpg.com/questLogs/384)
+- 17 Mar 1026: [A Quiet Inspection](https://championsguildrpg.com/questLogs/384)
 
 <!-- guild-archive-record:end -->

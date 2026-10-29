@@ -107,14 +107,20 @@ function parseDate(iso) {
   if (s.length <= 10) return new Date(`${s}T12:00:00Z`)
   return new Date(/(Z|[+-]\d\d:?\d\d)$/.test(s) ? s : `${s}Z`)
 }
+// Eryndor's calendar is the real one less a thousand years: 29 Oct 2026 is 29 Oct 1026. The site sends
+// real dates; every date the vault shows is in-world.
+const IN_WORLD_OFFSET = 1000
+const worldYear = (d) => d.getUTCFullYear() - IN_WORLD_OFFSET
 function fmtDate(iso) {
   const d = parseDate(iso)
-  return `${d.getUTCDate()} ${MONTHS[d.getUTCMonth()].slice(0, 3)} ${d.getUTCFullYear()}`
+  return `${d.getUTCDate()} ${MONTHS[d.getUTCMonth()].slice(0, 3)} ${worldYear(d)}`
 }
 function monthHeading(iso) {
   const d = parseDate(iso)
-  return `${MONTHS[d.getUTCMonth()]} ${d.getUTCFullYear()}`
+  return `${MONTHS[d.getUTCMonth()]} ${worldYear(d)}`
 }
+/** "2026-10-27" → "1026-10-27", for digest page names. */
+const worldIso = (iso) => `${String(worldYear(parseDate(iso))).padStart(4, "0")}-${String(iso).slice(5, 10)}`
 const monthKey = (heading) => {
   const [m, y] = heading.split(" ")
   return Number(y) * 12 + MONTHS.indexOf(m)
@@ -366,7 +372,7 @@ function digestBody(d, threadNames) {
 
 function buildDigest(weekOf, digest, threadNames) {
   if (!digest) return null
-  const dateName = `This Week in Eryndor ${weekOf}`
+  const dateName = `This Week in Eryndor ${worldIso(weekOf)}`
   const pretty = fmtDate(weekOf)
   const body = digestBody(digest, threadNames)
   write(path.join(DIGESTS, `${dateName}.md`), [

@@ -34,11 +34,11 @@ The gang was found in floating isles over the [[Lexovar Woods]], where its leade
 
 **Quest appearances:**
 
-- 2 Aug 2025: [Down Bad](https://championsguildrpg.com/questLogs/142)
-- 12 Aug 2025: [Taken](https://championsguildrpg.com/questLogs/147)
-- 23 Dec 2025: [The Naughty List](https://championsguildrpg.com/questLogs/292)
-- 30 Jul 2026: [Give Me the Money](https://championsguildrpg.com/questLogs/584)
-- 26 Sep 2026: [Reach for the Skies](https://championsguildrpg.com/questLogs/659)
-- 3 Oct 2026: [Reach for the Skies (Pt 2)](https://championsguildrpg.com/questLogs/665)
+- 2 Aug 1025: [Down Bad](https://championsguildrpg.com/questLogs/142)
+- 12 Aug 1025: [Taken](https://championsguildrpg.com/questLogs/147)
+- 23 Dec 1025: [The Naughty List](https://championsguildrpg.com/questLogs/292)
+- 30 Jul 1026: [Give Me the Money](https://championsguildrpg.com/questLogs/584)
+- 26 Sep 1026: [Reach for the Skies](https://championsguildrpg.com/questLogs/659)
+- 3 Oct 1026: [Reach for the Skies (Pt 2)](https://championsguildrpg.com/questLogs/665)
 
 <!-- guild-archive-record:end -->

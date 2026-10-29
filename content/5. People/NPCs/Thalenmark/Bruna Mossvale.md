@@ -35,8 +35,8 @@ Bruna Mossvale died during [[The Talvereth Crisis]]. Her followers remain active
 
 **Quest appearances:**
 
-- 20 Feb 2026: [Coin and Cinders](https://championsguildrpg.com/questLogs/360)
-- 18 Mar 2026: [Faith in Flight](https://championsguildrpg.com/questLogs/385)
-- 28 Mar 2026: [Acolyte Table (Eda) -  Shadow War: Epic](https://championsguildrpg.com/questLogs/405)
+- 20 Feb 1026: [Coin and Cinders](https://championsguildrpg.com/questLogs/360)
+- 18 Mar 1026: [Faith in Flight](https://championsguildrpg.com/questLogs/385)
+- 28 Mar 1026: [Acolyte Table (Eda) -  Shadow War: Epic](https://championsguildrpg.com/questLogs/405)
 
 <!-- guild-archive-record:end -->

@@ -36,8 +36,8 @@ Bictra is a vampire in the service of the vivisectionist [[Dr. Vathros]], first 
 
 **Quest appearances:**
 
-- 24 Jul 2026: [The Nest](https://championsguildrpg.com/questLogs/577)
-- 10 Aug 2026: [Veil Torn: Mini Epic! (apprentice)](https://championsguildrpg.com/questLogs/603)
-- 16 Aug 2026: [Empire of Bones: Epic-05 (Journeyman/Apprentice)](https://championsguildrpg.com/questLogs/616)
+- 24 Jul 1026: [The Nest](https://championsguildrpg.com/questLogs/577)
+- 10 Aug 1026: [Veil Torn: Mini Epic! (apprentice)](https://championsguildrpg.com/questLogs/603)
+- 16 Aug 1026: [Empire of Bones: Epic-05 (Journeyman/Apprentice)](https://championsguildrpg.com/questLogs/616)
 
 <!-- guild-archive-record:end -->

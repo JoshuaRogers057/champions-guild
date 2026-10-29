@@ -140,10 +140,10 @@ Marked by red-black tattoos, battle visions, or rage-induced strength. Anyone wh
 
 **Quest appearances:**
 
-- 17 Aug 2025: [Blood Claw](https://championsguildrpg.com/questLogs/153)
-- 3 Oct 2025: [Retribution](https://championsguildrpg.com/questLogs/215)
-- 6 Oct 2025: [Retribution conclusion](https://championsguildrpg.com/questLogs/218)
-- 15 Nov 2025: [Response Team (Anaelle personalized)](https://championsguildrpg.com/questLogs/253)
-- 22 Apr 2026: [Bloody Entertaining 1: Suitable Offerings](https://championsguildrpg.com/questLogs/444)
+- 17 Aug 1025: [Blood Claw](https://championsguildrpg.com/questLogs/153)
+- 3 Oct 1025: [Retribution](https://championsguildrpg.com/questLogs/215)
+- 6 Oct 1025: [Retribution conclusion](https://championsguildrpg.com/questLogs/218)
+- 15 Nov 1025: [Response Team (Anaelle personalized)](https://championsguildrpg.com/questLogs/253)
+- 22 Apr 1026: [Bloody Entertaining 1: Suitable Offerings](https://championsguildrpg.com/questLogs/444)
 
 <!-- guild-archive-record:end -->

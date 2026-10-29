@@ -36,8 +36,8 @@ Rurik Grimveil is leader of the small goliath Clan Glimveil, and hired the Guild
 
 **Quest appearances:**
 
-- 4 Mar 2026: [Skål](https://championsguildrpg.com/questLogs/370)
-- 24 Mar 2026: [Bankers Hours](https://championsguildrpg.com/questLogs/400)
-- 31 Mar 2026: [Traders](https://championsguildrpg.com/questLogs/408)
+- 4 Mar 1026: [Skål](https://championsguildrpg.com/questLogs/370)
+- 24 Mar 1026: [Bankers Hours](https://championsguildrpg.com/questLogs/400)
+- 31 Mar 1026: [Traders](https://championsguildrpg.com/questLogs/408)
 
 <!-- guild-archive-record:end -->

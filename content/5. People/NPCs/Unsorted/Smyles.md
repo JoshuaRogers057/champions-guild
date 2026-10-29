@@ -36,8 +36,8 @@ Smyles is Digdug's wife, who survived the farm attack but was held under cursed 
 
 **Quest appearances:**
 
-- 5 Jul 2026: [Aaron’s Personalised Quest - Digdug’s Lost Ember (Rearranged...Again!!!)](https://championsguildrpg.com/questLogs/550)
-- 30 Jul 2026: [Going On A Witch - Next Part 3](https://championsguildrpg.com/questLogs/585)
-- 4 Oct 2026: [A Doll’s Undoing (Digdug’s PQ)](https://championsguildrpg.com/questLogs/669)
+- 5 Jul 1026: [Aaron’s Personalised Quest - Digdug’s Lost Ember (Rearranged...Again!!!)](https://championsguildrpg.com/questLogs/550)
+- 30 Jul 1026: [Going On A Witch - Next Part 3](https://championsguildrpg.com/questLogs/585)
+- 4 Oct 1026: [A Doll’s Undoing (Digdug’s PQ)](https://championsguildrpg.com/questLogs/669)
 
 <!-- guild-archive-record:end -->

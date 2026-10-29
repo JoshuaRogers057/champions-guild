@@ -9,7 +9,7 @@ chronicle-thread-id: 43
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Ongoing** · Nation · Intrigue & Crime · last moved 22 Aug 2026
+> [!info] **Ongoing** · Nation · Intrigue & Crime · last moved 22 Aug 1026
 
 ## Where it stands
 
@@ -26,10 +26,10 @@ Lexovar's rival magical institutions keep up a quiet academic cold war of influe
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### July 2025
+### July 1025
 
 <!-- quest:139 -->
-**31 Jul 2025: Don't Think Too Much**
+**31 Jul 1025: Don't Think Too Much**
 
 A company protected Dr. Pimble and his warforged companion Scout from mercenaries working for Gearshield Academy. One mercenary, Redford, got away. Scout thanked the Guild with five heat shields.
 
@@ -38,10 +38,10 @@ A company protected Dr. Pimble and his warforged companion Scout from mercenarie
 [Read the full quest record →](https://championsguildrpg.com/questLogs/139)
 <!-- /quest:139 -->
 
-### September 2025
+### September 1025
 
 <!-- quest:194 -->
-**14 Sep 2025: To Be Or Not To Be**
+**14 Sep 1025: To Be Or Not To Be**
 
 The Forgescribe known as Pen had become aware and was wandering Ciliren, writing poetry and reading books, while several universities hunted him. The company followed his trail past those universities to the dockward, where they met Redford again, once more working for Gearshield. He escaped a second time, and Pen was returned to the Iron Loom.
 
@@ -50,10 +50,10 @@ The Forgescribe known as Pen had become aware and was wandering Ciliren, writing
 [Read the full quest record →](https://championsguildrpg.com/questLogs/194)
 <!-- /quest:194 -->
 
-### October 2025
+### October 1025
 
 <!-- quest:214 -->
-**2 Oct 2025: The Cracklefront Residence**
+**2 Oct 1025: The Cracklefront Residence**
 
 A company cleared the dangers from the Cracklefront Residence for Whirligig and Company. In a secret room behind a wardrobe they found evidence of warforged research, with papers tying it to Gearshield Academy.
 
@@ -62,10 +62,10 @@ A company cleared the dangers from the Cracklefront Residence for Whirligig and 
 [Read the full quest record →](https://championsguildrpg.com/questLogs/214)
 <!-- /quest:214 -->
 
-### January 2026
+### January 1026
 
 <!-- quest:334 -->
-**30 Jan 2026: Transport to the Starforges**
+**30 Jan 1026: Transport to the Starforges**
 
 The Bastions of Solara asked for the Guild's help with missing catalogued magical items. The Obsidian Chain, against its usual way, blew up the rails to halt the train carrying the Guild's company and tried to take back a magically infused chain only the Starforges can make. The attack failed, but its leader, later named as Toston Silverleaf, was not captured. At the Starforges the company lifted repeated memory-altering magic from the wardens of the three forges, the means by which the Chain had smuggled seven oath-bound items out and rooted itself in the lower workforce, and helped to find the tunnels it used.
 
@@ -74,10 +74,10 @@ The Bastions of Solara asked for the Guild's help with missing catalogued magica
 [Read the full quest record →](https://championsguildrpg.com/questLogs/334)
 <!-- /quest:334 -->
 
-### July 2026
+### July 1026
 
 <!-- quest:556 -->
-**9 Jul 2026: Mind Your Manners: Fixing a Tragedy**
+**9 Jul 1026: Mind Your Manners: Fixing a Tragedy**
 
 A company returned to the ruined tower of the arch-mage Phineas in the Mourning Wood to save what it could of his research. They found the lawn scorched, the door vandalized and the tower ransacked by agents of the Golden Chain and the Obsidian Chain, who had come to secure it. After a hard fight the company won, restored the tower to its former state and took it into the Guild's keeping.
 

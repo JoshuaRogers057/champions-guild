@@ -61,10 +61,10 @@ The Arcanum is Kastalshire's battle-magic school. Admission requires either a no
 
 **Quest appearances:**
 
-- 4 Jul 2025: [Progress Rolls On](https://championsguildrpg.com/questLogs/111)
-- 11 Jul 2025: [Progress Rolls On. Part 2 Splinters on the Line](https://championsguildrpg.com/questLogs/117)
-- 18 Jul 2025: [Progress rolls on part 3](https://championsguildrpg.com/questLogs/125)
-- 20 Feb 2026: [Troubled Waters](https://championsguildrpg.com/questLogs/359)
-- 4 Apr 2026: [Favors Earned](https://championsguildrpg.com/questLogs/414)
+- 4 Jul 1025: [Progress Rolls On](https://championsguildrpg.com/questLogs/111)
+- 11 Jul 1025: [Progress Rolls On. Part 2 Splinters on the Line](https://championsguildrpg.com/questLogs/117)
+- 18 Jul 1025: [Progress rolls on part 3](https://championsguildrpg.com/questLogs/125)
+- 20 Feb 1026: [Troubled Waters](https://championsguildrpg.com/questLogs/359)
+- 4 Apr 1026: [Favors Earned](https://championsguildrpg.com/questLogs/414)
 
 <!-- guild-archive-record:end -->

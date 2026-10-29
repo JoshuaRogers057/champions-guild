@@ -36,7 +36,7 @@ Mr. Cuttles asked the Guild to clear a maze that proved to be a Dusk Queen dunge
 
 **Quest appearances:**
 
-- 21 Mar 2026: [A Maze of Wonder](https://championsguildrpg.com/questLogs/391)
-- 5 Jul 2026: [A Show of Power](https://championsguildrpg.com/questLogs/553)
+- 21 Mar 1026: [A Maze of Wonder](https://championsguildrpg.com/questLogs/391)
+- 5 Jul 1026: [A Show of Power](https://championsguildrpg.com/questLogs/553)
 
 <!-- guild-archive-record:end -->

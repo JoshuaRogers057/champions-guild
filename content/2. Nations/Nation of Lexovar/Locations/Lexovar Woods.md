@@ -32,8 +32,8 @@ The Lexovar Woods were the site of a new demiplane of [[The Dusk Queen]], which 
 
 **Quest appearances:**
 
-- 5 Jul 2026: [A Show of Power](https://championsguildrpg.com/questLogs/553)
-- 12 Sep 2026: [Ill Intentions](https://championsguildrpg.com/questLogs/647)
-- 26 Sep 2026: [Reach for the Skies](https://championsguildrpg.com/questLogs/659)
+- 5 Jul 1026: [A Show of Power](https://championsguildrpg.com/questLogs/553)
+- 12 Sep 1026: [Ill Intentions](https://championsguildrpg.com/questLogs/647)
+- 26 Sep 1026: [Reach for the Skies](https://championsguildrpg.com/questLogs/659)
 
 <!-- guild-archive-record:end -->

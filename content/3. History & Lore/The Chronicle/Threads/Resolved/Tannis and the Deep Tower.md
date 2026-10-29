@@ -9,7 +9,7 @@ chronicle-thread-id: 30
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Resolved** · Personal · Mysteries & Arcana · last moved 19 Apr 2026
+> [!info] **Resolved** · Personal · Mysteries & Arcana · last moved 19 Apr 1026
 
 ## Where it stands
 
@@ -22,10 +22,10 @@ Tannis, the member everyone thought lost in Talvereth, was found alive and then 
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### April 2026
+### April 1026
 
 <!-- quest:435 -->
-**18 Apr 2026: The wayfarer**
+**18 Apr 1026: The wayfarer**
 
 Tannis stayed in Talvereth after the blast to pull survivors from the rubble and was captured by agents of the Duskwatch. In a prison cart bound for an unknown place he met four fellow prisoners, Geeth, Faela, Senith and Hessia, and protected them as best he could, though all four died on the road, Geeth and Faela in forced fights and the others of sickness and wounds. The caravan was run by the orc Gurvan, who took pleasure in setting prisoners against each other. It reached the Deep Tower, a labyrinth like the Last Howl but more tightly controlled, sealed behind an arcane portal, and Tannis joined a party of Guild members to enter it and shut the portal down.
 
@@ -35,7 +35,7 @@ Tannis stayed in Talvereth after the blast to pull survivors from the rubble and
 <!-- /quest:435 -->
 
 <!-- quest:439 -->
-**19 Apr 2026: The Last Dance**
+**19 Apr 1026: The Last Dance**
 
 Luca, Airie, Eldarin and Bison went to a labyrinth on the border of the Drakmir Dominion and the Redmarch Coalition, where they found Tannis and agreed to clear its halls and calm the wild magic there. They overcame its trials and defeated the orc warlord Gurvan. Tannis then stepped into the portal of his own free will and left this world. Before going, he granted the Guild a parcel of land in northeast Kastalshire.
 

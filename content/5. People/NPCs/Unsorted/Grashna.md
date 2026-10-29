@@ -38,9 +38,9 @@ He seemed displeased at the Guild's success in the Opening Games. He later put o
 
 **Quest appearances:**
 
-- 3 Oct 2025: [Retribution](https://championsguildrpg.com/questLogs/215)
-- 6 Oct 2025: [Retribution conclusion](https://championsguildrpg.com/questLogs/218)
-- 22 Apr 2026: [Bloody Entertaining 1: Suitable Offerings](https://championsguildrpg.com/questLogs/444)
-- 29 Apr 2026: [Bloody Entertaining 2: One-Eye's Judgement](https://championsguildrpg.com/questLogs/450)
+- 3 Oct 1025: [Retribution](https://championsguildrpg.com/questLogs/215)
+- 6 Oct 1025: [Retribution conclusion](https://championsguildrpg.com/questLogs/218)
+- 22 Apr 1026: [Bloody Entertaining 1: Suitable Offerings](https://championsguildrpg.com/questLogs/444)
+- 29 Apr 1026: [Bloody Entertaining 2: One-Eye's Judgement](https://championsguildrpg.com/questLogs/450)
 
 <!-- guild-archive-record:end -->

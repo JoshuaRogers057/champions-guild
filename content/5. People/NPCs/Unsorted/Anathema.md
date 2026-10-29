@@ -38,9 +38,9 @@ Softstep sold her to a Dominion officer, and the party rescued her and made her 
 
 **Quest appearances:**
 
-- 21 Nov 2025: [Containment Perimeter](https://championsguildrpg.com/questLogs/260)
-- 29 Nov 2025: [Establishing The Outpost](https://championsguildrpg.com/questLogs/269)
-- 30 Nov 2025: [Drakmir Sage part 2](https://championsguildrpg.com/questLogs/271)
-- 30 Nov 2025: [Drakmir Saga part 3](https://championsguildrpg.com/questLogs/272)
+- 21 Nov 1025: [Containment Perimeter](https://championsguildrpg.com/questLogs/260)
+- 29 Nov 1025: [Establishing The Outpost](https://championsguildrpg.com/questLogs/269)
+- 30 Nov 1025: [Drakmir Sage part 2](https://championsguildrpg.com/questLogs/271)
+- 30 Nov 1025: [Drakmir Saga part 3](https://championsguildrpg.com/questLogs/272)
 
 <!-- guild-archive-record:end -->

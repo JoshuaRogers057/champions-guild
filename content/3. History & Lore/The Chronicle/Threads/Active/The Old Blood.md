@@ -9,7 +9,7 @@ chronicle-thread-id: 45
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Ongoing** · World · Mysteries & Arcana · last moved 22 Aug 2026
+> [!info] **Ongoing** · World · Mysteries & Arcana · last moved 22 Aug 1026
 
 ## Where it stands
 

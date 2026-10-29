@@ -36,9 +36,9 @@ Sabina Grint hired the Guild to investigate Ashbarrows' failing small businesses
 
 **Quest appearances:**
 
-- 4 Feb 2026: [Interest Accrued](https://championsguildrpg.com/questLogs/344)
-- 6 Feb 2026: [The Price Isn't Right](https://championsguildrpg.com/questLogs/346)
-- 6 Feb 2026: [Break Bread](https://championsguildrpg.com/questLogs/347)
-- 8 May 2026: [Supply and Demand.](https://championsguildrpg.com/questLogs/462)
+- 4 Feb 1026: [Interest Accrued](https://championsguildrpg.com/questLogs/344)
+- 6 Feb 1026: [The Price Isn't Right](https://championsguildrpg.com/questLogs/346)
+- 6 Feb 1026: [Break Bread](https://championsguildrpg.com/questLogs/347)
+- 8 May 1026: [Supply and Demand.](https://championsguildrpg.com/questLogs/462)
 
 <!-- guild-archive-record:end -->

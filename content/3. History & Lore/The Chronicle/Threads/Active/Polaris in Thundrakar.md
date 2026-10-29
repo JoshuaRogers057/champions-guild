@@ -9,7 +9,7 @@ chronicle-thread-id: 6
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Active** · Nation · Intrigue & Crime · last moved 4 Oct 2026
+> [!info] **Active** · Nation · Intrigue & Crime · last moved 4 Oct 1026
 
 ## Where it stands
 
@@ -28,10 +28,10 @@ Polaris is an arcane order the Guild has met in dungeons, on the tundra, at sea 
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### November 2025
+### November 1025
 
 <!-- quest:270 -->
-**29 Nov 2025: Below Zero (Personalized Quest)**
+**29 Nov 1025: Below Zero (Personalized Quest)**
 
 A letter drew four members of the Guild to the middle of Thundrakar, where they met Glassik Rune-Walker, a goliath with an interest in dungeons and the arcane. They followed a map to the ruins of an old giant temple in which a member of Polaris, a new and secretive arcane group, was researching how to combine fragments with undead. They overcame traps and sealed demons and caught the scientist, then were questioned by a goliath patrol before returning to the guildhall with their new ally.
 
@@ -40,10 +40,10 @@ A letter drew four members of the Guild to the middle of Thundrakar, where they 
 [Read the full quest record →](https://championsguildrpg.com/questLogs/270)
 <!-- /quest:270 -->
 
-### December 2025
+### December 1025
 
 <!-- quest:278 -->
-**7 Dec 2025: Wrong Side of the Fence**
+**7 Dec 1025: Wrong Side of the Fence**
 
 The Guild tracked an unknown beast from Thundrakar into the plains of the Redmarch Coalition and met a Polaris member posing as another bounty hunter. The beast turned its victims into ice-encrusted monsters. The company slew it, captured the double agent, and handed them over to the yetis sent to track the Guild.
 
@@ -53,7 +53,7 @@ The Guild tracked an unknown beast from Thundrakar into the plains of the Redmar
 <!-- /quest:278 -->
 
 <!-- quest:292 -->
-**23 Dec 2025: The Naughty List**
+**23 Dec 1025: The Naughty List**
 
 Nox asked the Guild to look into homeless people vanishing in Ciliren. The Smiles group had returned, luring people into a cave outside the city with drugged food and drink. Past Putrice, a follower of the Frost Maiden, the company killed the Polaris member who was using the captives as sacrifices to summon an unknown beast. Some captives were lost, but the ritual was not completed.
 
@@ -62,10 +62,10 @@ Nox asked the Guild to look into homeless people vanishing in Ciliren. The Smile
 [Read the full quest record →](https://championsguildrpg.com/questLogs/292)
 <!-- /quest:292 -->
 
-### January 2026
+### January 1026
 
 <!-- quest:310 -->
-**11 Jan 2026: A New Beginning**
+**11 Jan 1026: A New Beginning**
 
 Three members of the Guild helped defend a Clan Boarfrost settlement against beasts strengthened by fiendish energy, and no one died. Next morning they followed the trail to a lake dyed red, where Polaris was using slain bodies to charge an Arcane Battery. They killed the member in charge and took the battery before it was full, and gave it to Nox for study.
 
@@ -74,10 +74,10 @@ Three members of the Guild helped defend a Clan Boarfrost settlement against bea
 [Read the full quest record →](https://championsguildrpg.com/questLogs/310)
 <!-- /quest:310 -->
 
-### March 2026
+### March 1026
 
 <!-- quest:390 -->
-**21 Mar 2026: The Chill of Death**
+**21 Mar 1026: The Chill of Death**
 
 The Guild returned to Thundrakar to find a hunter leaving corpses across the tundra, and learned that Mr. Chill had escaped prison and was paying others to gather druids and animal parts for an experiment. They fought an ice troll, met the Icescales clan, and helped Trexel, the true name of the other escapee Centerpoint, kill an adult white dragon. Lagertha, an ancient being of ice, had watched them and disliked the killing, but accepted their reasons. The company destroyed Mr. Chill's abomination, but he escaped, saying he would now work with Polaris.
 
@@ -88,10 +88,10 @@ The Guild returned to Thundrakar to find a hunter leaving corpses across the tun
 [Read the full quest record →](https://championsguildrpg.com/questLogs/390)
 <!-- /quest:390 -->
 
-### April 2026
+### April 1026
 
 <!-- quest:431 -->
-**15 Apr 2026: A Heavy Burden**
+**15 Apr 1026: A Heavy Burden**
 
 The celestial defender of Thundrakar asked the Guild to look into a new gate to the Abyss. Beyond it they found a Polaris member seeking to claim a soul for purposes unknown. The company fought powerful undead, passed structures left by heroes who had fought Orcus himself, and brought back the soul of Mazgar.
 
@@ -100,10 +100,10 @@ The celestial defender of Thundrakar asked the Guild to look into a new gate to 
 [Read the full quest record →](https://championsguildrpg.com/questLogs/431)
 <!-- /quest:431 -->
 
-### June 2026
+### June 1026
 
 <!-- quest:529 -->
-**20 Jun 2026: Marr Runeblade Personalized Quest: A Chilling Past**
+**20 Jun 1026: Marr Runeblade Personalized Quest: A Chilling Past**
 
 Clan Gailsong asked the Guild to look into violent animals during a powerful storm. An elemental wolf was causing the storm and hunting under it, and the Guild killed it at an abandoned ship after fighting elementals and undead. They also took captive a Polaris member who was hunting the same beast, and gave him to the clan, where he faced execution. The Guild left a good impression, befriending Cedrik and the clan leader's father, Neothag Gailsong, though not the leader's wife, Zania.
 
@@ -113,7 +113,7 @@ Clan Gailsong asked the Guild to look into violent animals during a powerful sto
 <!-- /quest:529 -->
 
 <!-- quest:535 -->
-**24 Jun 2026: Twisted Shadows**
+**24 Jun 1026: Twisted Shadows**
 
 Polaris itself, the Guild's known enemy, asked it to look into a member's recent actions in Thundrakar. That member was empowering creatures of the Dusk Queen to steal people's shadows and souls and thereby strengthen a link to her domain. The company stopped the plan and released many of the stored souls, though some were taken by the Polaris member Bulari. They also helped Frost Icescales save wandering goliaths, and befriended a shadow that kept some intelligence and named it Greg.
 
@@ -122,10 +122,10 @@ Polaris itself, the Guild's known enemy, asked it to look into a member's recent
 [Read the full quest record →](https://championsguildrpg.com/questLogs/535)
 <!-- /quest:535 -->
 
-### July 2026
+### July 1026
 
 <!-- quest:555 -->
-**8 Jul 2026: Frozen Sails**
+**8 Jul 1026: Frozen Sails**
 
 Clan Gailsong asked the Guild to look into attacks on its ships. Sea elves devoted to Umberlee were raiding goliath ships to cleanse the sea of invaders, and Polaris was arming them with ships and weapons. The leaders escaped before the Guild reached the final site, promising more attacks.
 
@@ -134,10 +134,10 @@ Clan Gailsong asked the Guild to look into attacks on its ships. Sea elves devot
 [Read the full quest record →](https://championsguildrpg.com/questLogs/555)
 <!-- /quest:555 -->
 
-### August 2026
+### August 1026
 
 <!-- quest:635 -->
-**30 Aug 2026: A Giant Task**
+**30 Aug 1026: A Giant Task**
 
 House Grassbrook gave the Guild a map to the 'X' marked in Thundrakar. Inside the mines the company lived through the past of Iravek Stormvein, an ancestor of the current head of the great clans, fought Frost Giants, recovered the famed weapon Voidbreaker and learned of a store of ancient ore. They met a Polaris member, the mad scientist Perseus, and knew their discoveries were not secret to all.
 
@@ -148,10 +148,10 @@ House Grassbrook gave the Guild a map to the 'X' marked in Thundrakar. Inside th
 [Read the full quest record →](https://championsguildrpg.com/questLogs/635)
 <!-- /quest:635 -->
 
-### September 2026
+### September 1026
 
 <!-- quest:639 -->
-**5 Sep 2026: Trade Embargo (Prime Personalized Quest)**
+**5 Sep 1026: Trade Embargo (Prime Personalized Quest)**
 
 Clan Icescales hired the Guild to stop a dangerous device meant to help against the dragons of Thundrakar from being delivered. The company disguised itself as Polaris, interrupted the handover, and took the device. It also defeated a Dragon Turtle charmed by elven and sahuagin bandits.
 
@@ -161,7 +161,7 @@ Clan Icescales hired the Guild to stop a dangerous device meant to help against 
 <!-- /quest:639 -->
 
 <!-- quest:643 -->
-**6 Sep 2026: Through Ice and Snow**
+**6 Sep 1026: Through Ice and Snow**
 
 Four members of the Guild were sent to retrieve a missing training group across the Thundrakar tundra, fighting orcs and kobolds on the way. They found that the group's commander had sold the others out to win safe passage into the Redmarch Coalition. After the hunters were beaten, the ancient white dragon Slivice punished the traitor.
 
@@ -171,7 +171,7 @@ Four members of the Guild were sent to retrieve a missing training group across 
 <!-- /quest:643 -->
 
 <!-- quest:662 -->
-**27 Sep 2026: A Giant Problem (Pt 1)**
+**27 Sep 1026: A Giant Problem (Pt 1)**
 
 Clan Boarfrost asked the Guild to help its parent clan, Clan Frostbane, against Frost Giants heading east. After meeting the head clan and surviving attacks by ice-wielding mages, the Guild learned that something in the eastern mountains was strengthening magic across the field. Three members went after it while the main force delayed the Giants, and mages wearing the Polaris symbol meant the race would be close.
 
@@ -180,10 +180,10 @@ Clan Boarfrost asked the Guild to help its parent clan, Clan Frostbane, against 
 [Read the full quest record →](https://championsguildrpg.com/questLogs/662)
 <!-- /quest:662 -->
 
-### October 2026
+### October 1026
 
 <!-- quest:668 -->
-**4 Oct 2026: A Giant Problem (Pt 2)**
+**4 Oct 1026: A Giant Problem (Pt 2)**
 
 Following the cultists, the Guild learned that both they and the Frost Giants sought the animated remains of Stagor, a devil from Stygia. The company caught up with the remaining Polaris forces in time to stop them, but whoever had been aiding the Frost Giants fled when the White Greatwyrm Slivice came to the goliaths' side. The Guild came away well regarded among the upper goliath clans.
 

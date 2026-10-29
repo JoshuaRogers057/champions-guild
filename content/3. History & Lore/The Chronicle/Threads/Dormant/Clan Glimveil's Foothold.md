@@ -9,7 +9,7 @@ chronicle-thread-id: 7
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Dormant** · Nation · Crises & Wars · last moved 31 Mar 2026
+> [!info] **Dormant** · Nation · Crises & Wars · last moved 31 Mar 1026
 
 ## Where it stands
 
@@ -26,10 +26,10 @@ Rurik Grimveil's Clan Glimveil, a small goliath clan of the far northern tundra 
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### March 2026
+### March 1026
 
 <!-- quest:368 -->
-**3 Mar 2026: Hunting the Hunters**
+**3 Mar 1026: Hunting the Hunters**
 
 Five members of the Guild hunted the bandits attacking dragon nests in Thundrakar. Forced to steal a wyvern egg to bargain for a hostage, they overcame ambushes, an ice troll and the bandits, uncovered a spy in Clan Boarfrost, and returned the egg to its parents. They also met the celestial Nameless, who sought a host, and persuaded it to join Vitrice, a goliath woman they had rescued from the bandits.
 
@@ -39,7 +39,7 @@ Five members of the Guild hunted the bandits attacking dragon nests in Thundraka
 <!-- /quest:368 -->
 
 <!-- quest:370 -->
-**4 Mar 2026: Skål**
+**4 Mar 1026: Skål**
 
 Rurik Grimveil of Clan Glimveil hired five members of the Guild to help raid pirates. His clan was very small and dwindling, living in the far northern tundra and short of food, supplies and land. In the pirate city of Dreadwake they dealt with seven captains and followed their information to a great treasure, which was shared with the goliaths. Rurik invited the Guild to help him take a castle in future, and relations were left warm.
 
@@ -49,7 +49,7 @@ Rurik Grimveil of Clan Glimveil hired five members of the Guild to help raid pir
 <!-- /quest:370 -->
 
 <!-- quest:400 -->
-**24 Mar 2026: Bankers Hours**
+**24 Mar 1026: Bankers Hours**
 
 Five members of the Guild defended Barrowbank from a three-way siege by the Velvet Ledger, goliath raiders and the Duskwatch. They bribed the goliath leader, Rurik, who agreed to guard the town and drive off the other attackers in exchange for information and payment. The town accepted, and its vault was sealed. The goliaths mentioned that they might soon need Champions to help take Ironscale Castle.
 
@@ -61,7 +61,7 @@ Five members of the Guild defended Barrowbank from a three-way siege by the Velv
 <!-- /quest:400 -->
 
 <!-- quest:408 -->
-**31 Mar 2026: Traders**
+**31 Mar 1026: Traders**
 
 Five members of the Guild entered Castle Kelgor as traders bringing food in a time of famine, and mapped its guards, its people and its politics. They found its ruler, Lord Elric Halister, widely distrusted, and met Sire Buttie Lichter, who could be bribed, and Cedric, an honourable but disillusioned guard captain. A private meeting with the Baron turned violent and Vash killed him, and the company left unseen with the castle's plans and a hidden tunnel route, all delivered to Captain Rurik. Castle Kelgor is now led by Rurik.
 

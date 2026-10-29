@@ -38,9 +38,9 @@ She was the target of a kidnapping attempt at a fair in the Slums District, and 
 
 **Quest appearances:**
 
-- 8 Apr 2026: [Unicorn Sighting](https://championsguildrpg.com/questLogs/419)
-- 29 Aug 2026: [Far From Home](https://championsguildrpg.com/questLogs/631)
-- 12 Sep 2026: [Ill Intentions](https://championsguildrpg.com/questLogs/647)
-- 19 Sep 2026: [Dangerous Goods](https://championsguildrpg.com/questLogs/654)
+- 8 Apr 1026: [Unicorn Sighting](https://championsguildrpg.com/questLogs/419)
+- 29 Aug 1026: [Far From Home](https://championsguildrpg.com/questLogs/631)
+- 12 Sep 1026: [Ill Intentions](https://championsguildrpg.com/questLogs/647)
+- 19 Sep 1026: [Dangerous Goods](https://championsguildrpg.com/questLogs/654)
 
 <!-- guild-archive-record:end -->

@@ -17,7 +17,7 @@ tags:
 ### [[The Dome Crisis]]
 *Active · World · Mysteries & Arcana*
 
-The Dome Crisis began at a masquerade in August 2025. When members of the Guild killed the vampire lord Tavard there, the vampires he held in thrall went free, and one of them, the necromancer Dr. Vathros, went his own way. He went to the Dome over Zindariel, which had stood long before him and whose making nobody understands, and made it his headquarters, since necromancy is stronger inside it than anywhere else in Eryndor. There he studied it until he learned how to make more, and many of the monsters that have since spread across the continent came out of his laboratories. In the summer of 2026, known by then as the Vivisectionist, he went to war and raised new domes, each about a mile across, over the vault beneath the Veilkeepers' manor at Oathend, the wreck of Castle Bran and Greyspire Fortress. When the Guild reached him in his castle in August he was a lich as well as a vampire, the first time anyone had seen him in that form. They destroyed him, but the only one known to understand how to unmake the domes took that knowledge with him. Lord Mask, Lady Mask and Lord Varos remain at large. In October, members of the Guild who tested a defensive bunker for Professor Honeywell found it built on specimens taken from the domes, and destroyed it. The map of Eryndor has been permanently changed.
+The Dome Crisis began at a masquerade in August 1025. When members of the Guild killed the vampire lord Tavard there, the vampires he held in thrall went free, and one of them, the necromancer Dr. Vathros, went his own way. He went to the Dome over Zindariel, which had stood long before him and whose making nobody understands, and made it his headquarters, since necromancy is stronger inside it than anywhere else in Eryndor. There he studied it until he learned how to make more, and many of the monsters that have since spread across the continent came out of his laboratories. In the summer of 1026, known by then as the Vivisectionist, he went to war and raised new domes, each about a mile across, over the vault beneath the Veilkeepers' manor at Oathend, the wreck of Castle Bran and Greyspire Fortress. When the Guild reached him in his castle in August he was a lich as well as a vampire, the first time anyone had seen him in that form. They destroyed him, but the only one known to understand how to unmake the domes took that knowledge with him. Lord Mask, Lady Mask and Lord Varos remain at large. In October, members of the Guild who tested a defensive bunker for Professor Honeywell found it built on specimens taken from the domes, and destroyed it. The map of Eryndor has been permanently changed.
 
 ### [[Northern Kastalshire]]
 *Ongoing · Nation · Mysteries & Arcana*
@@ -61,7 +61,7 @@ Airships are rapidly changing military and economic power across Eryndor. The Dr
 ### [[Kar Dromm in Crisis]]
 *Ongoing · Nation · Crises & Wars*
 
-Assassinations, vacant clan seats, unresolved succession struggles and disputes over the dwarves' right to ancient masterworks have created growing instability throughout Kar Dromm. No single crisis has broken the nation, but several are beginning to overlap. Guild envoys to Thumdar found the road ambushed and Stonegate Hold missing its trade ledger and pass-seal, stolen by Rok Rot smugglers who had help from inside. Earlier, in the autumn of 2025, dwarven mercenaries of the Rok Rot company told the Guild that a pale prophet was rallying clan after clan and stirring trouble. No one is known to have found the prophet.
+Assassinations, vacant clan seats, unresolved succession struggles and disputes over the dwarves' right to ancient masterworks have created growing instability throughout Kar Dromm. No single crisis has broken the nation, but several are beginning to overlap. Guild envoys to Thumdar found the road ambushed and Stonegate Hold missing its trade ledger and pass-seal, stolen by Rok Rot smugglers who had help from inside. Earlier, in the autumn of 1025, dwarven mercenaries of the Rok Rot company told the Guild that a pale prophet was rallying clan after clan and stirring trouble. No one is known to have found the prophet.
 
 ### [[Polaris in Thundrakar]]
 *Active · Nation · Intrigue & Crime*
@@ -76,7 +76,7 @@ Sylvandar is approaching the selection of its next First Arbiter, whose term is 
 ### [[The Future of Sanama]]
 *Ongoing · Nation · Intrigue & Crime*
 
-A growing divide is forming in Sanama between those who want permanent settlements, markets, schools and infrastructure and those who believe that settling for good would destroy what makes Sanama what it is. The nomads have kept their leadership through the Guild's own reckoning: late in 2025 a Guild company rescued the Sanama Elders from a vampire raiding force and brought them home. A Guild party has also hunted ankhegs beside the nomads, and the Guild has made friends among the Pride. There is no sign that the divide has been settled.
+A growing divide is forming in Sanama between those who want permanent settlements, markets, schools and infrastructure and those who believe that settling for good would destroy what makes Sanama what it is. The nomads have kept their leadership through the Guild's own reckoning: late in 1025 a Guild company rescued the Sanama Elders from a vampire raiding force and brought them home. A Guild party has also hunted ankhegs beside the nomads, and the Guild has made friends among the Pride. There is no sign that the divide has been settled.
 
 ### [[The War of the Fanged Swamp]]
 *Ongoing · Nation · Crises & Wars*
@@ -179,18 +179,18 @@ Allan Willmer, a librarian of Lakebarrow, used magic books to trap the Guild's m
 
 ## Concluded Stories
 
-- [[Digdug's Lost Ember]] (October 2026)
-- [[Fortunes Crossing]] (December 2025)
-- [[Tannis and the Deep Tower]] (April 2026)
-- [[The Fall of Aethrael]] (August 2026)
-- [[The Founding of the Guild]] (July 2025)
-- [[The Kryzath Outpost]] (December 2025)
-- [[The Prairie Park Clocktower]] (December 2025)
-- [[The Railroad East]] (October 2025)
-- [[The Rootlet and Cogveil College]] (July 2026)
-- [[The Silence of Naerwyn]] (January 2026)
-- [[The Vampire War and the Fall of Castle Bran]] (December 2025)
+- [[Digdug's Lost Ember]] (October 1026)
+- [[Fortunes Crossing]] (December 1025)
+- [[Tannis and the Deep Tower]] (April 1026)
+- [[The Fall of Aethrael]] (August 1026)
+- [[The Founding of the Guild]] (July 1025)
+- [[The Kryzath Outpost]] (December 1025)
+- [[The Prairie Park Clocktower]] (December 1025)
+- [[The Railroad East]] (October 1025)
+- [[The Rootlet and Cogveil College]] (July 1026)
+- [[The Silence of Naerwyn]] (January 1026)
+- [[The Vampire War and the Fall of Castle Bran]] (December 1025)
 
 ## Past digests
 
-- [[This Week in Eryndor 2026-10-27]]
+- [[This Week in Eryndor 1026-10-27]]

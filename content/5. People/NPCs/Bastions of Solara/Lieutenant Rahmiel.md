@@ -38,10 +38,10 @@ He sent the Guild escort wagon and priests to the Starforges and afterwards bega
 
 **Quest appearances:**
 
-- 24 May 2026: [A Mole Among Us](https://championsguildrpg.com/questLogs/498)
-- 13 Aug 2026: [A Judgment Most High](https://championsguildrpg.com/questLogs/611)
-- 22 Aug 2026: [The Road Between Lights](https://championsguildrpg.com/questLogs/625)
-- 27 Aug 2026: [A Voice Beneath the Choir](https://championsguildrpg.com/questLogs/628)
-- 13 Sep 2026: [Ashes of the First Oath](https://championsguildrpg.com/questLogs/649)
+- 24 May 1026: [A Mole Among Us](https://championsguildrpg.com/questLogs/498)
+- 13 Aug 1026: [A Judgment Most High](https://championsguildrpg.com/questLogs/611)
+- 22 Aug 1026: [The Road Between Lights](https://championsguildrpg.com/questLogs/625)
+- 27 Aug 1026: [A Voice Beneath the Choir](https://championsguildrpg.com/questLogs/628)
+- 13 Sep 1026: [Ashes of the First Oath](https://championsguildrpg.com/questLogs/649)
 
 <!-- guild-archive-record:end -->

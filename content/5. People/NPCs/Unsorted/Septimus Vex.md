@@ -38,9 +38,9 @@ The Guild may have released his large flying castle. He met the Guild on the com
 
 **Quest appearances:**
 
-- 26 Oct 2025: [Gyro scooped.](https://championsguildrpg.com/questLogs/236)
-- 11 Nov 2025: [Something Old, Something New](https://championsguildrpg.com/questLogs/250)
-- 16 Nov 2025: [EPIC-03 (Apprentice)](https://championsguildrpg.com/questLogs/256)
-- 12 Dec 2025: [Crash Site Inspectors (CSI)](https://championsguildrpg.com/questLogs/281)
+- 26 Oct 1025: [Gyro scooped.](https://championsguildrpg.com/questLogs/236)
+- 11 Nov 1025: [Something Old, Something New](https://championsguildrpg.com/questLogs/250)
+- 16 Nov 1025: [EPIC-03 (Apprentice)](https://championsguildrpg.com/questLogs/256)
+- 12 Dec 1025: [Crash Site Inspectors (CSI)](https://championsguildrpg.com/questLogs/281)
 
 <!-- guild-archive-record:end -->

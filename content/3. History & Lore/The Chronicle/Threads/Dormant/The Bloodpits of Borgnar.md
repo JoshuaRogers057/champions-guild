@@ -9,11 +9,11 @@ chronicle-thread-id: 23
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Dormant** · Faction · Intrigue & Crime · last moved 9 Jun 2026
+> [!info] **Dormant** · Faction · Intrigue & Crime · last moved 9 Jun 1026
 
 ## Where it stands
 
-A Guild company died in the Redmarch blood pits in 2025, and its story ends with a vow: blood will be met with blood. A later company brought Mira Veynar out alive, and Grashna the Blood-Priest, who first declared a blood feud on the Guild, ended his hostility in the arena when he put out his own eye beside Torgar. Grakka One-Eye and Dura now treat the Guild with some regard. Murcon and Nephele were last known to be hunted by the Duskwatch and the Redmarch warlords, and a black coin binds two members to Mog'zeth's price. Mog'zeth has now offered to share what she knows of Borgnar's factions if the Guild helps her find whoever is fixing the matches.
+A Guild company died in the Redmarch blood pits in 1025, and its story ends with a vow: blood will be met with blood. A later company brought Mira Veynar out alive, and Grashna the Blood-Priest, who first declared a blood feud on the Guild, ended his hostility in the arena when he put out his own eye beside Torgar. Grakka One-Eye and Dura now treat the Guild with some regard. Murcon and Nephele were last known to be hunted by the Duskwatch and the Redmarch warlords, and a black coin binds two members to Mog'zeth's price. Mog'zeth has now offered to share what she knows of Borgnar's factions if the Guild helps her find whoever is fixing the matches.
 
 **Latest development:** Mog'zeth agreed to go on sharing what she knows of Borgnar's factions if the Guild helps her find whoever is fixing the arena matches.
 
@@ -28,10 +28,10 @@ A Guild company died in the Redmarch blood pits in 2025, and its story ends with
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### August 2025
+### August 1025
 
 <!-- quest:150 -->
-**15 Aug 2025: Fog and war 1**
+**15 Aug 1025: Fog and war 1**
 
 The party dealt with the hag Melthora, and several of them left with bargains to keep. Ren Stray, who took nothing from her, was told that Mira had been kidnapped.
 
@@ -41,7 +41,7 @@ The party dealt with the hag Melthora, and several of them left with bargains to
 <!-- /quest:150 -->
 
 <!-- quest:153 -->
-**17 Aug 2025: Blood Claw**
+**17 Aug 1025: Blood Claw**
 
 Hashmal, Thalai Starwhisper Thundercall, Jovial Star, Benny Thatcher and Lyssa travelled to the Redmarch Coalition to enter a fighting tournament, the prize a red fragment. All five died in the final match in the blood pits, and the fragment was not won. Their story ends with a vow: blood will be met with blood.
 
@@ -50,10 +50,10 @@ Hashmal, Thalai Starwhisper Thundercall, Jovial Star, Benny Thatcher and Lyssa t
 [Read the full quest record →](https://championsguildrpg.com/questLogs/153)
 <!-- /quest:153 -->
 
-### October 2025
+### October 1025
 
 <!-- quest:215 -->
-**3 Oct 2025: Retribution**
+**3 Oct 1025: Retribution**
 
 The Champions Odyssey, the first airship in Eryndor, carried Ren Stray, Vaelynn Whisperwind, Murcon Thunderhelm and Nephele to the Redmarch Coalition with four aims: to rescue Mira, who had fought in the Bloodpits for nearly two months; to deal with Bryson, who had a hand in the deaths of guildmates and had captured her; to keep an item sold at the Duskwatch auction in Guild hands; and to find Aveline, whose ship had been seen nearby. Ren and Vaelynn stayed in the pits and found Mira in desperate condition; Blood Priest Grashna and Kragga Ironskull, who run the arena, agreed to let Ren fight at her side. They also found Aveline, now a smuggler for the Brotherhood of the Rat, and defeated her but let her live. Murcon and Nephele meanwhile found a secret way into the Duskwatch auction in Borgnar and fought a vampire named Melben, who escaped.
 
@@ -63,7 +63,7 @@ The Champions Odyssey, the first airship in Eryndor, carried Ren Stray, Vaelynn 
 <!-- /quest:215 -->
 
 <!-- quest:218 -->
-**6 Oct 2025: Retribution conclusion**
+**6 Oct 1025: Retribution conclusion**
 
 The rescue ended in open defiance. Ren Stray and Vaelynn Whisperwind fought publicly in the Bloodpits of Redmarch and freed Mira Veynar, a captured fighter and Ren's childhood friend, winning the admiration of the crowd and the fury of the Redmarch warlords. In Borgnar, Murcon and Nephele broke into vaults held by the Duskwatch and took back the stolen Woaden Seed, a relic that could ignite war between Sylvandar and any nation holding it. The theft exposed them to the Duskwatch and to the vampires tied to the auction; Grashna the Blood-Priest declared a blood feud, the Duskwatch demanded retribution, and posters across the Redmarch Coalition now offer a bounty on Nephele and Murcon, dead or alive.
 
@@ -72,10 +72,10 @@ The rescue ended in open defiance. Ren Stray and Vaelynn Whisperwind fought publ
 [Read the full quest record →](https://championsguildrpg.com/questLogs/218)
 <!-- /quest:218 -->
 
-### January 2026
+### January 1026
 
 <!-- quest:326 -->
-**22 Jan 2026: Bridge of Broken Oaths**
+**22 Jan 1026: Bridge of Broken Oaths**
 
 Kelsen Mossgarden, Sero, Day-Z, Luminary Blessedlight and Qhiri Faust Bronte were led into Borgnar by two guides, the sharp-tongued orc warrior Dura and the near-silent young goblin warlock Slaak, to Bloodpit, a settlement where strength is law. There Warlord Grakka One-Eye blamed the village of Dregspire for the infestation of a bridge, while Dregspire, speaking through the goblin warlock Mog'zeth, told another tale. To prove themselves the party faced a basilisk; Kelsen and Qhiri were turned to stone, and Mog'zeth restored them but pressed a black coin on them, promising to return one day for a sacrifice that was not blood. The bridge was cleared, with no sabotage to lay at either village's door, and the quarrel between them remained unresolved.
 
@@ -84,10 +84,10 @@ Kelsen Mossgarden, Sero, Day-Z, Luminary Blessedlight and Qhiri Faust Bronte wer
 [Read the full quest record →](https://championsguildrpg.com/questLogs/326)
 <!-- /quest:326 -->
 
-### April 2026
+### April 1026
 
 <!-- quest:444 -->
-**22 Apr 2026: Bloody Entertaining 1: Suitable Offerings**
+**22 Apr 1026: Bloody Entertaining 1: Suitable Offerings**
 
 The Guild was invited to the Opening Games of the Pit of Blood, a gladiatorial arena in Borgnar, and Ignis Incitatrix, Valdrin, H.I.V.E and Burnwick Firebeard defeated two pairs of condemned prisoners, four lesser members of the Scarlet Tide Mercenary Company and a roper. Grakka One-Eye was favourably impressed, and Dura was moved to something like a smile. The company also saw a man they took to be Grashna the Blood Priest, who looked displeased at their success, a goblin warlock running the gambling ring, an unseen hand that left a bucket of Oil of Slipperiness for them, and a hobgoblin in Scarlet Tide gear sitting beside Guildmaster Grey.
 
@@ -97,7 +97,7 @@ The Guild was invited to the Opening Games of the Pit of Blood, a gladiatorial a
 <!-- /quest:444 -->
 
 <!-- quest:450 -->
-**29 Apr 2026: Bloody Entertaining 2: One-Eye's Judgement**
+**29 Apr 1026: Bloody Entertaining 2: One-Eye's Judgement**
 
 Dura led Burnwick Firebeard, Valdrin, Torgar Solemn Brother and Borba to the Guild's private barracks, which she appeared to have prepared herself, and Grashna came to warn them that impure sacrifices would not be tolerated. The company overcame Grashna's acolytes with ease, and then the Wanderer, a cambion who seized control of Valdrin until a kick from Torgar broke the hold; Valdrin sprouted wings and carried the Wanderer aloft and down onto the arena floor in a pile of ash. Before the roaring crowd Torgar drove a worg fang from Dura into his own left eye in honour of Gruumsh and of Krok of Gruumsh, his fallen brother in arms; Grashna wept, came down to the sand and put out his own left eye in kind, and his hostility to the Guild ended. Grakka delivered the purses, Axelnar hinted at a partnership to come, and Dura declined Valdrin's gift of coin and asked to be paid in training.
 
@@ -106,10 +106,10 @@ Dura led Burnwick Firebeard, Valdrin, Torgar Solemn Brother and Borba to the Gui
 [Read the full quest record →](https://championsguildrpg.com/questLogs/450)
 <!-- /quest:450 -->
 
-### June 2026
+### June 1026
 
 <!-- quest:511 -->
-**9 Jun 2026: Bloody Entertaining 3: At Odds**
+**9 Jun 1026: Bloody Entertaining 3: At Odds**
 
 Prime, Jaden, Borba and Auto returned to the arena and defeated Tivvan the Indebted with her horde of skeletons, and a wyvern. Mog'zeth asked them to tell her who was fixing the fights. Using magic to see the unseen giver of a gift, the party learned he was a nondescript red hobgoblin in commoner's clothes, and handed Mog'zeth the note left for them, which read 'Mind the tail', a warning about the wyvern. Mog'zeth agreed to go on sharing what she knows of Borgnar's factions if the Guild keeps helping her find the culprit.
 

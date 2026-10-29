@@ -32,8 +32,8 @@ The Pit of Blood is a gladiatorial arena in [[Borgnar]], and the Guild was invit
 
 **Quest appearances:**
 
-- 22 Apr 2026: [Bloody Entertaining 1: Suitable Offerings](https://championsguildrpg.com/questLogs/444)
-- 29 Apr 2026: [Bloody Entertaining 2: One-Eye's Judgement](https://championsguildrpg.com/questLogs/450)
-- 9 Jun 2026: [Bloody Entertaining 3: At Odds](https://championsguildrpg.com/questLogs/511)
+- 22 Apr 1026: [Bloody Entertaining 1: Suitable Offerings](https://championsguildrpg.com/questLogs/444)
+- 29 Apr 1026: [Bloody Entertaining 2: One-Eye's Judgement](https://championsguildrpg.com/questLogs/450)
+- 9 Jun 1026: [Bloody Entertaining 3: At Odds](https://championsguildrpg.com/questLogs/511)
 
 <!-- guild-archive-record:end -->

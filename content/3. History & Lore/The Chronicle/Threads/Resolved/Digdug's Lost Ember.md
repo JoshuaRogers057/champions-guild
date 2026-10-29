@@ -9,7 +9,7 @@ chronicle-thread-id: 14
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Resolved** · Personal · Intrigue & Crime · last moved 4 Oct 2026
+> [!info] **Resolved** · Personal · Intrigue & Crime · last moved 4 Oct 1026
 
 ## Where it stands
 
@@ -25,10 +25,10 @@ Digdug's search for his stolen son began with a carved toy and ended with his fa
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### July 2026
+### July 1026
 
 <!-- quest:550 -->
-**5 Jul 2026: Aaron’s Personalised Quest - Digdug’s Lost Ember (Rearranged...Again!!!)**
+**5 Jul 1026: Aaron’s Personalised Quest - Digdug’s Lost Ember (Rearranged...Again!!!)**
 
 Following a carved toy to a Velvet Ledger coinhouse, the company uncovered the truth about Digdug's lost family. Firebug had been taken alive years before, when the Cracked Scale and the Velvet Ledger mistook him for another valuable child; the Ledger had entered him in its records as Subject F-13 and renamed him Kindle. Smyles had also survived the attack on the farm, but was held under cursed Ledger chains and made to cooperate by the threat to Firebug's life. Forced to choose between her and Firebug's trail, the company chose Firebug, raided the coinhouse, killed Corvain Ashwell and took sensitive Ledger records pointing to Marnie as Firebug's present holder, while Smyles was moved elsewhere.
 
@@ -37,10 +37,10 @@ Following a carved toy to a Velvet Ledger coinhouse, the company uncovered the t
 [Read the full quest record →](https://championsguildrpg.com/questLogs/550)
 <!-- /quest:550 -->
 
-### August 2026
+### August 1026
 
 <!-- quest:580 -->
-**2 Aug 2026: Going On A Witch - PART 2**
+**2 Aug 1026: Going On A Witch - PART 2**
 
 Having escaped the cave, the company found a camp that was strangely still and laid out as if for sleep, yet eerie. They headed out into the mists. Little more is known of this stage of the hunt.
 
@@ -49,10 +49,10 @@ Having escaped the cave, the company found a camp that was strangely still and l
 [Read the full quest record →](https://championsguildrpg.com/questLogs/580)
 <!-- /quest:580 -->
 
-### October 2026
+### October 1026
 
 <!-- quest:669 -->
-**4 Oct 2026: A Doll’s Undoing (Digdug’s PQ)**
+**4 Oct 1026: A Doll’s Undoing (Digdug’s PQ)**
 
 Digdug called on the Guild to restore his wife, Smyles, who had remained trapped as a doll since a magical accident involving their son, Firebug. The company sought expert magical help and learned that her body would have to be rebuilt from rare and dangerous components: exceptional clay, ancient wood, the venom of a monstrous purple worm called the Old Coil, and draconic essence. With these gathered they returned to perform a dangerous ritual, defending it and keeping Firebug safe while his magic flared unstably. It succeeded, and Smyles was restored to her own body and reunited with Digdug and Firebug.
 

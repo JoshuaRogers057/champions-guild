@@ -9,7 +9,7 @@ chronicle-thread-id: 33
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Ongoing** · Nation · Crises & Wars · last moved 22 Aug 2026
+> [!info] **Ongoing** · Nation · Crises & Wars · last moved 22 Aug 1026
 
 ## Where it stands
 

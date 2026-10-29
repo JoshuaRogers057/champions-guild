@@ -32,7 +32,7 @@ Clan Gailsong asked for the Guild's help with a storm-bringing elemental wolf. T
 
 **Quest appearances:**
 
-- 20 Jun 2026: [Marr Runeblade Personalized Quest: A Chilling Past](https://championsguildrpg.com/questLogs/529)
-- 8 Jul 2026: [Frozen Sails](https://championsguildrpg.com/questLogs/555)
+- 20 Jun 1026: [Marr Runeblade Personalized Quest: A Chilling Past](https://championsguildrpg.com/questLogs/529)
+- 8 Jul 1026: [Frozen Sails](https://championsguildrpg.com/questLogs/555)
 
 <!-- guild-archive-record:end -->

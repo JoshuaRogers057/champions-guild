@@ -32,8 +32,8 @@ Skraggapost is a goblinoid village on the edge of the nation, and a task concern
 
 **Quest appearances:**
 
-- 23 Dec 2025: [Chosen of Lathander Saga 2](https://championsguildrpg.com/questLogs/291)
-- 1 Aug 2026: [Tracking Trouble (Eldarin)](https://championsguildrpg.com/questLogs/588)
-- 3 Aug 2026: [Chosen Assemble](https://championsguildrpg.com/questLogs/590)
+- 23 Dec 1025: [Chosen of Lathander Saga 2](https://championsguildrpg.com/questLogs/291)
+- 1 Aug 1026: [Tracking Trouble (Eldarin)](https://championsguildrpg.com/questLogs/588)
+- 3 Aug 1026: [Chosen Assemble](https://championsguildrpg.com/questLogs/590)
 
 <!-- guild-archive-record:end -->

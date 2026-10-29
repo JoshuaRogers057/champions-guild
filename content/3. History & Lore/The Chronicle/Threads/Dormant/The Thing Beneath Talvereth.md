@@ -9,7 +9,7 @@ chronicle-thread-id: 5
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Dormant** · City · Mysteries & Arcana · last moved 8 Apr 2026
+> [!info] **Dormant** · City · Mysteries & Arcana · last moved 8 Apr 1026
 
 ## Where it stands
 
@@ -28,10 +28,10 @@ A spreading sickness of mutation and corrupted crystal has been traced, piece by
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### March 2026
+### March 1026
 
 <!-- quest:399 -->
-**24 Mar 2026: Gone from the Nets**
+**24 Mar 1026: Gone from the Nets**
 
 The Guild went to an afflicted village, tended the sick where it could, and learned that the village had begun sending its ill to a field hospital set up to contain the plague. In a coastal cave believed to be the source it found infected wildlife and a single seal pup that seemed resistant; the company stabilized the pup, took samples, and destroyed the cave. A wreck offshore showed the contamination had spread into the surrounding waters, probably from Talvereth, and Vaaryn was poisoned by it and held in containment at the guild. The cave was purged, but the wider source of the contamination remains unresolved.
 
@@ -40,10 +40,10 @@ The Guild went to an afflicted village, tended the sick where it could, and lear
 [Read the full quest record →](https://championsguildrpg.com/questLogs/399)
 <!-- /quest:399 -->
 
-### April 2026
+### April 1026
 
 <!-- quest:411 -->
-**2 Apr 2026: Strange Tracks**
+**2 Apr 1026: Strange Tracks**
 
 What first looked like isolated reports of aggressive wildlife proved to be something worse. Following tracks and signs of decay, the Guild found two heavily mutated death dogs, diseased and unstable, and killed both without casualties. At the site it also found a hidden passage leading deeper below the city, and the dogs' condition suggested that the mutations were not isolated.
 
@@ -53,7 +53,7 @@ What first looked like isolated reports of aggressive wildlife proved to be some
 <!-- /quest:411 -->
 
 <!-- quest:415 -->
-**5 Apr 2026: Echoes from Under the City**
+**5 Apr 1026: Echoes from Under the City**
 
 The company descended into the catacombs beneath Talvereth and found a corrupted crystal fragment that seemed to be warping the creatures and conditions around it. A strange survivor named Yophina warned the party to flee floating eye-creatures, and it avoided a direct fight with them. Signs of undead activity showed the corruption had more than one source or creature. After comparing the findings with Grey's assessment, the Guild came to believe that a beholder may be operating below the city, searching for these fragments for its own ends.
 
@@ -63,7 +63,7 @@ The company descended into the catacombs beneath Talvereth and found a corrupted
 <!-- /quest:415 -->
 
 <!-- quest:416 -->
-**6 Apr 2026: Shadows of the Blast**
+**6 Apr 1026: Shadows of the Blast**
 
 A company was sent to the condemned outer blocks by the Gilder's Rise crater to help officials evacuate residents who had refused to leave. It killed several mutated creatures, rats among them, that threatened the evacuation. When a group of large mutated flying creatures broke through the barricade and attacked those in the street, the Guild drove them off with no casualties.
 
@@ -73,7 +73,7 @@ A company was sent to the condemned outer blocks by the Gilder's Rise crater to 
 <!-- /quest:416 -->
 
 <!-- quest:420 -->
-**8 Apr 2026: Fractured Threat**
+**8 Apr 1026: Fractured Threat**
 
 The Guild located the warehouse believed to hold the corrupted fragment and fought its way inside, meeting strange distortions as it went and signs that the occupants were being changed by something unnatural. At the fragment stood a bald man covered in scars who had apparently been urging the inhabitants to embrace its corruption and experiment with its power. With his work done, he fled and left the warped defenders to be cut down; the company secured the fragment and returned it to the guild hall.
 

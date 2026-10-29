@@ -9,7 +9,7 @@ chronicle-thread-id: 16
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Dormant** · Nation · Crises & Wars · last moved 20 Jun 2026
+> [!info] **Dormant** · Nation · Crises & Wars · last moved 20 Jun 1026
 
 ## Where it stands
 
@@ -27,10 +27,10 @@ The Guild went to Thumdar as envoys to the dwarves, and the journey cost Ranmir 
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### May 2026
+### May 1026
 
 <!-- quest:486 -->
-**23 May 2026: Dwarven Series - P1 - Footfalls In The Stone Halls**
+**23 May 1026: Dwarven Series - P1 - Footfalls In The Stone Halls**
 
 Rhanak Steelwind, Cage, Lovet Haisnest, Narthex and Ranmir IronFist spent several days travelling through Lexaror toward the Hall of Kar Drumm, and for a time the road was merry. Then the caravan was ambushed by archers firing from above, spellcasters and heavily armed fighters closing in from several sides. Several of the company were knocked down, but they rallied, defeated the attackers and secured the cavern wagon. They reached Stonegate Hold battered but whole.
 
@@ -40,7 +40,7 @@ Rhanak Steelwind, Cage, Lovet Haisnest, Narthex and Ranmir IronFist spent severa
 <!-- /quest:486 -->
 
 <!-- quest:495 -->
-**30 May 2026: Dwarven Series - P2 -**
+**30 May 1026: Dwarven Series - P2 -**
 
 The company found Stonegate Hold in trouble: a patrol was missing below, the trade ledger and pass-seal had been stolen, and someone inside the hold was helping the Rok Rot smugglers use the old lower tunnels. They traced the connection, recovered what was needed and earned the dwarves' trust, and gained a bat as a new companion. They also came upon dead cultists who seemed determined to be noticed, and then went on to Thumdar.
 
@@ -49,10 +49,10 @@ The company found Stonegate Hold in trouble: a patrol was missing below, the tra
 [Read the full quest record →](https://championsguildrpg.com/questLogs/495)
 <!-- /quest:495 -->
 
-### June 2026
+### June 1026
 
 <!-- quest:502 -->
-**6 Jun 2026: Dwarven Series - P3 -**
+**6 Jun 1026: Dwarven Series - P3 -**
 
 In Thumdar the company explored the city, spoke with its people, made useful friends and commissioned several magical items from the dwarven craftsfolk. Then they learned that an important forge had fallen into hostile hands, and they chose to help take it back. Ranmir IronFist, the only dwarf of the company and a son returning to his ancestral home, rushed back into the fighting when Lovet's life was in danger, saved him, and was overwhelmed before he could escape. He fell in the forge.
 
@@ -62,7 +62,7 @@ In Thumdar the company explored the city, spoke with its people, made useful fri
 <!-- /quest:502 -->
 
 <!-- quest:518 -->
-**13 Jun 2026: Dwarven Series - P4**
+**13 Jun 1026: Dwarven Series - P4**
 
 The company attended Ranmir's funeral, where attention turned to Rhanak's promise to see the forge reclaimed and restored. They looked into the Bond of Promise and learned that the oath had become a matter of dwarven honour, with much now expected of Rhanak and those who stood beside him. At a meeting of the Council they made a favourable impression, and the Council's assistant agreed with them that they would undertake a task on its behalf. Sealed boxes they examined proved empty, but opening them released strange smoke, flickering lights and an unsettling nursery-rhyme melody.
 
@@ -74,7 +74,7 @@ The company attended Ranmir's funeral, where attention turned to Rhanak's promis
 <!-- /quest:518 -->
 
 <!-- quest:527 -->
-**20 Jun 2026: Slaggothor Personalised Quest — Rhanak: Ironfist’s Honour**
+**20 Jun 1026: Slaggothor Personalised Quest — Rhanak: Ironfist’s Honour**
 
 The Guild answered the call to reclaim the lower forge and honour Ranmir's sacrifice. Rhanak, Lovet, Ivar Thundercall, Elwyn Shadowbreak and Kestrel Veydrak descended into the sealed lower works, past lava channels and failing machinery, and saved several trapped dwarves, among them Amith Ironcore, the stone smith who had once given Rhanak his ring. They freed the restless spirit of Lord Iikama Stonehelm, who granted boons: Rhanak chose to heal the blind smith, and Kestrel gave up a prized dagger and the memory bound to it in exchange for a blessing of his own. In the temple beneath the forge they defeated Leader Salamandir and his salamanders, though Kestrel's hands were badly burned in molten gold when he shut off the vents that were flooding the room.
 

@@ -28,7 +28,7 @@ Its structure is hidden behind handlers, watchers, safe houses, and assassins wh
 
 **Quest appearances:**
 
-- 4 Apr 2026: [The city of a thousand hulls](https://championsguildrpg.com/questLogs/421)
-- 11 Apr 2026: [the Obelisk of Korivar](https://championsguildrpg.com/questLogs/424)
+- 4 Apr 1026: [The city of a thousand hulls](https://championsguildrpg.com/questLogs/421)
+- 11 Apr 1026: [the Obelisk of Korivar](https://championsguildrpg.com/questLogs/424)
 
 <!-- guild-archive-record:end -->

@@ -32,9 +32,9 @@ The Brassleaf Institute unveiled the Rootlet and called the Guild when she escap
 
 **Quest appearances:**
 
-- 28 Feb 2026: [The Runaway Rootlet](https://championsguildrpg.com/questLogs/367)
-- 6 May 2026: [Rootlet’s Call for Help](https://championsguildrpg.com/questLogs/461)
-- 4 Jun 2026: [Ryan Personalised Quest — Zed Series: Part III — Beneath Ivory Halls](https://championsguildrpg.com/questLogs/503)
-- 20 Jul 2026: [Tre’s Personalised Quest - The Heart Takes Root](https://championsguildrpg.com/questLogs/571)
+- 28 Feb 1026: [The Runaway Rootlet](https://championsguildrpg.com/questLogs/367)
+- 6 May 1026: [Rootlet’s Call for Help](https://championsguildrpg.com/questLogs/461)
+- 4 Jun 1026: [Ryan Personalised Quest — Zed Series: Part III — Beneath Ivory Halls](https://championsguildrpg.com/questLogs/503)
+- 20 Jul 1026: [Tre’s Personalised Quest - The Heart Takes Root](https://championsguildrpg.com/questLogs/571)
 
 <!-- guild-archive-record:end -->

@@ -27,8 +27,8 @@ Eldritch winds coil around this spiraled ruin, where pact-bound warlocks and mad
 
 **Quest appearances:**
 
-- 22 Jan 2026: [Bridge of Broken Oaths](https://championsguildrpg.com/questLogs/326)
-- 22 Apr 2026: [Bloody Entertaining 1: Suitable Offerings](https://championsguildrpg.com/questLogs/444)
-- 9 Jun 2026: [Bloody Entertaining 3: At Odds](https://championsguildrpg.com/questLogs/511)
+- 22 Jan 1026: [Bridge of Broken Oaths](https://championsguildrpg.com/questLogs/326)
+- 22 Apr 1026: [Bloody Entertaining 1: Suitable Offerings](https://championsguildrpg.com/questLogs/444)
+- 9 Jun 1026: [Bloody Entertaining 3: At Odds](https://championsguildrpg.com/questLogs/511)
 
 <!-- guild-archive-record:end -->

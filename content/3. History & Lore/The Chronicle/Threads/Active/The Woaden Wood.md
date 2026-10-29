@@ -9,7 +9,7 @@ chronicle-thread-id: 36
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Ongoing** · Nation · Crises & Wars · last moved 22 Aug 2026
+> [!info] **Ongoing** · Nation · Crises & Wars · last moved 22 Aug 1026
 
 ## Where it stands
 
@@ -26,10 +26,10 @@ Sylvandar's ancient forests have become a strategic resource as other nations ra
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### November 2025
+### November 1025
 
 <!-- quest:246 -->
-**8 Nov 2025: Whispers of Duskwillow**
+**8 Nov 1025: Whispers of Duskwillow**
 
 A team sent to watch Shalk Syrinthil and his wife, Lady Faela, at a moon-season convocation in the elven village of Duskwillow found a fallen Woaden Tree on the forest path, its roots giving off a necrotic glow. The seeress Vaelith, whom the village trusted, proved to be an arch hag; she and her twin bound Shalk, Faela, Senator Virellen Zelis and others, and vanished by planar means. Vampires then raised the dead from the cliffs, the village fell, and the Moon Pool turned to black glass. Duskwillow now lies quarantined, and the Woaden Rangers have closed the region, calling it a divine blight.
 

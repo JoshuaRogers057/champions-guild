@@ -38,7 +38,7 @@ The Guild believes Dr. Vathros was destroyed in the Empire of Bones assault.
 
 **Quest appearances:**
 
-- 10 Aug 2026: [Veil Torn: Mini Epic! (apprentice)](https://championsguildrpg.com/questLogs/603)
-- 16 Aug 2026: [Empire of Bones: Epic-05 (Acolyte)](https://championsguildrpg.com/questLogs/614)
+- 10 Aug 1026: [Veil Torn: Mini Epic! (apprentice)](https://championsguildrpg.com/questLogs/603)
+- 16 Aug 1026: [Empire of Bones: Epic-05 (Acolyte)](https://championsguildrpg.com/questLogs/614)
 
 <!-- guild-archive-record:end -->

@@ -36,7 +36,7 @@ Sylas Vintarre was rescued from a Velvet Ledger hideout and told the Guild that 
 
 **Quest appearances:**
 
-- 23 Jul 2025: [Fortunes Crossing (Part 1)](https://championsguildrpg.com/questLogs/131)
-- 6 Aug 2025: [Fortunes Crossing: Session 3](https://championsguildrpg.com/questLogs/144)
+- 23 Jul 1025: [Fortunes Crossing (Part 1)](https://championsguildrpg.com/questLogs/131)
+- 6 Aug 1025: [Fortunes Crossing: Session 3](https://championsguildrpg.com/questLogs/144)
 
 <!-- guild-archive-record:end -->

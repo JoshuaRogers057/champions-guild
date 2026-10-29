@@ -36,7 +36,7 @@ Captain Sampson is a pirate captain who befriended the Guild and brought them to
 
 **Quest appearances:**
 
-- 25 Jan 2026: [New Managment](https://championsguildrpg.com/questLogs/330)
-- 28 Jan 2026: ["Strategic pivot"](https://championsguildrpg.com/questLogs/332)
+- 25 Jan 1026: [New Managment](https://championsguildrpg.com/questLogs/330)
+- 28 Jan 1026: ["Strategic pivot"](https://championsguildrpg.com/questLogs/332)
 
 <!-- guild-archive-record:end -->

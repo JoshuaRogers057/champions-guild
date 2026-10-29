@@ -36,8 +36,8 @@ Aethrael is a Planetar who disappeared, and was found Inspired at the Veiled Cho
 
 **Quest appearances:**
 
-- 14 Jul 2026: [The Dawn’s Summons](https://championsguildrpg.com/questLogs/565)
-- 1 Aug 2026: [Tracking Trouble (Eldarin)](https://championsguildrpg.com/questLogs/588)
-- 3 Aug 2026: [Chosen Assemble](https://championsguildrpg.com/questLogs/590)
+- 14 Jul 1026: [The Dawn’s Summons](https://championsguildrpg.com/questLogs/565)
+- 1 Aug 1026: [Tracking Trouble (Eldarin)](https://championsguildrpg.com/questLogs/588)
+- 3 Aug 1026: [Chosen Assemble](https://championsguildrpg.com/questLogs/590)
 
 <!-- guild-archive-record:end -->

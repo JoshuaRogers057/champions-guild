@@ -11,7 +11,7 @@ chronicle-thread-id: 4
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Ongoing** · Nation · Crises & Wars · last moved 6 Sep 2026
+> [!info] **Ongoing** · Nation · Crises & Wars · last moved 6 Sep 1026
 
 ## Where it stands
 
@@ -30,10 +30,10 @@ Talvereth came through the riots of the Shadow War badly scarred, and the Gilded
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### September 2025
+### September 1025
 
 <!-- quest:203 -->
-**20 Sep 2025: Champions Game**
+**20 Sep 1025: Champions Game**
 
 A discreet patron retained a team of three, Shalk, Alben Watchwell and Nephele, to look into Velvet Ledger influence over the Gilded Council. Posing as a visiting professor and his company, they gained entry to the Sablemark Institute of Trade & Advancement and found an accounting folio said to link shell firms to Council business. The folio was trapped with a planar curse that carried them into a spectacle-realm ruled by Rakdos, Demon Lord of Entertainment, where they endured a lethal trial by audience. Released back to Talvereth with the ledger in hand, they gave their client fresh knowledge of the Velvet Ledger's networks.
 
@@ -45,7 +45,7 @@ A discreet patron retained a team of three, Shalk, Alben Watchwell and Nephele, 
 <!-- /quest:203 -->
 
 <!-- quest:212 -->
-**30 Sep 2025: Champion Game**
+**30 Sep 1025: Champion Game**
 
 A contact in Talvereth traced steady Velvet Ledger payments to Lady Vexa Thornvale, a former adventurer turned art magnate, and the Guild was hired to rob her vault. After turning two of her former house guards, the company worked its way past the vault's defenses and found two things of note: valuables that appeared to be collateral, and a case of six blood-ink phials humming with oath-magic, likely leverage over sitting Council members. Vexa confronted them as they left and tried to bargain. The Guild refused, forced her to withdraw, and delivered the evidence and the phials to its client, leaving Vexa alive, angry and aware that her real vault had been hit.
 
@@ -54,10 +54,10 @@ A contact in Talvereth traced steady Velvet Ledger payments to Lady Vexa Thornva
 [Read the full quest record →](https://championsguildrpg.com/questLogs/212)
 <!-- /quest:212 -->
 
-### October 2025
+### October 1025
 
 <!-- quest:227 -->
-**14 Oct 2025: Champion Game**
+**14 Oct 1025: Champion Game**
 
 At their client's request the Guild returned to Talvereth to keep pressure on the Velvet Ledger, which had gone to ground in safehouses. The company entered one of them posing as fugitives seeking shelter; one member emptied the treasury while the others turned a device into a choking bellows that smoked the cell out into the street. The city watch had been quietly warned that the house was hot, and the fleeing Ledger personnel were arrested in waves. What the prisoners will yield remains to be seen.
 
@@ -66,10 +66,10 @@ At their client's request the Guild returned to Talvereth to keep pressure on th
 [Read the full quest record →](https://championsguildrpg.com/questLogs/227)
 <!-- /quest:227 -->
 
-### February 2026
+### February 1026
 
 <!-- quest:344 -->
-**4 Feb 2026: Interest Accrued**
+**4 Feb 1026: Interest Accrued**
 
 Sabina Grint hired the Guild to learn why small businesses in Ashbarrows were closing so quickly. The company found that nearly every owner had loans or binding contracts being enforced at once, traced them to the Coinring Contract Office, and learned that many of the debts were held by wealthy nobles who worship at the Temple of Waukeen. At the temple, priests and nobles admitted that someone had recently urged the lenders to deal harshly with the working class, and thugs set upon the company soon after it left. No crime could be proven, but the Guild reported a coordinated effort to crush Ashbarrows' working people through the law.
 
@@ -79,7 +79,7 @@ Sabina Grint hired the Guild to learn why small businesses in Ashbarrows were cl
 <!-- /quest:344 -->
 
 <!-- quest:346 -->
-**6 Feb 2026: The Price Isn't Right**
+**6 Feb 1026: The Price Isn't Right**
 
 Sabina Grint hired the Guild to find Edrin Halver, a Coin & Paper clerk who vanished after claiming to have uncovered something significant. His desk bore the marks of a deliberate search, and his trail ended at a tavern whose bartender, Bram Underfoot, was lying about him and keeping him in the basement. The company broke up a Velvet Ledger cell, Corvin Halbrecht, Nyra Feld and Kestrel Pike, mid-interrogation and freed Edrin. He confirmed that the Ledger was suppressing discoveries about coordinated economic pressure across Talvereth, and the Guild reported to Sabina that someone was tightening control of trade and contracts across the city.
 
@@ -89,7 +89,7 @@ Sabina Grint hired the Guild to find Edrin Halver, a Coin & Paper clerk who vani
 <!-- /quest:346 -->
 
 <!-- quest:347 -->
-**6 Feb 2026: Break Bread**
+**6 Feb 1026: Break Bread**
 
 To ease the tension in Talvereth, Sabina Grint held a public feast for nobles and commonfolk alike, with leaders from the temples of Yondalla and Waukeen invited. Factor Elress Wain of the Temple of Waukeen returned with armed guards, citing missing permits, and his threats ended in an assault on him by a cleric of Yondalla, which the official account blamed on a single radicalized worshipper acting alone. The Guild calmed the room and aided Wain, who still demanded arrests, including of those who had helped him, before being escorted away. The cleric was taken into custody, and the feast seems to have bought a modest improvement in relations between nobles and commonfolk.
 
@@ -99,7 +99,7 @@ To ease the tension in Talvereth, Sabina Grint held a public feast for nobles an
 <!-- /quest:347 -->
 
 <!-- quest:359 -->
-**20 Feb 2026: Troubled Waters**
+**20 Feb 1026: Troubled Waters**
 
 A company was hired to escort Father Alric, a priest of Waukeen, to a conference in Contramara within five days. Repeated sabotage slowed the journey, and the Guild first suspected a cleric of Umberlee, who proved innocent. The culprit was a radical follower of Yondalla set on keeping Alric from the conference; she attacked and was killed, and Alric went on his way.
 
@@ -109,7 +109,7 @@ A company was hired to escort Father Alric, a priest of Waukeen, to a conference
 <!-- /quest:359 -->
 
 <!-- quest:360 -->
-**20 Feb 2026: Coin and Cinders**
+**20 Feb 1026: Coin and Cinders**
 
 The Guild found one of the missing caravans burned to cinders by the roadside and followed tracks to a hidden bandit camp. The raiders were radical followers of Yondalla sabotaging noble trade routes in protest of the coming execution of Brunna Mossvale. The company cleared the camp, and found that the wagons had been destroyed rather than looted, a message and not a theft. Tensions in Talvereth continued to rise.
 
@@ -118,10 +118,10 @@ The Guild found one of the missing caravans burned to cinders by the roadside an
 [Read the full quest record →](https://championsguildrpg.com/questLogs/360)
 <!-- /quest:360 -->
 
-### March 2026
+### March 1026
 
 <!-- quest:380 -->
-**13 Mar 2026: Containment Zone**
+**13 Mar 1026: Containment Zone**
 
 Aereus summoned a company that was preparing for another contract and sent it to infiltrate a shadow meeting of the world's main criminal organizations. The party made its way through a maze of fighting factions. Mazgar Thorrak fell holding the gap against Cracked Scale warriors, and the company mourned him and recovered his body. What they learned of the syndicates' motives left one conclusion: a shadow war was coming.
 
@@ -131,7 +131,7 @@ Aereus summoned a company that was preparing for another contract and sent it to
 <!-- /quest:380 -->
 
 <!-- quest:384 -->
-**17 Mar 2026: A Quiet Inspection**
+**17 Mar 1026: A Quiet Inspection**
 
 The city confirmed a violent breach at a secured warehouse under contract to the artificer Edda Brasslamp, where Thalenmark's first airship was nearing completion. An unidentified group forced entry, killed every official and key worker on site in what appeared to be a coordinated assassination, and removed the airship without authority. Officials suspected that rival nations had the motive and means, with particular scrutiny on Kastalshire, but no one claimed the act and the airship's whereabouts were unknown.
 
@@ -141,7 +141,7 @@ The city confirmed a violent breach at a secured warehouse under contract to the
 <!-- /quest:384 -->
 
 <!-- quest:385 -->
-**18 Mar 2026: Faith in Flight**
+**18 Mar 1026: Faith in Flight**
 
 After Brunna Mossvale escaped city custody, the Guild was hired to find her and return her for sentencing. At the city jail it found signs that someone inside had helped her, and the trail ran down into Talvereth's lower sewers. The Guild reported that a tentacled monstrosity killed Mossvale there and was then slain itself, and its corpse was returned to the Temple of Waukeen, which confirmed the contract and paid before ordering the remains removed. Unverified sightings of a woman matching her description in the outer districts soon began to circulate.
 
@@ -151,7 +151,7 @@ After Brunna Mossvale escaped city custody, the Guild was hired to find her and 
 <!-- /quest:385 -->
 
 <!-- quest:387 -->
-**20 Mar 2026: Shadow War: Mini Epic (Team A)**
+**20 Mar 1026: Shadow War: Mini Epic (Team A)**
 
 With the Velvet Ledger newly in possession of a stolen airship, Grey and Gabriel saw a chance for the Guild to take it, and Team A went to work while Team B located the vessel. Tannis, Hector, Lovet, Bison and Tivonna drew the guards to the docks and burned a dozen buildings, two Ledger warehouses among them, then found the airship in a slum warehouse and took it from the roof. They carried off a Ledger woman named Amelia and persuaded her to fly them out, circled back to help put out the fires they had set, tried to lay the blame on the Brotherhood of the Rat, and picked up Team B from the university tower in a fly-by rescue. The Guild now had an airship.
 
@@ -161,7 +161,7 @@ With the Velvet Ledger newly in possession of a stolen airship, Grey and Gabriel
 <!-- /quest:387 -->
 
 <!-- quest:388 -->
-**20 Mar 2026: Shadow War: Mini Epic (Team B)**
+**20 Mar 1026: Shadow War: Mini Epic (Team B)**
 
 Team B used the chaos Team A had made to enter a hidden Velvet Ledger tunnel network beneath Talvereth. In a logistics archive it found where the Ledger's airship was kept and passed that word to Team A, then pushed on to a central conference chamber and seized strategic documents before being discovered. Fighting upward through a passage that surfaced in a university tower, the team made a last stand on the roof until the stolen airship arrived, and leapt from the tower to board it.
 
@@ -171,7 +171,7 @@ Team B used the chaos Team A had made to enter a hidden Velvet Ledger tunnel net
 <!-- /quest:388 -->
 
 <!-- quest:392 -->
-**21 Mar 2026: Shadow War: Dusk Betrays the Night**
+**21 Mar 1026: Shadow War: Dusk Betrays the Night**
 
 Under cover of night the company entered a Velvet Ledger warehouse, posing as agents of the Brotherhood of the Rat, planted just enough evidence to cast suspicion on the Rats, and left before the Ledger could react. It delivered the stolen cargo to Duskwatch and was paid without revealing the scheme. On its return, Talvereth stood on the brink of collapse, with thieves, cutthroats and enforcers fighting openly in alleys and markets. The underworld conflict was already being called the Shadow Wars.
 
@@ -183,7 +183,7 @@ Under cover of night the company entered a Velvet Ledger warehouse, posing as ag
 <!-- /quest:392 -->
 
 <!-- quest:393 -->
-**21 Mar 2026: Price Of Protection P2**
+**21 Mar 1026: Price Of Protection P2**
 
 Marnie secretly struck a deal with Borrim of the Velvet Ledger and betrayed the company, which was carried by magic to a dungeon beneath Talvereth. The party fought its way through, freeing hostages taken after the collapse of the Brass Ladle, killing the kidnapper Borrick, and failing to catch his brother Borrim, who escaped. When it emerged at the docks the city was burning and the crowds rioting, and the company won passage on a boat for itself and the rescued prisoners and fled.
 
@@ -195,7 +195,7 @@ Marnie secretly struck a deal with Borrim of the Velvet Ledger and betrayed the 
 <!-- /quest:393 -->
 
 <!-- quest:394 -->
-**22 Mar 2026: Shadow War: Last Defense**
+**22 Mar 1026: Shadow War: Last Defense**
 
 Hector, Koal, Kyber'lex, Davian and Tannis were in Talvereth when the riots turned violent. They assaulted two fixed anti-air positions, dismantled both, and freed the skies for the airship. Koal stayed behind to tend the wounded and was left in the city.
 
@@ -205,7 +205,7 @@ Hector, Koal, Kyber'lex, Davian and Tannis were in Talvereth when the riots turn
 <!-- /quest:394 -->
 
 <!-- quest:395 -->
-**22 Mar 2026: Shadow War: The Last Ascent**
+**22 Mar 1026: Shadow War: The Last Ascent**
 
 As riots engulfed Talvereth, Guild operatives were ordered to evacuate, but many chose to do some good first. They pulled battered city guards from a mob's hands and drove back the fire at the Temple of Waukeen, though they left Elress Wain behind when he demanded an escort out of the city. They then ran Silvershade Lane to the Guild outpost and boarded the airship as it lifted away, with Talvereth burning below.
 
@@ -217,7 +217,7 @@ As riots engulfed Talvereth, Guild operatives were ordered to evacuate, but many
 <!-- /quest:395 -->
 
 <!-- quest:398 -->
-**23 Mar 2026: The Price of Grain**
+**23 Mar 1026: The Price of Grain**
 
 The Guild brought a string of raids on food caravans on the roads outside Ciliren to a violent end, after merchant officials, chiefly Kelzo Nimblequill, pressed for decisive action while Talvereth's unrest crippled trade. The raiders turned out to come from Brass Burrows, a retirement settlement of former gnomish inventors put on short rations as trade failed; the Guild killed most of those involved, though not every villager had taken part. Mae Mossveil is alleged to have killed a fleeing non-combatant, and the city has opened an inquiry. Nimblequill was fined for ordering the raiders' bodies displayed along the road into Ciliren.
 
@@ -227,7 +227,7 @@ The Guild brought a string of raids on food caravans on the roads outside Cilire
 <!-- /quest:398 -->
 
 <!-- quest:397 -->
-**23 Mar 2026: Shadow War: The Last Defense: Epilogue**
+**23 Mar 1026: Shadow War: The Last Defense: Epilogue**
 
 Koal was left in Talvereth to survive the first night of the riots. He met a young girl named Elowen, alone in a house and needing to reach her family's manor in the Velvet Lanes, and protected her through the city. When an army of rioters laid siege to the manor, Koal broke the siege with a display of arcane might, knowing it would cost his life. He died a hero.
 
@@ -239,7 +239,7 @@ Koal was left in Talvereth to survive the first night of the riots. He met a you
 <!-- /quest:397 -->
 
 <!-- quest:400 -->
-**24 Mar 2026: Bankers Hours**
+**24 Mar 1026: Bankers Hours**
 
 The Guild went to Barrowbank to defend the town from a three-way siege by the Velvet Ledger, goliath raiders and Duskwatch. The company bribed the goliaths, one of whom knew Hector from an earlier contract, and Rurik agreed to guard the town and drive out the other attackers in return for information and money. Barrowbank accepted the bargain, and the city vault was sealed.
 
@@ -249,7 +249,7 @@ The Guild went to Barrowbank to defend the town from a three-way siege by the Ve
 <!-- /quest:400 -->
 
 <!-- quest:403 -->
-**28 Mar 2026: Shadow War: Epic**
+**28 Mar 1026: Shadow War: Epic**
 
 At the height of the unrest several Guild companies were sent into separate parts of Talvereth, and this one first took a fortified banking hall, extracting a Gilded Council member alive from the Velvet Ledger operatives holding it. It then killed Captain Gangplank, a leader among the rioters, and retook the Grand Court, which hostile forces had made a command center. Sent against one of the bombs planted in a major temple of Waukeen in Gilder's Rise, the company could not secure it in time and was ordered to retreat. All escaped except Warjo, who stayed to disarm the device and is presumed dead in the blast that devastated the temple.
 
@@ -261,7 +261,7 @@ At the height of the unrest several Guild companies were sent into separate part
 <!-- /quest:403 -->
 
 <!-- quest:404 -->
-**28 Mar 2026: Shadow War: Epic (Ryans Table)**
+**28 Mar 1026: Shadow War: Epic (Ryans Table)**
 
 This company cleared the docks of the criminal organizations, cleared the cannons from the lighthouse by blowing it up, and assaulted and destroyed the blockade's flagship; the lighthouse was totally destroyed. It failed to clear the sewers of criminal elements and failed to rescue the prisoners held on a prison ship. With only seconds to spare, the team stopped the bomb assigned to it.
 
@@ -273,7 +273,7 @@ This company cleared the docks of the criminal organizations, cleared the cannon
 <!-- /quest:404 -->
 
 <!-- quest:405 -->
-**28 Mar 2026: Shadow War: Epic**
+**28 Mar 1026: Shadow War: Epic**
 
 In the Coin Ring and Grand Exchange district this company reopened the barricaded roads, Tivonna charging through the obstructions as a rhinoceros while a stealth specialist took down defenses from within. At the Kangaroo Court it killed the fanatic Brunna Mossvale and broke up the court, but many civilians died in the fighting, among them Elyn, a local leader tied to Waukeen's presence in the district. It then infiltrated the Rot Rock stronghold and neutralized its leadership, and broke out detained nobles from a vault beneath the district. The compromised sewers went unaddressed, and contaminated runoff has since spilled into the surrounding waters.
 
@@ -285,7 +285,7 @@ In the Coin Ring and Grand Exchange district this company reopened the barricade
 <!-- /quest:405 -->
 
 <!-- quest:406 -->
-**28 Mar 2026: Shadow War: Epic (Aaron)**
+**28 Mar 1026: Shadow War: Epic (Aaron)**
 
 Assigned to the noble district, this company escorted the nobleman Cedric Stonewharf to safety, found alchemical reagents belonging to another noble house, took weapons from the guardhouse stationed there, and saved a group of prisoners at the Loop train station. Working against the odds, it then disabled a bomb in one of the temples of Waukeen, saving many more lives.
 
@@ -294,10 +294,10 @@ Assigned to the noble district, this company escorted the nobleman Cedric Stonew
 [Read the full quest record →](https://championsguildrpg.com/questLogs/406)
 <!-- /quest:406 -->
 
-### April 2026
+### April 1026
 
 <!-- quest:429 -->
-**14 Apr 2026: Hostile Streets**
+**14 Apr 1026: Hostile Streets**
 
 The Guild escorted the emissaries of the Bastions of Solara through Talvereth, holding the crowd at the market without bloodshed. Restraint failed at the bridge, where the company killed every hostile, and in the street ambush that followed an assassin struck down one of the Aasimar before being killed in turn; her body was consumed by unnatural flames, and who had sent her is unknown. At the city gate a guard delayed the emissaries on a false pretense, and once inside, the elder Aasimar judged her guilty and, as he called it mercy, burned out her eyes.
 
@@ -309,7 +309,7 @@ The Guild escorted the emissaries of the Bastions of Solara through Talvereth, h
 <!-- /quest:429 -->
 
 <!-- quest:432 -->
-**15 Apr 2026: Trial By Fire**
+**15 Apr 1026: Trial By Fire**
 
 The Guild escorted a caravan of tieflings from the outskirts of Talvereth to the border of Ash-Korrath, fighting off wolves, then the Disciples of the Radiant Crown, a cult out of the Bastions of Solara, and finally some tiefling zombies. The caravan reached the border safely.
 
@@ -318,10 +318,10 @@ The Guild escorted a caravan of tieflings from the outskirts of Talvereth to the
 [Read the full quest record →](https://championsguildrpg.com/questLogs/432)
 <!-- /quest:432 -->
 
-### May 2026
+### May 1026
 
 <!-- quest:462 -->
-**8 May 2026: Supply and Demand.**
+**8 May 1026: Supply and Demand.**
 
 Sabina Grint sent the Guild to learn why prices were rising across Talvereth, and the trail led from the market to the docks. Land merchants were being strained by the Bastions of Solara's armies, which charged extra fees and confiscated part of the food shipments, while ships were hit with dock fees that appeared to be illegal. Some goods were also being seized at the docks through the influence of a Gilded Council member named Dando. The Guild gathered evidence Sabina may use carefully in the courts, though one adventurer, known as Shroom, was briefly jailed and fined for threatening the harbormaster.
 
@@ -331,7 +331,7 @@ Sabina Grint sent the Guild to learn why prices were rising across Talvereth, an
 <!-- /quest:462 -->
 
 <!-- quest:464 -->
-**9 May 2026: Enemy of My Enemy**
+**9 May 1026: Enemy of My Enemy**
 
 The Guild took up the role of discreet escort for the Aasimar ambassadors of the Bastions of Solara and brought them to the Talvereth courthouse, where a sensitive diplomatic proceeding was under way. Four assassins attacked in the room, cutting through many of the guards, but the company held the line and defended both ambassadors and the two council members present. Evidence at the scene suggested the attackers meant to frame the Velvet Ledger, though their methods did not fully match the Ledger's, and who ordered the attack was not learned.
 
@@ -341,7 +341,7 @@ The Guild took up the role of discreet escort for the Aasimar ambassadors of the
 <!-- /quest:464 -->
 
 <!-- quest:483 -->
-**22 May 2026: Divine Interception**
+**22 May 1026: Divine Interception**
 
 Acting on an anonymous tip, the Guild intercepted a vessel bringing a shipment into Talvereth's docks and found the cargo was Glass. The whole shipment was confiscated and five people connected to the smuggling were arrested. Interrogations produced evidence pointing at two members of the Gilded Council, Fenla Thistlevault and Rillan Dewdrop, both of whom deny any connection. It remains unclear whether the Council backed the smuggling or deeper political games are being played.
 
@@ -350,10 +350,10 @@ Acting on an anonymous tip, the Guild intercepted a vessel bringing a shipment i
 [Read the full quest record →](https://championsguildrpg.com/questLogs/483)
 <!-- /quest:483 -->
 
-### September 2026
+### September 1026
 
 <!-- quest:641 -->
-**6 Sep 2026: Closing The Account**
+**6 Sep 1026: Closing The Account**
 
 Perrin Grint, son of the late Gilded Council member Marlowe Grint and disowned by him years before, returned to Talvereth with Garrius Thorn and Jericho to learn who had secretly paid off his debt and whether more lay behind his family's deaths in the riots. In the burned-out Grint estate, wards on Marlowe's private office opened to his touch, and the records inside led to Dannel Rusk, who named the payer as one Orin Vale, a man no one could find. A halfling woman, the Broker, set Perrin an old arbitration case, The Matter of the Fifth Bell, and judged him on how he reasoned rather than on his verdict, after which the office's hidden archive opened. It showed that Marlowe had secretly led the Quiet Ledger, an intelligence network built to counter the Velvet Ledger, that Orin Vale was his alias, and that Perrin was now its heir; Perrin refused to decide at once, had the archive sealed, and kept a sending stone to reach the Broker.
 

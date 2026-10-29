@@ -9,7 +9,7 @@ chronicle-thread-id: 22
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Resolved** · Nation · Crises & Wars · last moved 5 Oct 2025
+> [!info] **Resolved** · Nation · Crises & Wars · last moved 5 Oct 1025
 
 ## Where it stands
 
@@ -26,10 +26,10 @@ The railroad east began as a commission at Rails End and ended as a finished lin
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### July 2025
+### July 1025
 
 <!-- quest:111 -->
-**4 Jul 2025: Progress Rolls On**
+**4 Jul 1025: Progress Rolls On**
 
 The party met Captain Mary of the Queen's Pleasure and sailed with her to Contramara. There Lord Alric, Minister of Transportation of Kastalshire, set them their work for the railroad at Rails End, a mobile town. They met the railboss, and then rescued surveyors from local bandits.
 
@@ -39,7 +39,7 @@ The party met Captain Mary of the Queen's Pleasure and sailed with her to Contra
 <!-- /quest:111 -->
 
 <!-- quest:117 -->
-**11 Jul 2025: Progress Rolls On. Part 2 Splinters on the Line**
+**11 Jul 1025: Progress Rolls On. Part 2 Splinters on the Line**
 
 The party solved the line's troubles one at a time, sealing a cave for the cut crew and fighting tree spirits for the lumberjack crew. In the struggle a lumberjack named Hadley was turned into a tree; a necromancy crystal was fed to him, and he fell into a strange state. They then met the Brotherhood of the Rat and a woman named Linda, to whom they gave shares in exchange for four days' protection, and set out for Contramara expecting a train to be robbed. Murcon Thunderhelm and Wizbit stayed behind to know Linda better.
 
@@ -49,7 +49,7 @@ The party solved the line's troubles one at a time, sealing a cave for the cut c
 <!-- /quest:117 -->
 
 <!-- quest:125 -->
-**18 Jul 2025: Progress rolls on part 3**
+**18 Jul 1025: Progress rolls on part 3**
 
 At Contramara the party took part in a tournament, where Ren Stray did well at the joust and met a mysterious stranger. The stranger gave his name as Alric of Halmark and told Ren to call on him at the palace in need. The party also stopped a train robbery, which left their standing with the Brotherhood of the Rat in question.
 
@@ -58,10 +58,10 @@ At Contramara the party took part in a tournament, where Ren Stray did well at t
 [Read the full quest record →](https://championsguildrpg.com/questLogs/125)
 <!-- /quest:125 -->
 
-### September 2025
+### September 1025
 
 <!-- quest:205 -->
-**23 Sep 2025: Free City of Spens**
+**23 Sep 1025: Free City of Spens**
 
 The party travelled to the Free City of Spens, where the elven ambassador Lamar El' Lavor told them trade had slowed sharply, with bandits on the roads and pirates at sea. They dealt with bandits attacking the rails, and found evidence of a threat to the city coordinated by vampires, who appear to hold a ruined watchtower near the border of the Drakmir Dominion.
 
@@ -72,10 +72,10 @@ The party travelled to the Free City of Spens, where the elven ambassador Lamar 
 [Read the full quest record →](https://championsguildrpg.com/questLogs/205)
 <!-- /quest:205 -->
 
-### October 2025
+### October 1025
 
 <!-- quest:217 -->
-**5 Oct 2025: Eastbound and down**
+**5 Oct 1025: Eastbound and down**
 
 Bo, Oren Nero, Rousseau, Kyber'lex the kobold and Bili Ruben were hired to escort an archaeologist to Spens, and succeeded admirably. They prevented a train robbery, which allowed the railroad workers to complete the tracks all the way to the city. They also helped the Sanama nomads hunt a clutch of ankhegs, and cleared a warehouse that had been the hideout of thugs shaking down the neighbourhood.
 

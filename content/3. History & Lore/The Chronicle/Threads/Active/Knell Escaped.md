@@ -9,7 +9,7 @@ chronicle-thread-id: 44
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Ongoing** · City · Mysteries & Arcana · last moved 22 Aug 2026
+> [!info] **Ongoing** · City · Mysteries & Arcana · last moved 22 Aug 1026
 
 ## Where it stands
 
@@ -25,10 +25,10 @@ The sentient bell-construct called Knell has escaped the Arcanum. It was born wh
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### May 2026
+### May 1026
 
 <!-- quest:484 -->
-**23 May 2026: Last Bell at the Arcanum**
+**23 May 1026: Last Bell at the Arcanum**
 
 A company answered a crisis at the Arcanum, where wild magic was surging through the academy from the bell tower. They found the source, survived the unstable effects and stopped the immediate threat before the damage spread through the school. The Arcanum was saved, but Knell escaped before it could be destroyed or contained, and its whereabouts are unknown.
 

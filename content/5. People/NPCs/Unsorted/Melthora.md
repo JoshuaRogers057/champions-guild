@@ -38,9 +38,9 @@ She struck bargains with Guild members, trading favours owed, a Hag's Eye and a 
 
 **Quest appearances:**
 
-- 29 Jul 2025: [The Secret of Cavanth's Cove](https://championsguildrpg.com/questLogs/137)
-- 1 Aug 2025: [Fog and Whispers](https://championsguildrpg.com/questLogs/140)
-- 15 Aug 2025: [Fog and war 1](https://championsguildrpg.com/questLogs/150)
-- 29 Aug 2025: [Giant Slayer](https://championsguildrpg.com/questLogs/171)
+- 29 Jul 1025: [The Secret of Cavanth's Cove](https://championsguildrpg.com/questLogs/137)
+- 1 Aug 1025: [Fog and Whispers](https://championsguildrpg.com/questLogs/140)
+- 15 Aug 1025: [Fog and war 1](https://championsguildrpg.com/questLogs/150)
+- 29 Aug 1025: [Giant Slayer](https://championsguildrpg.com/questLogs/171)
 
 <!-- guild-archive-record:end -->

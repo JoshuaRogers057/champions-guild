@@ -38,7 +38,7 @@ He was later tried before the Tribunal of the White Sword, found guilty by the T
 
 **Quest appearances:**
 
-- 24 May 2026: [A Mole Among Us](https://championsguildrpg.com/questLogs/498)
-- 13 Aug 2026: [A Judgment Most High](https://championsguildrpg.com/questLogs/611)
+- 24 May 1026: [A Mole Among Us](https://championsguildrpg.com/questLogs/498)
+- 13 Aug 1026: [A Judgment Most High](https://championsguildrpg.com/questLogs/611)
 
 <!-- guild-archive-record:end -->

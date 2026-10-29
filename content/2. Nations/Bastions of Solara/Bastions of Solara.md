@@ -164,12 +164,12 @@ Radiant public figure and chief diplomat. Her compassion is leveraged for politi
 
 **Quest appearances:**
 
-- 14 Apr 2026: [Hostile Streets](https://championsguildrpg.com/questLogs/429)
-- 15 Apr 2026: [Trial By Fire](https://championsguildrpg.com/questLogs/432)
-- 8 May 2026: [Supply and Demand.](https://championsguildrpg.com/questLogs/462)
-- 9 May 2026: [Enemy of My Enemy](https://championsguildrpg.com/questLogs/464)
-- 24 May 2026: [A Mole Among Us](https://championsguildrpg.com/questLogs/498)
-- 22 Aug 2026: [The Road Between Lights](https://championsguildrpg.com/questLogs/625)
-- 28 Aug 2026: [Clear the Marsh](https://championsguildrpg.com/questLogs/630)
+- 14 Apr 1026: [Hostile Streets](https://championsguildrpg.com/questLogs/429)
+- 15 Apr 1026: [Trial By Fire](https://championsguildrpg.com/questLogs/432)
+- 8 May 1026: [Supply and Demand.](https://championsguildrpg.com/questLogs/462)
+- 9 May 1026: [Enemy of My Enemy](https://championsguildrpg.com/questLogs/464)
+- 24 May 1026: [A Mole Among Us](https://championsguildrpg.com/questLogs/498)
+- 22 Aug 1026: [The Road Between Lights](https://championsguildrpg.com/questLogs/625)
+- 28 Aug 1026: [Clear the Marsh](https://championsguildrpg.com/questLogs/630)
 
 <!-- guild-archive-record:end -->

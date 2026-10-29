@@ -36,7 +36,7 @@ Elress Wain is an official of Waukeen. Elress Wain returned to a public feast wi
 
 **Quest appearances:**
 
-- 6 Feb 2026: [Break Bread](https://championsguildrpg.com/questLogs/347)
-- 22 Mar 2026: [Shadow War: The Last Ascent](https://championsguildrpg.com/questLogs/395)
+- 6 Feb 1026: [Break Bread](https://championsguildrpg.com/questLogs/347)
+- 22 Mar 1026: [Shadow War: The Last Ascent](https://championsguildrpg.com/questLogs/395)
 
 <!-- guild-archive-record:end -->

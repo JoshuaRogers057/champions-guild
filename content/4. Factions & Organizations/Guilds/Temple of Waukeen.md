@@ -34,10 +34,10 @@ A temple of Waukeen in Gilder's Rise was devastated by a bomb, with the Guild me
 
 **Quest appearances:**
 
-- 4 Feb 2026: [Interest Accrued](https://championsguildrpg.com/questLogs/344)
-- 6 Feb 2026: [Break Bread](https://championsguildrpg.com/questLogs/347)
-- 20 Feb 2026: [Troubled Waters](https://championsguildrpg.com/questLogs/359)
-- 18 Mar 2026: [Faith in Flight](https://championsguildrpg.com/questLogs/385)
-- 28 Mar 2026: [Shadow War: Epic (Josh)](https://championsguildrpg.com/questLogs/403)
+- 4 Feb 1026: [Interest Accrued](https://championsguildrpg.com/questLogs/344)
+- 6 Feb 1026: [Break Bread](https://championsguildrpg.com/questLogs/347)
+- 20 Feb 1026: [Troubled Waters](https://championsguildrpg.com/questLogs/359)
+- 18 Mar 1026: [Faith in Flight](https://championsguildrpg.com/questLogs/385)
+- 28 Mar 1026: [Shadow War: Epic (Josh)](https://championsguildrpg.com/questLogs/403)
 
 <!-- guild-archive-record:end -->

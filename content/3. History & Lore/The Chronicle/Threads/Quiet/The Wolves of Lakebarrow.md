@@ -9,7 +9,7 @@ chronicle-thread-id: 26
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Quiet** · City · Crises & Wars · last moved 8 Aug 2026
+> [!info] **Quiet** · City · Crises & Wars · last moved 8 Aug 1026
 
 ## Where it stands
 
@@ -28,10 +28,10 @@ A werewolf curse has taken hold around Lakebarrow. At the opening festival the y
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### August 2026
+### August 1026
 
 <!-- quest:598 -->
-**7 Aug 2026: Celebration Preparation**
+**7 Aug 1026: Celebration Preparation**
 
 The company kept order in Lakebarrow during the festival's preparations and settled several disputes among the visitors. At the celebrations, rumors spread of a red-scaled wolf that had attacked a child named Conan. Ajax and Burnwick followed its trail into the woods and were surrounded by a savage pack, and Ajax lived only because of a well-timed shot from Aspx. The red-scaled wolf itself was never found.
 
@@ -41,7 +41,7 @@ The company kept order in Lakebarrow during the festival's preparations and sett
 <!-- /quest:598 -->
 
 <!-- quest:595 -->
-**8 Aug 2026: Celebration Day - The Opening Festival**
+**8 Aug 1026: Celebration Day - The Opening Festival**
 
 At the opening festival the company gave the young lord some good advice, dodged most of the matchmaking schemes arranged by the lord's wife, and persuaded him to confess his feelings to a young orc servant, a match his parents would not have approved. When he did, he turned into a werewolf, and it came out that the orc servant and two of his advisers were werewolves as well. The company subdued the lord and knocked him unconscious for his own good, while the orc stayed faithfully by his side. The two advisers fled into the dark woods, where another wolf seemed to be calling to them.
 
@@ -51,7 +51,7 @@ At the opening festival the company gave the young lord some good advice, dodged
 <!-- /quest:595 -->
 
 <!-- quest:600 -->
-**8 Aug 2026: Celebration Day - Evening Celebration**
+**8 Aug 1026: Celebration Day - Evening Celebration**
 
 Hazel asked the Guild to find her daughter Red, who had gone to her grandmother's cottage in the woods. The woods were swarming with dragonborn werewolves cursed by the Big Bad Wolf, and Grandmother Hettie, herself cursed, had been secretly experimenting on werewolves in search of a cure. A lieutenant of the Big Bad Wolf held Red and a boy named Conan, both of them cursed; the company defeated the lieutenant and brought the children home. Hettie faced no consequences for her part in Red being bitten.
 

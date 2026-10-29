@@ -53,8 +53,8 @@ Unlike the clan-run cities, Thumdar is ruled directly by **High King [[Durak Sto
 
 **Quest appearances:**
 
-- 30 May 2026: [Dwarven Series - P2 -](https://championsguildrpg.com/questLogs/495)
-- 6 Jun 2026: [Dwarven Series - P3 -](https://championsguildrpg.com/questLogs/502)
-- 13 Jun 2026: [Dwarven Series - P4](https://championsguildrpg.com/questLogs/518)
+- 30 May 1026: [Dwarven Series - P2 -](https://championsguildrpg.com/questLogs/495)
+- 6 Jun 1026: [Dwarven Series - P3 -](https://championsguildrpg.com/questLogs/502)
+- 13 Jun 1026: [Dwarven Series - P4](https://championsguildrpg.com/questLogs/518)
 
 <!-- guild-archive-record:end -->

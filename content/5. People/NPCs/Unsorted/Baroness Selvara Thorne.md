@@ -36,8 +36,8 @@ Baroness Selvara Thorne leads the [[Veilkeepers of Oathend]] with [[Kellan Vare]
 
 **Quest appearances:**
 
-- 19 Jul 2026: [The Lost Cult](https://championsguildrpg.com/questLogs/568)
-- 29 Jul 2026: [The ruins below](https://championsguildrpg.com/questLogs/581)
-- 10 Aug 2026: [Veil Torn: Mini Epic! (Acolyte)](https://championsguildrpg.com/questLogs/602)
+- 19 Jul 1026: [The Lost Cult](https://championsguildrpg.com/questLogs/568)
+- 29 Jul 1026: [The ruins below](https://championsguildrpg.com/questLogs/581)
+- 10 Aug 1026: [Veil Torn: Mini Epic! (Acolyte)](https://championsguildrpg.com/questLogs/602)
 
 <!-- guild-archive-record:end -->

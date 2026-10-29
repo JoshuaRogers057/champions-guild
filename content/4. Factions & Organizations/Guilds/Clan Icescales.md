@@ -32,8 +32,8 @@ The Guild met Clan Icescales during the hunt for Mr. Chill. Frost Icescales, wif
 
 **Quest appearances:**
 
-- 21 Mar 2026: [The Chill of Death](https://championsguildrpg.com/questLogs/390)
-- 24 Jun 2026: [Twisted Shadows](https://championsguildrpg.com/questLogs/535)
-- 5 Sep 2026: [Trade Embargo (Prime Personalized Quest)](https://championsguildrpg.com/questLogs/639)
+- 21 Mar 1026: [The Chill of Death](https://championsguildrpg.com/questLogs/390)
+- 24 Jun 1026: [Twisted Shadows](https://championsguildrpg.com/questLogs/535)
+- 5 Sep 1026: [Trade Embargo (Prime Personalized Quest)](https://championsguildrpg.com/questLogs/639)
 
 <!-- guild-archive-record:end -->

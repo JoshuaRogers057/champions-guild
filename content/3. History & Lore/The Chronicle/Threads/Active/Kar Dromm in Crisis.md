@@ -9,11 +9,11 @@ chronicle-thread-id: 47
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Ongoing** · Nation · Crises & Wars · last moved 22 Aug 2026
+> [!info] **Ongoing** · Nation · Crises & Wars · last moved 22 Aug 1026
 
 ## Where it stands
 
-Assassinations, vacant clan seats, unresolved succession struggles and disputes over the dwarves' right to ancient masterworks have created growing instability throughout Kar Dromm. No single crisis has broken the nation, but several are beginning to overlap. Guild envoys to Thumdar found the road ambushed and Stonegate Hold missing its trade ledger and pass-seal, stolen by Rok Rot smugglers who had help from inside. Earlier, in the autumn of 2025, dwarven mercenaries of the Rok Rot company told the Guild that a pale prophet was rallying clan after clan and stirring trouble. No one is known to have found the prophet.
+Assassinations, vacant clan seats, unresolved succession struggles and disputes over the dwarves' right to ancient masterworks have created growing instability throughout Kar Dromm. No single crisis has broken the nation, but several are beginning to overlap. Guild envoys to Thumdar found the road ambushed and Stonegate Hold missing its trade ledger and pass-seal, stolen by Rok Rot smugglers who had help from inside. Earlier, in the autumn of 1025, dwarven mercenaries of the Rok Rot company told the Guild that a pale prophet was rallying clan after clan and stirring trouble. No one is known to have found the prophet.
 
 ## Unanswered questions
 
@@ -26,10 +26,10 @@ Assassinations, vacant clan seats, unresolved succession struggles and disputes 
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### September 2025
+### September 1025
 
 <!-- quest:192 -->
-**13 Sep 2025: The Corridor**
+**13 Sep 1025: The Corridor**
 
 A company went to the Corridor, where Thalenmark, Lexovar and Kar Dromm meet, after trade through it had nearly stopped. They protected the halfling trader Iida's party while it scouted a large bandit base, which proved to be run by the Rok Rot Mercenary company. The dwarven mercenaries spoke of a pale prophet rallying each clan and stirring trouble. The company thinned their numbers, but several dozen remained in control of a small fort.
 

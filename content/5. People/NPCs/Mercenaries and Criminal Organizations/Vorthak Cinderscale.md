@@ -36,7 +36,7 @@ Vorthak Cinderscale is an officer of the Cracked Scale. Vorthak defeated the Gui
 
 **Quest appearances:**
 
-- 28 Jan 2026: ["Strategic pivot"](https://championsguildrpg.com/questLogs/332)
-- 10 Mar 2026: [Filthy Rats](https://championsguildrpg.com/questLogs/377)
+- 28 Jan 1026: ["Strategic pivot"](https://championsguildrpg.com/questLogs/332)
+- 10 Mar 1026: [Filthy Rats](https://championsguildrpg.com/questLogs/377)
 
 <!-- guild-archive-record:end -->

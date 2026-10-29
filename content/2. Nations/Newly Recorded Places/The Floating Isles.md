@@ -32,7 +32,7 @@ Ruins on the Floating Isles carry the mark of Cyric. Researchers of the Arcane W
 
 **Quest appearances:**
 
-- 26 Sep 2026: [Reach for the Skies](https://championsguildrpg.com/questLogs/659)
-- 3 Oct 2026: [Reach for the Skies (Pt 2)](https://championsguildrpg.com/questLogs/665)
+- 26 Sep 1026: [Reach for the Skies](https://championsguildrpg.com/questLogs/659)
+- 3 Oct 1026: [Reach for the Skies (Pt 2)](https://championsguildrpg.com/questLogs/665)
 
 <!-- guild-archive-record:end -->

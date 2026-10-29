@@ -121,7 +121,7 @@ Nobody truly knows what caused the Scar of Vaelor. Every culture has a different
 
 **Quest appearances:**
 
-- 9 Nov 2025: [Hope for fair winds](https://championsguildrpg.com/questLogs/249)
-- 11 Nov 2025: [Something Old, Something New](https://championsguildrpg.com/questLogs/250)
+- 9 Nov 1025: [Hope for fair winds](https://championsguildrpg.com/questLogs/249)
+- 11 Nov 1025: [Something Old, Something New](https://championsguildrpg.com/questLogs/250)
 
 <!-- guild-archive-record:end -->

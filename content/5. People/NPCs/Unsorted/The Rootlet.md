@@ -36,8 +36,8 @@ The Rootlet is a botanical construct of the Brassleaf Institute. She was newly u
 
 **Quest appearances:**
 
-- 28 Feb 2026: [The Runaway Rootlet](https://championsguildrpg.com/questLogs/367)
-- 6 May 2026: [Rootlet’s Call for Help](https://championsguildrpg.com/questLogs/461)
-- 20 Jul 2026: [Tre’s Personalised Quest - The Heart Takes Root](https://championsguildrpg.com/questLogs/571)
+- 28 Feb 1026: [The Runaway Rootlet](https://championsguildrpg.com/questLogs/367)
+- 6 May 1026: [Rootlet’s Call for Help](https://championsguildrpg.com/questLogs/461)
+- 20 Jul 1026: [Tre’s Personalised Quest - The Heart Takes Root](https://championsguildrpg.com/questLogs/571)
 
 <!-- guild-archive-record:end -->

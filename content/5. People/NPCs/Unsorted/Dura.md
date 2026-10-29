@@ -36,8 +36,8 @@ Dura is a teenage orc warrior who guided the Guild into [[Borgnar]] and showed c
 
 **Quest appearances:**
 
-- 22 Jan 2026: [Bridge of Broken Oaths](https://championsguildrpg.com/questLogs/326)
-- 22 Apr 2026: [Bloody Entertaining 1: Suitable Offerings](https://championsguildrpg.com/questLogs/444)
-- 29 Apr 2026: [Bloody Entertaining 2: One-Eye's Judgement](https://championsguildrpg.com/questLogs/450)
+- 22 Jan 1026: [Bridge of Broken Oaths](https://championsguildrpg.com/questLogs/326)
+- 22 Apr 1026: [Bloody Entertaining 1: Suitable Offerings](https://championsguildrpg.com/questLogs/444)
+- 29 Apr 1026: [Bloody Entertaining 2: One-Eye's Judgement](https://championsguildrpg.com/questLogs/450)
 
 <!-- guild-archive-record:end -->

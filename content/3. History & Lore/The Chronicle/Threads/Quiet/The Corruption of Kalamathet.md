@@ -9,7 +9,7 @@ chronicle-thread-id: 20
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Quiet** · Nation · Crises & Wars · last moved 16 Aug 2026
+> [!info] **Quiet** · Nation · Crises & Wars · last moved 16 Aug 1026
 
 ## Where it stands
 
@@ -26,10 +26,10 @@ The corrupted dragon Kalamathet has been killed twice: once in his nest in the d
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### February 2026
+### February 1026
 
 <!-- quest:364 -->
-**24 Feb 2026: The Dragons Fang: Bizzy Personalized Quest**
+**24 Feb 1026: The Dragons Fang: Bizzy Personalized Quest**
 
 Faelar Stormscale led four companions to Kryzath, where Draknar Kiz told them of a temple with a ritual to lift a curse. The ritual instead cast them onto a desert plateau, where Faelar found he had taken a bronze dragon's egg. Wyrmlings attacked, Besswynne Mòr fell in the fighting, and the company met a spider-dragon hybrid named Kalamathet and narrowly escaped him. They climbed the Storm Spire and returned the egg to the bronze dragon Aereus, who blessed Faelar and sent the company home.
 
@@ -38,10 +38,10 @@ Faelar Stormscale led four companions to Kryzath, where Draknar Kiz told them of
 [Read the full quest record →](https://championsguildrpg.com/questLogs/364)
 <!-- /quest:364 -->
 
-### July 2026
+### July 1026
 
 <!-- quest:557 -->
-**10 Jul 2026: The Withered Scale**
+**10 Jul 1026: The Withered Scale**
 
 Valdrin, Luca Rasvid, Jericho, Molly Quilhart and Vaelynn Whisperwind crossed the desert toward Glassroot Grove through land poisoned by Kalamathet's corruption. They learned that the Crimson Scale of the Death-Dragon lay behind his unnatural change, healed a poisoned camp, and in the grove met Sandkeeper Maura Vess, who told them Heliothrax lay dying of Kalamathet's venom. A cure was needed before he died, or he might rise as another such horror. The tree nymph Poppy gave her life to secure the first component of the cure.
 
@@ -51,7 +51,7 @@ Valdrin, Luca Rasvid, Jericho, Molly Quilhart and Vaelynn Whisperwind crossed th
 <!-- /quest:557 -->
 
 <!-- quest:558 -->
-**10 Jul 2026: The Scales Weight - Next Part**
+**10 Jul 1026: The Scales Weight - Next Part**
 
 The company defeated the hag-spawn Molt and bought a venom sack from the monster hunters led by Celeran. They then reached Kalamathet's nest through the slot canyons and killed him, taking the Crimson Scale from where his heart should have been. The cure was completed, Heliothrax lived, and the grove was saved, and Heliothrax and Aereus gave Valdrin and Molly rings made from dragon scale and petrified wood. Afterward the Crimson Scale was found missing from Molly's Handy Haversack.
 
@@ -62,10 +62,10 @@ The company defeated the hag-spawn Molt and bought a venom sack from the monster
 [Read the full quest record →](https://championsguildrpg.com/questLogs/558)
 <!-- /quest:558 -->
 
-### August 2026
+### August 1026
 
 <!-- quest:616 -->
-**16 Aug 2026: Empire of Bones: Epic-05 (Journeyman/Apprentice)**
+**16 Aug 1026: Empire of Bones: Epic-05 (Journeyman/Apprentice)**
 
 During the Guild's assault on the Vivisectionist, Valdrin, Zila, Prime and Tristan came through a portal realm and found Kalamathet waiting. Valdrin knew him of old, and the four barely defeated him before escaping. The record notes that, given Kalamathet's history, it would be unwise to assume this death is permanent.
 

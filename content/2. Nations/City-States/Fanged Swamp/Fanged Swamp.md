@@ -32,7 +32,7 @@ Fanged Swamp was named as the company's next destination after the island key wa
 
 **Quest appearances:**
 
-- 21 Apr 2026: [The Pursuit of Treasure](https://championsguildrpg.com/questLogs/441)
-- 5 May 2026: [Deep Swamps](https://championsguildrpg.com/questLogs/458)
+- 21 Apr 1026: [The Pursuit of Treasure](https://championsguildrpg.com/questLogs/441)
+- 5 May 1026: [Deep Swamps](https://championsguildrpg.com/questLogs/458)
 
 <!-- guild-archive-record:end -->

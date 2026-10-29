@@ -38,7 +38,7 @@ He refused a duel of honor under mysterious circumstances. The challenger, a you
 
 **Quest appearances:**
 
-- 21 Nov 2025: [Containment Perimeter](https://championsguildrpg.com/questLogs/260)
-- 28 Dec 2025: [Sins of the Father](https://championsguildrpg.com/questLogs/296)
+- 21 Nov 1025: [Containment Perimeter](https://championsguildrpg.com/questLogs/260)
+- 28 Dec 1025: [Sins of the Father](https://championsguildrpg.com/questLogs/296)
 
 <!-- guild-archive-record:end -->

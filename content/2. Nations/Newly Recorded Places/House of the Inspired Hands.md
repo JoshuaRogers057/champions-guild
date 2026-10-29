@@ -32,7 +32,7 @@ The House of the Inspired Hands was the Guild's destination to learn the cause o
 
 **Quest appearances:**
 
-- 17 Sep 2025: [Session 6: The Grand Opening](https://championsguildrpg.com/questLogs/197)
-- 1 Oct 2025: [Fortunes Crossing: Session 7](https://championsguildrpg.com/questLogs/213)
+- 17 Sep 1025: [Session 6: The Grand Opening](https://championsguildrpg.com/questLogs/197)
+- 1 Oct 1025: [Fortunes Crossing: Session 7](https://championsguildrpg.com/questLogs/213)
 
 <!-- guild-archive-record:end -->

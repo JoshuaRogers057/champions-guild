@@ -36,7 +36,7 @@ Inspector Granthem declared the Vane case solved and arrested Albin Finch. Grant
 
 **Quest appearances:**
 
-- 14 Nov 2025: [The Smoldering Will (Kestrels Personalized Quest)](https://championsguildrpg.com/questLogs/252)
-- 19 Dec 2025: [Where the Ink Settles (Kestrel Personalized](https://championsguildrpg.com/questLogs/287)
+- 14 Nov 1025: [The Smoldering Will (Kestrels Personalized Quest)](https://championsguildrpg.com/questLogs/252)
+- 19 Dec 1025: [Where the Ink Settles (Kestrel Personalized](https://championsguildrpg.com/questLogs/287)
 
 <!-- guild-archive-record:end -->

@@ -5,7 +5,7 @@ tags:
   - digest
 ---
 
-> [!note] The newest weekly digest, for 27 Oct 2026. Earlier weeks: [[Current Stories#Past digests|past digests]].
+> [!note] The newest weekly digest, for 27 Oct 1026. Earlier weeks: [[Current Stories#Past digests|past digests]].
 
 # The Story So Far
 
@@ -19,4 +19,4 @@ Three domes still stand over Eryndor, Talvereth has not recovered from its fall,
 - The Smiles Gang's leader escaped into the floating isles after the temple's warden fell. ([[The Smiles Gang]])
 - The Resonance Loom beneath Auris Prime is nearly complete, and some forty children are missing. ([[The Bastions of Solara and the Resonance Loom]])
 
-*Permanent link to this week: [[This Week in Eryndor 2026-10-27]]*
+*Permanent link to this week: [[This Week in Eryndor 1026-10-27]]*

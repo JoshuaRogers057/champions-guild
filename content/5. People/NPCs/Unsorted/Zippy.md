@@ -36,7 +36,7 @@ Zippy is a lead artificer who was rescued from Elkhara. Zippy developed a potion
 
 **Quest appearances:**
 
-- 2 Jul 2026: [Artificer to the Rescue](https://championsguildrpg.com/questLogs/543)
-- 24 Jul 2026: [The Corupted](https://championsguildrpg.com/questLogs/575)
+- 2 Jul 1026: [Artificer to the Rescue](https://championsguildrpg.com/questLogs/543)
+- 24 Jul 1026: [The Corupted](https://championsguildrpg.com/questLogs/575)
 
 <!-- guild-archive-record:end -->

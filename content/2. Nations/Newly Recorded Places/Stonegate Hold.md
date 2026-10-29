@@ -32,7 +32,7 @@ Stonegate Hold is a dwarven fort that the caravan reached after the ambush on th
 
 **Quest appearances:**
 
-- 23 May 2026: [Dwarven Series - P1 - Footfalls In The Stone Halls](https://championsguildrpg.com/questLogs/486)
-- 30 May 2026: [Dwarven Series - P2 -](https://championsguildrpg.com/questLogs/495)
+- 23 May 1026: [Dwarven Series - P1 - Footfalls In The Stone Halls](https://championsguildrpg.com/questLogs/486)
+- 30 May 1026: [Dwarven Series - P2 -](https://championsguildrpg.com/questLogs/495)
 
 <!-- guild-archive-record:end -->

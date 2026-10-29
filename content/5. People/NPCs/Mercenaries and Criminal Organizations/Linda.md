@@ -36,7 +36,7 @@ Linda is a woman of the Brotherhood of the Rat. The Guild gave her shares in exc
 
 **Quest appearances:**
 
-- 11 Jul 2025: [Progress Rolls On. Part 2 Splinters on the Line](https://championsguildrpg.com/questLogs/117)
-- 25 Jul 2025: [Progress rolls on part 4](https://championsguildrpg.com/questLogs/134)
+- 11 Jul 1025: [Progress Rolls On. Part 2 Splinters on the Line](https://championsguildrpg.com/questLogs/117)
+- 25 Jul 1025: [Progress rolls on part 4](https://championsguildrpg.com/questLogs/134)
 
 <!-- guild-archive-record:end -->

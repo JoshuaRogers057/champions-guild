@@ -36,7 +36,7 @@ Captain Redfall is a sailor who commissioned the Guild to seek the treasure wrec
 
 **Quest appearances:**
 
-- 8 Jul 2025: [Shipwreck of the Emerald Wake](https://championsguildrpg.com/questLogs/116)
-- 29 Jul 2025: [The Secret of Cavanth's Cove](https://championsguildrpg.com/questLogs/137)
+- 8 Jul 1025: [Shipwreck of the Emerald Wake](https://championsguildrpg.com/questLogs/116)
+- 29 Jul 1025: [The Secret of Cavanth's Cove](https://championsguildrpg.com/questLogs/137)
 
 <!-- guild-archive-record:end -->

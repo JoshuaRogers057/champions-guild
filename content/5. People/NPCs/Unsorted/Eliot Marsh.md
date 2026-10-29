@@ -36,8 +36,8 @@ Eliot Marsh is a halfling who received the Guild's delivered package at Spens, a
 
 **Quest appearances:**
 
-- 1 Feb 2026: [Emergency Delivery](https://championsguildrpg.com/questLogs/339)
-- 5 May 2026: [Deep Swamps](https://championsguildrpg.com/questLogs/458)
-- 1 Jul 2026: [The Lost Son of Steel](https://championsguildrpg.com/questLogs/542)
+- 1 Feb 1026: [Emergency Delivery](https://championsguildrpg.com/questLogs/339)
+- 5 May 1026: [Deep Swamps](https://championsguildrpg.com/questLogs/458)
+- 1 Jul 1026: [The Lost Son of Steel](https://championsguildrpg.com/questLogs/542)
 
 <!-- guild-archive-record:end -->

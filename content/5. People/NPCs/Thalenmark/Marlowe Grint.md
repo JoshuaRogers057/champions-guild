@@ -35,6 +35,6 @@ Killed during [[The Talvereth Crisis]]. The exact circumstances of their death a
 
 **Quest appearances:**
 
-- 6 Sep 2026: [Closing The Account](https://championsguildrpg.com/questLogs/641)
+- 6 Sep 1026: [Closing The Account](https://championsguildrpg.com/questLogs/641)
 
 <!-- guild-archive-record:end -->

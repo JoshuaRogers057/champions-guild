@@ -9,7 +9,7 @@ chronicle-thread-id: 31
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Ongoing** · City · Crises & Wars · last moved 1 Sep 2026
+> [!info] **Ongoing** · City · Crises & Wars · last moved 1 Sep 1026
 
 ## Where it stands
 
@@ -26,10 +26,10 @@ Spens is rebuilding after a coalition of pirate crews from the Dreadwake took it
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### August 2026
+### August 1026
 
 <!-- quest:619 -->
-**17 Aug 2026: Risky Business**
+**17 Aug 1026: Risky Business**
 
 A company followed the trail of a man named Stanley through Spens, ruling out the Ring of Wrath and the Devils Cabaret in turn. They found him at a resort called The Long Rest, where a devil had possessed him and held him in an endless sleep. The company drove the devil out together, but the devil itself was not defeated, and more questions were raised than answered.
 
@@ -38,10 +38,10 @@ A company followed the trail of a man named Stanley through Spens, ruling out th
 [Read the full quest record →](https://championsguildrpg.com/questLogs/619)
 <!-- /quest:619 -->
 
-### September 2026
+### September 1026
 
 <!-- quest:637 -->
-**1 Sep 2026: A Bloodthirsty Audience**
+**1 Sep 1026: A Bloodthirsty Audience**
 
 A company entered the Ring of Wrath, a secret fighting pit, as competitors, hoping to learn where a captive named Lindal was held. The pit's owner, the mercenary captain Kainrik Duskpike, wanted a defeated gladiator, Bromwood, killed; Julian refused when Bromwood surrendered, and the captain's anger ended in a fight. Kainrik revealed himself as a devil and teleported away when beaten. The company then found Lindal's cell and escaped.
 

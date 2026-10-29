@@ -32,9 +32,9 @@ The Veilkeepers of Oathend are an order that keeps necromantic knowledge and rel
 
 **Quest appearances:**
 
-- 19 Jul 2026: [The Lost Cult](https://championsguildrpg.com/questLogs/568)
-- 29 Jul 2026: [The ruins below](https://championsguildrpg.com/questLogs/581)
-- 10 Aug 2026: [Veil Torn: Mini Epic! (Acolyte)](https://championsguildrpg.com/questLogs/602)
-- 10 Aug 2026: [Veil Torn: Mini Epic! (apprentice)](https://championsguildrpg.com/questLogs/603)
+- 19 Jul 1026: [The Lost Cult](https://championsguildrpg.com/questLogs/568)
+- 29 Jul 1026: [The ruins below](https://championsguildrpg.com/questLogs/581)
+- 10 Aug 1026: [Veil Torn: Mini Epic! (Acolyte)](https://championsguildrpg.com/questLogs/602)
+- 10 Aug 1026: [Veil Torn: Mini Epic! (apprentice)](https://championsguildrpg.com/questLogs/603)
 
 <!-- guild-archive-record:end -->

@@ -36,10 +36,10 @@ A city guard in Raethalor and a childhood friend of Ren Stray. She helped the Gu
 
 **Quest appearances:**
 
-- 25 Jul 2025: [Progress rolls on part 4](https://championsguildrpg.com/questLogs/134)
-- 1 Aug 2025: [Fog and Whispers](https://championsguildrpg.com/questLogs/140)
-- 15 Aug 2025: [Fog and war 1](https://championsguildrpg.com/questLogs/150)
-- 3 Oct 2025: [Retribution](https://championsguildrpg.com/questLogs/215)
-- 6 Oct 2025: [Retribution conclusion](https://championsguildrpg.com/questLogs/218)
+- 25 Jul 1025: [Progress rolls on part 4](https://championsguildrpg.com/questLogs/134)
+- 1 Aug 1025: [Fog and Whispers](https://championsguildrpg.com/questLogs/140)
+- 15 Aug 1025: [Fog and war 1](https://championsguildrpg.com/questLogs/150)
+- 3 Oct 1025: [Retribution](https://championsguildrpg.com/questLogs/215)
+- 6 Oct 1025: [Retribution conclusion](https://championsguildrpg.com/questLogs/218)
 
 <!-- guild-archive-record:end -->

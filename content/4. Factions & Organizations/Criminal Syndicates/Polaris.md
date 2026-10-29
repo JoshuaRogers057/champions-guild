@@ -28,12 +28,12 @@ Its goal seems ideological rather than merely criminal: control, order, and the 
 
 **Quest appearances:**
 
-- 29 Nov 2025: [Below Zero (Personalized Quest)](https://championsguildrpg.com/questLogs/270)
-- 23 Dec 2025: [The Naughty List](https://championsguildrpg.com/questLogs/292)
-- 11 Jan 2026: [A New Beginning](https://championsguildrpg.com/questLogs/310)
-- 21 Mar 2026: [The Chill of Death](https://championsguildrpg.com/questLogs/390)
-- 24 Jun 2026: [Twisted Shadows](https://championsguildrpg.com/questLogs/535)
-- 8 Jul 2026: [Frozen Sails](https://championsguildrpg.com/questLogs/555)
-- 4 Oct 2026: [A Giant Problem (Pt 2)](https://championsguildrpg.com/questLogs/668)
+- 29 Nov 1025: [Below Zero (Personalized Quest)](https://championsguildrpg.com/questLogs/270)
+- 23 Dec 1025: [The Naughty List](https://championsguildrpg.com/questLogs/292)
+- 11 Jan 1026: [A New Beginning](https://championsguildrpg.com/questLogs/310)
+- 21 Mar 1026: [The Chill of Death](https://championsguildrpg.com/questLogs/390)
+- 24 Jun 1026: [Twisted Shadows](https://championsguildrpg.com/questLogs/535)
+- 8 Jul 1026: [Frozen Sails](https://championsguildrpg.com/questLogs/555)
+- 4 Oct 1026: [A Giant Problem (Pt 2)](https://championsguildrpg.com/questLogs/668)
 
 <!-- guild-archive-record:end -->

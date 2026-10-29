@@ -36,7 +36,7 @@ Slivice is an ancient white dragon who punished a traitor commander. Slivice lat
 
 **Quest appearances:**
 
-- 6 Sep 2026: [Through Ice and Snow](https://championsguildrpg.com/questLogs/643)
-- 4 Oct 2026: [A Giant Problem (Pt 2)](https://championsguildrpg.com/questLogs/668)
+- 6 Sep 1026: [Through Ice and Snow](https://championsguildrpg.com/questLogs/643)
+- 4 Oct 1026: [A Giant Problem (Pt 2)](https://championsguildrpg.com/questLogs/668)
 
 <!-- guild-archive-record:end -->

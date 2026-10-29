@@ -9,7 +9,7 @@ chronicle-thread-id: 21
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Dormant** · Faction · Mysteries & Arcana · last moved 29 Aug 2025
+> [!info] **Dormant** · Faction · Mysteries & Arcana · last moved 29 Aug 1025
 
 ## Where it stands
 
@@ -28,10 +28,10 @@ Raethalor lies under Sire Valkek's permanent garrison, and Countess Vyra Nashen 
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### July 2025
+### July 1025
 
 <!-- quest:116 -->
-**8 Jul 2025: Shipwreck of the Emerald Wake**
+**8 Jul 1025: Shipwreck of the Emerald Wake**
 
 A company of five commissioned Captain Redfall to seek out the treasure wreck of the Emerald Wake. They recovered it after battling the sea and the monsters of the deep.
 
@@ -41,7 +41,7 @@ A company of five commissioned Captain Redfall to seek out the treasure wreck of
 <!-- /quest:116 -->
 
 <!-- quest:134 -->
-**25 Jul 2025: Progress rolls on part 4**
+**25 Jul 1025: Progress rolls on part 4**
 
 The party paid off Linda and the Rats and so secured the rail, which was by now close to Raethalor. They had dealings with Countess Vyra Nashen and with the orphanage, and Ren Stray was reunited with Mira, an old friend now serving as a city guard in Raethalor.
 
@@ -53,7 +53,7 @@ The party paid off Linda and the Rats and so secured the rail, which was by now 
 <!-- /quest:134 -->
 
 <!-- quest:137 -->
-**29 Jul 2025: The Secret of Cavanth's Cove**
+**29 Jul 1025: The Secret of Cavanth's Cove**
 
 Commissioned by the sailor Captain Redfall, the party entered the long-abandoned grotto of the pirate Captain Cavanth in search of a jewel-encrusted child's music box said to have belonged to the hag Melthora. They fought twisted creatures there, and learned that the many-headed beast in the depths was Saxson, Cavanth's own daughter, transformed by the hag's curse. They took the music box from a hidden vault and gave it to Redfall, who swore to return it to Melthora, though his motives remain his own.
 
@@ -64,10 +64,10 @@ Commissioned by the sailor Captain Redfall, the party entered the long-abandoned
 [Read the full quest record →](https://championsguildrpg.com/questLogs/137)
 <!-- /quest:137 -->
 
-### August 2025
+### August 1025
 
 <!-- quest:140 -->
-**1 Aug 2025: Fog and Whispers**
+**1 Aug 1025: Fog and Whispers**
 
 Mistress Ellid, keeper of the orphanage, had been kidnapped and the boy Tallo was missing. The party learned that illegitimate nobles had vanished across Kastalshire, and that Sire Valkek had brought a permanent garrison to Raethalor and evicted Countess Vyra from her manor. They rescued Tallo and found him in the midst of a transformation; after debating whether to kill him, they chose to take him to the hag Melthora in the hope of paying her price for his healing. The countess told them of a smugglers' cove where a ship could be had.
 
@@ -77,7 +77,7 @@ Mistress Ellid, keeper of the orphanage, had been kidnapped and the boy Tallo wa
 <!-- /quest:140 -->
 
 <!-- quest:150 -->
-**15 Aug 2025: Fog and war 1**
+**15 Aug 1025: Fog and war 1**
 
 The party met the hag Melthora and made bargains. A member recorded only as Gram became a fifty-year-old halfling who will now age backwards, owing two favours; Narthex took a crystal spellbook of endless pages, owing one; and Wizbit was given a ship, the Myrra, and the promise of his genie's return, with Melthora as his patron. Bogrum had one eye turned into a Hag's Eye tied to Melthora, and learned that his father had been killed by his brother and that he must go to Thundrakar to put things right. Murcon and Ren took nothing, but Ren was told that Mira had been kidnapped.
 
@@ -87,7 +87,7 @@ The party met the hag Melthora and made bargains. A member recorded only as Gram
 <!-- /quest:150 -->
 
 <!-- quest:159 -->
-**22 Aug 2025: Wispers and Fog**
+**22 Aug 1025: Wispers and Fog**
 
 The party attended a masquerade full of vampires and killed a vampire lord. In doing so they accidentally loosed into the world a number of vampires that had been under the control of the vampire lord Tavard. One of them was Dr. Vathros, later known as the Vivisectionist.
 
@@ -97,7 +97,7 @@ The party attended a masquerade full of vampires and killed a vampire lord. In d
 <!-- /quest:159 -->
 
 <!-- quest:171 -->
-**29 Aug 2025: Giant Slayer**
+**29 Aug 1025: Giant Slayer**
 
 Vaelynn Whisperwind, Wizbit and Everrett Stonehelm joined Bogrum in his village, Stonehall, for the funeral of his father, Fanir. Banished from his clan, Bogrum made his case to inherit his father's possessions, and it was agreed that a competitive giant hunt would decide it. Wizbit took the Myrra for his own and holds documents that prove his legal ownership of the vessel. Bogrum killed his brother, and learned some personal and upsetting things about his pact with Melthora.
 

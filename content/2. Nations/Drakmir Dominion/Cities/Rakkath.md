@@ -65,8 +65,8 @@ The Dominion likes to imagine its wealth as disciplined and honorable, but Rakka
 
 **Quest appearances:**
 
-- 25 Jan 2026: [New Managment](https://championsguildrpg.com/questLogs/330)
-- 28 Jan 2026: ["Strategic pivot"](https://championsguildrpg.com/questLogs/332)
-- 12 Feb 2026: [Breaking the Scale's Hold](https://championsguildrpg.com/questLogs/352)
+- 25 Jan 1026: [New Managment](https://championsguildrpg.com/questLogs/330)
+- 28 Jan 1026: ["Strategic pivot"](https://championsguildrpg.com/questLogs/332)
+- 12 Feb 1026: [Breaking the Scale's Hold](https://championsguildrpg.com/questLogs/352)
 
 <!-- guild-archive-record:end -->

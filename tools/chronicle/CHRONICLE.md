@@ -34,6 +34,10 @@ when they have no `Z`.
 The head of the Guild settled these while the campaign's history was written in (October 2026). Don't
 ask about them again.
 
+- **The calendar:** Eryndor's year is the real year less 1000, and the days and months line up, so
+  29 October 2026 is 29 October 1026. The API sends real dates; every year you write in lore text,
+  digests included, is the in-world one ("in August 1025", never "in August 2025"). The page script
+  already converts the dates it formats.
 - **The Last Howl** builds a new dungeon each time someone goes through its portal, and the dungeon vanishes
   once it's cleared. Last Howl runs are standalone: never link one to a thread.
 - **Fragments** are a magical stone found across Eryndor. They turn up in many quests but never connect
@@ -106,7 +110,7 @@ A timeline entry is 2 to 4 sentences about what happened in that one quest, for 
 4. Also read:
    - the vault pages for names the summary mentions (search `content/`)
    - the old hand-written page
-     `content/3. History & Lore/Current Stories (Summer 2026, manual).md`, for old entries this quest
+     `content/3. History & Lore/Current Stories (Summer 1026, manual).md`, for old entries this quest
      continues
 5. For each ready quest, decide what to ask. Post with
    `POST batches/{questLogId}/questions` and a JSON array (empty `[]` means "nothing to ask"). Each

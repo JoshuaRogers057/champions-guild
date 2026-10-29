@@ -230,9 +230,9 @@ The twins are extremely close but often take differing approaches: Dorian throug
 
 **Quest appearances:**
 
-- 4 Jul 2025: [Progress Rolls On](https://championsguildrpg.com/questLogs/111)
-- 1 Aug 2025: [Fog and Whispers](https://championsguildrpg.com/questLogs/140)
-- 11 Nov 2025: [Something Old, Something New](https://championsguildrpg.com/questLogs/250)
-- 15 Nov 2025: [Rescue Op](https://championsguildrpg.com/questLogs/254)
+- 4 Jul 1025: [Progress Rolls On](https://championsguildrpg.com/questLogs/111)
+- 1 Aug 1025: [Fog and Whispers](https://championsguildrpg.com/questLogs/140)
+- 11 Nov 1025: [Something Old, Something New](https://championsguildrpg.com/questLogs/250)
+- 15 Nov 1025: [Rescue Op](https://championsguildrpg.com/questLogs/254)
 
 <!-- guild-archive-record:end -->

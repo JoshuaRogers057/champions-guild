@@ -32,7 +32,7 @@ Rails End is a mobile town at the head of the line, where the Guild's railroad w
 
 **Quest appearances:**
 
-- 4 Jul 2025: [Progress Rolls On](https://championsguildrpg.com/questLogs/111)
-- 11 Jul 2025: [Progress Rolls On. Part 2 Splinters on the Line](https://championsguildrpg.com/questLogs/117)
+- 4 Jul 1025: [Progress Rolls On](https://championsguildrpg.com/questLogs/111)
+- 11 Jul 1025: [Progress Rolls On. Part 2 Splinters on the Line](https://championsguildrpg.com/questLogs/117)
 
 <!-- guild-archive-record:end -->

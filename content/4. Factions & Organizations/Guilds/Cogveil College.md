@@ -32,9 +32,9 @@ The Guild found Cogveil College deeply involved in the theft of the Rootlet's tr
 
 **Quest appearances:**
 
-- 6 May 2026: [Rootlet’s Call for Help](https://championsguildrpg.com/questLogs/461)
-- 2 Jun 2026: [Ryan Personalised Quest — Zed Series: Part I — The Summer Symposium](https://championsguildrpg.com/questLogs/499)
-- 4 Jun 2026: [Ryan Personalised Quest — Zed Series: Part III — Beneath Ivory Halls](https://championsguildrpg.com/questLogs/503)
-- 20 Jul 2026: [Tre’s Personalised Quest - The Heart Takes Root](https://championsguildrpg.com/questLogs/571)
+- 6 May 1026: [Rootlet’s Call for Help](https://championsguildrpg.com/questLogs/461)
+- 2 Jun 1026: [Ryan Personalised Quest — Zed Series: Part I — The Summer Symposium](https://championsguildrpg.com/questLogs/499)
+- 4 Jun 1026: [Ryan Personalised Quest — Zed Series: Part III — Beneath Ivory Halls](https://championsguildrpg.com/questLogs/503)
+- 20 Jul 1026: [Tre’s Personalised Quest - The Heart Takes Root](https://championsguildrpg.com/questLogs/571)
 
 <!-- guild-archive-record:end -->

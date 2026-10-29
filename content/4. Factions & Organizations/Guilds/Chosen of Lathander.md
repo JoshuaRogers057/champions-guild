@@ -32,9 +32,9 @@ Five Chosen of Lathander exist across Eryndor. Mazgar, Shedinn and Ki Ka'Rah are
 
 **Quest appearances:**
 
-- 26 Dec 2025: [Lathander Saga 3](https://championsguildrpg.com/questLogs/293)
-- 5 Jun 2026: [Dead Weight (Lathander Calls)](https://championsguildrpg.com/questLogs/505)
-- 1 Aug 2026: [Tracking Trouble (Eldarin)](https://championsguildrpg.com/questLogs/588)
-- 3 Aug 2026: [Chosen Assemble](https://championsguildrpg.com/questLogs/590)
+- 26 Dec 1025: [Lathander Saga 3](https://championsguildrpg.com/questLogs/293)
+- 5 Jun 1026: [Dead Weight (Lathander Calls)](https://championsguildrpg.com/questLogs/505)
+- 1 Aug 1026: [Tracking Trouble (Eldarin)](https://championsguildrpg.com/questLogs/588)
+- 3 Aug 1026: [Chosen Assemble](https://championsguildrpg.com/questLogs/590)
 
 <!-- guild-archive-record:end -->

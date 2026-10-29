@@ -32,8 +32,8 @@ The Naerwyn ruins lie in the untamed edges of Thalenmark and are centred on a gr
 
 **Quest appearances:**
 
-- 7 Jan 2026: [The Silence of Naerwyn](https://championsguildrpg.com/questLogs/306)
-- 14 Jan 2026: [The Silence of Naerwyn (Part 2)](https://championsguildrpg.com/questLogs/314)
-- 18 Jan 2026: [The Silence of Naerwyn (Part 3)](https://championsguildrpg.com/questLogs/319)
+- 7 Jan 1026: [The Silence of Naerwyn](https://championsguildrpg.com/questLogs/306)
+- 14 Jan 1026: [The Silence of Naerwyn (Part 2)](https://championsguildrpg.com/questLogs/314)
+- 18 Jan 1026: [The Silence of Naerwyn (Part 3)](https://championsguildrpg.com/questLogs/319)
 
 <!-- guild-archive-record:end -->

@@ -1,5 +1,5 @@
 ---
-title: "This Week in Eryndor, 27 Oct 2026"
+title: "This Week in Eryndor, 27 Oct 1026"
 date: 2026-10-27
 tags:
   - chronicle

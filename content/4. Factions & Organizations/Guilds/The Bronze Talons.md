@@ -31,7 +31,7 @@ Their scouts, mounted couriers, crossbow teams, and disciplined infantry move fa
 
 **Quest appearances:**
 
-- 23 Jul 2025: [Fortunes Crossing (Part 1)](https://championsguildrpg.com/questLogs/131)
-- 30 Jul 2025: [Fortunes Crossing: Part 2](https://championsguildrpg.com/questLogs/138)
+- 23 Jul 1025: [Fortunes Crossing (Part 1)](https://championsguildrpg.com/questLogs/131)
+- 30 Jul 1025: [Fortunes Crossing: Part 2](https://championsguildrpg.com/questLogs/138)
 
 <!-- guild-archive-record:end -->

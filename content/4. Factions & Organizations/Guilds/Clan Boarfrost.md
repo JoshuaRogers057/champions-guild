@@ -32,8 +32,8 @@ A spy was uncovered within Clan Boarfrost, and a settlement was defended against
 
 **Quest appearances:**
 
-- 11 Jan 2026: [A New Beginning](https://championsguildrpg.com/questLogs/310)
-- 3 Mar 2026: [Hunting the Hunters](https://championsguildrpg.com/questLogs/368)
-- 27 Sep 2026: [A Giant Problem (Pt 1)](https://championsguildrpg.com/questLogs/662)
+- 11 Jan 1026: [A New Beginning](https://championsguildrpg.com/questLogs/310)
+- 3 Mar 1026: [Hunting the Hunters](https://championsguildrpg.com/questLogs/368)
+- 27 Sep 1026: [A Giant Problem (Pt 1)](https://championsguildrpg.com/questLogs/662)
 
 <!-- guild-archive-record:end -->

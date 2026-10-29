@@ -36,8 +36,8 @@ Lord and Lady Mask are two masked figures who ambushed the party after the tome 
 
 **Quest appearances:**
 
-- 19 Jul 2026: [The Lost Cult](https://championsguildrpg.com/questLogs/568)
-- 29 Jul 2026: [The ruins below](https://championsguildrpg.com/questLogs/581)
-- 16 Aug 2026: [Empire of Bones: Epic-05 (Journeyman/Apprentice)](https://championsguildrpg.com/questLogs/616)
+- 19 Jul 1026: [The Lost Cult](https://championsguildrpg.com/questLogs/568)
+- 29 Jul 1026: [The ruins below](https://championsguildrpg.com/questLogs/581)
+- 16 Aug 1026: [Empire of Bones: Epic-05 (Journeyman/Apprentice)](https://championsguildrpg.com/questLogs/616)
 
 <!-- guild-archive-record:end -->

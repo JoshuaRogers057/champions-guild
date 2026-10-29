@@ -78,9 +78,9 @@ Ciliren's armored wall — a fortified military ring that stores constructs and 
 
 **Quest appearances:**
 
-- 12 Aug 2025: [Taken](https://championsguildrpg.com/questLogs/147)
-- 23 Dec 2025: [The Naughty List](https://championsguildrpg.com/questLogs/292)
-- 8 Apr 2026: [Unicorn Sighting](https://championsguildrpg.com/questLogs/419)
-- 30 Jul 2026: [Give Me the Money](https://championsguildrpg.com/questLogs/584)
+- 12 Aug 1025: [Taken](https://championsguildrpg.com/questLogs/147)
+- 23 Dec 1025: [The Naughty List](https://championsguildrpg.com/questLogs/292)
+- 8 Apr 1026: [Unicorn Sighting](https://championsguildrpg.com/questLogs/419)
+- 30 Jul 1026: [Give Me the Money](https://championsguildrpg.com/questLogs/584)
 
 <!-- guild-archive-record:end -->

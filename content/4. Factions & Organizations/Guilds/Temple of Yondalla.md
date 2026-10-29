@@ -32,8 +32,8 @@ Leaders of the Temple of Yondalla were invited to a public feast, where a cleric
 
 **Quest appearances:**
 
-- 6 Feb 2026: [Break Bread](https://championsguildrpg.com/questLogs/347)
-- 20 Feb 2026: [Troubled Waters](https://championsguildrpg.com/questLogs/359)
-- 20 Feb 2026: [Coin and Cinders](https://championsguildrpg.com/questLogs/360)
+- 6 Feb 1026: [Break Bread](https://championsguildrpg.com/questLogs/347)
+- 20 Feb 1026: [Troubled Waters](https://championsguildrpg.com/questLogs/359)
+- 20 Feb 1026: [Coin and Cinders](https://championsguildrpg.com/questLogs/360)
 
 <!-- guild-archive-record:end -->

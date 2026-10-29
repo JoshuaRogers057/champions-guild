@@ -9,7 +9,7 @@ chronicle-thread-id: 29
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Dormant** · Personal · Intrigue & Crime · last moved 19 Dec 2025
+> [!info] **Dormant** · Personal · Intrigue & Crime · last moved 19 Dec 1025
 
 ## Where it stands
 
@@ -28,10 +28,10 @@ Silas Vane, found alive after his supposed murder, slipped away and has taken th
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### November 2025
+### November 1025
 
 <!-- quest:252 -->
-**14 Nov 2025: The Smoldering Will (Kestrels Personalized Quest)**
+**14 Nov 1025: The Smoldering Will (Kestrels Personalized Quest)**
 
 Silas Vane, the man Albin Finch had been arrested for murdering, was found alive, hidden in a secret compartment of his own estate. Inspector Granthem had declared the case solved, but Kestrel Veydrak, Leon, Alexander Rivers and Digdug disagreed, and at the Vane estate they caught the housekeeper, Ms. Lexington, planting false evidence against Finch. A visit to the bank showed that Vane had moved his entire fortune to an associate named Theron, and the Guild concluded that the charred remains at the lumberyard were Theron's. Confronted, the woman had her thoughts read by one of the Guild, which revealed Vane's hiding place, and Finch went free.
 
@@ -40,10 +40,10 @@ Silas Vane, the man Albin Finch had been arrested for murdering, was found alive
 [Read the full quest record →](https://championsguildrpg.com/questLogs/252)
 <!-- /quest:252 -->
 
-### December 2025
+### December 1025
 
 <!-- quest:287 -->
-**19 Dec 2025: Where the Ink Settles (Kestrel Personalized**
+**19 Dec 1025: Where the Ink Settles (Kestrel Personalized**
 
 Kestrel Veydrak was drawn back into a case he had closed when the City of Ciliren quietly rewrote the record to name him its official consultant. Digging deeper, he, Ki Ka'Rah and Digdug found that Inspector Granthem had learned Silas Vane had neither escaped nor died, but had been erased by altered records and false reports. Granthem's inquiry cost him his life: he was murdered by a local herbalist, Rosidysa Baffletrick, who was silencing everyone who knew the truth. A search of Vane's abandoned manor showed that Silas had taken a new name, Marcellin Roth, and gone on to Talvereth.
 

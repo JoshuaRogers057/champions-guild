@@ -36,7 +36,7 @@ Leothin is an assassin for the Cracked Scale. Leothin escaped the Guild at [[Rak
 
 **Quest appearances:**
 
-- 25 Jan 2026: [New Managment](https://championsguildrpg.com/questLogs/330)
-- 4 Feb 2026: [Cracking the Scale](https://championsguildrpg.com/questLogs/343)
+- 25 Jan 1026: [New Managment](https://championsguildrpg.com/questLogs/330)
+- 4 Feb 1026: [Cracking the Scale](https://championsguildrpg.com/questLogs/343)
 
 <!-- guild-archive-record:end -->

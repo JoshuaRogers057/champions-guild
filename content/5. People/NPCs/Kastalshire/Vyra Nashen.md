@@ -29,7 +29,7 @@ Countess Vyra Nashen ([[Raethalor]]): Diplomatic and successful in stabilizing h
 
 **Quest appearances:**
 
-- 25 Jul 2025: [Progress rolls on part 4](https://championsguildrpg.com/questLogs/134)
-- 1 Aug 2025: [Fog and Whispers](https://championsguildrpg.com/questLogs/140)
+- 25 Jul 1025: [Progress rolls on part 4](https://championsguildrpg.com/questLogs/134)
+- 1 Aug 1025: [Fog and Whispers](https://championsguildrpg.com/questLogs/140)
 
 <!-- guild-archive-record:end -->

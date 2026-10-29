@@ -27,7 +27,7 @@ A hobgoblin who speaks through a bone flute implanted in his throat.
 
 **Quest appearances:**
 
-- 21 Apr 2026: [The Pursuit of Treasure](https://championsguildrpg.com/questLogs/441)
-- 5 May 2026: [Deep Swamps](https://championsguildrpg.com/questLogs/458)
+- 21 Apr 1026: [The Pursuit of Treasure](https://championsguildrpg.com/questLogs/441)
+- 5 May 1026: [Deep Swamps](https://championsguildrpg.com/questLogs/458)
 
 <!-- guild-archive-record:end -->

@@ -32,10 +32,10 @@ Oathend was the seat of the [[Veilkeepers of Oathend]], and the Ossuary Mandate 
 
 **Quest appearances:**
 
-- 19 Jul 2026: [The Lost Cult](https://championsguildrpg.com/questLogs/568)
-- 29 Jul 2026: [The ruins below](https://championsguildrpg.com/questLogs/581)
-- 10 Aug 2026: [Veil Torn: Mini Epic! (Acolyte)](https://championsguildrpg.com/questLogs/602)
-- 10 Aug 2026: [Veil Torn: Mini Epic! (apprentice)](https://championsguildrpg.com/questLogs/603)
-- 16 Aug 2026: [Empire of Bones: Epic-05 (Journeyman)](https://championsguildrpg.com/questLogs/617)
+- 19 Jul 1026: [The Lost Cult](https://championsguildrpg.com/questLogs/568)
+- 29 Jul 1026: [The ruins below](https://championsguildrpg.com/questLogs/581)
+- 10 Aug 1026: [Veil Torn: Mini Epic! (Acolyte)](https://championsguildrpg.com/questLogs/602)
+- 10 Aug 1026: [Veil Torn: Mini Epic! (apprentice)](https://championsguildrpg.com/questLogs/603)
+- 16 Aug 1026: [Empire of Bones: Epic-05 (Journeyman)](https://championsguildrpg.com/questLogs/617)
 
 <!-- guild-archive-record:end -->

@@ -1,5 +1,5 @@
 ---
-title: Current Stories (Summer 2026, manual)
+title: Current Stories (Summer 1026, manual)
 draft: true
 tags:
   - world-state
@@ -8,7 +8,7 @@ tags:
 
 <!-- Retired: the hand-written page, kept off the site (draft) so the Chronicle routines can still read it and offer to start threads from its entries. The new Current Stories lives in The Chronicle. -->
 
-# Current Stories (Summer 2026, manual)
+# Current Stories (Summer 1026, manual)
 
 *A reminder of the crises, consequences, powers, and mysteries still shaping Eryndor.*
 

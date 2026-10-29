@@ -32,7 +32,7 @@ The Oakspire Enclave is a druidic order sworn to destroy the Dusk Queen. Members
 
 **Quest appearances:**
 
-- 29 Aug 2026: [Far From Home](https://championsguildrpg.com/questLogs/631)
-- 19 Sep 2026: [Dangerous Goods](https://championsguildrpg.com/questLogs/654)
+- 29 Aug 1026: [Far From Home](https://championsguildrpg.com/questLogs/631)
+- 19 Sep 1026: [Dangerous Goods](https://championsguildrpg.com/questLogs/654)
 
 <!-- guild-archive-record:end -->

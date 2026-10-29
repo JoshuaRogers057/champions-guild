@@ -34,12 +34,12 @@ A Guild party later inspected the ruins, let looters go and killed a shadow drag
 
 **Quest appearances:**
 
-- 16 Nov 2025: [EPIC-03 (Apprentice)](https://championsguildrpg.com/questLogs/256)
-- 16 Nov 2025: [EPIC-03 (Acolyte)](https://championsguildrpg.com/questLogs/258)
-- 21 Nov 2025: [Containment Perimeter](https://championsguildrpg.com/questLogs/260)
-- 25 Nov 2025: [Trailing Shadows](https://championsguildrpg.com/questLogs/265)
-- 12 Dec 2025: [Crash Site Inspectors (CSI)](https://championsguildrpg.com/questLogs/281)
-- 15 Aug 2026: [Securing a legacy](https://championsguildrpg.com/questLogs/613)
-- 16 Aug 2026: [Empire of Bones: Epic-05 (Acolyte/Apprentice)](https://championsguildrpg.com/questLogs/618)
+- 16 Nov 1025: [EPIC-03 (Apprentice)](https://championsguildrpg.com/questLogs/256)
+- 16 Nov 1025: [EPIC-03 (Acolyte)](https://championsguildrpg.com/questLogs/258)
+- 21 Nov 1025: [Containment Perimeter](https://championsguildrpg.com/questLogs/260)
+- 25 Nov 1025: [Trailing Shadows](https://championsguildrpg.com/questLogs/265)
+- 12 Dec 1025: [Crash Site Inspectors (CSI)](https://championsguildrpg.com/questLogs/281)
+- 15 Aug 1026: [Securing a legacy](https://championsguildrpg.com/questLogs/613)
+- 16 Aug 1026: [Empire of Bones: Epic-05 (Acolyte/Apprentice)](https://championsguildrpg.com/questLogs/618)
 
 <!-- guild-archive-record:end -->

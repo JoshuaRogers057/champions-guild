@@ -32,7 +32,7 @@ Clan Glimveil is a very small, dwindling goliath clan of the far northern tundra
 
 **Quest appearances:**
 
-- 4 Mar 2026: [Skål](https://championsguildrpg.com/questLogs/370)
-- 31 Mar 2026: [Traders](https://championsguildrpg.com/questLogs/408)
+- 4 Mar 1026: [Skål](https://championsguildrpg.com/questLogs/370)
+- 31 Mar 1026: [Traders](https://championsguildrpg.com/questLogs/408)
 
 <!-- guild-archive-record:end -->

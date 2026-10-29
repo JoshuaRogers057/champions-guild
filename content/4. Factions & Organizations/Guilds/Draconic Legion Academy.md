@@ -32,8 +32,8 @@ The Draconic Legion Academy is a military academy whose cadets uphold the Domini
 
 **Quest appearances:**
 
-- 21 Nov 2025: [Containment Perimeter](https://championsguildrpg.com/questLogs/260)
-- 29 Nov 2025: [Establishing The Outpost](https://championsguildrpg.com/questLogs/269)
-- 30 Nov 2025: [Drakmir Sage part 2](https://championsguildrpg.com/questLogs/271)
+- 21 Nov 1025: [Containment Perimeter](https://championsguildrpg.com/questLogs/260)
+- 29 Nov 1025: [Establishing The Outpost](https://championsguildrpg.com/questLogs/269)
+- 30 Nov 1025: [Drakmir Sage part 2](https://championsguildrpg.com/questLogs/271)
 
 <!-- guild-archive-record:end -->

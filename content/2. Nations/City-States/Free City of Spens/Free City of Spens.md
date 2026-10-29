@@ -105,11 +105,11 @@ Spens is located on the far southeastern peninsula of Eryndor, where warm sea wi
 
 **Quest appearances:**
 
-- 23 Sep 2025: [Free City of Spens](https://championsguildrpg.com/questLogs/205)
-- 5 Oct 2025: [Eastbound and down](https://championsguildrpg.com/questLogs/217)
-- 1 Feb 2026: [Emergency Delivery](https://championsguildrpg.com/questLogs/339)
-- 4 Apr 2026: [The city of a thousand hulls](https://championsguildrpg.com/questLogs/421)
-- 13 Apr 2026: [Prologue to Kaos](https://championsguildrpg.com/questLogs/427)
-- 5 May 2026: [Deep Swamps](https://championsguildrpg.com/questLogs/458)
+- 23 Sep 1025: [Free City of Spens](https://championsguildrpg.com/questLogs/205)
+- 5 Oct 1025: [Eastbound and down](https://championsguildrpg.com/questLogs/217)
+- 1 Feb 1026: [Emergency Delivery](https://championsguildrpg.com/questLogs/339)
+- 4 Apr 1026: [The city of a thousand hulls](https://championsguildrpg.com/questLogs/421)
+- 13 Apr 1026: [Prologue to Kaos](https://championsguildrpg.com/questLogs/427)
+- 5 May 1026: [Deep Swamps](https://championsguildrpg.com/questLogs/458)
 
 <!-- guild-archive-record:end -->

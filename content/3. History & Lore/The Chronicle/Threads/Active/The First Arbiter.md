@@ -9,7 +9,7 @@ chronicle-thread-id: 35
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Ongoing** · Nation · Intrigue & Crime · last moved 22 Aug 2026
+> [!info] **Ongoing** · Nation · Intrigue & Crime · last moved 22 Aug 1026
 
 ## Where it stands
 

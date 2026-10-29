@@ -132,9 +132,9 @@ A mobile warband of berserker-cavalry raised from Clan Frostbane and Hillroot (~
 
 **Quest appearances:**
 
-- 29 Nov 2025: [Below Zero (Personalized Quest)](https://championsguildrpg.com/questLogs/270)
-- 21 Mar 2026: [The Chill of Death](https://championsguildrpg.com/questLogs/390)
-- 15 Apr 2026: [A Heavy Burden](https://championsguildrpg.com/questLogs/431)
-- 4 Oct 2026: [A Giant Problem (Pt 2)](https://championsguildrpg.com/questLogs/668)
+- 29 Nov 1025: [Below Zero (Personalized Quest)](https://championsguildrpg.com/questLogs/270)
+- 21 Mar 1026: [The Chill of Death](https://championsguildrpg.com/questLogs/390)
+- 15 Apr 1026: [A Heavy Burden](https://championsguildrpg.com/questLogs/431)
+- 4 Oct 1026: [A Giant Problem (Pt 2)](https://championsguildrpg.com/questLogs/668)
 
 <!-- guild-archive-record:end -->

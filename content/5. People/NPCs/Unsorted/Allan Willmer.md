@@ -38,8 +38,8 @@ Fey trapped him in his own memories for breaking their leader's quill, and the h
 
 **Quest appearances:**
 
-- 17 Sep 2026: [Book Club](https://championsguildrpg.com/questLogs/653)
-- 19 Oct 2026: [There was an old lady...](https://championsguildrpg.com/questLogs/683)
-- 22 Oct 2026: [Book Club (Part 2)](https://championsguildrpg.com/questLogs/685)
+- 17 Sep 1026: [Book Club](https://championsguildrpg.com/questLogs/653)
+- 19 Oct 1026: [There was an old lady...](https://championsguildrpg.com/questLogs/683)
+- 22 Oct 1026: [Book Club (Part 2)](https://championsguildrpg.com/questLogs/685)
 
 <!-- guild-archive-record:end -->

@@ -38,8 +38,8 @@ He is also described as a Dominion officer who bought [[Anathema]] from Softstep
 
 **Quest appearances:**
 
-- 29 Nov 2025: [Establishing The Outpost](https://championsguildrpg.com/questLogs/269)
-- 30 Nov 2025: [Drakmir Sage part 2](https://championsguildrpg.com/questLogs/271)
-- 30 Nov 2025: [Drakmir Saga part 3](https://championsguildrpg.com/questLogs/272)
+- 29 Nov 1025: [Establishing The Outpost](https://championsguildrpg.com/questLogs/269)
+- 30 Nov 1025: [Drakmir Sage part 2](https://championsguildrpg.com/questLogs/271)
+- 30 Nov 1025: [Drakmir Saga part 3](https://championsguildrpg.com/questLogs/272)
 
 <!-- guild-archive-record:end -->

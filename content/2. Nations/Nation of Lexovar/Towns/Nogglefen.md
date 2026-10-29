@@ -35,8 +35,8 @@ Nogglefen is a gnomish town in [[Nation of Lexovar]]. Exotic mushroom and herb f
 
 **Quest appearances:**
 
-- 5 Feb 2026: [Mushroom Meandering](https://championsguildrpg.com/questLogs/345)
-- 15 Feb 2026: [Mushroom Meandering P1 ( ADMIN ONLY)](https://championsguildrpg.com/questLogs/350)
-- 14 Mar 2026: [The Price of Protection](https://championsguildrpg.com/questLogs/383)
+- 5 Feb 1026: [Mushroom Meandering](https://championsguildrpg.com/questLogs/345)
+- 15 Feb 1026: [Mushroom Meandering P1 ( ADMIN ONLY)](https://championsguildrpg.com/questLogs/350)
+- 14 Mar 1026: [The Price of Protection](https://championsguildrpg.com/questLogs/383)
 
 <!-- guild-archive-record:end -->

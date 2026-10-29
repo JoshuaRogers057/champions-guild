@@ -9,7 +9,7 @@ chronicle-thread-id: 38
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Ongoing** · City · Mysteries & Arcana · last moved 22 Aug 2026
+> [!info] **Ongoing** · City · Mysteries & Arcana · last moved 22 Aug 1026
 
 ## Where it stands
 
@@ -26,10 +26,10 @@ Foreign nations increasingly want permanent access to the Scar's resources and s
 ## The chronicle
 
 <!-- chronicle:timeline:start -->
-### May 2026
+### May 1026
 
 <!-- quest:457 -->
-**4 May 2026: May the Fourth Be With You**
+**4 May 1026: May the Fourth Be With You**
 
 A company escorted two Kalashtar across the desert to the Scar of Vaelor for the Skywake Festival, clearing giant scorpions from an oasis inn on the way. In the Scar an important elemental crystal was stolen, and from the accounts of the theft the company concluded that its own employers were responsible and turned them in. The elder Kalashtar was punished by the loss of a hand, and the company was given the sunblade used to do it. The crystal was returned, yet the islands kept destabilizing, and no one fully understands what is happening.
 

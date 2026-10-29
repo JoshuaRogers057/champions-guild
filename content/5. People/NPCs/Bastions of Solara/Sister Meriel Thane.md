@@ -36,7 +36,7 @@ Sister Meriel Thane stepped down as a candidate for the vacant Archbishop's seat
 
 **Quest appearances:**
 
-- 28 Aug 2026: [Clear the Marsh](https://championsguildrpg.com/questLogs/630)
-- 13 Sep 2026: [Ashes of the First Oath](https://championsguildrpg.com/questLogs/649)
+- 28 Aug 1026: [Clear the Marsh](https://championsguildrpg.com/questLogs/630)
+- 13 Sep 1026: [Ashes of the First Oath](https://championsguildrpg.com/questLogs/649)
 
 <!-- guild-archive-record:end -->
