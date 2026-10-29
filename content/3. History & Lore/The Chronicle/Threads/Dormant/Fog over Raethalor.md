@@ -89,7 +89,7 @@ The party met the hag Melthora and made bargains. A member recorded only as Gram
 <!-- quest:159 -->
 **22 Aug 2025: Wispers and Fog**
 
-The party attended a masquerade full of vampires and killed a vampire lord. In doing so they accidentally loosed into the world a number of vampires that had been under the control of the vampire lord Tavard.
+The party attended a masquerade full of vampires and killed a vampire lord. In doing so they accidentally loosed into the world a number of vampires that had been under the control of the vampire lord Tavard. One of them was Dr. Vathros, later known as the Vivisectionist.
 
 *Guild members present:* [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory) · [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Wizbit](https://championsguildrpg.com/characters/5/backstory) · [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory)
 
@@ -157,6 +157,7 @@ Vaelynn Whisperwind, Wizbit and Everrett Stonehelm joined Bogrum in his village,
 ## Connected threads
 
 - [[The Vampire War and the Fall of Castle Bran]]
+- [[The Dome Crisis]]
 - [[The Fall of Talvereth]]
 - [[The Rat and the Scale]]
 - [[The Railroad East]]

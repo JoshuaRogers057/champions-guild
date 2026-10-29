@@ -20,7 +20,7 @@ The Vampire War closes with the fall of Castle Bran. Through the autumn of 2025 
 ## Unanswered questions
 
 - What became of Rovan ‘Redtide’ Marrick, who invited the Guild to dinner?
-- Where are the vampires freed at the masquerade, and the ten followers Lady Crowthorne sent out, now?
+- Besides Dr. Vathros, where are the vampires freed at the masquerade, and the ten followers Lady Crowthorne sent out, now?
 - Who is the master vampire who escaped the manor on the hill?
 - Is Alfie, turned vampire and escaped as mist, still at large?
 <!-- chronicle:top:end -->
@@ -33,7 +33,7 @@ The Vampire War closes with the fall of Castle Bran. Through the autumn of 2025 
 <!-- quest:159 -->
 **22 Aug 2025: Wispers and Fog**
 
-A company of five attended a masquerade and found its guests to be vampires. They killed the vampire lord Tavard, who stood at its heart. In doing so they accidentally freed a number of vampires he had held in thrall, and those vampires were loosed upon the world.
+A company of five attended a masquerade and found its guests to be vampires. They killed the vampire lord Tavard, who stood at its heart. In doing so they freed every vampire he had held in thrall, and those vampires were loosed upon the world. One of them was Dr. Vathros, who went his own way and later became known as the Vivisectionist.
 
 *Guild members present:* [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory) · [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Wizbit](https://championsguildrpg.com/characters/5/backstory) · [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory)
 
@@ -363,6 +363,7 @@ Narthex took Aubrey, Ren Stray and Warjo to inspect the ruins of the fallen Cast
 
 ## Connected threads
 
+- [[The Dome Crisis]]
 - [[The Fall of Talvereth]]
 - [[Polaris in Thundrakar]]
 - [[Clan Glimveil's Foothold]]
