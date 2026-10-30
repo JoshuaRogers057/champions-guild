@@ -232,7 +232,9 @@ async function buildMap(L, el, index) {
     return z
   }
   resetView(true)
-  map.setMaxBounds(bounds.pad(0.02))
+  // let readers drag the edges of the world well into view; the surround is ocean-coloured
+  map.setMaxBounds(bounds.pad(0.4))
+  map.options.maxBoundsViscosity = 0.6
 
   // React to any size change of the container (window resize, full screen in/out, sidebar
   // toggles) once layout has actually happened, instead of guessing with timers.

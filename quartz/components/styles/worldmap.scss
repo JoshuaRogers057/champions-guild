@@ -15,6 +15,17 @@
   z-index: 0;
 }
 
+/* Leaflet's stylesheet loads after ours and paints the container light grey;
+   keep the ocean colour (sampled from the map's edge) so the surround blends in. */
+.eryndor-map.leaflet-container,
+.eryndor-map:fullscreen,
+.eryndor-map.em-fullscreen-fallback {
+  background: #2b414c !important;
+}
+.eryndor-map::backdrop {
+  background: #2b414c;
+}
+
 .eryndor-map.em-picking {
   cursor: crosshair;
 }
