@@ -299,6 +299,105 @@ async function buildMap(L, el, index) {
     map.addControl(new Legend())
   }
 
+  // ---- full screen -----------------------------------------------------------
+  // Uses the browser's Fullscreen API when it is available for elements (desktop, Android),
+  // otherwise falls back to a fixed overlay that covers the page (iPhone Safari).
+  const FS_ICON =
+    '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+    '<path d="M4 9V4h5M15 4h5v5M20 15v5h-5M9 20H4v-5"/></svg>'
+  const FS_EXIT_ICON =
+    '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+    '<path d="M9 4v5H4M15 4v5h5M20 15h-5v5M4 15h5v5"/></svg>'
+
+  const isNativeFs = () => document.fullscreenElement === el || document.webkitFullscreenElement === el
+  const isFallbackFs = () => el.classList.contains("em-fullscreen-fallback")
+  const isFs = () => isNativeFs() || isFallbackFs()
+  let fsButton = null
+  let savedScrollY = 0
+
+  const afterFsChange = () => {
+    const on = isFs()
+    document.documentElement.classList.toggle("em-has-fullscreen-map", on)
+    if (fsButton) {
+      fsButton.innerHTML = on ? FS_EXIT_ICON : FS_ICON
+      fsButton.title = on ? "Exit full screen" : "Full screen"
+      fsButton.setAttribute("aria-label", fsButton.title)
+      fsButton.classList.toggle("active", on)
+    }
+    setTimeout(() => map.invalidateSize(), 60)
+    setTimeout(() => map.invalidateSize(), 350)
+  }
+
+  const enterFallback = () => {
+    savedScrollY = window.scrollY
+    el.classList.add("em-fullscreen-fallback")
+    afterFsChange()
+  }
+  const exitFallback = () => {
+    el.classList.remove("em-fullscreen-fallback")
+    afterFsChange()
+    window.scrollTo(0, savedScrollY)
+  }
+
+  const toggleFullscreen = () => {
+    if (isNativeFs()) {
+      const exit = document.exitFullscreen || document.webkitExitFullscreen
+      if (exit) exit.call(document)
+      return
+    }
+    if (isFallbackFs()) {
+      exitFallback()
+      return
+    }
+    const request = el.requestFullscreen || el.webkitRequestFullscreen
+    if (request) {
+      let result
+      try {
+        result = request.call(el, { navigationUI: "hide" })
+      } catch (e) {
+        result = Promise.reject(e)
+      }
+      if (result && typeof result.then === "function") result.catch(enterFallback)
+    } else {
+      enterFallback()
+    }
+  }
+
+  const onFsChange = () => afterFsChange()
+  document.addEventListener("fullscreenchange", onFsChange)
+  document.addEventListener("webkitfullscreenchange", onFsChange)
+  const onKey = (e) => {
+    if (e.key === "Escape" && isFallbackFs()) exitFallback()
+  }
+  document.addEventListener("keydown", onKey)
+  map.on("remove", () => {
+    document.removeEventListener("fullscreenchange", onFsChange)
+    document.removeEventListener("webkitfullscreenchange", onFsChange)
+    document.removeEventListener("keydown", onKey)
+    document.documentElement.classList.remove("em-has-fullscreen-map")
+  })
+
+  const Fullscreen = L.Control.extend({
+    options: { position: "topleft" },
+    onAdd: function () {
+      const box = L.DomUtil.create("div", "leaflet-bar em-fs-control")
+      const btn = L.DomUtil.create("a", "em-fs-btn", box)
+      btn.href = "#"
+      btn.setAttribute("role", "button")
+      btn.innerHTML = FS_ICON
+      btn.title = "Full screen"
+      btn.setAttribute("aria-label", "Full screen")
+      L.DomEvent.disableClickPropagation(box)
+      L.DomEvent.on(btn, "click", (e) => {
+        L.DomEvent.preventDefault(e)
+        toggleFullscreen()
+      })
+      fsButton = btn
+      return box
+    },
+  })
+  map.addControl(new Fullscreen())
+
   // ---- coordinate picker (for authoring places.json) -----------------------
   // While picking, clicking anywhere shows the pixel coordinates and copies a ready-made
   // places.json line. Detected-but-unnamed settlement dots (candidates.json) are shown as

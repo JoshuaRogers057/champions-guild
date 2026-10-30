@@ -233,6 +233,50 @@
   user-select: all;
 }
 
+/* ---- full screen ------------------------------------------------------ */
+
+.eryndor-map:fullscreen,
+.eryndor-map:-webkit-full-screen,
+.eryndor-map.em-fullscreen-fallback {
+  width: 100vw;
+  height: 100vh;
+  height: 100dvh;
+  max-height: none;
+  min-height: 0;
+  aspect-ratio: auto;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+}
+
+.eryndor-map.em-fullscreen-fallback {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+}
+
+/* keep the page from scrolling behind the overlay */
+html.em-has-fullscreen-map,
+html.em-has-fullscreen-map body {
+  overflow: hidden;
+}
+
+.em-fs-control .em-fs-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  color: #2b2b2b;
+  background: #fff;
+}
+.em-fs-control .em-fs-btn:hover {
+  background: #f4f4f4;
+}
+.em-fs-control .em-fs-btn.active {
+  background: #e9c46a;
+}
+
 /* ---- controls --------------------------------------------------------- */
 
 .em-pick-btn {
