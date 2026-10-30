@@ -42,12 +42,15 @@ const DEFAULT_TYPES = {
   landmark: { minZoom: 3, label: "Landmark" },
 }
 
-function loadLeaflet() {
-  if (window.L) return Promise.resolve(window.L)
-  if (window.__leafletPromise) return window.__leafletPromise
-  window.__leafletPromise = new Promise((resolve, reject) => {
-    if (!document.querySelector("link[data-leaflet]")) {
-      const link = document.createElement("link")
+// Quartz's page-to-page navigation rewrites <head>, which removes stylesheets we injected
+// earlier, while window.L survives. So the CSS has to be checked on every page visit,
+// separately from the script, and the map must wait until it has loaded.
+function ensureLeafletCss() {
+  return new Promise((resolve) => {
+    let link = document.querySelector("link[data-leaflet]")
+    if (link && link.sheet) return resolve()
+    if (!link) {
+      link = document.createElement("link")
       link.rel = "stylesheet"
       link.href = LEAFLET_CSS.href
       link.integrity = LEAFLET_CSS.integrity
@@ -55,6 +58,27 @@ function loadLeaflet() {
       link.dataset.leaflet = "1"
       document.head.appendChild(link)
     }
+    let done = false
+    const finish = () => {
+      if (!done) {
+        done = true
+        resolve()
+      }
+    }
+    link.addEventListener("load", finish, { once: true })
+    link.addEventListener("error", finish, { once: true })
+    setTimeout(finish, 4000)
+  })
+}
+
+function loadLeaflet() {
+  return Promise.all([ensureLeafletCss(), loadLeafletScript()]).then((r) => r[1])
+}
+
+function loadLeafletScript() {
+  if (window.L) return Promise.resolve(window.L)
+  if (window.__leafletPromise) return window.__leafletPromise
+  window.__leafletPromise = new Promise((resolve, reject) => {
     const script = document.createElement("script")
     script.src = LEAFLET_JS.src
     script.integrity = LEAFLET_JS.integrity
@@ -193,19 +217,40 @@ async function buildMap(L, el, index) {
     keepBuffer: 4,
   }).addTo(map)
 
-  const fitWholeMap = () => {
+  // Fit the whole map in the container and make that the furthest the reader can zoom out.
+  // Order matters: lifting minZoom first avoids Leaflet forcing an animated zoom mid-resize.
+  let pendingFit = true
+  const resetView = (forceFit) => {
     map.setMinZoom(0)
+    map.invalidateSize({ animate: false, pan: false })
     const z = map.getBoundsZoom(bounds)
+    if (forceFit || pendingFit || map.getZoom() < z - 1e-6) {
+      map.fitBounds(bounds, { animate: false })
+      pendingFit = false
+    }
     map.setMinZoom(z)
     return z
   }
-  fitWholeMap()
-  map.fitBounds(bounds)
+  resetView(true)
   map.setMaxBounds(bounds.pad(0.02))
-  map.on("resize", () => {
-    const z = fitWholeMap()
-    if (map.getZoom() < z) map.fitBounds(bounds)
-  })
+
+  // React to any size change of the container (window resize, full screen in/out, sidebar
+  // toggles) once layout has actually happened, instead of guessing with timers.
+  let resizeTimer = null
+  const onContainerResize = () => {
+    if (resizeTimer) cancelAnimationFrame(resizeTimer)
+    resizeTimer = requestAnimationFrame(() => {
+      resizeTimer = null
+      resetView(false)
+    })
+  }
+  if (typeof ResizeObserver !== "undefined") {
+    const ro = new ResizeObserver(onContainerResize)
+    ro.observe(el)
+    map.on("remove", () => ro.disconnect())
+  } else {
+    map.on("resize", onContainerResize)
+  }
 
   // ---- markers -------------------------------------------------------------
   const data = await loadPlaces(cfg.places)
@@ -324,8 +369,10 @@ async function buildMap(L, el, index) {
       fsButton.setAttribute("aria-label", fsButton.title)
       fsButton.classList.toggle("active", on)
     }
-    setTimeout(() => map.invalidateSize(), 60)
-    setTimeout(() => map.invalidateSize(), 350)
+    // show the whole map again once the container has taken its new size
+    pendingFit = true
+    resetView(true)
+    setTimeout(() => resetView(true), 400)
   }
 
   const enterFallback = () => {
