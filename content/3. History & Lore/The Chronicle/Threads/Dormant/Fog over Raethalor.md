@@ -21,8 +21,8 @@ Raethalor lies under Sire Valkek's permanent garrison, and Countess Vyra Nashen 
 
 - What became of Tallo after he was taken to Melthora?
 - What will Melthora ask of those who owe her favours?
-- Did Captain Redfall return the music box to Melthora, and what did he want in return?
-- What became of Mistress Ellid, the orphanage keeper?
+- Did Captain Redfall return the music box to Melthora  and what did he want in return?
+- What became of Mistress Ellid  the orphanage keeper?
 <!-- chronicle:top:end -->
 
 ## The chronicle
@@ -156,10 +156,10 @@ Vaelynn Whisperwind, Wizbit and Everrett Stonehelm joined Bogrum in his village,
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
+- [[The Bloodpits of Borgnar]]
 - [[The Dome Crisis]]
 - [[The Fall of Talvereth]]
-- [[The Rat and the Scale]]
 - [[The Railroad East]]
-- [[The Bloodpits of Borgnar]]
+- [[The Rat and the Scale]]
+- [[The Vampire War and the Fall of Castle Bran]]
 <!-- chronicle:lists:end -->

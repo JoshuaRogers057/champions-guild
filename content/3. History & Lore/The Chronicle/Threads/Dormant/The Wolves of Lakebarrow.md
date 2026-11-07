@@ -1,15 +1,17 @@
 ---
 title: "The Wolves of Lakebarrow"
+aliases:
+  - "3. History & Lore/The Chronicle/Threads/Quiet/The Wolves of Lakebarrow"
 tags:
   - chronicle
   - thread
-  - status/quiet
+  - status/dormant
   - scale/city
 chronicle-thread-id: 26
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Quiet** · City · Crises & Wars · last moved 8 Aug 1026
+> [!info] **Dormant** · City · Crises & Wars · last moved 8 Aug 1026
 
 ## Where it stands
 
@@ -19,7 +21,7 @@ A werewolf curse has taken hold around Lakebarrow. At the opening festival the y
 
 ## Unanswered questions
 
-- Where is the Big Bad Wolf, and who is the red-scaled wolf that attacked Conan?
+- Where is the Big Bad Wolf  and who is the red-scaled wolf that attacked Conan?
 - What became of the two advisers who fled into the woods?
 - Can Red and Conan be cured?
 - Will Grandmother Hettie answer for her experiments?

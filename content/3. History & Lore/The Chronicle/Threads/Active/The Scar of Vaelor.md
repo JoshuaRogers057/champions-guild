@@ -18,7 +18,7 @@ Foreign nations increasingly want permanent access to the Scar's resources and s
 ## Unanswered questions
 
 - What is destabilizing the Scar's elemental currents?
-- Why did the Kalashtar want the crystal, and whom did they serve?
+- Why did the Kalashtar want the crystal  and whom did they serve?
 - Will the Genasi hold out against foreign footholds?
 - Which nations want the Scar most?
 <!-- chronicle:top:end -->

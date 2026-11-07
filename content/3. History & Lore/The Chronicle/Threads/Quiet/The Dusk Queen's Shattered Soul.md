@@ -19,9 +19,9 @@ The Dusk Queen's soul was broken into pieces, and Guild companies have taken sev
 
 ## Unanswered questions
 
-- Has Synthia gone back to the Oakspire Enclave, or is she still hidden at the Guild?
+- Has Synthia gone back to the Oakspire Enclave  or is she still hidden at the Guild?
 - What was the creature that escaped the demiplane in the Lexovar Woods?
-- Who sent the kidnappers, and who cursed the commoners of the Slums District?
+- Who sent the kidnappers  and who cursed the commoners of the Slums District?
 - How many pieces of the Dusk Queen's soul are still unaccounted for?
 <!-- chronicle:top:end -->
 

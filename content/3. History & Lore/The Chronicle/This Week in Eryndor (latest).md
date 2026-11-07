@@ -5,18 +5,23 @@ tags:
   - digest
 ---
 
-> [!note] The newest weekly digest, for 27 Oct 1026. Earlier weeks: [[Current Stories#Past digests|past digests]].
+> [!note] The newest weekly digest, for 7 Nov 1026. Earlier weeks: [[Current Stories#Past digests|past digests]].
 
-# The Story So Far
+# A Baron dies in Contramara, and a laboratory goes to ruin in the north
 
-Three domes still stand over Eryndor, Talvereth has not recovered from its fall, and Polaris is still at work in Thundrakar's mountains. Closer to home, Allan Willmer is dead and the Smiles Gang's leader is loose somewhere in the floating isles.
+Contramara is unsettled by the death of Baron Sel Treffalin, and the Guild's name is being spoken in connection with it. In the north, Clan Frostbane keeps its war against the giants while the Guild closes a dark chapter beneath its ice.
 
 ## Major developments
 
-- Three domes still stand over Eryndor, and their creatures are being carried out for others' use. ([[The Dome Crisis]])
-- Polaris was turned back from the remains of the devil Stagor in Thundrakar's eastern mountains. ([[Polaris in Thundrakar]])
-- Allan Willmer is dead, killed by the hag Madam Frump inside his own memories. ([[The Willmer Books]])
-- The Smiles Gang's leader escaped into the floating isles after the temple's warden fell. ([[The Smiles Gang]])
-- The Resonance Loom beneath Auris Prime is nearly complete, and some forty children are missing. ([[The Bastions of Solara and the Resonance Loom]])
+- Baron Sel Treffalin was killed by a magical blast during his speech in Contramara. A Guild company, hired by druids of the Verdant Accord, is under suspicion. ([[Unrest in Kastalshire]]) [Quest record](https://championsguildrpg.com/questLogs/692)
+- Beneath a ruined temple of Annam, a Guild company found a goliath laboratory where beasts were carved with runes. They destroyed it and kept a copy of the notes. ([[Polaris in Thundrakar]]) [Quest record](https://championsguildrpg.com/questLogs/695)
+- Nox ended his hunt for Venyr, the Glassfather, a wyvern worshipped by the dragonborn of Skyrest. The village has been persuaded to give up its raids. [Quest record](https://championsguildrpg.com/questLogs/691)
+- A company went into the Harvest Festival's corn maze and cleared a haunted estate. Four armed scarecrows and three living dolls walked free, and several festival-goers remain missing. [Quest record](https://championsguildrpg.com/questLogs/689)
+- A company took a necromantic jewel from an old estate and destroyed the hag Gertrude and her cursed doll. [Quest record](https://championsguildrpg.com/questLogs/690)
 
-*Permanent link to this week: [[This Week in Eryndor 1026-10-27]]*
+## Featured dispatches
+
+> “Sylvie tagged along to keep the team alive, blindly following Nox after he received a mysterious letter”
+> — Sylvie ([quest record](https://championsguildrpg.com/questLogs/691))
+
+*Permanent link to this week: [[This Week in Eryndor 1026-11-07]]*

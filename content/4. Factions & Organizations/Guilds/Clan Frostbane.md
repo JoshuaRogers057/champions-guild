@@ -34,5 +34,6 @@ Clan Frostbane is the parent clan of Boarfrost, and it faced Frost Giants headin
 
 - 27 Sep 1026: [A Giant Problem (Pt 1)](https://championsguildrpg.com/questLogs/662)
 - 4 Oct 1026: [A Giant Problem (Pt 2)](https://championsguildrpg.com/questLogs/668)
+- 5 Nov 1026: [The Legacy of Frost](https://championsguildrpg.com/questLogs/695)
 
 <!-- guild-archive-record:end -->

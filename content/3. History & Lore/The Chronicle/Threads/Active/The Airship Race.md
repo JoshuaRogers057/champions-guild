@@ -17,7 +17,7 @@ Airships are rapidly changing military and economic power across Eryndor. The Dr
 
 ## Unanswered questions
 
-- Which of Kastalshire, Sylvandar and the Forged Sands will field an airship first?
+- Which of Kastalshire  Sylvandar and the Forged Sands will field an airship first?
 - Who took the airship from the Thalenmark warehouse?
 - Will the Redmarch Coalition's thieves find another way to the instruments airships need?
 - Who stands to gain from the silk of the slot canyons?
@@ -84,10 +84,10 @@ A company recovered a compass in a special housing, one that can be used aboard 
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
+- [[Tannis and the Deep Tower]]
 - [[The Fall of Talvereth]]
 - [[The Kryzath Outpost]]
-- [[Tannis and the Deep Tower]]
+- [[The Vampire War and the Fall of Castle Bran]]
 - [[The Woaden Wood]]
 - [[Uncertainty in the Forged Sands]]
 <!-- chronicle:lists:end -->

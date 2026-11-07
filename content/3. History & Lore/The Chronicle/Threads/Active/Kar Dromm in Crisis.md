@@ -17,7 +17,7 @@ Assassinations, vacant clan seats, unresolved succession struggles and disputes 
 
 ## Unanswered questions
 
-- Who is the pale prophet, and what does he want from the clans?
+- Who is the pale prophet  and what does he want from the clans?
 - Who holds the vacant clan seats?
 - Who has the right to the ancient masterworks?
 - Who inside Stonegate Hold helped the smugglers?

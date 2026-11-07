@@ -92,15 +92,15 @@ Digdug called on the Guild to restore his wife, Smyles, who had remained trapped
 
 ## Connected threads
 
-- [[The Fall of Talvereth]]
 - [[Clan Glimveil's Foothold]]
-- [[The Fall of Aethrael]]
-- [[The Eye of Kaos]]
-- [[The Rat and the Scale]]
-- [[The Kryzath Outpost]]
+- [[Fortunes Crossing]]
 - [[Old Marnie and the Stolen Children]]
+- [[The Eye of Kaos]]
+- [[The Fall of Aethrael]]
+- [[The Fall of Talvereth]]
+- [[The Kryzath Outpost]]
+- [[The Rat and the Scale]]
 - [[The Rootlet and Cogveil College]]
 - [[The Silence of Naerwyn]]
-- [[Fortunes Crossing]]
 - [[Uncertainty in the Forged Sands]]
 <!-- chronicle:lists:end -->

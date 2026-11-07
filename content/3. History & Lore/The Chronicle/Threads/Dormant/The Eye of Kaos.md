@@ -19,7 +19,7 @@ The Eye of Kaos, a vast ship hidden beyond reach, has not been brought to accoun
 
 ## Unanswered questions
 
-- Which key did Eliot Marsh steal, and where has he taken it?
+- Which key did Eliot Marsh steal  and where has he taken it?
 - What does Eliot Marsh want with the blood of Guild members?
 - Will the Driftbone Armada reach the Eye of Kaos first?
 - What became of Captain Rourke Blackwake's treasure map?
@@ -146,13 +146,13 @@ Ki Ka'Rah and four other Guild members escorted a Steelborn duplicate home to th
 
 ## Connected threads
 
-- [[The Fall of Aethrael]]
-- [[The Rat and the Scale]]
-- [[The Kryzath Outpost]]
 - [[Digdug's Lost Ember]]
-- [[The Rootlet and Cogveil College]]
-- [[The Rebuilding of Spens]]
-- [[Uncertainty in the Forged Sands]]
-- [[The War of the Fanged Swamp]]
 - [[Lexovar's Hidden War]]
+- [[The Fall of Aethrael]]
+- [[The Kryzath Outpost]]
+- [[The Rat and the Scale]]
+- [[The Rebuilding of Spens]]
+- [[The Rootlet and Cogveil College]]
+- [[The War of the Fanged Swamp]]
+- [[Uncertainty in the Forged Sands]]
 <!-- chronicle:lists:end -->

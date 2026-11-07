@@ -19,7 +19,7 @@ A vast collection of genealogies, hidden roads, treaties, testimony and cultural
 
 - Who took the Herds' archive?
 - What did the thieves wish to erase?
-- Where is the archive now, and does any of it survive?
+- Where is the archive now  and does any of it survive?
 <!-- chronicle:top:end -->
 
 ## The chronicle

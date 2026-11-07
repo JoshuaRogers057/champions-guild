@@ -9,18 +9,18 @@ chronicle-thread-id: 6
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Active** · Nation · Intrigue & Crime · last moved 4 Oct 1026
+> [!info] **Active** · Nation · Intrigue & Crime · last moved 5 Nov 1026
 
 ## Where it stands
 
-Polaris is an arcane order the Guild has met in dungeons, on the tundra, at sea and across the gate to the Abyss, always at work on fragments, souls or fiends. Over a year the Guild has thwarted it again and again and earned the respect of several goliath clans, and in October it caught up with Polaris's remaining forces in Thundrakar's eastern mountains and kept them from the Stygian devil Stagor's animated remains. Drogath Stormvein will not rule Thundrakar forever, and uncertainty surrounds what comes after him. Polaris continues to operate while foreign powers quietly watch the coming succession, and its purpose remains unknown.
+Polaris is an arcane order the Guild has met in dungeons, on the tundra, at sea and across the gate to the Abyss, always at work on fragments, souls or fiends. Over a year the Guild has thwarted it again and again and earned the respect of several goliath clans. In November, Clan Frostbane sent a company into ruins uncovered by the Frost Giants' activity. Beneath them lay a century-old goliath laboratory, where runes were carved into captured beasts. The Guild destroyed the work and kept only a copy of the notes. Drogath Stormvein will not rule Thundrakar forever, and uncertainty surrounds what comes after him. Polaris continues to operate, and its purpose remains unknown.
 
-**Latest development:** In October the Guild caught up with Polaris in the eastern mountains and kept it from the animated remains of the Stygian devil Stagor.
+**Latest development:** A company hired by Clan Frostbane found and destroyed a goliath laboratory of rune-carved beasts beneath a ruined temple of Annam.
 
 ## Unanswered questions
 
 - What is Polaris gathering souls and fragments to achieve?
-- Who gave aid to the Frost Giants, and why did they flee?
+- Who gave aid to the Frost Giants  and why did they flee?
 - Where is Mr. Chill now that he works with Polaris?
 - What does Polaris want with the ore hidden in Thundrakar's mine?
 <!-- chronicle:top:end -->
@@ -191,6 +191,18 @@ Following the cultists, the Guild learned that both they and the Frost Giants so
 
 [Read the full quest record →](https://championsguildrpg.com/questLogs/668)
 <!-- /quest:668 -->
+
+### November 1026
+
+<!-- quest:695 -->
+**5 Nov 1026: The Legacy of Frost**
+
+Clan Frostbane hired four Guild members to search ruins newly uncovered beneath one of its pillars. Under a ruined temple of Annam they found a hidden goliath laboratory, where captured beasts had been carved with runes and fragments. The company disliked the work, recovered the research and a method of teleporting by rune, and let the laboratory be destroyed so that none could repeat it.
+
+*Guild members present:* [Ki Ka'Rah](https://championsguildrpg.com/characters/178/backstory) · [Mazgar Thorrak](https://championsguildrpg.com/characters/63/backstory) · [Rhanak Steelwind](https://championsguildrpg.com/characters/363/backstory) · [Davian Stone](https://championsguildrpg.com/characters/181/backstory)
+
+[Read the full quest record →](https://championsguildrpg.com/questLogs/695)
+<!-- /quest:695 -->
 <!-- chronicle:timeline:end -->
 
 <!-- chronicle:lists:start -->
@@ -271,14 +283,15 @@ Following the cultists, the Guild learned that both they and the Frost Giants so
 - [Sylas Nightshade](https://championsguildrpg.com/characters/494/backstory)
 - [Ivar Thundercall](https://championsguildrpg.com/characters/238/backstory)
 - [Maul M.D.](https://championsguildrpg.com/characters/17/backstory)
+- [Davian Stone](https://championsguildrpg.com/characters/181/backstory)
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
 - [[Clan Glimveil's Foothold]]
-- [[The Fall of Aethrael]]
-- [[The Dusk Queen's Shattered Soul]]
-- [[The Smiles Gang]]
-- [[The Bloodpits of Borgnar]]
 - [[Tannis and the Deep Tower]]
+- [[The Bloodpits of Borgnar]]
+- [[The Dusk Queen's Shattered Soul]]
+- [[The Fall of Aethrael]]
+- [[The Smiles Gang]]
+- [[The Vampire War and the Fall of Castle Bran]]
 <!-- chronicle:lists:end -->

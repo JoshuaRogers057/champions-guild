@@ -19,7 +19,7 @@ Allan Willmer, a librarian of Lakebarrow, used magic books to trap the Guild's m
 
 ## Unanswered questions
 
-- What did Madam Frump want from Allan Willmer, and what are her secrets?
+- What did Madam Frump want from Allan Willmer  and what are her secrets?
 - Are more of the cursed books Allan wrote still in the world?
 - Does the Tale Teller expect anything further from the Guild?
 <!-- chronicle:top:end -->

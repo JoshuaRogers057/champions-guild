@@ -241,9 +241,9 @@ Disguised as destitute guests at the Founders' Day feast, the company entered Go
 
 ## Connected threads
 
-- [[The Fall of Talvereth]]
 - [[Clan Glimveil's Foothold]]
-- [[Old Marnie and the Stolen Children]]
 - [[Digdug's Lost Ember]]
+- [[Old Marnie and the Stolen Children]]
+- [[The Fall of Talvereth]]
 - [[The Silence of Naerwyn]]
 <!-- chronicle:lists:end -->

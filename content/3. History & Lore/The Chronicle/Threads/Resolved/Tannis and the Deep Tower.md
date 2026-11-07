@@ -76,13 +76,13 @@ Luca, Airie, Eldarin and Bison went to a labyrinth on the border of the Drakmir 
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
-- [[The Fall of Talvereth]]
-- [[Polaris in Thundrakar]]
 - [[Clan Glimveil's Foothold]]
-- [[The Fall of Aethrael]]
-- [[The Rat and the Scale]]
-- [[The Kryzath Outpost]]
-- [[The Bloodpits of Borgnar]]
+- [[Polaris in Thundrakar]]
 - [[The Airship Race]]
+- [[The Bloodpits of Borgnar]]
+- [[The Fall of Aethrael]]
+- [[The Fall of Talvereth]]
+- [[The Kryzath Outpost]]
+- [[The Rat and the Scale]]
+- [[The Vampire War and the Fall of Castle Bran]]
 <!-- chronicle:lists:end -->

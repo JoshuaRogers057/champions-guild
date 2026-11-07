@@ -19,7 +19,7 @@ Dragons have begun moving beyond the places where they are normally seen, and no
 
 - Why are dragons leaving their usual haunts?
 - Which regions have seen them so far?
-- Is anything driving them, or drawing them?
+- Is anything driving them  or drawing them?
 <!-- chronicle:top:end -->
 
 ## The chronicle

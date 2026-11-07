@@ -20,11 +20,11 @@ The Dome Crisis began at a masquerade in August 1025. When members of the Guild 
 ## Unanswered questions
 
 - How can the three standing domes be unmade now that Dr. Vathros is gone?
-- Who made the original Dome over Zindariel, and how?
+- Who made the original Dome over Zindariel  and how?
 - How did Dr. Vathros become a lich?
-- Where have Lord Mask, Lady Mask and Lord Varos gone, and whom do they serve now?
+- Where have Lord Mask  Lady Mask and Lord Varos gone  and whom do they serve now?
 - What became of Narthex after he left Dr. Vathros's castle?
-- What ancient origin do the vault at Oathend, the Obelisk in Korivar, the Wall in Thundrakar and the Last Howl in Ciliren share?
+- What ancient origin do the vault at Oathend  the Obelisk in Korivar  the Wall in Thundrakar and the Last Howl in Ciliren share?
 <!-- chronicle:top:end -->
 
 ## The chronicle
@@ -261,7 +261,7 @@ Professor Honeywell asked the Guild to test a new defensive bunker, and the memb
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
-- [[The Fall of Aethrael]]
 - [[Fog over Raethalor]]
+- [[The Fall of Aethrael]]
+- [[The Vampire War and the Fall of Castle Bran]]
 <!-- chronicle:lists:end -->

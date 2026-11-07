@@ -79,7 +79,7 @@ During the Guild's assault on the Vivisectionist, Valdrin, Zila, Prime and Trist
 ## Key figures
 
 - [[Kalamathet]]
-- Heliothrax, the Sun's Rage
+- Heliothrax  the Sun's Rage
 - Aereus
 - Sandkeeper Maura Vess
 - Poppy

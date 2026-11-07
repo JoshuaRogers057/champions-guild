@@ -19,7 +19,7 @@ The clocktower ticks on and Prairie Park stands because of what was done at Drav
 
 ## Unanswered questions
 
-- Was Zephia ever cured, or did the illness take her?
+- Was Zephia ever cured  or did the illness take her?
 <!-- chronicle:top:end -->
 
 ## The chronicle

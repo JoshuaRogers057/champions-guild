@@ -18,7 +18,7 @@ Lexovar's rival magical institutions keep up a quiet academic cold war of influe
 ## Unanswered questions
 
 - What did Gearshield Academy want with the warforged research?
-- Where is the mercenary Redford, and who pays him?
+- Where is the mercenary Redford  and who pays him?
 - Which institutions have the Obsidian Chain already reached?
 - What was in Phineas's research that the Chain's agents came to seize?
 <!-- chronicle:top:end -->

@@ -1,15 +1,17 @@
 ---
 title: "The Smiles Gang"
+aliases:
+  - "3. History & Lore/The Chronicle/Threads/Active/The Smiles Gang"
 tags:
   - chronicle
   - thread
-  - status/active
+  - status/quiet
   - scale/city
 chronicle-thread-id: 18
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Active** · City · Mysteries & Arcana · last moved 3 Oct 1026
+> [!info] **Quiet** · City · Mysteries & Arcana · last moved 3 Oct 1026
 
 ## Where it stands
 
@@ -21,7 +23,7 @@ The Smiles Gang, a band of criminals dressed as clowns, has troubled Ciliren for
 
 - What is the Smiles Gang after in the floating isles?
 - Where did the gang's leader go through the portal?
-- What is Nesser, and why does the gang keep her?
+- What is Nesser  and why does the gang keep her?
 - Is the servant of Norebo behind the gang also the one who leads it?
 <!-- chronicle:top:end -->
 

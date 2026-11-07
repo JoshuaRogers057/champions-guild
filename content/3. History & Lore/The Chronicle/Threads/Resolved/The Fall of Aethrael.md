@@ -150,15 +150,15 @@ The Chosen of Lathander gathered at Skraggapost, with Aubrey standing in for Ki 
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
-- [[The Dome Crisis]]
-- [[Polaris in Thundrakar]]
-- [[The Eye of Kaos]]
-- [[The Rat and the Scale]]
-- [[The Kryzath Outpost]]
 - [[Digdug's Lost Ember]]
-- [[The Rootlet and Cogveil College]]
-- [[The Bloodpits of Borgnar]]
+- [[Polaris in Thundrakar]]
 - [[Tannis and the Deep Tower]]
+- [[The Bloodpits of Borgnar]]
+- [[The Dome Crisis]]
+- [[The Eye of Kaos]]
+- [[The Kryzath Outpost]]
+- [[The Rat and the Scale]]
+- [[The Rootlet and Cogveil College]]
+- [[The Vampire War and the Fall of Castle Bran]]
 - [[Uncertainty in the Forged Sands]]
 <!-- chronicle:lists:end -->

@@ -21,10 +21,10 @@ Talvereth came through the riots of the Shadow War badly scarred, and the Gilded
 
 ## Unanswered questions
 
-- Who sent the assassins against the Bastions' ambassadors at the courthouse, and who sent the assassin who burned away to nothing in the street?
-- Did Fenla Thistlevault and Rillan Dewdrop back the Glass shipment, or is someone using their names?
+- Who sent the assassins against the Bastions' ambassadors at the courthouse  and who sent the assassin who burned away to nothing in the street?
+- Did Fenla Thistlevault and Rillan Dewdrop back the Glass shipment  or is someone using their names?
 - What will Perrin Grint do with the Quiet Ledger?
-- Who is behind the confiscations at the docks, and how far does Dando's influence reach?
+- Who is behind the confiscations at the docks  and how far does Dando's influence reach?
 <!-- chronicle:top:end -->
 
 ## The chronicle
@@ -483,18 +483,18 @@ Perrin Grint, son of the late Gilded Council member Marlowe Grint and disowned b
 
 ## Connected threads
 
-- [[The Founding of the Guild]]
-- [[The Vampire War and the Fall of Castle Bran]]
 - [[Clan Glimveil's Foothold]]
-- [[The Rat and the Scale]]
-- [[Old Marnie and the Stolen Children]]
 - [[Digdug's Lost Ember]]
-- [[The Bastions of Solara and the Resonance Loom]]
 - [[Fog over Raethalor]]
-- [[The Railroad East]]
-- [[The Bloodpits of Borgnar]]
-- [[The Silence of Naerwyn]]
 - [[Fortunes Crossing]]
+- [[Old Marnie and the Stolen Children]]
 - [[Tannis and the Deep Tower]]
 - [[The Airship Race]]
+- [[The Bastions of Solara and the Resonance Loom]]
+- [[The Bloodpits of Borgnar]]
+- [[The Founding of the Guild]]
+- [[The Railroad East]]
+- [[The Rat and the Scale]]
+- [[The Silence of Naerwyn]]
+- [[The Vampire War and the Fall of Castle Bran]]
 <!-- chronicle:lists:end -->

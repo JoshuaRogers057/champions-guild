@@ -17,7 +17,7 @@ The Steelborn face mounting tension with Lexovar and worsening shortages of the 
 
 ## Unanswered questions
 
-- How are Steelborn made, and why do the fragments run short?
+- How are Steelborn made  and why do the fragments run short?
 - What is the Black Silence?
 - What lies in the old sealed sites?
 - What missions will the Steelborn bring the Guild?
@@ -42,12 +42,12 @@ The Steelborn face mounting tension with Lexovar and worsening shortages of the 
 
 ## Connected threads
 
-- [[The Fall of Aethrael]]
-- [[The Eye of Kaos]]
-- [[The Rat and the Scale]]
-- [[The Kryzath Outpost]]
 - [[Digdug's Lost Ember]]
-- [[The Rootlet and Cogveil College]]
-- [[The Airship Race]]
 - [[Lexovar's Hidden War]]
+- [[The Airship Race]]
+- [[The Eye of Kaos]]
+- [[The Fall of Aethrael]]
+- [[The Kryzath Outpost]]
+- [[The Rat and the Scale]]
+- [[The Rootlet and Cogveil College]]
 <!-- chronicle:lists:end -->

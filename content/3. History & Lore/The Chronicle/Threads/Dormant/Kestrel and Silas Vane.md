@@ -19,8 +19,8 @@ Silas Vane, found alive after his supposed murder, slipped away and has taken th
 
 ## Unanswered questions
 
-- Where in Talvereth is Marcellin Roth, and will Kestrel find him?
-- Who altered the records in Ciliren, and why?
+- Where in Talvereth is Marcellin Roth  and will Kestrel find him?
+- Who altered the records in Ciliren  and why?
 - What became of Rosidysa Baffletrick?
 - What drove Silas Vane to fake his own death?
 <!-- chronicle:top:end -->

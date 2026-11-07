@@ -1,15 +1,17 @@
 ---
 title: "Old Marnie and the Stolen Children"
+aliases:
+  - "3. History & Lore/The Chronicle/Threads/Quiet/Old Marnie and the Stolen Children"
 tags:
   - chronicle
   - thread
-  - status/quiet
+  - status/dormant
   - scale/city
 chronicle-thread-id: 13
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Quiet** · City · Intrigue & Crime · last moved 30 Jul 1026
+> [!info] **Dormant** · City · Intrigue & Crime · last moved 30 Jul 1026
 
 ## Where it stands
 
@@ -19,7 +21,7 @@ Old Marnie, an alchemist of Nogglefen who dealt with the Guild, was in truth an 
 
 ## Unanswered questions
 
-- Where have Marnie's daughters gone, and what do they intend?
+- Where have Marnie's daughters gone  and what do they intend?
 - Where are Sasha and the other missing orphanage children?
 - What became of Borrim of the Velvet Ledger?
 - What part does the Drakmir Dominion play in Marnie's story?
@@ -159,9 +161,9 @@ The company crossed Troll Bridge, defeated the creature beneath it, and made its
 
 ## Connected threads
 
-- [[The Fall of Talvereth]]
 - [[Clan Glimveil's Foothold]]
 - [[Digdug's Lost Ember]]
-- [[The Silence of Naerwyn]]
 - [[Fortunes Crossing]]
+- [[The Fall of Talvereth]]
+- [[The Silence of Naerwyn]]
 <!-- chronicle:lists:end -->

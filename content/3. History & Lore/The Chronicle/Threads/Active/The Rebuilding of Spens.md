@@ -17,9 +17,9 @@ Spens is rebuilding after a coalition of pirate crews from the Dreadwake took it
 
 ## Unanswered questions
 
-- Who governs Spens now, and who holds its districts?
+- Who governs Spens now  and who holds its districts?
 - Was the devil that held Stanley at The Long Rest connected to the devil Kainrik Duskpike?
-- What did the Dreadwake coalition gain from its brief hold on the city, and will it try again?
+- What did the Dreadwake coalition gain from its brief hold on the city  and will it try again?
 - Who profits from the Ring of Wrath?
 <!-- chronicle:top:end -->
 
@@ -84,10 +84,10 @@ A company entered the Ring of Wrath, a secret fighting pit, as competitors, hopi
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
-- [[The Eye of Kaos]]
-- [[The Rat and the Scale]]
-- [[The Railroad East]]
 - [[The Bloodpits of Borgnar]]
+- [[The Eye of Kaos]]
+- [[The Railroad East]]
+- [[The Rat and the Scale]]
+- [[The Vampire War and the Fall of Castle Bran]]
 - [[The War of the Fanged Swamp]]
 <!-- chronicle:lists:end -->

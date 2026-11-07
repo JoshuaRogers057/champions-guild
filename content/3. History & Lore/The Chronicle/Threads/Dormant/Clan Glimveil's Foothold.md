@@ -20,7 +20,7 @@ Rurik Grimveil's Clan Glimveil, a small goliath clan of the far northern tundra 
 ## Unanswered questions
 
 - How will the neighbours of Castle Kelgor respond to Rurik's rule?
-- What became of Cedric, the castle's guard captain?
+- What became of Cedric  the castle's guard captain?
 <!-- chronicle:top:end -->
 
 ## The chronicle
@@ -114,14 +114,14 @@ Five members of the Guild entered Castle Kelgor as traders bringing food in a ti
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
-- [[The Fall of Talvereth]]
-- [[Polaris in Thundrakar]]
-- [[The Rat and the Scale]]
-- [[Old Marnie and the Stolen Children]]
 - [[Digdug's Lost Ember]]
-- [[The Bloodpits of Borgnar]]
-- [[The Silence of Naerwyn]]
 - [[Fortunes Crossing]]
+- [[Old Marnie and the Stolen Children]]
+- [[Polaris in Thundrakar]]
 - [[Tannis and the Deep Tower]]
+- [[The Bloodpits of Borgnar]]
+- [[The Fall of Talvereth]]
+- [[The Rat and the Scale]]
+- [[The Silence of Naerwyn]]
+- [[The Vampire War and the Fall of Castle Bran]]
 <!-- chronicle:lists:end -->

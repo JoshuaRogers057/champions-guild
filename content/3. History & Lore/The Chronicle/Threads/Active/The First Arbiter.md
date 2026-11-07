@@ -17,8 +17,8 @@ Sylvandar is approaching the selection of its next First Arbiter, whose term is 
 
 ## Unanswered questions
 
-- Who will the King name, and will the Senate confirm?
-- Will the Republic turn toward reform, hard traditionalism or compromise?
+- Who will the King name  and will the Senate confirm?
+- Will the Republic turn toward reform  hard traditionalism or compromise?
 - How far will Sylvandar press its influence beyond its borders?
 <!-- chronicle:top:end -->
 

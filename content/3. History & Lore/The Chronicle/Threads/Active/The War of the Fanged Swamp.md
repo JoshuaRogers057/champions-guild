@@ -17,9 +17,9 @@ The struggle inside the Fanged Swamp is intensifying as competing powers fight f
 
 ## Unanswered questions
 
-- Which powers are fighting for the swamp, and who is winning?
+- Which powers are fighting for the swamp  and who is winning?
 - What does the Mirevein Coven want from the Guild?
-- What buried places have reappeared, and what do they hold?
+- What buried places have reappeared  and what do they hold?
 - Where do the Driftbone Armada's interests in the swamp lie?
 <!-- chronicle:top:end -->
 

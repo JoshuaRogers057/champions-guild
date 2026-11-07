@@ -19,9 +19,9 @@ The Guild went to Thumdar as envoys to the dwarves, and the journey cost Ranmir 
 
 ## Unanswered questions
 
-- What task did the Council of Thumdar ask of the Guild, and has it been done?
+- What task did the Council of Thumdar ask of the Guild  and has it been done?
 - Who inside Stonegate Hold helped the Rok Rot smugglers?
-- What was released from the sealed boxes, and what does the nursery-rhyme melody mean?
+- What was released from the sealed boxes  and what does the nursery-rhyme melody mean?
 <!-- chronicle:top:end -->
 
 ## The chronicle

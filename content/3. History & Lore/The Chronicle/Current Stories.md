@@ -66,7 +66,7 @@ Assassinations, vacant clan seats, unresolved succession struggles and disputes 
 ### [[Polaris in Thundrakar]]
 *Active · Nation · Intrigue & Crime*
 
-Polaris is an arcane order the Guild has met in dungeons, on the tundra, at sea and across the gate to the Abyss, always at work on fragments, souls or fiends. Over a year the Guild has thwarted it again and again and earned the respect of several goliath clans, and in October it caught up with Polaris's remaining forces in Thundrakar's eastern mountains and kept them from the Stygian devil Stagor's animated remains. Drogath Stormvein will not rule Thundrakar forever, and uncertainty surrounds what comes after him. Polaris continues to operate while foreign powers quietly watch the coming succession, and its purpose remains unknown.
+Polaris is an arcane order the Guild has met in dungeons, on the tundra, at sea and across the gate to the Abyss, always at work on fragments, souls or fiends. Over a year the Guild has thwarted it again and again and earned the respect of several goliath clans. In November, Clan Frostbane sent a company into ruins uncovered by the Frost Giants' activity. Beneath them lay a century-old goliath laboratory, where runes were carved into captured beasts. The Guild destroyed the work and kept only a copy of the notes. Drogath Stormvein will not rule Thundrakar forever, and uncertainty surrounds what comes after him. Polaris continues to operate, and its purpose remains unknown.
 
 ### [[The First Arbiter]]
 *Ongoing · Nation · Intrigue & Crime*
@@ -96,7 +96,7 @@ The Steelborn face mounting tension with Lexovar and worsening shortages of the 
 ### [[Unrest in Kastalshire]]
 *Ongoing · Nation · Crises & Wars*
 
-The Crown's increasingly centralized rail system and political control are provoking serious unrest among the duchies. Old tensions with Thundrakar and resistance to Contramara's growing authority are feeding it. No Guild quest has changed the picture since the summer.
+The Crown's increasingly centralized rail system and political control are provoking serious unrest among the duchies. Old tensions with Thundrakar and resistance to Contramara's growing authority are feeding it. In November, Baron Sel Treffalin, about to be named Royal Minister of Woods, was killed by a magical blast during his acceptance speech in Contramara. Druids of the Verdant Accord had hired several companies to kill him. A company of the Guild is now under suspicion, and an investigation is under way. The bomber has not been named.
 
 ### [[The Scar of Vaelor]]
 *Ongoing · City · Mysteries & Arcana*
@@ -156,11 +156,6 @@ The sentient bell-construct called Knell has escaped the Arcanum. It was born wh
 
 *Debts, rescues, rivals and old wounds: the stories the Guild's members carry.*
 
-### [[The Smiles Gang]]
-*Active · City · Mysteries & Arcana*
-
-The Smiles Gang, a band of criminals dressed as clowns, has troubled Ciliren for more than a year, with ransom traps in the mountains, victims lured from the streets, and fencing for sea elves, all under the eye of a servant of Norebo. Guild companies have broken their schemes more than once, yet the gang's leader in the floating isles escaped through a portal, in ruins marked with the sign of Cyric that offered a trial of rebirth. The strange girl Nesser, kept in the gang's bunker, is unexplained. The Guild holds records of the guards the gang bribed and means to send members back to deal with them.
-
 ### [[The Willmer Books]]
 *Active · City · Mysteries & Arcana*
 
@@ -168,11 +163,12 @@ Allan Willmer, a librarian of Lakebarrow, used magic books to trap the Guild's m
 
 #### Quiet and lingering
 
-- [[Old Marnie and the Stolen Children]] (Quiet): At her cottage the company defeated the Arch Hag Marnie, but her daughters escaped and several orphanage children, Sasha among them, remain missing.
-- [[The Wolves of Lakebarrow]] (Quiet): In the woods the company defeated the Big Bad Wolf's lieutenant and freed Red and Conan, but the Wolf itself remained at large.
+- [[The Smiles Gang]] (Quiet): A second team in the floating isles defeated the fallen angel guarding the temple's trial of rebirth, though the gang's leader there remains at large.
 - [[The Dusk Queen's Shattered Soul]] (Quiet): The shards of the Dusk Queen's soul were delivered to the Oakspire Enclave just ahead of the Queen's pursuit, and the Enclave demanded Synthia's return.
 - [[Lord Olsino's Plague]] (Dormant): The company slew the vampires, freed their captives, and learned that Lord Olsino funded the work, setting their sights on his manor.
+- [[Old Marnie and the Stolen Children]] (Dormant): At her cottage the company defeated the Arch Hag Marnie, but her daughters escaped and several orphanage children, Sasha among them, remain missing.
 - [[The Thing Beneath Talvereth]] (Dormant): The Guild located a warehouse where a corrupted fragment was changing those who guarded it, took the fragment back to the guild hall, and watched a scarred bald man flee.
+- [[The Wolves of Lakebarrow]] (Dormant): In the woods the company defeated the Big Bad Wolf's lieutenant and freed Red and Conan, but the Wolf itself remained at large.
 - [[Fog over Raethalor]] (Dormant): At Stonehall, Bogrum buried his father, killed his brother and learned disturbing things about his pact with Melthora.
 - [[The Bloodpits of Borgnar]] (Dormant): Mog'zeth agreed to go on sharing what she knows of Borgnar's factions if the Guild helps her find whoever is fixing the arena matches.
 - [[Kestrel and Silas Vane]] (Dormant): Kestrel learned that Silas Vane now lives as Marcellin Roth and has gone on to Talvereth.
@@ -193,4 +189,5 @@ Allan Willmer, a librarian of Lakebarrow, used magic books to trap the Guild's m
 
 ## Past digests
 
+- [[This Week in Eryndor 1026-11-07]]
 - [[This Week in Eryndor 1026-10-27]]

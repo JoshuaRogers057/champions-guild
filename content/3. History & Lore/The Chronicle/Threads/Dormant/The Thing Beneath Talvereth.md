@@ -19,10 +19,10 @@ A spreading sickness of mutation and corrupted crystal has been traced, piece by
 
 ## Unanswered questions
 
-- Is a beholder at work beneath Talvereth, and what does it want with the fragments?
-- Who is the scarred, bald man who urged the afflicted to embrace the corruption?
+- Is a beholder at work beneath Talvereth  and what does it want with the fragments?
+- Who is the scarred  bald man who urged the afflicted to embrace the corruption?
 - Where does the contamination spreading into the coastal waters begin?
-- Who is Yophina, and why was she alive in the catacombs?
+- Who is Yophina  and why was she alive in the catacombs?
 <!-- chronicle:top:end -->
 
 ## The chronicle

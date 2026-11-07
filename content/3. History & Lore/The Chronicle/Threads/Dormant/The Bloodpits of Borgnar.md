@@ -22,7 +22,7 @@ A Guild company died in the Redmarch blood pits in 1025, and its story ends with
 - Who is fixing the matches in the Pit of Blood?
 - What sacrifice will Mog'zeth claim for the black coin?
 - Are Murcon and Nephele still hunted by the Duskwatch and the Redmarch warlords?
-- What became of Bryson, who had a hand in the deaths of Guild members?
+- What became of Bryson  who had a hand in the deaths of Guild members?
 <!-- chronicle:top:end -->
 
 ## The chronicle
@@ -181,14 +181,14 @@ Prime, Jaden, Borba and Auto returned to the arena and defeated Tivvan the Indeb
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
-- [[The Fall of Talvereth]]
-- [[Polaris in Thundrakar]]
 - [[Clan Glimveil's Foothold]]
-- [[The Fall of Aethrael]]
-- [[The Rat and the Scale]]
 - [[Fog over Raethalor]]
-- [[The Railroad East]]
+- [[Polaris in Thundrakar]]
 - [[Tannis and the Deep Tower]]
+- [[The Fall of Aethrael]]
+- [[The Fall of Talvereth]]
+- [[The Railroad East]]
+- [[The Rat and the Scale]]
 - [[The Rebuilding of Spens]]
+- [[The Vampire War and the Fall of Castle Bran]]
 <!-- chronicle:lists:end -->

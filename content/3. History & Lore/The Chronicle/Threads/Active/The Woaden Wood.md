@@ -17,9 +17,9 @@ Sylvandar's ancient forests have become a strategic resource as other nations ra
 
 ## Unanswered questions
 
-- Will Sylvandar ever sell its timber, and to whom?
-- What brought down the Woaden Tree at Duskwillow, and will the rot spread?
-- Where were Senator Virellen Zelis, Shalk Syrinthil and Lady Faela taken?
+- Will Sylvandar ever sell its timber  and to whom?
+- What brought down the Woaden Tree at Duskwillow  and will the rot spread?
+- Where were Senator Virellen Zelis  Shalk Syrinthil and Lady Faela taken?
 - Which nations will press hardest for the forests?
 <!-- chronicle:top:end -->
 

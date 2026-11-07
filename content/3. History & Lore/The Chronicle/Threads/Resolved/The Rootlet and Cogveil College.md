@@ -20,7 +20,7 @@ The Rootlet affair began with a runaway sprout and ended with a college's secret
 ## Unanswered questions
 
 - What became of the failed attempts to recreate the Rootlet found in the hidden workshop?
-- Why did the Obsidian Chain, the Golden Chain and the Cracked Scale all strike at the escort of the Steelborn duplicate?
+- Why did the Obsidian Chain  the Golden Chain and the Cracked Scale all strike at the escort of the Steelborn duplicate?
 <!-- chronicle:top:end -->
 
 ## The chronicle
@@ -159,11 +159,11 @@ Invited to the Brassleaf Institute for the Rootlet's replanting ceremony, Tivonn
 
 ## Connected threads
 
-- [[The Fall of Aethrael]]
-- [[The Eye of Kaos]]
-- [[The Rat and the Scale]]
-- [[The Kryzath Outpost]]
 - [[Digdug's Lost Ember]]
-- [[Uncertainty in the Forged Sands]]
 - [[Lexovar's Hidden War]]
+- [[The Eye of Kaos]]
+- [[The Fall of Aethrael]]
+- [[The Kryzath Outpost]]
+- [[The Rat and the Scale]]
+- [[Uncertainty in the Forged Sands]]
 <!-- chronicle:lists:end -->

@@ -19,10 +19,10 @@ Criminal organisations across Eryndor are growing more organised, wealthy and po
 
 ## Unanswered questions
 
-- Will Leothin lead his assault on Rakkath, and will the Guild hunt him first?
+- Will Leothin lead his assault on Rakkath  and will the Guild hunt him first?
 - Can anyone stop Aveline's plan to take Spens before the pirate admirals arrive?
-- What is the secret deal Vaelynn made with Seana, and what will the hag's bargain cost her?
-- Where did Serrixa go after the Rat's Nest, and whom does the storm mage serve now?
+- What is the secret deal Vaelynn made with Seana  and what will the hag's bargain cost her?
+- Where did Serrixa go after the Rat's Nest  and whom does the storm mage serve now?
 <!-- chronicle:top:end -->
 
 ## The chronicle
@@ -198,18 +198,18 @@ On Korivar the company found the obelisk and met Bith, an old one-armed assassin
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
-- [[The Fall of Talvereth]]
 - [[Clan Glimveil's Foothold]]
-- [[The Fall of Aethrael]]
-- [[The Eye of Kaos]]
-- [[The Kryzath Outpost]]
 - [[Digdug's Lost Ember]]
-- [[The Rootlet and Cogveil College]]
 - [[Fog over Raethalor]]
-- [[The Railroad East]]
-- [[The Bloodpits of Borgnar]]
 - [[Tannis and the Deep Tower]]
+- [[The Bloodpits of Borgnar]]
+- [[The Eye of Kaos]]
+- [[The Fall of Aethrael]]
+- [[The Fall of Talvereth]]
+- [[The Kryzath Outpost]]
+- [[The Railroad East]]
 - [[The Rebuilding of Spens]]
+- [[The Rootlet and Cogveil College]]
+- [[The Vampire War and the Fall of Castle Bran]]
 - [[Uncertainty in the Forged Sands]]
 <!-- chronicle:lists:end -->

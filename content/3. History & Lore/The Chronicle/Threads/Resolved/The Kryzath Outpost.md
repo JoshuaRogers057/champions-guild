@@ -19,7 +19,7 @@ Management of the Kryzath outpost is settled. General Kiz had offered permission
 
 ## Unanswered questions
 
-- What is Anathema's divine and draconic heritage, and what part will it play in the Dominion?
+- What is Anathema's divine and draconic heritage  and what part will it play in the Dominion?
 - How will the Cracked Scale answer the dismissal of Softstep?
 <!-- chronicle:top:end -->
 
@@ -123,13 +123,13 @@ Lily of the Wood, Donder Stormbringer, Hunter and Zhek'har Valoran travelled to 
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
-- [[The Fall of Aethrael]]
-- [[The Eye of Kaos]]
-- [[The Rat and the Scale]]
 - [[Digdug's Lost Ember]]
-- [[The Rootlet and Cogveil College]]
 - [[Tannis and the Deep Tower]]
 - [[The Airship Race]]
+- [[The Eye of Kaos]]
+- [[The Fall of Aethrael]]
+- [[The Rat and the Scale]]
+- [[The Rootlet and Cogveil College]]
+- [[The Vampire War and the Fall of Castle Bran]]
 - [[Uncertainty in the Forged Sands]]
 <!-- chronicle:lists:end -->

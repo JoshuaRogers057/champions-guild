@@ -19,7 +19,7 @@ The railroad east began as a commission at Rails End and ended as a finished lin
 
 ## Unanswered questions
 
-- Was the stranger who called himself Alric of Halmark the Minister of Transportation, or someone else?
+- Was the stranger who called himself Alric of Halmark the Minister of Transportation  or someone else?
 - What became of the vampires holding the ruined watchtower near the Drakmir Dominion border?
 <!-- chronicle:top:end -->
 
@@ -128,11 +128,11 @@ Bo, Oren Nero, Rousseau, Kyber'lex the kobold and Bili Ruben were hired to escor
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
+- [[Fog over Raethalor]]
+- [[Lord Olsino's Plague]]
+- [[The Bloodpits of Borgnar]]
 - [[The Fall of Talvereth]]
 - [[The Rat and the Scale]]
-- [[Fog over Raethalor]]
-- [[The Bloodpits of Borgnar]]
-- [[Lord Olsino's Plague]]
 - [[The Rebuilding of Spens]]
+- [[The Vampire War and the Fall of Castle Bran]]
 <!-- chronicle:lists:end -->

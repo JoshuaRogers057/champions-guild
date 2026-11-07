@@ -19,10 +19,10 @@ Resentment toward Solara's entrenched elite is growing among merchants, veterans
 
 ## Unanswered questions
 
-- Where are Lord Varos Neightreign and Faelassa, and has the pursuit Rahmiel promised set out?
-- Where did the forty missing children go, and is the Resonance Loom finished?
+- Where are Lord Varos Neightreign and Faelassa  and has the pursuit Rahmiel promised set out?
+- Where did the forty missing children go  and is the Resonance Loom finished?
 - Is the Night Lady the same person as the Nightmother who refitted Marrowspring's blueprints for the Ashwing flight?
-- What was the verdict on Maevre Lume, Varrus Cind and Orvek Thane?
+- What was the verdict on Maevre Lume  Varrus Cind and Orvek Thane?
 <!-- chronicle:top:end -->
 
 ## The chronicle
@@ -163,6 +163,6 @@ Therion Grace, Jenny Black, Lug StoneBlood, Sylas Nightshade and Aspx went to Au
 
 ## Connected threads
 
-- [[The Vampire War and the Fall of Castle Bran]]
 - [[The Fall of Talvereth]]
+- [[The Vampire War and the Fall of Castle Bran]]
 <!-- chronicle:lists:end -->

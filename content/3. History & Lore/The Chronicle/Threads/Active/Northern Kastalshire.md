@@ -19,7 +19,7 @@ The druidic and treant crisis in northern Kastalshire has continued to worsen. G
 
 - Why have the northern groves gone silent?
 - What has broken the old relationship between the druids and the Crown?
-- What is changing in the northern forests, and who or what is changing it?
+- What is changing in the northern forests  and who or what is changing it?
 - Is the Druid of Wrath spoken of elsewhere at work in the north?
 <!-- chronicle:top:end -->
 

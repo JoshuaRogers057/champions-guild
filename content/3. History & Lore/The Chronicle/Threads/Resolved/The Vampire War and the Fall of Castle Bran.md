@@ -19,10 +19,10 @@ The Vampire War closes with the fall of Castle Bran. Through the autumn of 1025 
 
 ## Unanswered questions
 
-- What became of Rovan ‘Redtide’ Marrick, who invited the Guild to dinner?
-- Besides Dr. Vathros, where are the vampires freed at the masquerade, and the ten followers Lady Crowthorne sent out, now?
+- What became of Rovan ‘Redtide’ Marrick  who invited the Guild to dinner?
+- Besides Dr. Vathros  where are the vampires freed at the masquerade  and the ten followers Lady Crowthorne sent out  now?
 - Who is the master vampire who escaped the manor on the hill?
-- Is Alfie, turned vampire and escaped as mist, still at large?
+- Is Alfie  turned vampire and escaped as mist  still at large?
 <!-- chronicle:top:end -->
 
 ## The chronicle
@@ -363,18 +363,18 @@ Narthex took Aubrey, Ren Stray and Warjo to inspect the ruins of the fallen Cast
 
 ## Connected threads
 
-- [[The Dome Crisis]]
-- [[The Fall of Talvereth]]
-- [[Polaris in Thundrakar]]
 - [[Clan Glimveil's Foothold]]
-- [[The Fall of Aethrael]]
-- [[The Rat and the Scale]]
-- [[The Kryzath Outpost]]
-- [[The Bastions of Solara and the Resonance Loom]]
 - [[Fog over Raethalor]]
-- [[The Railroad East]]
-- [[The Bloodpits of Borgnar]]
+- [[Polaris in Thundrakar]]
 - [[Tannis and the Deep Tower]]
-- [[The Rebuilding of Spens]]
 - [[The Airship Race]]
+- [[The Bastions of Solara and the Resonance Loom]]
+- [[The Bloodpits of Borgnar]]
+- [[The Dome Crisis]]
+- [[The Fall of Aethrael]]
+- [[The Fall of Talvereth]]
+- [[The Kryzath Outpost]]
+- [[The Railroad East]]
+- [[The Rat and the Scale]]
+- [[The Rebuilding of Spens]]
 <!-- chronicle:lists:end -->

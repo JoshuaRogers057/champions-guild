@@ -19,7 +19,7 @@ Awakenings of the mysterious Old Blood are becoming more frequent throughout Ery
 
 - Why are awakenings becoming more frequent?
 - What stirs the Old Blood in one family and not another?
-- Who is watching the awakened, and to what end?
+- Who is watching the awakened  and to what end?
 <!-- chronicle:top:end -->
 
 ## The chronicle

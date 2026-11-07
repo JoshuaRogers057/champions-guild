@@ -19,7 +19,7 @@ The matter of Naerwyn closes with the old temple cleared and one member of the G
 
 ## Unanswered questions
 
-- What became of Kestrel, said to have been transformed into a larval state?
+- What became of Kestrel  said to have been transformed into a larval state?
 <!-- chronicle:top:end -->
 
 ## The chronicle
@@ -77,9 +77,9 @@ The expedition ended in severe loss. The party had entered Naerwyn on a contract
 
 ## Connected threads
 
-- [[The Fall of Talvereth]]
 - [[Clan Glimveil's Foothold]]
-- [[Old Marnie and the Stolen Children]]
 - [[Digdug's Lost Ember]]
 - [[Fortunes Crossing]]
+- [[Old Marnie and the Stolen Children]]
+- [[The Fall of Talvereth]]
 <!-- chronicle:lists:end -->
