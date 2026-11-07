@@ -12,11 +12,11 @@ Contramara is unsettled by the death of Baron Sel Treffalin, and the Guild's nam
 
 ## Major developments
 
-- Baron Sel Treffalin was killed by a magical blast during his speech in Contramara. A Guild company, hired by druids of the Verdant Accord, is under suspicion. ([[Unrest in Kastalshire]]) [Quest record](https://championsguildrpg.com/questLogs/692)
-- Beneath a ruined temple of Annam, a Guild company found a goliath laboratory where beasts were carved with runes. They destroyed it and kept a copy of the notes. ([[Polaris in Thundrakar]]) [Quest record](https://championsguildrpg.com/questLogs/695)
+- Baron Sel Treffalin was killed by a magical blast during his speech in Contramara. The Champions Guild, hired by druids of the Verdant Accord, is under suspicion. ([[Unrest in Kastalshire]]) [Quest record](https://championsguildrpg.com/questLogs/692)
+- Beneath a ruined temple of Annam, the Champions Guild found a goliath laboratory where beasts were carved with runes. They destroyed it and kept a copy of the notes. ([[Polaris in Thundrakar]]) [Quest record](https://championsguildrpg.com/questLogs/695)
 - Nox ended his hunt for Venyr, the Glassfather, a wyvern worshipped by the dragonborn of Skyrest. The village has been persuaded to give up its raids. [Quest record](https://championsguildrpg.com/questLogs/691)
-- A company went into the Harvest Festival's corn maze and cleared a haunted estate. Four armed scarecrows and three living dolls walked free, and several festival-goers remain missing. [Quest record](https://championsguildrpg.com/questLogs/689)
-- A company took a necromantic jewel from an old estate and destroyed the hag Gertrude and her cursed doll. [Quest record](https://championsguildrpg.com/questLogs/690)
+- The Champions Guild went into the Harvest Festival's corn maze and cleared a haunted estate. Four armed scarecrows and three living dolls walked free, and several festival-goers remain missing. [Quest record](https://championsguildrpg.com/questLogs/689)
+- The Champions Guild took a necromantic jewel from an old estate and destroyed the hag Gertrude and her cursed doll. [Quest record](https://championsguildrpg.com/questLogs/690)
 
 ## Featured dispatches
 

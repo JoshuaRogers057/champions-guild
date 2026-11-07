@@ -63,7 +63,7 @@ Five members of the Guild defended Barrowbank from a three-way siege by the Velv
 <!-- quest:408 -->
 **31 Mar 1026: Traders**
 
-Five members of the Guild entered Castle Kelgor as traders bringing food in a time of famine, and mapped its guards, its people and its politics. They found its ruler, Lord Elric Halister, widely distrusted, and met Sire Buttie Lichter, who could be bribed, and Cedric, an honourable but disillusioned guard captain. A private meeting with the Baron turned violent and Vash killed him, and the company left unseen with the castle's plans and a hidden tunnel route, all delivered to Captain Rurik. Castle Kelgor is now led by Rurik.
+Five members of the Guild entered Castle Kelgor as traders bringing food in a time of famine, and mapped its guards, its people and its politics. They found its ruler, Lord Elric Halister, widely distrusted, and met Sire Buttie Lichter, who could be bribed, and Cedric, an honourable but disillusioned guard captain. A private meeting with the Baron turned violent and Vash killed him, and the Guild left unseen with the castle's plans and a hidden tunnel route, all delivered to Captain Rurik. Castle Kelgor is now led by Rurik.
 
 *Guild members present:* [Mae Mossveil](https://championsguildrpg.com/characters/319/backstory) · [Rhogar](https://championsguildrpg.com/characters/262/backstory) · [Hector Headwinds](https://championsguildrpg.com/characters/224/backstory) · [Vash](https://championsguildrpg.com/characters/206/backstory) · [Davian Stone](https://championsguildrpg.com/characters/181/backstory)
 

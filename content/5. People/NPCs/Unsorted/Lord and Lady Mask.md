@@ -22,7 +22,7 @@ tags:
 
 # Lord and Lady Mask
 
-Lord and Lady Mask are two masked figures who ambushed the party after the tome was recovered; their identities and motives are unknown. An assassin who had served them was possessed by the freed ghost Steven. They ambushed the party again at the Last Tower and were recalled by the Vivisectionist, and both remain at large.
+Lord and Lady Mask are two masked figures who ambushed the Guild after the tome was recovered; their identities and motives are unknown. An assassin who had served them was possessed by the freed ghost Steven. They ambushed the Guild again at the Last Tower and were recalled by the Vivisectionist, and both remain at large.
 
 <!-- guild-archive-record:start -->
 

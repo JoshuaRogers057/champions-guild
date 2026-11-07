@@ -35,7 +35,7 @@ The Dome Crisis began at a masquerade in August 1025. When members of the Guild 
 <!-- quest:159 -->
 **22 Aug 1025: Wispers and Fog**
 
-A company of five attended a masquerade and found its guests to be vampires. They killed the vampire lord Tavard, who stood at its heart, and with his death every vampire he had held in thrall went free to do as it pleased. One of them was Dr. Vathros, a necromancer who went his own way and returned a year later as the Vivisectionist.
+Five members of the Champions Guild attended a masquerade and found its guests to be vampires. They killed the vampire lord Tavard, who stood at its heart, and with his death every vampire he had held in thrall went free to do as it pleased. One of them was Dr. Vathros, a necromancer who went his own way and returned a year later as the Vivisectionist.
 
 *Guild members present:* [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory) · [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Wizbit](https://championsguildrpg.com/characters/5/backstory) · [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory)
 
@@ -73,7 +73,7 @@ Six members of the Guild entered the quarantine zone around Elkhara at Captain V
 <!-- quest:568 -->
 **19 Jul 1026: The Lost Cult**
 
-Baroness Selvara Thorne and Kellan Vare of the Veilkeepers of Oathend hired five members of the Guild to investigate an abandoned estate. They learned that Sire Treffalin, long thought a victim, had in fact founded the circle that destroyed the estate; he sacrificed his own family in pursuit of power over death and was sealed in a tomb below by his followers. The company recovered the forbidden tome known as The Rule of the Ninth Grave, but on the road out were ambushed by two figures calling themselves Lord Mask and Lady Mask, who escaped. The book was delivered safely to the Veilkeepers.
+Baroness Selvara Thorne and Kellan Vare of the Veilkeepers of Oathend hired five members of the Guild to investigate an abandoned estate. They learned that Sire Treffalin, long thought a victim, had in fact founded the circle that destroyed the estate; he sacrificed his own family in pursuit of power over death and was sealed in a tomb below by his followers. The Guild recovered the forbidden tome known as The Rule of the Ninth Grave, but on the road out were ambushed by two figures calling themselves Lord Mask and Lady Mask, who escaped. The book was delivered safely to the Veilkeepers.
 
 *Guild members present:* [Eldarin Solari](https://championsguildrpg.com/characters/310/backstory) · [Everrett Stonehelm](https://championsguildrpg.com/characters/12/backstory) · [Rhanak Steelwind](https://championsguildrpg.com/characters/363/backstory) · [Tristan Hammerborn](https://championsguildrpg.com/characters/182/backstory) · [Mazgar Thorrak](https://championsguildrpg.com/characters/63/backstory)
 
@@ -93,7 +93,7 @@ Led by Narthex, five members of the Guild received a vaccine from Zippy and went
 <!-- quest:577 -->
 **24 Jul 1026: The Nest**
 
-The same company went on into the deepest part of Elkhara to destroy the Nest. On the way they met the vampire Bictra, an agent of the vivisectionist Dr. Vathros, who gave Narthex a means of reaching the doctor directly; Narthex by then admitted he had caught the mutation. The company killed Fenalith at the Nest, and with his death the source of the mutations was destroyed. Narthex took his leave and used Bictra's magic to seek out Dr. Vathros, and the mist that carried him away also took the Titan's Spine.
+The same members went on into the deepest part of Elkhara to destroy the Nest. On the way they met the vampire Bictra, an agent of the vivisectionist Dr. Vathros, who gave Narthex a means of reaching the doctor directly; Narthex by then admitted he had caught the mutation. The Guild killed Fenalith at the Nest, and with his death the source of the mutations was destroyed. Narthex took his leave and used Bictra's magic to seek out Dr. Vathros, and the mist that carried him away also took the Titan's Spine.
 
 *Guild members present:* [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Shedinn](https://championsguildrpg.com/characters/8/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory) · [Tristan Hammerborn](https://championsguildrpg.com/characters/182/backstory) · [Rhanak Steelwind](https://championsguildrpg.com/characters/363/backstory)
 
@@ -105,7 +105,7 @@ The same company went on into the deepest part of Elkhara to destroy the Nest. O
 <!-- quest:602 -->
 **10 Aug 1026: Veil Torn: Mini Epic! (Acolyte)**
 
-Narthex, once a member of the Guild and now corrupted, arrived at the Veilkeepers' manor with an item he said needed storing; what he released was a horde of undead, and a green mist rose that has not lifted. Five members of the Guild held the yard for an hour and a half, and nine villagers died regardless. They found Narthex in the chapel with a knife at Lady Selvara's throat, and Nox teleported her clear. A vampire in the manor told them that Oathend was the first of many and that the mist would consume Eryndor. The Guild then broke open the vault and freed a second Guild party sealed inside, and destroyed the machine below, which halted the dome's growth but did not end it. Oathend was lost.
+Narthex, once a member of the Guild and now corrupted, arrived at the Veilkeepers' manor with an item he said needed storing; what he released was a horde of undead, and a green mist rose that has not lifted. Five members of the Guild held the yard for an hour and a half, and nine villagers died regardless. They found Narthex in the chapel with a knife at Lady Selvara's throat, and Nox teleported her clear. A vampire in the manor told them that Oathend was the first of many and that the mist would consume Eryndor. The Guild then broke open the vault and freed other Guild members sealed inside, and destroyed the machine below, which halted the dome's growth but did not end it. Oathend was lost.
 
 *Guild members present:* [Nox](https://championsguildrpg.com/characters/385/backstory) · [Marr Runeblade](https://championsguildrpg.com/characters/251/backstory) · [Mamira](https://championsguildrpg.com/characters/374/backstory) · [Ki'a-Mat](https://championsguildrpg.com/characters/175/backstory) · [Ignis](https://championsguildrpg.com/characters/417/backstory)
 
@@ -115,7 +115,7 @@ Narthex, once a member of the Guild and now corrupted, arrived at the Veilkeeper
 <!-- quest:603 -->
 **10 Aug 1026: Veil Torn: Mini Epic! (apprentice)**
 
-A second Guild party descended into the vault beneath the Veilkeepers' manor to halt a new dome spreading across Kastalshire. The vault's construction resembles the Obelisk in Korivar, the Wall in Thundrakar and the Last Howl in Ciliren, suggesting a shared and poorly understood origin. In the vault they met the vampire Bictra again; Alaric and Aubrey were killed, and Aubrey disfigured Bictra in her last moments before Bictra was spirited away. The party then disabled the machinery driven by the Vivisectionist's lieutenants, Marshal Drazan Volsk and Iscander Rhuel, who escaped, and fought their way out. The dome stopped growing, the Veilkeepers had fallen, and Airie slipped away through an unknown portal.
+More Guild members descended into the vault beneath the Veilkeepers' manor to halt a new dome spreading across Kastalshire. The vault's construction resembles the Obelisk in Korivar, the Wall in Thundrakar and the Last Howl in Ciliren, suggesting a shared and poorly understood origin. In the vault they met the vampire Bictra again; Alaric and Aubrey were killed, and Aubrey disfigured Bictra in her last moments before Bictra was spirited away. The Guild then disabled the machinery driven by the Vivisectionist's lieutenants, Marshal Drazan Volsk and Iscander Rhuel, who escaped, and fought their way out. The dome stopped growing, the Veilkeepers had fallen, and Airie slipped away through an unknown portal.
 
 *Guild members present:* [Jaden](https://championsguildrpg.com/characters/38/backstory) · [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Jericho](https://championsguildrpg.com/characters/29/backstory) · [Airie Lonewolf](https://championsguildrpg.com/characters/215/backstory) · [Alaric Crownsilver](https://championsguildrpg.com/characters/352/backstory)
 
@@ -125,7 +125,7 @@ A second Guild party descended into the vault beneath the Veilkeepers' manor to 
 <!-- quest:613 -->
 **15 Aug 1026: Securing a legacy**
 
-Five members of the Guild were sent to bring in Sir Kale, who had escaped the Dome and was being hunted by undead. He carried maps naming the three main targets of the coming assault: the Wall, the Labyrinth and the ruins of Castle Bran. Airie died getting Kale and the maps out, a hero in the Guild's service, and only a battered Guild badge came back. On the return a ghost released from a Bag of Holding nearly killed the party before it was destroyed.
+Five members of the Guild were sent to bring in Sir Kale, who had escaped the Dome and was being hunted by undead. He carried maps naming the three main targets of the coming assault: the Wall, the Labyrinth and the ruins of Castle Bran. Airie died getting Kale and the maps out, a hero in the Guild's service, and only a battered Guild badge came back. On the return a ghost released from a Bag of Holding nearly killed the Guild before it was destroyed.
 
 *Guild members present:* [Ignis](https://championsguildrpg.com/characters/417/backstory) · [Nox](https://championsguildrpg.com/characters/385/backstory) · [Kael Bloodwake](https://championsguildrpg.com/characters/436/backstory) · [Tievor Tole](https://championsguildrpg.com/characters/471/backstory) · [Mamira](https://championsguildrpg.com/characters/374/backstory)
 

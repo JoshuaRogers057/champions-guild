@@ -30,7 +30,7 @@ The clocktower ticks on and Prairie Park stands because of what was done at Drav
 <!-- quest:221 -->
 **8 Oct 1025: The Hidden Heart**
 
-Aysa, Shedinn and Fletcher traced the ticking beneath the Prairie Park clocktower to a secret laboratory. They passed its traps and puzzles and read the chronomancy research of its former owner, Warton, and his wife Zephia. The research showed that Zephia had been dying of a terminal illness. An illusory Warton asked the party to bring him the breath of a time dragon to restore her.
+Aysa, Shedinn and Fletcher traced the ticking beneath the Prairie Park clocktower to a secret laboratory. They passed its traps and puzzles and read the chronomancy research of its former owner, Warton, and his wife Zephia. The research showed that Zephia had been dying of a terminal illness. An illusory Warton asked the Guild to bring him the breath of a time dragon to restore her.
 
 *Guild members present:* [Aysa](https://championsguildrpg.com/characters/16/backstory) · [Shedinn](https://championsguildrpg.com/characters/8/backstory) · [Fletcher](https://championsguildrpg.com/characters/44/backstory)
 

@@ -13,7 +13,7 @@ chronicle-thread-id: 39
 
 ## Where it stands
 
-A growing divide is forming in Sanama between those who want permanent settlements, markets, schools and infrastructure and those who believe that settling for good would destroy what makes Sanama what it is. The nomads have kept their leadership through the Guild's own reckoning: late in 1025 a Guild company rescued the Sanama Elders from a vampire raiding force and brought them home. A Guild party has also hunted ankhegs beside the nomads, and the Guild has made friends among the Pride. There is no sign that the divide has been settled.
+A growing divide is forming in Sanama between those who want permanent settlements, markets, schools and infrastructure and those who believe that settling for good would destroy what makes Sanama what it is. The nomads have kept their leadership through the Guild's own reckoning: late in 1025 the Champions Guild rescued the Sanama Elders from a vampire raiding force and brought them home. The Champions Guild has also hunted ankhegs beside the nomads, and the Guild has made friends among the Pride. There is no sign that the divide has been settled.
 
 ## Unanswered questions
 

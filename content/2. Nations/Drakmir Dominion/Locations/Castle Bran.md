@@ -20,7 +20,7 @@ tags:
 
 Castle Bran was the flying fortress of [[Septimus Vex]]. Its Weather Engine was destroyed and the castle brought down in the Guild's assault, with a third team destroying the castle's engine. The crash site is ringed by a containment perimeter of patrols and siege wards, kept by the Drakmir Dominion against lingering Shadowfell influence, and the mist trailing from the fallen castle was purified from the skies above [[Kryzath]]'s approaches.
 
-A Guild party later inspected the ruins, let looters go and killed a shadow dragon named Darc. Sir Kale's maps named the castle as one of the three main targets of the coming assault, and a crashed section was used by Lord Varos to raise a new dome.
+The Champions Guild later inspected the ruins, let looters go and killed a shadow dragon named Darc. Sir Kale's maps named the castle as one of the three main targets of the coming assault, and a crashed section was used by Lord Varos to raise a new dome.
 
 <!-- guild-archive-record:start -->
 

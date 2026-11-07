@@ -13,7 +13,7 @@ chronicle-thread-id: 30
 
 ## Where it stands
 
-Tannis, the member everyone thought lost in Talvereth, was found alive and then lost for good. He survived a prison cart and Gurvan's fighting pits, in which four fellow prisoners died, and he lived to see Gurvan destroyed. He chose to close the portal himself rather than leave the labyrinth open, and he went through it knowingly. The land he left the Guild in northeast Kastalshire is his last gift. Members of the party that stood with him speak of him with great respect.
+Tannis, the member everyone thought lost in Talvereth, was found alive and then lost for good. He survived a prison cart and Gurvan's fighting pits, in which four fellow prisoners died, and he lived to see Gurvan destroyed. He chose to close the portal himself rather than leave the labyrinth open, and he went through it knowingly. The land he left the Guild in northeast Kastalshire is his last gift. Members of the Guild that stood with him speak of him with great respect.
 
 **Latest development:** Tannis stepped into the portal of his own free will and left this world, after granting the Guild a parcel of land in northeast Kastalshire.
 

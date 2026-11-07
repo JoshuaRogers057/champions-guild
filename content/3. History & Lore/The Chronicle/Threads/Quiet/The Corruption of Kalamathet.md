@@ -31,7 +31,7 @@ The corrupted dragon Kalamathet has been killed twice: once in his nest in the d
 <!-- quest:364 -->
 **24 Feb 1026: The Dragons Fang: Bizzy Personalized Quest**
 
-Faelar Stormscale led four companions to Kryzath, where Draknar Kiz told them of a temple with a ritual to lift a curse. The ritual instead cast them onto a desert plateau, where Faelar found he had taken a bronze dragon's egg. Wyrmlings attacked, Besswynne Mòr fell in the fighting, and the company met a spider-dragon hybrid named Kalamathet and narrowly escaped him. They climbed the Storm Spire and returned the egg to the bronze dragon Aereus, who blessed Faelar and sent the company home.
+Faelar Stormscale led four companions to Kryzath, where Draknar Kiz told them of a temple with a ritual to lift a curse. The ritual instead cast them onto a desert plateau, where Faelar found he had taken a bronze dragon's egg. Wyrmlings attacked, Besswynne Mòr fell in the fighting, and the Guild met a spider-dragon hybrid named Kalamathet and narrowly escaped him. They climbed the Storm Spire and returned the egg to the bronze dragon Aereus, who blessed Faelar and sent the Guild home.
 
 *Guild members present:* [Faelar Stormscale](https://championsguildrpg.com/characters/241/backstory) · [Ivar Thundercall](https://championsguildrpg.com/characters/238/backstory) · [Airie Lonewolf](https://championsguildrpg.com/characters/215/backstory) · [ Besswynne Mòr](https://championsguildrpg.com/characters/120/backstory) · [Zila](https://championsguildrpg.com/characters/209/backstory)
 
@@ -53,7 +53,7 @@ Valdrin, Luca Rasvid, Jericho, Molly Quilhart and Vaelynn Whisperwind crossed th
 <!-- quest:558 -->
 **10 Jul 1026: The Scales Weight - Next Part**
 
-The company defeated the hag-spawn Molt and bought a venom sack from the monster hunters led by Celeran. They then reached Kalamathet's nest through the slot canyons and killed him, taking the Crimson Scale from where his heart should have been. The cure was completed, Heliothrax lived, and the grove was saved, and Heliothrax and Aereus gave Valdrin and Molly rings made from dragon scale and petrified wood. Afterward the Crimson Scale was found missing from Molly's Handy Haversack.
+The Guild defeated the hag-spawn Molt and bought a venom sack from the monster hunters led by Celeran. They then reached Kalamathet's nest through the slot canyons and killed him, taking the Crimson Scale from where his heart should have been. The cure was completed, Heliothrax lived, and the grove was saved, and Heliothrax and Aereus gave Valdrin and Molly rings made from dragon scale and petrified wood. Afterward the Crimson Scale was found missing from Molly's Handy Haversack.
 
 *Guild members present:* [Jericho](https://championsguildrpg.com/characters/29/backstory) · [Vaelynn Whisperwind](https://championsguildrpg.com/characters/79/backstory) · [Luca Rasvid](https://championsguildrpg.com/characters/285/backstory) · [Valdrin](https://championsguildrpg.com/characters/343/backstory) · [Molly Quilhart](https://championsguildrpg.com/characters/344/backstory)
 

@@ -18,7 +18,7 @@ tags:
 
 # Fanged Swamp
 
-Fanged Swamp was named as the company's next destination after the island key was taken. It holds the Beacon in a half-sunken temple, the Temple of Memory, whose history reveals the Mirevein Coven's long influence on the swamp.
+Fanged Swamp was named as the Guild's next destination after the island key was taken. It holds the Beacon in a half-sunken temple, the Temple of Memory, whose history reveals the Mirevein Coven's long influence on the swamp.
 
 <!-- guild-archive-record:start -->
 

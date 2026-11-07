@@ -31,7 +31,7 @@ Lexovar's rival magical institutions keep up a quiet academic cold war of influe
 <!-- quest:139 -->
 **31 Jul 1025: Don't Think Too Much**
 
-A company protected Dr. Pimble and his warforged companion Scout from mercenaries working for Gearshield Academy. One mercenary, Redford, got away. Scout thanked the Guild with five heat shields.
+The Champions Guild protected Dr. Pimble and his warforged companion Scout from mercenaries working for Gearshield Academy. One mercenary, Redford, got away. Scout thanked the Guild with five heat shields.
 
 *Guild members present:* [Shedinn](https://championsguildrpg.com/characters/8/backstory) · [Nephele ](https://championsguildrpg.com/characters/19/backstory) · [Maurice Seelie](https://championsguildrpg.com/characters/11/backstory) · [Bramble](https://championsguildrpg.com/characters/23/backstory) · [Fletcher](https://championsguildrpg.com/characters/44/backstory)
 
@@ -43,7 +43,7 @@ A company protected Dr. Pimble and his warforged companion Scout from mercenarie
 <!-- quest:194 -->
 **14 Sep 1025: To Be Or Not To Be**
 
-The Forgescribe known as Pen had become aware and was wandering Ciliren, writing poetry and reading books, while several universities hunted him. The company followed his trail past those universities to the dockward, where they met Redford again, once more working for Gearshield. He escaped a second time, and Pen was returned to the Iron Loom.
+The Forgescribe known as Pen had become aware and was wandering Ciliren, writing poetry and reading books, while several universities hunted him. The Guild followed his trail past those universities to the dockward, where they met Redford again, once more working for Gearshield. He escaped a second time, and Pen was returned to the Iron Loom.
 
 *Guild members present:* [Everrett Stonehelm](https://championsguildrpg.com/characters/12/backstory) · [Maurice Seelie](https://championsguildrpg.com/characters/11/backstory) · [Aysa](https://championsguildrpg.com/characters/16/backstory) · [Jaden](https://championsguildrpg.com/characters/38/backstory) · [Vaelynn Whisperwind](https://championsguildrpg.com/characters/79/backstory)
 
@@ -55,7 +55,7 @@ The Forgescribe known as Pen had become aware and was wandering Ciliren, writing
 <!-- quest:214 -->
 **2 Oct 1025: The Cracklefront Residence**
 
-A company cleared the dangers from the Cracklefront Residence for Whirligig and Company. In a secret room behind a wardrobe they found evidence of warforged research, with papers tying it to Gearshield Academy.
+The Champions Guild cleared the dangers from the Cracklefront Residence for Whirligig and Company. In a secret room behind a wardrobe they found evidence of warforged research, with papers tying it to Gearshield Academy.
 
 *Guild members present:* [Pip](https://championsguildrpg.com/characters/147/backstory) · [Eireth](https://championsguildrpg.com/characters/145/backstory) · [Thomas Zile](https://championsguildrpg.com/characters/150/backstory)
 
@@ -67,7 +67,7 @@ A company cleared the dangers from the Cracklefront Residence for Whirligig and 
 <!-- quest:334 -->
 **30 Jan 1026: Transport to the Starforges**
 
-The Bastions of Solara asked for the Guild's help with missing catalogued magical items. The Obsidian Chain, against its usual way, blew up the rails to halt the train carrying the Guild's company and tried to take back a magically infused chain only the Starforges can make. The attack failed, but its leader, later named as Toston Silverleaf, was not captured. At the Starforges the company lifted repeated memory-altering magic from the wardens of the three forges, the means by which the Chain had smuggled seven oath-bound items out and rooted itself in the lower workforce, and helped to find the tunnels it used.
+The Bastions of Solara asked for the Guild's help with missing catalogued magical items. The Obsidian Chain, against its usual way, blew up the rails to halt the train carrying the Champions Guild and tried to take back a magically infused chain only the Starforges can make. The attack failed, but its leader, later named as Toston Silverleaf, was not captured. At the Starforges the Guild lifted repeated memory-altering magic from the wardens of the three forges, the means by which the Chain had smuggled seven oath-bound items out and rooted itself in the lower workforce, and helped to find the tunnels it used.
 
 *Guild members present:* [Tannis Pendragon](https://championsguildrpg.com/characters/173/backstory) · [Dark Knight](https://championsguildrpg.com/characters/194/backstory) · ["Zed" Zedicus d'Thuranni](https://championsguildrpg.com/characters/55/backstory) · [ Besswynne Mòr](https://championsguildrpg.com/characters/120/backstory)
 
@@ -79,7 +79,7 @@ The Bastions of Solara asked for the Guild's help with missing catalogued magica
 <!-- quest:556 -->
 **9 Jul 1026: Mind Your Manners: Fixing a Tragedy**
 
-A company returned to the ruined tower of the arch-mage Phineas in the Mourning Wood to save what it could of his research. They found the lawn scorched, the door vandalized and the tower ransacked by agents of the Golden Chain and the Obsidian Chain, who had come to secure it. After a hard fight the company won, restored the tower to its former state and took it into the Guild's keeping.
+The Champions Guild returned to the ruined tower of the arch-mage Phineas in the Mourning Wood to save what it could of his research. They found the lawn scorched, the door vandalized and the tower ransacked by agents of the Golden Chain and the Obsidian Chain, who had come to secure it. After a hard fight the Guild won, restored the tower to its former state and took it into the Guild's keeping.
 
 *Guild members present:* [Orriata](https://championsguildrpg.com/characters/398/backstory) · [Moorf Oakenbraid](https://championsguildrpg.com/characters/426/backstory) · [Garrius Thorn](https://championsguildrpg.com/characters/388/backstory) · [G'Kar](https://championsguildrpg.com/characters/431/backstory)
 

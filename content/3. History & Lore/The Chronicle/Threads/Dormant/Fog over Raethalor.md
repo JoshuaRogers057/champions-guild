@@ -33,7 +33,7 @@ Raethalor lies under Sire Valkek's permanent garrison, and Countess Vyra Nashen 
 <!-- quest:116 -->
 **8 Jul 1025: Shipwreck of the Emerald Wake**
 
-A company of five commissioned Captain Redfall to seek out the treasure wreck of the Emerald Wake. They recovered it after battling the sea and the monsters of the deep.
+Five members of the Champions Guild commissioned Captain Redfall to seek out the treasure wreck of the Emerald Wake. They recovered it after battling the sea and the monsters of the deep.
 
 *Guild members present:* [Zacari Seras](https://championsguildrpg.com/characters/21/backstory) · [Everrett Stonehelm](https://championsguildrpg.com/characters/12/backstory) · [Sigmond Edward Yukon](https://championsguildrpg.com/characters/30/backstory) · [Zavaria](https://championsguildrpg.com/characters/31/backstory) · [Aysa](https://championsguildrpg.com/characters/16/backstory)
 
@@ -43,7 +43,7 @@ A company of five commissioned Captain Redfall to seek out the treasure wreck of
 <!-- quest:134 -->
 **25 Jul 1025: Progress rolls on part 4**
 
-The party paid off Linda and the Rats and so secured the rail, which was by now close to Raethalor. They had dealings with Countess Vyra Nashen and with the orphanage, and Ren Stray was reunited with Mira, an old friend now serving as a city guard in Raethalor.
+The Guild paid off Linda and the Rats and so secured the rail, which was by now close to Raethalor. They had dealings with Countess Vyra Nashen and with the orphanage, and Ren Stray was reunited with Mira, an old friend now serving as a city guard in Raethalor.
 
 *Guild members present:* [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Wizbit](https://championsguildrpg.com/characters/5/backstory) · [Bogrum](https://championsguildrpg.com/characters/15/backstory) · [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory)
 
@@ -55,7 +55,7 @@ The party paid off Linda and the Rats and so secured the rail, which was by now 
 <!-- quest:137 -->
 **29 Jul 1025: The Secret of Cavanth's Cove**
 
-Commissioned by the sailor Captain Redfall, the party entered the long-abandoned grotto of the pirate Captain Cavanth in search of a jewel-encrusted child's music box said to have belonged to the hag Melthora. They fought twisted creatures there, and learned that the many-headed beast in the depths was Saxson, Cavanth's own daughter, transformed by the hag's curse. They took the music box from a hidden vault and gave it to Redfall, who swore to return it to Melthora, though his motives remain his own.
+Commissioned by the sailor Captain Redfall, the Guild entered the long-abandoned grotto of the pirate Captain Cavanth in search of a jewel-encrusted child's music box said to have belonged to the hag Melthora. They fought twisted creatures there, and learned that the many-headed beast in the depths was Saxson, Cavanth's own daughter, transformed by the hag's curse. They took the music box from a hidden vault and gave it to Redfall, who swore to return it to Melthora, though his motives remain his own.
 
 *Guild members present:* [Fletcher](https://championsguildrpg.com/characters/44/backstory) · [Nephele ](https://championsguildrpg.com/characters/19/backstory) · [Aysa](https://championsguildrpg.com/characters/16/backstory) · [Warjo](https://championsguildrpg.com/characters/6/backstory) · [Zacari Seras](https://championsguildrpg.com/characters/21/backstory)
 
@@ -69,7 +69,7 @@ Commissioned by the sailor Captain Redfall, the party entered the long-abandoned
 <!-- quest:140 -->
 **1 Aug 1025: Fog and Whispers**
 
-Mistress Ellid, keeper of the orphanage, had been kidnapped and the boy Tallo was missing. The party learned that illegitimate nobles had vanished across Kastalshire, and that Sire Valkek had brought a permanent garrison to Raethalor and evicted Countess Vyra from her manor. They rescued Tallo and found him in the midst of a transformation; after debating whether to kill him, they chose to take him to the hag Melthora in the hope of paying her price for his healing. The countess told them of a smugglers' cove where a ship could be had.
+Mistress Ellid, keeper of the orphanage, had been kidnapped and the boy Tallo was missing. The Guild learned that illegitimate nobles had vanished across Kastalshire, and that Sire Valkek had brought a permanent garrison to Raethalor and evicted Countess Vyra from her manor. They rescued Tallo and found him in the midst of a transformation; after debating whether to kill him, they chose to take him to the hag Melthora in the hope of paying her price for his healing. The countess told them of a smugglers' cove where a ship could be had.
 
 *Guild members present:* [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Bogrum](https://championsguildrpg.com/characters/15/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory) · [Wizbit](https://championsguildrpg.com/characters/5/backstory) · [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory)
 
@@ -79,7 +79,7 @@ Mistress Ellid, keeper of the orphanage, had been kidnapped and the boy Tallo wa
 <!-- quest:150 -->
 **15 Aug 1025: Fog and war 1**
 
-The party met the hag Melthora and made bargains. A member recorded only as Gram became a fifty-year-old halfling who will now age backwards, owing two favours; Narthex took a crystal spellbook of endless pages, owing one; and Wizbit was given a ship, the Myrra, and the promise of his genie's return, with Melthora as his patron. Bogrum had one eye turned into a Hag's Eye tied to Melthora, and learned that his father had been killed by his brother and that he must go to Thundrakar to put things right. Murcon and Ren took nothing, but Ren was told that Mira had been kidnapped.
+The Guild met the hag Melthora and made bargains. A member recorded only as Gram became a fifty-year-old halfling who will now age backwards, owing two favours; Narthex took a crystal spellbook of endless pages, owing one; and Wizbit was given a ship, the Myrra, and the promise of his genie's return, with Melthora as his patron. Bogrum had one eye turned into a Hag's Eye tied to Melthora, and learned that his father had been killed by his brother and that he must go to Thundrakar to put things right. Murcon and Ren took nothing, but Ren was told that Mira had been kidnapped.
 
 *Guild members present:* [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory) · [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Wizbit](https://championsguildrpg.com/characters/5/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory) · [Bogrum](https://championsguildrpg.com/characters/15/backstory)
 
@@ -89,7 +89,7 @@ The party met the hag Melthora and made bargains. A member recorded only as Gram
 <!-- quest:159 -->
 **22 Aug 1025: Wispers and Fog**
 
-The party attended a masquerade full of vampires and killed a vampire lord. In doing so they accidentally loosed into the world a number of vampires that had been under the control of the vampire lord Tavard. One of them was Dr. Vathros, later known as the Vivisectionist.
+The Guild attended a masquerade full of vampires and killed a vampire lord. In doing so they accidentally loosed into the world a number of vampires that had been under the control of the vampire lord Tavard. One of them was Dr. Vathros, later known as the Vivisectionist.
 
 *Guild members present:* [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory) · [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Wizbit](https://championsguildrpg.com/characters/5/backstory) · [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory)
 

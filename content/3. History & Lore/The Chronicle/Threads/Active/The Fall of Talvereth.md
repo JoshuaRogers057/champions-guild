@@ -15,7 +15,7 @@ chronicle-thread-id: 4
 
 ## Where it stands
 
-Talvereth came through the riots of the Shadow War badly scarred, and the Gilded Council is broken. Guild companies retook the courts, the docks and the districts at the cost of Koal EmberHome and Warjo, and though the Velvet Ledger has been struck in its warehouses and tunnels it still works; a shipment of Glass seized at the docks pointed toward two members of the Council. The Bastions of Solara keep an army outside the city and ambassadors within it, and press both for reconstruction and for a restructuring of the Council that would divide representation between the halflings and the other peoples of the city. Their armies have also strained the trade routes with fees and seizures. Perrin Grint now stands as heir to the Quiet Ledger, an intelligence network his father built to oppose the Velvet Ledger. Negotiations over the city's future are still under way, and whatever they settle will reach beyond Talvereth to trade across Eryndor.
+Talvereth came through the riots of the Shadow War badly scarred, and the Gilded Council is broken. the Champions Guild retook the courts, the docks and the districts at the cost of Koal EmberHome and Warjo, and though the Velvet Ledger has been struck in its warehouses and tunnels it still works; a shipment of Glass seized at the docks pointed toward two members of the Council. The Bastions of Solara keep an army outside the city and ambassadors within it, and press both for reconstruction and for a restructuring of the Council that would divide representation between the halflings and the other peoples of the city. Their armies have also strained the trade routes with fees and seizures. Perrin Grint now stands as heir to the Quiet Ledger, an intelligence network his father built to oppose the Velvet Ledger. Negotiations over the city's future are still under way, and whatever they settle will reach beyond Talvereth to trade across Eryndor.
 
 **Latest development:** Perrin Grint learned that his late father, the councilor Marlowe Grint, had secretly run the Quiet Ledger, and for now he has sealed its archive and left the choice open.
 
@@ -47,7 +47,7 @@ A discreet patron retained a team of three, Shalk, Alben Watchwell and Nephele, 
 <!-- quest:212 -->
 **30 Sep 1025: Champion Game**
 
-A contact in Talvereth traced steady Velvet Ledger payments to Lady Vexa Thornvale, a former adventurer turned art magnate, and the Guild was hired to rob her vault. After turning two of her former house guards, the company worked its way past the vault's defenses and found two things of note: valuables that appeared to be collateral, and a case of six blood-ink phials humming with oath-magic, likely leverage over sitting Council members. Vexa confronted them as they left and tried to bargain. The Guild refused, forced her to withdraw, and delivered the evidence and the phials to its client, leaving Vexa alive, angry and aware that her real vault had been hit.
+A contact in Talvereth traced steady Velvet Ledger payments to Lady Vexa Thornvale, a former adventurer turned art magnate, and the Guild was hired to rob her vault. After turning two of her former house guards, the Guild worked its way past the vault's defenses and found two things of note: valuables that appeared to be collateral, and a case of six blood-ink phials humming with oath-magic, likely leverage over sitting Council members. Vexa confronted them as they left and tried to bargain. The Guild refused, forced her to withdraw, and delivered the evidence and the phials to its client, leaving Vexa alive, angry and aware that her real vault had been hit.
 
 *Guild members present:* [Alben Watchwell](https://championsguildrpg.com/characters/33/backstory) · [Aysa](https://championsguildrpg.com/characters/16/backstory) · [Nephele ](https://championsguildrpg.com/characters/19/backstory) · [Shalk](https://championsguildrpg.com/characters/2/backstory) · [Vaelynn Whisperwind](https://championsguildrpg.com/characters/79/backstory)
 
@@ -59,7 +59,7 @@ A contact in Talvereth traced steady Velvet Ledger payments to Lady Vexa Thornva
 <!-- quest:227 -->
 **14 Oct 1025: Champion Game**
 
-At their client's request the Guild returned to Talvereth to keep pressure on the Velvet Ledger, which had gone to ground in safehouses. The company entered one of them posing as fugitives seeking shelter; one member emptied the treasury while the others turned a device into a choking bellows that smoked the cell out into the street. The city watch had been quietly warned that the house was hot, and the fleeing Ledger personnel were arrested in waves. What the prisoners will yield remains to be seen.
+At their client's request the Guild returned to Talvereth to keep pressure on the Velvet Ledger, which had gone to ground in safehouses. The Guild entered one of them posing as fugitives seeking shelter; one member emptied the treasury while the others turned a device into a choking bellows that smoked the cell out into the street. The city watch had been quietly warned that the house was hot, and the fleeing Ledger personnel were arrested in waves. What the prisoners will yield remains to be seen.
 
 *Guild members present:* [Aysa](https://championsguildrpg.com/characters/16/backstory) · [Shalk](https://championsguildrpg.com/characters/2/backstory) · [Alben Watchwell](https://championsguildrpg.com/characters/33/backstory)
 
@@ -71,7 +71,7 @@ At their client's request the Guild returned to Talvereth to keep pressure on th
 <!-- quest:344 -->
 **4 Feb 1026: Interest Accrued**
 
-Sabina Grint hired the Guild to learn why small businesses in Ashbarrows were closing so quickly. The company found that nearly every owner had loans or binding contracts being enforced at once, traced them to the Coinring Contract Office, and learned that many of the debts were held by wealthy nobles who worship at the Temple of Waukeen. At the temple, priests and nobles admitted that someone had recently urged the lenders to deal harshly with the working class, and thugs set upon the company soon after it left. No crime could be proven, but the Guild reported a coordinated effort to crush Ashbarrows' working people through the law.
+Sabina Grint hired the Guild to learn why small businesses in Ashbarrows were closing so quickly. The Guild found that nearly every owner had loans or binding contracts being enforced at once, traced them to the Coinring Contract Office, and learned that many of the debts were held by wealthy nobles who worship at the Temple of Waukeen. At the temple, priests and nobles admitted that someone had recently urged the lenders to deal harshly with the working class, and thugs set upon the Guild soon after it left. No crime could be proven, but the Guild reported a coordinated effort to crush Ashbarrows' working people through the law.
 
 *Guild members present:* [Boarin Duskshield](https://championsguildrpg.com/characters/232/backstory) · [tox](https://championsguildrpg.com/characters/275/backstory) · [Jadilyn](https://championsguildrpg.com/characters/236/backstory) · [Galahad](https://championsguildrpg.com/characters/90/backstory) · [Tristan Hammerborn](https://championsguildrpg.com/characters/182/backstory)
 
@@ -81,7 +81,7 @@ Sabina Grint hired the Guild to learn why small businesses in Ashbarrows were cl
 <!-- quest:346 -->
 **6 Feb 1026: The Price Isn't Right**
 
-Sabina Grint hired the Guild to find Edrin Halver, a Coin & Paper clerk who vanished after claiming to have uncovered something significant. His desk bore the marks of a deliberate search, and his trail ended at a tavern whose bartender, Bram Underfoot, was lying about him and keeping him in the basement. The company broke up a Velvet Ledger cell, Corvin Halbrecht, Nyra Feld and Kestrel Pike, mid-interrogation and freed Edrin. He confirmed that the Ledger was suppressing discoveries about coordinated economic pressure across Talvereth, and the Guild reported to Sabina that someone was tightening control of trade and contracts across the city.
+Sabina Grint hired the Guild to find Edrin Halver, a Coin & Paper clerk who vanished after claiming to have uncovered something significant. His desk bore the marks of a deliberate search, and his trail ended at a tavern whose bartender, Bram Underfoot, was lying about him and keeping him in the basement. The Guild broke up a Velvet Ledger cell, Corvin Halbrecht, Nyra Feld and Kestrel Pike, mid-interrogation and freed Edrin. He confirmed that the Ledger was suppressing discoveries about coordinated economic pressure across Talvereth, and the Guild reported to Sabina that someone was tightening control of trade and contracts across the city.
 
 *Guild members present:* [Arielle Emberwyn](https://championsguildrpg.com/characters/267/backstory) · [Roland Davenport](https://championsguildrpg.com/characters/247/backstory) · [Lovet Haisnest](https://championsguildrpg.com/characters/249/backstory) · [Red Moon](https://championsguildrpg.com/characters/268/backstory) · [Xenos Greenblack](https://championsguildrpg.com/characters/278/backstory)
 
@@ -101,7 +101,7 @@ To ease the tension in Talvereth, Sabina Grint held a public feast for nobles an
 <!-- quest:359 -->
 **20 Feb 1026: Troubled Waters**
 
-A company was hired to escort Father Alric, a priest of Waukeen, to a conference in Contramara within five days. Repeated sabotage slowed the journey, and the Guild first suspected a cleric of Umberlee, who proved innocent. The culprit was a radical follower of Yondalla set on keeping Alric from the conference; she attacked and was killed, and Alric went on his way.
+The Champions Guild was hired to escort Father Alric, a priest of Waukeen, to a conference in Contramara within five days. Repeated sabotage slowed the journey, and the Guild first suspected a cleric of Umberlee, who proved innocent. The culprit was a radical follower of Yondalla set on keeping Alric from the conference; she attacked and was killed, and Alric went on his way.
 
 *Guild members present:* [Salene Flarestorm](https://championsguildrpg.com/characters/287/backstory) · [Donder Stormbringer](https://championsguildrpg.com/characters/195/backstory) · [Glassik "Glass" Rune-Walker](https://championsguildrpg.com/characters/183/backstory) · [Cedrus Dovah](https://championsguildrpg.com/characters/297/backstory) · [Koal EmberHome](https://championsguildrpg.com/characters/303/backstory)
 
@@ -111,7 +111,7 @@ A company was hired to escort Father Alric, a priest of Waukeen, to a conference
 <!-- quest:360 -->
 **20 Feb 1026: Coin and Cinders**
 
-The Guild found one of the missing caravans burned to cinders by the roadside and followed tracks to a hidden bandit camp. The raiders were radical followers of Yondalla sabotaging noble trade routes in protest of the coming execution of Brunna Mossvale. The company cleared the camp, and found that the wagons had been destroyed rather than looted, a message and not a theft. Tensions in Talvereth continued to rise.
+The Guild found one of the missing caravans burned to cinders by the roadside and followed tracks to a hidden bandit camp. The raiders were radical followers of Yondalla sabotaging noble trade routes in protest of the coming execution of Brunna Mossvale. The Guild cleared the camp, and found that the wagons had been destroyed rather than looted, a message and not a theft. Tensions in Talvereth continued to rise.
 
 *Guild members present:* [Loria Viziath](https://championsguildrpg.com/characters/302/backstory) · [Cyric Beauregard](https://championsguildrpg.com/characters/219/backstory) · [Vex](https://championsguildrpg.com/characters/227/backstory) · [Xenos Greenblack](https://championsguildrpg.com/characters/278/backstory) · [Aurariel Amberdell](https://championsguildrpg.com/characters/307/backstory)
 
@@ -123,7 +123,7 @@ The Guild found one of the missing caravans burned to cinders by the roadside an
 <!-- quest:380 -->
 **13 Mar 1026: Containment Zone**
 
-Aereus summoned a company that was preparing for another contract and sent it to infiltrate a shadow meeting of the world's main criminal organizations. The party made its way through a maze of fighting factions. Mazgar Thorrak fell holding the gap against Cracked Scale warriors, and the company mourned him and recovered his body. What they learned of the syndicates' motives left one conclusion: a shadow war was coming.
+Aereus summoned the Champions Guild, which was preparing for another contract, and sent it to infiltrate a shadow meeting of the world's main criminal organizations. The Guild made its way through a maze of fighting factions. Mazgar Thorrak fell holding the gap against Cracked Scale warriors, and the Guild mourned him and recovered his body. What they learned of the syndicates' motives left one conclusion: a shadow war was coming.
 
 *Guild members present:* [Vaelynn Whisperwind](https://championsguildrpg.com/characters/79/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory) · [Faelar Stormscale](https://championsguildrpg.com/characters/241/backstory) · [Mazgar Thorrak](https://championsguildrpg.com/characters/63/backstory) · [Bogrum](https://championsguildrpg.com/characters/15/backstory)
 
@@ -173,7 +173,7 @@ Team B used the chaos Team A had made to enter a hidden Velvet Ledger tunnel net
 <!-- quest:392 -->
 **21 Mar 1026: Shadow War: Dusk Betrays the Night**
 
-Under cover of night the company entered a Velvet Ledger warehouse, posing as agents of the Brotherhood of the Rat, planted just enough evidence to cast suspicion on the Rats, and left before the Ledger could react. It delivered the stolen cargo to Duskwatch and was paid without revealing the scheme. On its return, Talvereth stood on the brink of collapse, with thieves, cutthroats and enforcers fighting openly in alleys and markets. The underworld conflict was already being called the Shadow Wars.
+Under cover of night the Guild entered a Velvet Ledger warehouse, posing as agents of the Brotherhood of the Rat, planted just enough evidence to cast suspicion on the Rats, and left before the Ledger could react. It delivered the stolen cargo to Duskwatch and was paid without revealing the scheme. On its return, Talvereth stood on the brink of collapse, with thieves, cutthroats and enforcers fighting openly in alleys and markets. The underworld conflict was already being called the Shadow Wars.
 
 *Guild members present:* [Tannis Pendragon](https://championsguildrpg.com/characters/173/backstory) · ["Zed" Zedicus d'Thuranni](https://championsguildrpg.com/characters/55/backstory) · [Perrin](https://championsguildrpg.com/characters/92/backstory) · [Bili Ruben](https://championsguildrpg.com/characters/65/backstory) · [Zila](https://championsguildrpg.com/characters/209/backstory)
 
@@ -185,7 +185,7 @@ Under cover of night the company entered a Velvet Ledger warehouse, posing as ag
 <!-- quest:393 -->
 **21 Mar 1026: Price Of Protection P2**
 
-Marnie secretly struck a deal with Borrim of the Velvet Ledger and betrayed the company, which was carried by magic to a dungeon beneath Talvereth. The party fought its way through, freeing hostages taken after the collapse of the Brass Ladle, killing the kidnapper Borrick, and failing to catch his brother Borrim, who escaped. When it emerged at the docks the city was burning and the crowds rioting, and the company won passage on a boat for itself and the rescued prisoners and fled.
+Marnie secretly struck a deal with Borrim of the Velvet Ledger and betrayed the Guild, which was carried by magic to a dungeon beneath Talvereth. The Guild fought its way through, freeing hostages taken after the collapse of the Brass Ladle, killing the kidnapper Borrick, and failing to catch his brother Borrim, who escaped. When it emerged at the docks the city was burning and the crowds rioting, and the Guild won passage on a boat for itself and the rescued prisoners and fled.
 
 *Guild members present:* [Elwyn Shadowbreak](https://championsguildrpg.com/characters/218/backstory) · [Davian Stone](https://championsguildrpg.com/characters/181/backstory) · [Faelar Stormscale](https://championsguildrpg.com/characters/241/backstory) · [Ivar Thundercall](https://championsguildrpg.com/characters/238/backstory)
 
@@ -241,7 +241,7 @@ Koal was left in Talvereth to survive the first night of the riots. He met a you
 <!-- quest:400 -->
 **24 Mar 1026: Bankers Hours**
 
-The Guild went to Barrowbank to defend the town from a three-way siege by the Velvet Ledger, goliath raiders and Duskwatch. The company bribed the goliaths, one of whom knew Hector from an earlier contract, and Rurik agreed to guard the town and drive out the other attackers in return for information and money. Barrowbank accepted the bargain, and the city vault was sealed.
+The Guild went to Barrowbank to defend the town from a three-way siege by the Velvet Ledger, goliath raiders and Duskwatch. The Guild bribed the goliaths, one of whom knew Hector from an earlier contract, and Rurik agreed to guard the town and drive out the other attackers in return for information and money. Barrowbank accepted the bargain, and the city vault was sealed.
 
 *Guild members present:* [Hector Headwinds](https://championsguildrpg.com/characters/224/backstory) · [Ki'a-Mat](https://championsguildrpg.com/characters/175/backstory) · [Eldarin Solari](https://championsguildrpg.com/characters/310/backstory) · [Kal'zeth the Hellspawn](https://championsguildrpg.com/characters/318/backstory) · [Steelwarden Grixius](https://championsguildrpg.com/characters/342/backstory)
 
@@ -251,7 +251,7 @@ The Guild went to Barrowbank to defend the town from a three-way siege by the Ve
 <!-- quest:403 -->
 **28 Mar 1026: Shadow War: Epic**
 
-At the height of the unrest several Guild companies were sent into separate parts of Talvereth, and this one first took a fortified banking hall, extracting a Gilded Council member alive from the Velvet Ledger operatives holding it. It then killed Captain Gangplank, a leader among the rioters, and retook the Grand Court, which hostile forces had made a command center. Sent against one of the bombs planted in a major temple of Waukeen in Gilder's Rise, the company could not secure it in time and was ordered to retreat. All escaped except Warjo, who stayed to disarm the device and is presumed dead in the blast that devastated the temple.
+At the height of the unrest the Champions Guild split into groups and sent them into separate parts of Talvereth. This group first took a fortified banking hall, extracting a Gilded Council member alive from the Velvet Ledger operatives holding it. It then killed Captain Gangplank, a leader among the rioters, and retook the Grand Court, which hostile forces had made a command center. Sent against one of the bombs planted in a major temple of Waukeen in Gilder's Rise, the Guild could not secure it in time and was ordered to retreat. All escaped except Warjo, who stayed to disarm the device and is presumed dead in the blast that devastated the temple.
 
 *Guild members present:* [Maul M.D.](https://championsguildrpg.com/characters/17/backstory) · [Shedinn](https://championsguildrpg.com/characters/8/backstory) · [Sigmond Edward Yukon](https://championsguildrpg.com/characters/30/backstory) · [Warjo](https://championsguildrpg.com/characters/6/backstory) · [Tannis Pendragon](https://championsguildrpg.com/characters/173/backstory)
 
@@ -263,7 +263,7 @@ At the height of the unrest several Guild companies were sent into separate part
 <!-- quest:404 -->
 **28 Mar 1026: Shadow War: Epic (Ryans Table)**
 
-This company cleared the docks of the criminal organizations, cleared the cannons from the lighthouse by blowing it up, and assaulted and destroyed the blockade's flagship; the lighthouse was totally destroyed. It failed to clear the sewers of criminal elements and failed to rescue the prisoners held on a prison ship. With only seconds to spare, the team stopped the bomb assigned to it.
+This group cleared the docks of the criminal organizations, cleared the cannons from the lighthouse by blowing it up, and assaulted and destroyed the blockade's flagship; the lighthouse was totally destroyed. It failed to clear the sewers of criminal elements and failed to rescue the prisoners held on a prison ship. With only seconds to spare, the team stopped the bomb assigned to it.
 
 *Guild members present:* [Lovet Haisnest](https://championsguildrpg.com/characters/249/backstory) · [Dark Knight](https://championsguildrpg.com/characters/194/backstory) · [Hector Headwinds](https://championsguildrpg.com/characters/224/backstory) · [Zhek'har Valoran](https://championsguildrpg.com/characters/186/backstory) · [Airie Lonewolf](https://championsguildrpg.com/characters/215/backstory)
 
@@ -275,7 +275,7 @@ This company cleared the docks of the criminal organizations, cleared the cannon
 <!-- quest:405 -->
 **28 Mar 1026: Shadow War: Epic**
 
-In the Coin Ring and Grand Exchange district this company reopened the barricaded roads, Tivonna charging through the obstructions as a rhinoceros while a stealth specialist took down defenses from within. At the Kangaroo Court it killed the fanatic Brunna Mossvale and broke up the court, but many civilians died in the fighting, among them Elyn, a local leader tied to Waukeen's presence in the district. It then infiltrated the Rot Rock stronghold and neutralized its leadership, and broke out detained nobles from a vault beneath the district. The compromised sewers went unaddressed, and contaminated runoff has since spilled into the surrounding waters.
+In the Coin Ring and Grand Exchange district this group reopened the barricaded roads, Tivonna charging through the obstructions as a rhinoceros while a stealth specialist took down defenses from within. At the Kangaroo Court it killed the fanatic Brunna Mossvale and broke up the court, but many civilians died in the fighting, among them Elyn, a local leader tied to Waukeen's presence in the district. It then infiltrated the Rot Rock stronghold and neutralized its leadership, and broke out detained nobles from a vault beneath the district. The compromised sewers went unaddressed, and contaminated runoff has since spilled into the surrounding waters.
 
 *Guild members present:* [Luca Rasvid](https://championsguildrpg.com/characters/285/backstory) · [Elwyn Shadowbreak](https://championsguildrpg.com/characters/218/backstory) · [Tivonna](https://championsguildrpg.com/characters/284/backstory) · [Davian Stone](https://championsguildrpg.com/characters/181/backstory) · [Ivar Thundercall](https://championsguildrpg.com/characters/238/backstory)
 
@@ -287,7 +287,7 @@ In the Coin Ring and Grand Exchange district this company reopened the barricade
 <!-- quest:406 -->
 **28 Mar 1026: Shadow War: Epic (Aaron)**
 
-Assigned to the noble district, this company escorted the nobleman Cedric Stonewharf to safety, found alchemical reagents belonging to another noble house, took weapons from the guardhouse stationed there, and saved a group of prisoners at the Loop train station. Working against the odds, it then disabled a bomb in one of the temples of Waukeen, saving many more lives.
+Assigned to the noble district, this group escorted the nobleman Cedric Stonewharf to safety, found alchemical reagents belonging to another noble house, took weapons from the guardhouse stationed there, and saved a group of prisoners at the Loop train station. Working against the odds, it then disabled a bomb in one of the temples of Waukeen, saving many more lives.
 
 *Guild members present:* [Kal'zeth the Hellspawn](https://championsguildrpg.com/characters/318/backstory) · [Cage](https://championsguildrpg.com/characters/332/backstory) · [Himiko Toga](https://championsguildrpg.com/characters/248/backstory) · [Galahad](https://championsguildrpg.com/characters/90/backstory) · [Vaaryn](https://championsguildrpg.com/characters/339/backstory)
 
@@ -299,7 +299,7 @@ Assigned to the noble district, this company escorted the nobleman Cedric Stonew
 <!-- quest:429 -->
 **14 Apr 1026: Hostile Streets**
 
-The Guild escorted the emissaries of the Bastions of Solara through Talvereth, holding the crowd at the market without bloodshed. Restraint failed at the bridge, where the company killed every hostile, and in the street ambush that followed an assassin struck down one of the Aasimar before being killed in turn; her body was consumed by unnatural flames, and who had sent her is unknown. At the city gate a guard delayed the emissaries on a false pretense, and once inside, the elder Aasimar judged her guilty and, as he called it mercy, burned out her eyes.
+The Guild escorted the emissaries of the Bastions of Solara through Talvereth, holding the crowd at the market without bloodshed. Restraint failed at the bridge, where the Guild killed every hostile, and in the street ambush that followed an assassin struck down one of the Aasimar before being killed in turn; her body was consumed by unnatural flames, and who had sent her is unknown. At the city gate a guard delayed the emissaries on a false pretense, and once inside, the elder Aasimar judged her guilty and, as he called it mercy, burned out her eyes.
 
 *Guild members present:* [Luca Rasvid](https://championsguildrpg.com/characters/285/backstory) · [Kal'zeth the Hellspawn](https://championsguildrpg.com/characters/318/backstory) · [Tivonna](https://championsguildrpg.com/characters/284/backstory) · [Hector Headwinds](https://championsguildrpg.com/characters/224/backstory) · [Bison](https://championsguildrpg.com/characters/239/backstory)
 
@@ -333,7 +333,7 @@ Sabina Grint sent the Guild to learn why prices were rising across Talvereth, an
 <!-- quest:464 -->
 **9 May 1026: Enemy of My Enemy**
 
-The Guild took up the role of discreet escort for the Aasimar ambassadors of the Bastions of Solara and brought them to the Talvereth courthouse, where a sensitive diplomatic proceeding was under way. Four assassins attacked in the room, cutting through many of the guards, but the company held the line and defended both ambassadors and the two council members present. Evidence at the scene suggested the attackers meant to frame the Velvet Ledger, though their methods did not fully match the Ledger's, and who ordered the attack was not learned.
+The Guild took up the role of discreet escort for the Aasimar ambassadors of the Bastions of Solara and brought them to the Talvereth courthouse, where a sensitive diplomatic proceeding was under way. Four assassins attacked in the room, cutting through many of the guards, but the Guild held the line and defended both ambassadors and the two council members present. Evidence at the scene suggested the attackers meant to frame the Velvet Ledger, though their methods did not fully match the Ledger's, and who ordered the attack was not learned.
 
 *Guild members present:* [Luca Rasvid](https://championsguildrpg.com/characters/285/backstory) · [Davian Stone](https://championsguildrpg.com/characters/181/backstory) · [Digdug](https://championsguildrpg.com/characters/84/backstory) · [Vaelynn Whisperwind](https://championsguildrpg.com/characters/79/backstory) · [Murcon Thunderhelm](https://championsguildrpg.com/characters/3/backstory)
 

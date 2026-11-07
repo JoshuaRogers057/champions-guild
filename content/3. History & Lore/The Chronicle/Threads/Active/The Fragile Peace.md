@@ -30,7 +30,7 @@ The great wars are over, but Eryndor is not truly at peace. Old grudges, new wea
 <!-- quest:225 -->
 **13 Oct 1025: The Fall of the Faithful**
 
-A company went to retake Auric Vale from supposed fanatics of Helm, whose commander, Ser Caldrin the Unyielding, was trying two tiefling prisoners in public. On the road they found that the men dressed as Helmite soldiers were hired bandits. One of the company sat on the tribunal and carried out its sentence, and after tense talks Ser Caldrin withdrew from the village. Only later did the company learn that a cabal of vampires had arranged it all to set the faithful against the tiefling refugees of Ash Korrath.
+The Champions Guild went to retake Auric Vale from supposed fanatics of Helm, whose commander, Ser Caldrin the Unyielding, was trying two tiefling prisoners in public. On the road they found that the men dressed as Helmite soldiers were hired bandits. One Guild member sat on the tribunal and carried out its sentence, and after tense talks Ser Caldrin withdrew from the village. Only later did the Guild learn that a cabal of vampires had arranged it all to set the faithful against the tiefling refugees of Ash Korrath.
 
 *Guild members present:* [Alben Watchwell](https://championsguildrpg.com/characters/33/backstory) · [Bogrum](https://championsguildrpg.com/characters/15/backstory) · [Maurice Seelie](https://championsguildrpg.com/characters/11/backstory) · [Nephele ](https://championsguildrpg.com/characters/19/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory)
 
@@ -42,7 +42,7 @@ A company went to retake Auric Vale from supposed fanatics of Helm, whose comman
 <!-- quest:379 -->
 **10 Mar 1026: The Path That Burns**
 
-A company went to learn what had befallen a tiefling caravan said to have been attacked by aasimar. They found a survivor and were ambushed by the aasimar, whose head guard told them that the Basilica of the Radiant Crown in the Thalenmark Empire had sent them to kill bandits. The aasimar meant to hide the deaths of the tieflings by calling them bandits, and the company, hired by the tieflings, destroyed the encampment.
+The Champions Guild went to learn what had befallen a tiefling caravan said to have been attacked by aasimar. They found a survivor and were ambushed by the aasimar, whose head guard told them that the Basilica of the Radiant Crown in the Thalenmark Empire had sent them to kill bandits. The aasimar meant to hide the deaths of the tieflings by calling them bandits, and the Guild, hired by the tieflings, destroyed the encampment.
 
 *Guild members present:* [Luca Rasvid](https://championsguildrpg.com/characters/285/backstory) · [Axum/Axia](https://championsguildrpg.com/characters/235/backstory) · [Lynne](https://championsguildrpg.com/characters/320/backstory) · [Red Moon](https://championsguildrpg.com/characters/268/backstory) · [Darwyn](https://championsguildrpg.com/characters/223/backstory)
 

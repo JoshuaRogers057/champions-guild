@@ -13,7 +13,7 @@ chronicle-thread-id: 31
 
 ## Where it stands
 
-Spens is rebuilding after a coalition of pirate crews from the Dreadwake took it in the spring. Guild members who had just helped to obtain a map to the Eye of Kaos escaped the city as it fell. It was later given back, bought with one of the keys the Guild's company carried, in a bargain struck with the Driftbone Armada under the authority of the hag Veysha. The city survived, but its political, criminal and economic landscape has been badly disrupted. In the summer the Guild found a secret fighting pit whose owner proved to be a devil, and a resort where a man was held in an enchanted sleep by one. No one knows who now holds the city's districts.
+Spens is rebuilding after a coalition of pirate crews from the Dreadwake took it in the spring. Guild members who had just helped to obtain a map to the Eye of Kaos escaped the city as it fell. It was later given back, bought with one of the keys the Champions Guild carried, in a bargain struck with the Driftbone Armada under the authority of the hag Veysha. The city survived, but its political, criminal and economic landscape has been badly disrupted. In the summer the Guild found a secret fighting pit whose owner proved to be a devil, and a resort where a man was held in an enchanted sleep by one. No one knows who now holds the city's districts.
 
 ## Unanswered questions
 
@@ -31,7 +31,7 @@ Spens is rebuilding after a coalition of pirate crews from the Dreadwake took it
 <!-- quest:619 -->
 **17 Aug 1026: Risky Business**
 
-A company followed the trail of a man named Stanley through Spens, ruling out the Ring of Wrath and the Devils Cabaret in turn. They found him at a resort called The Long Rest, where a devil had possessed him and held him in an endless sleep. The company drove the devil out together, but the devil itself was not defeated, and more questions were raised than answered.
+The Champions Guild followed the trail of a man named Stanley through Spens, ruling out the Ring of Wrath and the Devils Cabaret in turn. They found him at a resort called The Long Rest, where a devil had possessed him and held him in an endless sleep. The Guild drove the devil out together, but the devil itself was not defeated, and more questions were raised than answered.
 
 *Guild members present:* [Ignis](https://championsguildrpg.com/characters/417/backstory) · [Orriata](https://championsguildrpg.com/characters/398/backstory) · [Marr Runeblade](https://championsguildrpg.com/characters/251/backstory) · [Molly Quilhart](https://championsguildrpg.com/characters/344/backstory) · [Garrius Thorn](https://championsguildrpg.com/characters/388/backstory)
 
@@ -43,7 +43,7 @@ A company followed the trail of a man named Stanley through Spens, ruling out th
 <!-- quest:637 -->
 **1 Sep 1026: A Bloodthirsty Audience**
 
-A company entered the Ring of Wrath, a secret fighting pit, as competitors, hoping to learn where a captive named Lindal was held. The pit's owner, the mercenary captain Kainrik Duskpike, wanted a defeated gladiator, Bromwood, killed; Julian refused when Bromwood surrendered, and the captain's anger ended in a fight. Kainrik revealed himself as a devil and teleported away when beaten. The company then found Lindal's cell and escaped.
+The Champions Guild entered the Ring of Wrath, a secret fighting pit, as competitors, hoping to learn where a captive named Lindal was held. The pit's owner, the mercenary captain Kainrik Duskpike, wanted a defeated gladiator, Bromwood, killed; Julian refused when Bromwood surrendered, and the captain's anger ended in a fight. Kainrik revealed himself as a devil and teleported away when beaten. The Guild then found Lindal's cell and escaped.
 
 *Guild members present:* [Julian Valerius](https://championsguildrpg.com/characters/447/backstory) · [G'Kar](https://championsguildrpg.com/characters/431/backstory) · [Mamira](https://championsguildrpg.com/characters/374/backstory) · [Zinen Wildeye](https://championsguildrpg.com/characters/437/backstory)
 

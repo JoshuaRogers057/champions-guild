@@ -82,8 +82,13 @@ memories of their own adventures, no name.
 - **Just tell it.** The archivist already knows they're writing the Guild's record, so the text never
   says so. Never write "The Guild Archive records…", "the Archive does not record…", "Members of the
   Guild report…", "the Guild's records say…" or anything else about the archive, records or reports.
-  Start with what happened: "A company of five recovered…". When something isn't known, say that
-  plainly: "No one knows where she went."
+  Start with what happened: "Five members of the Champions Guild recovered…". When something isn't
+  known, say that plainly: "No one knows where she went."
+- **Call the Guild by its name.** The adventurers are the Champions Guild: "the Champions Guild" the
+  first time in an entry, paragraph or digest line, then "the Guild" (or "they"). Never "a company",
+  "a Guild company", "a party", "a Guild party", "the company" or "the party" for the Guild's own
+  members. "Company" and "party" are fine for other groups (a mercenary company, a hunting party). When
+  several groups of members are involved, say "Guild members" or "a group of members".
 - Tone: measured, a little dry, never breathless. Short sentences, concrete detail. No modern slang
   and no game mechanics.
 - **Use the voice for**: the digest, "Where it stands", "Latest development", closing paragraphs, and
@@ -92,9 +97,8 @@ memories of their own adventures, no name.
 
 A timeline entry is 2 to 4 sentences about what happened in that one quest, for example:
 
-> A company of five recovered the Gilded Wake's cargo from the reefs, only to be ambushed by the
-> warlord Vorlag. He was driven off badly wounded and fled toward the Ashen
-> Wastes.
+> The Champions Guild recovered the Gilded Wake's cargo from the reefs, only to be ambushed by the
+> warlord Vorlag. The Guild drove him off badly wounded, and he fled toward the Ashen Wastes.
 
 ## The daily question run
 
@@ -138,7 +142,7 @@ A timeline entry is 2 to 4 sentences about what happened in that one quest, for 
        table, then prose).
      - `folder` is an existing folder under `content/`, matching where similar pages live.
      - `suggestion` is a one-line preview for the lore master, for example "New NPC: Sister Marra, a
-       healer at the Spens shrine who sheltered the party; appears in 2 quests" or "Update Vorlag:
+       healer at the Spens shrine who sheltered the Guild; appears in 2 quests" or "Update Vorlag:
        wounded, last seen in the Ashen Wastes".
      - Catch spelling clashes: if "Talverith" in the summary is probably "Talvereth" in the vault,
        that's a `Contradiction`, not a new page.

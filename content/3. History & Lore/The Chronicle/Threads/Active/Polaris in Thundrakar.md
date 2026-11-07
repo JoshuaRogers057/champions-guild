@@ -13,9 +13,9 @@ chronicle-thread-id: 6
 
 ## Where it stands
 
-Polaris is an arcane order the Guild has met in dungeons, on the tundra, at sea and across the gate to the Abyss, always at work on fragments, souls or fiends. Over a year the Guild has thwarted it again and again and earned the respect of several goliath clans. In November, Clan Frostbane sent a company into ruins uncovered by the Frost Giants' activity. Beneath them lay a century-old goliath laboratory, where runes were carved into captured beasts. The Guild destroyed the work and kept only a copy of the notes. Drogath Stormvein will not rule Thundrakar forever, and uncertainty surrounds what comes after him. Polaris continues to operate, and its purpose remains unknown.
+Polaris is an arcane order the Guild has met in dungeons, on the tundra, at sea and across the gate to the Abyss, always at work on fragments, souls or fiends. Over a year the Guild has thwarted it again and again and earned the respect of several goliath clans. In November, Clan Frostbane sent the Champions Guild into ruins uncovered by the Frost Giants' activity. Beneath them lay a century-old goliath laboratory, where runes were carved into captured beasts. The Guild destroyed the work and kept only a copy of the notes. Drogath Stormvein will not rule Thundrakar forever, and uncertainty surrounds what comes after him. Polaris continues to operate, and its purpose remains unknown.
 
-**Latest development:** A company hired by Clan Frostbane found and destroyed a goliath laboratory of rune-carved beasts beneath a ruined temple of Annam.
+**Latest development:** The Champions Guild hired by Clan Frostbane found and destroyed a goliath laboratory of rune-carved beasts beneath a ruined temple of Annam.
 
 ## Unanswered questions
 
@@ -45,7 +45,7 @@ A letter drew four members of the Guild to the middle of Thundrakar, where they 
 <!-- quest:278 -->
 **7 Dec 1025: Wrong Side of the Fence**
 
-The Guild tracked an unknown beast from Thundrakar into the plains of the Redmarch Coalition and met a Polaris member posing as another bounty hunter. The beast turned its victims into ice-encrusted monsters. The company slew it, captured the double agent, and handed them over to the yetis sent to track the Guild.
+The Guild tracked an unknown beast from Thundrakar into the plains of the Redmarch Coalition and met a Polaris member posing as another bounty hunter. The beast turned its victims into ice-encrusted monsters. The Guild slew it, captured the double agent, and handed them over to the yetis sent to track the Guild.
 
 *Guild members present:* [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Maurice Seelie](https://championsguildrpg.com/characters/11/backstory) · [Sigmond Edward Yukon](https://championsguildrpg.com/characters/30/backstory) · [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Vaelynn Whisperwind](https://championsguildrpg.com/characters/79/backstory)
 
@@ -55,7 +55,7 @@ The Guild tracked an unknown beast from Thundrakar into the plains of the Redmar
 <!-- quest:292 -->
 **23 Dec 1025: The Naughty List**
 
-Nox asked the Guild to look into homeless people vanishing in Ciliren. The Smiles group had returned, luring people into a cave outside the city with drugged food and drink. Past Putrice, a follower of the Frost Maiden, the company killed the Polaris member who was using the captives as sacrifices to summon an unknown beast. Some captives were lost, but the ritual was not completed.
+Nox asked the Guild to look into homeless people vanishing in Ciliren. The Smiles group had returned, luring people into a cave outside the city with drugged food and drink. Past Putrice, a follower of the Frost Maiden, the Guild killed the Polaris member who was using the captives as sacrifices to summon an unknown beast. Some captives were lost, but the ritual was not completed.
 
 *Guild members present:* [Veshen](https://championsguildrpg.com/characters/197/backstory) · [Zhek'har Valoran](https://championsguildrpg.com/characters/186/backstory) · [Gerold de Aufwiegler](https://championsguildrpg.com/characters/198/backstory) · [Dark Knight](https://championsguildrpg.com/characters/194/backstory) · [Tannis Pendragon](https://championsguildrpg.com/characters/173/backstory)
 
@@ -79,7 +79,7 @@ Three members of the Guild helped defend a Clan Boarfrost settlement against bea
 <!-- quest:390 -->
 **21 Mar 1026: The Chill of Death**
 
-The Guild returned to Thundrakar to find a hunter leaving corpses across the tundra, and learned that Mr. Chill had escaped prison and was paying others to gather druids and animal parts for an experiment. They fought an ice troll, met the Icescales clan, and helped Trexel, the true name of the other escapee Centerpoint, kill an adult white dragon. Lagertha, an ancient being of ice, had watched them and disliked the killing, but accepted their reasons. The company destroyed Mr. Chill's abomination, but he escaped, saying he would now work with Polaris.
+The Guild returned to Thundrakar to find a hunter leaving corpses across the tundra, and learned that Mr. Chill had escaped prison and was paying others to gather druids and animal parts for an experiment. They fought an ice troll, met the Icescales clan, and helped Trexel, the true name of the other escapee Centerpoint, kill an adult white dragon. Lagertha, an ancient being of ice, had watched them and disliked the killing, but accepted their reasons. The Guild destroyed Mr. Chill's abomination, but he escaped, saying he would now work with Polaris.
 
 *Guild members present:* [Bison](https://championsguildrpg.com/characters/239/backstory) · [Airie Lonewolf](https://championsguildrpg.com/characters/215/backstory) · ["Zed" Zedicus d'Thuranni](https://championsguildrpg.com/characters/55/backstory) · [Lovet Haisnest](https://championsguildrpg.com/characters/249/backstory) · [Dark Knight](https://championsguildrpg.com/characters/194/backstory)
 
@@ -93,7 +93,7 @@ The Guild returned to Thundrakar to find a hunter leaving corpses across the tun
 <!-- quest:431 -->
 **15 Apr 1026: A Heavy Burden**
 
-The celestial defender of Thundrakar asked the Guild to look into a new gate to the Abyss. Beyond it they found a Polaris member seeking to claim a soul for purposes unknown. The company fought powerful undead, passed structures left by heroes who had fought Orcus himself, and brought back the soul of Mazgar.
+The celestial defender of Thundrakar asked the Guild to look into a new gate to the Abyss. Beyond it they found a Polaris member seeking to claim a soul for purposes unknown. The Guild fought powerful undead, passed structures left by heroes who had fought Orcus himself, and brought back the soul of Mazgar.
 
 *Guild members present:* [Lovet Haisnest](https://championsguildrpg.com/characters/249/backstory) · [Ki Ka'Rah](https://championsguildrpg.com/characters/178/backstory) · [Shalk](https://championsguildrpg.com/characters/2/backstory)
 
@@ -115,7 +115,7 @@ Clan Gailsong asked the Guild to look into violent animals during a powerful sto
 <!-- quest:535 -->
 **24 Jun 1026: Twisted Shadows**
 
-Polaris itself, the Guild's known enemy, asked it to look into a member's recent actions in Thundrakar. That member was empowering creatures of the Dusk Queen to steal people's shadows and souls and thereby strengthen a link to her domain. The company stopped the plan and released many of the stored souls, though some were taken by the Polaris member Bulari. They also helped Frost Icescales save wandering goliaths, and befriended a shadow that kept some intelligence and named it Greg.
+Polaris itself, the Guild's known enemy, asked it to look into a member's recent actions in Thundrakar. That member was empowering creatures of the Dusk Queen to steal people's shadows and souls and thereby strengthen a link to her domain. The Guild stopped the plan and released many of the stored souls, though some were taken by the Polaris member Bulari. They also helped Frost Icescales save wandering goliaths, and befriended a shadow that kept some intelligence and named it Greg.
 
 *Guild members present:* [Everrett Stonehelm](https://championsguildrpg.com/characters/12/backstory) · [Eldarin Solari](https://championsguildrpg.com/characters/310/backstory) · [Tristan Hammerborn](https://championsguildrpg.com/characters/182/backstory) · [Bison](https://championsguildrpg.com/characters/239/backstory) · [Ki'a-Mat](https://championsguildrpg.com/characters/175/backstory)
 
@@ -139,7 +139,7 @@ Clan Gailsong asked the Guild to look into attacks on its ships. Sea elves devot
 <!-- quest:635 -->
 **30 Aug 1026: A Giant Task**
 
-House Grassbrook gave the Guild a map to the 'X' marked in Thundrakar. Inside the mines the company lived through the past of Iravek Stormvein, an ancestor of the current head of the great clans, fought Frost Giants, recovered the famed weapon Voidbreaker and learned of a store of ancient ore. They met a Polaris member, the mad scientist Perseus, and knew their discoveries were not secret to all.
+House Grassbrook gave the Guild a map to the 'X' marked in Thundrakar. Inside the mines the Guild lived through the past of Iravek Stormvein, an ancestor of the current head of the great clans, fought Frost Giants, recovered the famed weapon Voidbreaker and learned of a store of ancient ore. They met a Polaris member, the mad scientist Perseus, and knew their discoveries were not secret to all.
 
 *Guild members present:* [Suletta](https://championsguildrpg.com/characters/430/backstory) · [Scarlett Hawkins](https://championsguildrpg.com/characters/355/backstory) · [Glassik "Glass" Rune-Walker](https://championsguildrpg.com/characters/183/backstory) · [Julian Valerius](https://championsguildrpg.com/characters/447/backstory) · [Darwyn](https://championsguildrpg.com/characters/223/backstory)
 
@@ -153,7 +153,7 @@ House Grassbrook gave the Guild a map to the 'X' marked in Thundrakar. Inside th
 <!-- quest:639 -->
 **5 Sep 1026: Trade Embargo (Prime Personalized Quest)**
 
-Clan Icescales hired the Guild to stop a dangerous device meant to help against the dragons of Thundrakar from being delivered. The company disguised itself as Polaris, interrupted the handover, and took the device. It also defeated a Dragon Turtle charmed by elven and sahuagin bandits.
+Clan Icescales hired the Guild to stop a dangerous device meant to help against the dragons of Thundrakar from being delivered. The Guild disguised itself as Polaris, interrupted the handover, and took the device. It also defeated a Dragon Turtle charmed by elven and sahuagin bandits.
 
 *Guild members present:* [Rhanak Steelwind](https://championsguildrpg.com/characters/363/backstory) · [Prime](https://championsguildrpg.com/characters/313/backstory) · [Eldarin Solari](https://championsguildrpg.com/characters/310/backstory) · [Torgar Solemn Brother](https://championsguildrpg.com/characters/372/backstory) · [Mazgar Thorrak](https://championsguildrpg.com/characters/63/backstory)
 
@@ -185,7 +185,7 @@ Clan Boarfrost asked the Guild to help its parent clan, Clan Frostbane, against 
 <!-- quest:668 -->
 **4 Oct 1026: A Giant Problem (Pt 2)**
 
-Following the cultists, the Guild learned that both they and the Frost Giants sought the animated remains of Stagor, a devil from Stygia. The company caught up with the remaining Polaris forces in time to stop them, but whoever had been aiding the Frost Giants fled when the White Greatwyrm Slivice came to the goliaths' side. The Guild came away well regarded among the upper goliath clans.
+Following the cultists, the Guild learned that both they and the Frost Giants sought the animated remains of Stagor, a devil from Stygia. The Guild caught up with the remaining Polaris forces in time to stop them, but whoever had been aiding the Frost Giants fled when the White Greatwyrm Slivice came to the goliaths' side. The Guild came away well regarded among the upper goliath clans.
 
 *Guild members present:* [Jericho](https://championsguildrpg.com/characters/29/backstory) · [Dark Knight](https://championsguildrpg.com/characters/194/backstory) · [Ivar Thundercall](https://championsguildrpg.com/characters/238/backstory) · [Prime](https://championsguildrpg.com/characters/313/backstory) · [Maul M.D.](https://championsguildrpg.com/characters/17/backstory)
 
@@ -197,7 +197,7 @@ Following the cultists, the Guild learned that both they and the Frost Giants so
 <!-- quest:695 -->
 **5 Nov 1026: The Legacy of Frost**
 
-Clan Frostbane hired four Guild members to search ruins newly uncovered beneath one of its pillars. Under a ruined temple of Annam they found a hidden goliath laboratory, where captured beasts had been carved with runes and fragments. The company disliked the work, recovered the research and a method of teleporting by rune, and let the laboratory be destroyed so that none could repeat it.
+Clan Frostbane hired four Guild members to search ruins newly uncovered beneath one of its pillars. Under a ruined temple of Annam they found a hidden goliath laboratory, where captured beasts had been carved with runes and fragments. The Guild disliked the work, recovered the research and a method of teleporting by rune, and let the laboratory be destroyed so that none could repeat it.
 
 *Guild members present:* [Ki Ka'Rah](https://championsguildrpg.com/characters/178/backstory) · [Mazgar Thorrak](https://championsguildrpg.com/characters/63/backstory) · [Rhanak Steelwind](https://championsguildrpg.com/characters/363/backstory) · [Davian Stone](https://championsguildrpg.com/characters/181/backstory)
 

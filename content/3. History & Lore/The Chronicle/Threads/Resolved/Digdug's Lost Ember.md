@@ -30,7 +30,7 @@ Digdug's search for his stolen son began with a carved toy and ended with his fa
 <!-- quest:550 -->
 **5 Jul 1026: Aaron’s Personalised Quest - Digdug’s Lost Ember (Rearranged...Again!!!)**
 
-Following a carved toy to a Velvet Ledger coinhouse, the company uncovered the truth about Digdug's lost family. Firebug had been taken alive years before, when the Cracked Scale and the Velvet Ledger mistook him for another valuable child; the Ledger had entered him in its records as Subject F-13 and renamed him Kindle. Smyles had also survived the attack on the farm, but was held under cursed Ledger chains and made to cooperate by the threat to Firebug's life. Forced to choose between her and Firebug's trail, the company chose Firebug, raided the coinhouse, killed Corvain Ashwell and took sensitive Ledger records pointing to Marnie as Firebug's present holder, while Smyles was moved elsewhere.
+Following a carved toy to a Velvet Ledger coinhouse, the Guild uncovered the truth about Digdug's lost family. Firebug had been taken alive years before, when the Cracked Scale and the Velvet Ledger mistook him for another valuable child; the Ledger had entered him in its records as Subject F-13 and renamed him Kindle. Smyles had also survived the attack on the farm, but was held under cursed Ledger chains and made to cooperate by the threat to Firebug's life. Forced to choose between her and Firebug's trail, the Guild chose Firebug, raided the coinhouse, killed Corvain Ashwell and took sensitive Ledger records pointing to Marnie as Firebug's present holder, while Smyles was moved elsewhere.
 
 *Guild members present:* [Digdug](https://championsguildrpg.com/characters/84/backstory) · [Davian Stone](https://championsguildrpg.com/characters/181/backstory) · [Luca Rasvid](https://championsguildrpg.com/characters/285/backstory) · [Maul M.D.](https://championsguildrpg.com/characters/17/backstory) · [Cage](https://championsguildrpg.com/characters/332/backstory)
 
@@ -42,7 +42,7 @@ Following a carved toy to a Velvet Ledger coinhouse, the company uncovered the t
 <!-- quest:580 -->
 **2 Aug 1026: Going On A Witch - PART 2**
 
-Having escaped the cave, the company found a camp that was strangely still and laid out as if for sleep, yet eerie. They headed out into the mists. Little more is known of this stage of the hunt.
+Having escaped the cave, the Guild found a camp that was strangely still and laid out as if for sleep, yet eerie. They headed out into the mists. Little more is known of this stage of the hunt.
 
 *Guild members present:* [Valdrin](https://championsguildrpg.com/characters/343/backstory) · [Ivar Thundercall](https://championsguildrpg.com/characters/238/backstory) · [Dark Knight](https://championsguildrpg.com/characters/194/backstory) · [Davian Stone](https://championsguildrpg.com/characters/181/backstory) · [Digdug](https://championsguildrpg.com/characters/84/backstory) · [Luca Rasvid](https://championsguildrpg.com/characters/285/backstory)
 
@@ -54,7 +54,7 @@ Having escaped the cave, the company found a camp that was strangely still and l
 <!-- quest:669 -->
 **4 Oct 1026: A Doll’s Undoing (Digdug’s PQ)**
 
-Digdug called on the Guild to restore his wife, Smyles, who had remained trapped as a doll since a magical accident involving their son, Firebug. The company sought expert magical help and learned that her body would have to be rebuilt from rare and dangerous components: exceptional clay, ancient wood, the venom of a monstrous purple worm called the Old Coil, and draconic essence. With these gathered they returned to perform a dangerous ritual, defending it and keeping Firebug safe while his magic flared unstably. It succeeded, and Smyles was restored to her own body and reunited with Digdug and Firebug.
+Digdug called on the Guild to restore his wife, Smyles, who had remained trapped as a doll since a magical accident involving their son, Firebug. The Guild sought expert magical help and learned that her body would have to be rebuilt from rare and dangerous components: exceptional clay, ancient wood, the venom of a monstrous purple worm called the Old Coil, and draconic essence. With these gathered they returned to perform a dangerous ritual, defending it and keeping Firebug safe while his magic flared unstably. It succeeded, and Smyles was restored to her own body and reunited with Digdug and Firebug.
 
 *Guild members present:* [Digdug](https://championsguildrpg.com/characters/84/backstory) · [Eldarin Solari](https://championsguildrpg.com/characters/310/backstory) · [Ivar Thundercall](https://championsguildrpg.com/characters/238/backstory) · [Jericho](https://championsguildrpg.com/characters/29/backstory)
 

@@ -31,7 +31,7 @@ Assassinations, vacant clan seats, unresolved succession struggles and disputes 
 <!-- quest:192 -->
 **13 Sep 1025: The Corridor**
 
-A company went to the Corridor, where Thalenmark, Lexovar and Kar Dromm meet, after trade through it had nearly stopped. They protected the halfling trader Iida's party while it scouted a large bandit base, which proved to be run by the Rok Rot Mercenary company. The dwarven mercenaries spoke of a pale prophet rallying each clan and stirring trouble. The company thinned their numbers, but several dozen remained in control of a small fort.
+The Champions Guild went to the Corridor, where Thalenmark, Lexovar and Kar Dromm meet, after trade through it had nearly stopped. They protected the halfling trader Iida's party while it scouted a large bandit base, which proved to be run by the Rok Rot Mercenary company. The dwarven mercenaries spoke of a pale prophet rallying each clan and stirring trouble. The Guild thinned their numbers, but several dozen remained in control of a small fort.
 
 *Guild members present:* [Frank Hammerfield](https://championsguildrpg.com/characters/121/backstory) · [Jaden](https://championsguildrpg.com/characters/38/backstory) · [Bili Ruben](https://championsguildrpg.com/characters/65/backstory) · [ Besswynne Mòr](https://championsguildrpg.com/characters/120/backstory)
 

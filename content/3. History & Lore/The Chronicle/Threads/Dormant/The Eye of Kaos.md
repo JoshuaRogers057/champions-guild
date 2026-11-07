@@ -13,9 +13,9 @@ chronicle-thread-id: 9
 
 ## Where it stands
 
-The Eye of Kaos, a vast ship hidden beyond reach, has not been brought to account, and its destination and intentions remain unknown. Scarlett Hawkins's company gathered keys from island to island and held three of them when talks with the Driftbone Armada, which held two, bought the freedom of Spens at the price of one. Eliot Marsh then stole a key and escaped, and he has since taken blood from Guild members twice: a drop from Axum, and a vial from each member of a later company. Nothing is known of any pursuit.
+The Eye of Kaos, a vast ship hidden beyond reach, has not been brought to account, and its destination and intentions remain unknown. Scarlett Hawkins and the Guild gathered keys from island to island and held three of them when talks with the Driftbone Armada, which held two, bought the freedom of Spens at the price of one. Eliot Marsh then stole a key and escaped, and he has since taken blood from Guild members twice: a drop from Axum, and a vial from each Guild member on a later quest. Nothing is known of any pursuit.
 
-**Latest development:** In the Forged Sands, a company escorting a Steelborn home learned that their travelling companion Varessa Thornveil served Eliot Marsh, and she took a vial of blood from each of them.
+**Latest development:** In the Forged Sands, the Champions Guild, escorting a Steelborn home, learned that their travelling companion Varessa Thornveil served Eliot Marsh, and she took a vial of blood from each of them.
 
 ## Unanswered questions
 
@@ -57,7 +57,7 @@ Rhogar, Salene Flarestorm, Mae Mossveil and Kyber'lex met the artificer Scarlett
 <!-- quest:428 -->
 **14 Apr 1026: The Eye of Kaos**
 
-After several days at sea the company, Scarlett Hawkins among them, landed on a remote island that held the next key to the Eye of Kaos. They found a Kithkin village under raid by flamekin, drove the raiders off, and agreed with the village head, Cenn Thistle, to fetch a molten fire egg from the flamekin in return. Among the flamekin they learned that infants are left in the jungle to make them strong, and Salene adopted one such child and named it Ignis. Rhogar found a sword after the pyrelord Vorth was defeated, the second key was gathered, the egg went to Cenn, and Scarlett received a folding boat that can take the form of a trireme.
+After several days at sea the Guild, Scarlett Hawkins among them, landed on a remote island that held the next key to the Eye of Kaos. They found a Kithkin village under raid by flamekin, drove the raiders off, and agreed with the village head, Cenn Thistle, to fetch a molten fire egg from the flamekin in return. Among the flamekin they learned that infants are left in the jungle to make them strong, and Salene adopted one such child and named it Ignis. Rhogar found a sword after the pyrelord Vorth was defeated, the second key was gathered, the egg went to Cenn, and Scarlett received a folding boat that can take the form of a trireme.
 
 *Guild members present:* [Scarlett Hawkins](https://championsguildrpg.com/characters/355/backstory) · [Rhogar](https://championsguildrpg.com/characters/262/backstory) · [Salene Flarestorm](https://championsguildrpg.com/characters/287/backstory) · [Kyber'lex the kobold](https://championsguildrpg.com/characters/125/backstory) · [Mae Mossveil](https://championsguildrpg.com/characters/319/backstory)
 
@@ -67,7 +67,7 @@ After several days at sea the company, Scarlett Hawkins among them, landed on a 
 <!-- quest:441 -->
 **21 Apr 1026: The Pursuit of Treasure**
 
-Sailing into waters patrolled by the Driftbone Armada, a ruthless pirate force already after the same prize, the company rescued a frightened kuo-toa and a battered kobold captive, who told them of the island ahead. A militant dragonborn faction held a fortress there and enslaved tribal kobolds to dig for relics, while the Armada was already bargaining to buy or seize the key kept inside. The company won the kobolds' trust, used their forgotten tunnels to enter the fort unseen, and defeated Fulg of the West Wind in the inner chambers after talks failed. They took the key and put to sea before the island could rally, bound next for the Fanged Swamp.
+Sailing into waters patrolled by the Driftbone Armada, a ruthless pirate force already after the same prize, the Guild rescued a frightened kuo-toa and a battered kobold captive, who told them of the island ahead. A militant dragonborn faction held a fortress there and enslaved tribal kobolds to dig for relics, while the Armada was already bargaining to buy or seize the key kept inside. The Guild won the kobolds' trust, used their forgotten tunnels to enter the fort unseen, and defeated Fulg of the West Wind in the inner chambers after talks failed. They took the key and put to sea before the island could rally, bound next for the Fanged Swamp.
 
 *Guild members present:* [Kyber'lex the kobold](https://championsguildrpg.com/characters/125/backstory) · [Rhogar](https://championsguildrpg.com/characters/262/backstory) · [Salene Flarestorm](https://championsguildrpg.com/characters/287/backstory) · [Mae Mossveil](https://championsguildrpg.com/characters/319/backstory) · [Scarlett Hawkins](https://championsguildrpg.com/characters/355/backstory)
 
@@ -79,7 +79,7 @@ Sailing into waters patrolled by the Driftbone Armada, a ruthless pirate force a
 <!-- quest:458 -->
 **5 May 1026: Deep Swamps**
 
-The company crossed the Fanged Swamp and found the Beacon in a half-sunken temple, where they passed the Seven Chambers of the Temple of Memory and learned how war, betrayal and older powers had shaped the swamp's suffering. At the end they were questioned by Veysha of the Mirevein Coven, an ancient hag whose coven has long influenced the swamp, and through her they met the Driftbone Armada, which held two keys to the company's three. The talks held, and in exchange for one key the company won the freedom of the Free City of Spens and a substantial payment, the bargain sealed by Veysha's authority. Eliot Marsh then stole a key and escaped before he could be stopped, and though the key's final destination was left unresolved, the Guild now knows that it leads to the Eye of Kaos, a vast ship hidden beyond their reach.
+The Guild crossed the Fanged Swamp and found the Beacon in a half-sunken temple, where they passed the Seven Chambers of the Temple of Memory and learned how war, betrayal and older powers had shaped the swamp's suffering. At the end they were questioned by Veysha of the Mirevein Coven, an ancient hag whose coven has long influenced the swamp, and through her they met the Driftbone Armada, which held two keys to the Guild's three. The talks held, and in exchange for one key the Guild won the freedom of the Free City of Spens and a substantial payment, the bargain sealed by Veysha's authority. Eliot Marsh then stole a key and escaped before he could be stopped, and though the key's final destination was left unresolved, the Guild now knows that it leads to the Eye of Kaos, a vast ship hidden beyond their reach.
 
 *Guild members present:* [Kyber'lex the kobold](https://championsguildrpg.com/characters/125/backstory) · [Rhogar](https://championsguildrpg.com/characters/262/backstory) · [Salene Flarestorm](https://championsguildrpg.com/characters/287/backstory) · [Mae Mossveil](https://championsguildrpg.com/characters/319/backstory) · [Scarlett Hawkins](https://championsguildrpg.com/characters/355/backstory)
 
@@ -91,7 +91,7 @@ The company crossed the Fanged Swamp and found the Beacon in a half-sunken templ
 <!-- quest:542 -->
 **1 Jul 1026: The Lost Son of Steel**
 
-Ki Ka'Rah and four other Guild members escorted a Steelborn duplicate home to the Forged Sands. Attackers of the Obsidian Chain ambushed them at the train station, and the company stopped them without harm to the crowd, which chanted the Guild's name. On the train they befriended a woman named Varessa Thornveil, ended a hostage-taking by an artificer of the Golden Chain without loss of life, and beat off a night assault by the Cracked Scale on the roof of the moving train. Afterward Varessa revealed that she worked for Eliot Marsh and Nice, and collected a promised favor from the company along with a vial of each member's blood; in the Forged Sands the Steelborn named the Guild Friends of Steel and promised it future work.
+Ki Ka'Rah and four other Guild members escorted a Steelborn duplicate home to the Forged Sands. Attackers of the Obsidian Chain ambushed them at the train station, and the Guild stopped them without harm to the crowd, which chanted the Guild's name. On the train they befriended a woman named Varessa Thornveil, ended a hostage-taking by an artificer of the Golden Chain without loss of life, and beat off a night assault by the Cracked Scale on the roof of the moving train. Afterward Varessa revealed that she worked for Eliot Marsh and Nice, and collected a promised favor from the Guild along with a vial of each member's blood; in the Forged Sands the Steelborn named the Guild Friends of Steel and promised it future work.
 
 *Guild members present:* [Ki Ka'Rah](https://championsguildrpg.com/characters/178/backstory) · [Rhanak Steelwind](https://championsguildrpg.com/characters/363/backstory) · [Jaden](https://championsguildrpg.com/characters/38/backstory) · [Tristan Hammerborn](https://championsguildrpg.com/characters/182/backstory) · [ Tartaglia Starling](https://championsguildrpg.com/characters/345/backstory)
 

@@ -13,7 +13,7 @@ chronicle-thread-id: 40
 
 ## Where it stands
 
-The struggle inside the Fanged Swamp is intensifying as competing powers fight for territory and influence. The swamp itself keeps changing: waters shift, old routes vanish and buried places reappear. In May a Guild company crossed it and found a beacon in a half-sunken temple, learning there how war, betrayal and older powers shaped the swamp's suffering. They were questioned by Veysha of the Mirevein Coven, an ancient hag whose coven has long influenced the swamp, and through her met the Driftbone Armada. The talks held, but which power will come out ahead is not known.
+The struggle inside the Fanged Swamp is intensifying as competing powers fight for territory and influence. The swamp itself keeps changing: waters shift, old routes vanish and buried places reappear. In May the Champions Guild crossed it and found a beacon in a half-sunken temple, learning there how war, betrayal and older powers shaped the swamp's suffering. They were questioned by Veysha of the Mirevein Coven, an ancient hag whose coven has long influenced the swamp, and through her met the Driftbone Armada. The talks held, but which power will come out ahead is not known.
 
 ## Unanswered questions
 

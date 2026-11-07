@@ -24,7 +24,7 @@ tags:
 
 The Dusk Queen was released and brought down in a maze-tomb, leaving only her glowing staff, a phylactery holding a fraction of her soul. Another piece of that soul laid a trap in the woods south of [[Ciliren]], and her creatures stole shadows and souls in [[Thundrakar]] to strengthen a link to her domain.
 
-She guarded a demiplane in the [[Lexovar Woods]] with five shards of her soul, which the company collected. She later struck at the Guild through a teleportation circle and pursued the shards to the Oakspire Enclave.
+She guarded a demiplane in the [[Lexovar Woods]] with five shards of her soul, which the Guild collected. She later struck at the Guild through a teleportation circle and pursued the shards to the Oakspire Enclave.
 
 <!-- guild-archive-record:start -->
 

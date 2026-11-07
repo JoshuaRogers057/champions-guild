@@ -22,7 +22,7 @@ tags:
 
 # Eliot Marsh
 
-Eliot Marsh is a halfling who received the Guild's delivered package at Spens, accompanied by his associate Nice, and Axum gave him a drop of her blood. He stole a key leading to the Eye of Kaos and escaped before he could be stopped. Varessa Thornveil revealed she worked for him and Nice, and collected a vial of blood from each member of the company.
+Eliot Marsh is a halfling who received the Guild's delivered package at Spens, accompanied by his associate Nice, and Axum gave him a drop of her blood. He stole a key leading to the Eye of Kaos and escaped before he could be stopped. Varessa Thornveil revealed she worked for him and Nice, and collected a vial of blood from each member of the Guild.
 
 <!-- guild-archive-record:start -->
 

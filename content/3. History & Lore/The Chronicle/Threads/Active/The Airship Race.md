@@ -13,7 +13,7 @@ chronicle-thread-id: 34
 
 ## Where it stands
 
-Airships are rapidly changing military and economic power across Eryndor. The Drakmir Dominion, Talvereth and Lexovar already own one or more, while Kastalshire, Sylvandar and the Forged Sands are close to fielding their own. The Guild has sailed in them itself, and has been hired to feed the trade: one company gathered silk for airship sails in canyons on the border of the Drakmir Dominion and the Forged Sands, and another recovered a compass built to work aboard an airship from thieves who meant to sell it to the Redmarch Coalition. In March a first airship, nearly finished in a Thalenmark warehouse, was taken in a raid that killed every worker on the site, and no one claimed it.
+Airships are rapidly changing military and economic power across Eryndor. The Drakmir Dominion, Talvereth and Lexovar already own one or more, while Kastalshire, Sylvandar and the Forged Sands are close to fielding their own. The Guild has sailed in them itself, and has been hired to feed the trade: it gathered silk for airship sails in canyons on the border of the Drakmir Dominion and the Forged Sands, and recovered a compass built to work aboard an airship from thieves who meant to sell it to the Redmarch Coalition. In March a first airship, nearly finished in a Thalenmark warehouse, was taken in a raid that killed every worker on the site, and no one claimed it.
 
 ## Unanswered questions
 
@@ -31,7 +31,7 @@ Airships are rapidly changing military and economic power across Eryndor. The Dr
 <!-- quest:165 -->
 **26 Aug 1025: Fine Silk**
 
-Tivver of the Guilded Gears hired a company to bring back several hundred pounds of silk from the slot canyons on the border of the Drakmir Dominion and the Forged Sands. The dragonborn spinner Matron Ezzia Darktongue gave them access, and the silk was gathered for airship sails. In the canyons they met a centi-lich, Veythar the Undying, and escaped him; the company judged him a growing power.
+Tivver of the Guilded Gears hired the Champions Guild to bring back several hundred pounds of silk from the slot canyons on the border of the Drakmir Dominion and the Forged Sands. The dragonborn spinner Matron Ezzia Darktongue gave them access, and the silk was gathered for airship sails. In the canyons they met a centi-lich, Veythar the Undying, and escaped him; the Guild judged him a growing power.
 
 *Guild members present:* [Maurice Seelie](https://championsguildrpg.com/characters/11/backstory) · [Shedinn](https://championsguildrpg.com/characters/8/backstory) · [Maul M.D.](https://championsguildrpg.com/characters/17/backstory) · [Everrett Stonehelm](https://championsguildrpg.com/characters/12/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory) · [Warjo](https://championsguildrpg.com/characters/6/backstory)
 
@@ -41,7 +41,7 @@ Tivver of the Guilded Gears hired a company to bring back several hundred pounds
 <!-- quest:173 -->
 **31 Aug 1025: The Compass**
 
-A company recovered a compass in a special housing, one that can be used aboard an airship. Goblins had stolen it to deliver to the thieves' guild of the Redmarch Coalition, and the company stopped them. Orryn died holding a bridge against them.
+The Champions Guild recovered a compass in a special housing, one that can be used aboard an airship. Goblins had stolen it to deliver to the thieves' guild of the Redmarch Coalition, and the Guild stopped them. Orryn died holding a bridge against them.
 
 *Guild members present:* [Sombersun](https://championsguildrpg.com/characters/104/backstory) · [Jaden](https://championsguildrpg.com/characters/38/backstory) · [Orryn Aelstrom](https://championsguildrpg.com/characters/106/backstory) · [Reginald](https://championsguildrpg.com/characters/67/backstory)
 

@@ -22,9 +22,9 @@ tags:
 
 # Septimus Vex
 
-Septimus Vex was a retired adventurer who sent four Guild members to retrieve an ancient arcane gyroscope from forgotten ruins, and rumour said he had many more relics in mind. He then hired a party to steal the Gem Heart from the collector Bartholomew Vell in Kastalshire; the job failed, and he turned out to be a vampire.
+Septimus Vex was a retired adventurer who sent four Guild members to retrieve an ancient arcane gyroscope from forgotten ruins, and rumour said he had many more relics in mind. He then hired the Champions Guild to steal the Gem Heart from the collector Bartholomew Vell in Kastalshire; the job failed, and he turned out to be a vampire.
 
-The Guild may have released his large flying castle. He met the Guild on the command bridge of the fortress, dropped all pretence and was brought down as it began to sink. He was finished among the ruins of fallen [[Castle Bran]] by a Guild party led by Narthex, who took a bone staff.
+The Guild may have released his large flying castle. He met the Guild on the command bridge of the fortress, dropped all pretence and was brought down as it began to sink. He was finished among the ruins of fallen [[Castle Bran]] by the Champions Guild led by Narthex, who took a bone staff.
 
 <!-- guild-archive-record:start -->
 

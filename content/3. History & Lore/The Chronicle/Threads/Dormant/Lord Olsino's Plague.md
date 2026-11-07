@@ -15,7 +15,7 @@ chronicle-thread-id: 27
 
 A deadly disease that sickened settlers and some Guild members traces back to Lord Olsino, who paid a den of vampires to perfect it while the false cleric Lita carried out experiments on settlers. Lita was taken into the Guild's custody, and the Guild holds her notes and a vial of the disease. The vampires of that den were slain, but Lord Olsino's manor has not been entered. Whether the plague at the Elkhara is the same sickness is not known.
 
-**Latest development:** The company slew the vampires, freed their captives, and learned that Lord Olsino funded the work, setting their sights on his manor.
+**Latest development:** The Guild slew the vampires, freed their captives, and learned that Lord Olsino funded the work, setting their sights on his manor.
 
 ## Unanswered questions
 
@@ -32,7 +32,7 @@ A deadly disease that sickened settlers and some Guild members traces back to Lo
 <!-- quest:487 -->
 **25 May 1026: Monster Heart**
 
-A plague was spreading through the lands around the Elkhara. It could be cured, but the cure needed the hearts of monsters mutated by the corruption there, so the company went into the infected perimeter and hunted several of them. They met another hunting party and traded what each knew about the plague and the dangers of the region, and Caldrin Mourn, a white-scaled dragonborn of that party, quickly became a friend and ally of Rhogar. The company then found the kobold artificers and alchemists working on the cure and carried the finished medicine safely back.
+A plague was spreading through the lands around the Elkhara. It could be cured, but the cure needed the hearts of monsters mutated by the corruption there, so the Guild went into the infected perimeter and hunted several of them. They met another hunting party and traded what each knew about the plague and the dangers of the region, and Caldrin Mourn, a white-scaled dragonborn of that party, quickly became a friend and ally of Rhogar. The Guild then found the kobold artificers and alchemists working on the cure and carried the finished medicine safely back.
 
 *Guild members present:* [Rhogar](https://championsguildrpg.com/characters/262/backstory) · [Alaric Crownsilver](https://championsguildrpg.com/characters/352/backstory) · [Bison](https://championsguildrpg.com/characters/239/backstory) · [Clyde Lawson](https://championsguildrpg.com/characters/282/backstory) · [Tristan Hammerborn](https://championsguildrpg.com/characters/182/backstory)
 
@@ -44,7 +44,7 @@ A plague was spreading through the lands around the Elkhara. It could be cured, 
 <!-- quest:564 -->
 **14 Jul 1026: Cull the Weak**
 
-The Guild looked into a settlement afflicted by rash and fever and found that a false cleric named Lita was being paid to experiment with a deadly disease or curse. The company arrested her, saved the settlers it could, and carried her research notes and a vial of the disease back to the Guild. Some members fell ill on the way, but the strain proved temporary for those who survived it.
+The Guild looked into a settlement afflicted by rash and fever and found that a false cleric named Lita was being paid to experiment with a deadly disease or curse. The Guild arrested her, saved the settlers it could, and carried her research notes and a vial of the disease back to the Guild. Some members fell ill on the way, but the strain proved temporary for those who survived it.
 
 *Guild members present:* [Jorico Apiari](https://championsguildrpg.com/characters/438/backstory) · [Avalin Florrelington](https://championsguildrpg.com/characters/427/backstory) · [Kayne Farefield](https://championsguildrpg.com/characters/442/backstory) · [Aspx](https://championsguildrpg.com/characters/383/backstory) · [Burnwick Firebeard](https://championsguildrpg.com/characters/373/backstory)
 
@@ -54,7 +54,7 @@ The Guild looked into a settlement afflicted by rash and fever and found that a 
 <!-- quest:579 -->
 **26 Jul 1026: Cure the Weak**
 
-From Lita, their prisoner, the Guild learned that she was to deliver her results to someone in a nearby settlement. Following a trail of death, corruption and disease from a missing-person case there, the company came to a den of vampires and learned that they worked with the local lord, Olsino, whose funds backed research that kept improving the disease. The company freed the captives, slew the vampires, and returned with this news, setting its sights on Lord Olsino's manor.
+From Lita, their prisoner, the Guild learned that she was to deliver her results to someone in a nearby settlement. Following a trail of death, corruption and disease from a missing-person case there, the Guild came to a den of vampires and learned that they worked with the local lord, Olsino, whose funds backed research that kept improving the disease. The Guild freed the captives, slew the vampires, and returned with this news, setting its sights on Lord Olsino's manor.
 
 *Guild members present:* [Vena McGarry](https://championsguildrpg.com/characters/277/backstory) · [Red Moon](https://championsguildrpg.com/characters/268/backstory) · [Ki'a-Mat](https://championsguildrpg.com/characters/175/backstory) · [Torgar Solemn Brother](https://championsguildrpg.com/characters/372/backstory) · [Alaric Crownsilver](https://championsguildrpg.com/characters/352/backstory) · [Chaoxoid](https://championsguildrpg.com/characters/376/backstory)
 

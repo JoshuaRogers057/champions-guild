@@ -27,12 +27,12 @@ The druidic and treant crisis in northern Kastalshire has continued to worsen. G
 ### [[The Fall of Talvereth]]
 *Ongoing · Nation · Crises & Wars*
 
-Talvereth came through the riots of the Shadow War badly scarred, and the Gilded Council is broken. Guild companies retook the courts, the docks and the districts at the cost of Koal EmberHome and Warjo, and though the Velvet Ledger has been struck in its warehouses and tunnels it still works; a shipment of Glass seized at the docks pointed toward two members of the Council. The Bastions of Solara keep an army outside the city and ambassadors within it, and press both for reconstruction and for a restructuring of the Council that would divide representation between the halflings and the other peoples of the city. Their armies have also strained the trade routes with fees and seizures. Perrin Grint now stands as heir to the Quiet Ledger, an intelligence network his father built to oppose the Velvet Ledger. Negotiations over the city's future are still under way, and whatever they settle will reach beyond Talvereth to trade across Eryndor.
+Talvereth came through the riots of the Shadow War badly scarred, and the Gilded Council is broken. the Champions Guild retook the courts, the docks and the districts at the cost of Koal EmberHome and Warjo, and though the Velvet Ledger has been struck in its warehouses and tunnels it still works; a shipment of Glass seized at the docks pointed toward two members of the Council. The Bastions of Solara keep an army outside the city and ambassadors within it, and press both for reconstruction and for a restructuring of the Council that would divide representation between the halflings and the other peoples of the city. Their armies have also strained the trade routes with fees and seizures. Perrin Grint now stands as heir to the Quiet Ledger, an intelligence network his father built to oppose the Velvet Ledger. Negotiations over the city's future are still under way, and whatever they settle will reach beyond Talvereth to trade across Eryndor.
 
 ### [[The Rebuilding of Spens]]
 *Ongoing · City · Crises & Wars*
 
-Spens is rebuilding after a coalition of pirate crews from the Dreadwake took it in the spring. Guild members who had just helped to obtain a map to the Eye of Kaos escaped the city as it fell. It was later given back, bought with one of the keys the Guild's company carried, in a bargain struck with the Driftbone Armada under the authority of the hag Veysha. The city survived, but its political, criminal and economic landscape has been badly disrupted. In the summer the Guild found a secret fighting pit whose owner proved to be a devil, and a resort where a man was held in an enchanted sleep by one. No one knows who now holds the city's districts.
+Spens is rebuilding after a coalition of pirate crews from the Dreadwake took it in the spring. Guild members who had just helped to obtain a map to the Eye of Kaos escaped the city as it fell. It was later given back, bought with one of the keys the Champions Guild carried, in a bargain struck with the Driftbone Armada under the authority of the hag Veysha. The city survived, but its political, criminal and economic landscape has been badly disrupted. In the summer the Guild found a secret fighting pit whose owner proved to be a devil, and a resort where a man was held in an enchanted sleep by one. No one knows who now holds the city's districts.
 
 ### [[The Corruption of Kalamathet]]
 *Quiet · Nation · Crises & Wars*
@@ -42,7 +42,7 @@ The corrupted dragon Kalamathet has been killed twice: once in his nest in the d
 ### [[The Eye of Kaos]]
 *Dormant · Nation · Mysteries & Arcana*
 
-The Eye of Kaos, a vast ship hidden beyond reach, has not been brought to account, and its destination and intentions remain unknown. Scarlett Hawkins's company gathered keys from island to island and held three of them when talks with the Driftbone Armada, which held two, bought the freedom of Spens at the price of one. Eliot Marsh then stole a key and escaped, and he has since taken blood from Guild members twice: a drop from Axum, and a vial from each member of a later company. Nothing is known of any pursuit.
+The Eye of Kaos, a vast ship hidden beyond reach, has not been brought to account, and its destination and intentions remain unknown. Scarlett Hawkins and the Guild gathered keys from island to island and held three of them when talks with the Driftbone Armada, which held two, bought the freedom of Spens at the price of one. Eliot Marsh then stole a key and escaped, and he has since taken blood from Guild members twice: a drop from Axum, and a vial from each Guild member on a later quest. Nothing is known of any pursuit.
 
 ### [[The Rat and the Scale]]
 *Dormant · Faction · Intrigue & Crime*
@@ -56,7 +56,7 @@ Criminal organisations across Eryndor are growing more organised, wealthy and po
 ### [[The Airship Race]]
 *Ongoing · World · Crises & Wars*
 
-Airships are rapidly changing military and economic power across Eryndor. The Drakmir Dominion, Talvereth and Lexovar already own one or more, while Kastalshire, Sylvandar and the Forged Sands are close to fielding their own. The Guild has sailed in them itself, and has been hired to feed the trade: one company gathered silk for airship sails in canyons on the border of the Drakmir Dominion and the Forged Sands, and another recovered a compass built to work aboard an airship from thieves who meant to sell it to the Redmarch Coalition. In March a first airship, nearly finished in a Thalenmark warehouse, was taken in a raid that killed every worker on the site, and no one claimed it.
+Airships are rapidly changing military and economic power across Eryndor. The Drakmir Dominion, Talvereth and Lexovar already own one or more, while Kastalshire, Sylvandar and the Forged Sands are close to fielding their own. The Guild has sailed in them itself, and has been hired to feed the trade: it gathered silk for airship sails in canyons on the border of the Drakmir Dominion and the Forged Sands, and recovered a compass built to work aboard an airship from thieves who meant to sell it to the Redmarch Coalition. In March a first airship, nearly finished in a Thalenmark warehouse, was taken in a raid that killed every worker on the site, and no one claimed it.
 
 ### [[Kar Dromm in Crisis]]
 *Ongoing · Nation · Crises & Wars*
@@ -66,7 +66,7 @@ Assassinations, vacant clan seats, unresolved succession struggles and disputes 
 ### [[Polaris in Thundrakar]]
 *Active · Nation · Intrigue & Crime*
 
-Polaris is an arcane order the Guild has met in dungeons, on the tundra, at sea and across the gate to the Abyss, always at work on fragments, souls or fiends. Over a year the Guild has thwarted it again and again and earned the respect of several goliath clans. In November, Clan Frostbane sent a company into ruins uncovered by the Frost Giants' activity. Beneath them lay a century-old goliath laboratory, where runes were carved into captured beasts. The Guild destroyed the work and kept only a copy of the notes. Drogath Stormvein will not rule Thundrakar forever, and uncertainty surrounds what comes after him. Polaris continues to operate, and its purpose remains unknown.
+Polaris is an arcane order the Guild has met in dungeons, on the tundra, at sea and across the gate to the Abyss, always at work on fragments, souls or fiends. Over a year the Guild has thwarted it again and again and earned the respect of several goliath clans. In November, Clan Frostbane sent the Champions Guild into ruins uncovered by the Frost Giants' activity. Beneath them lay a century-old goliath laboratory, where runes were carved into captured beasts. The Guild destroyed the work and kept only a copy of the notes. Drogath Stormvein will not rule Thundrakar forever, and uncertainty surrounds what comes after him. Polaris continues to operate, and its purpose remains unknown.
 
 ### [[The First Arbiter]]
 *Ongoing · Nation · Intrigue & Crime*
@@ -76,12 +76,12 @@ Sylvandar is approaching the selection of its next First Arbiter, whose term is 
 ### [[The Future of Sanama]]
 *Ongoing · Nation · Intrigue & Crime*
 
-A growing divide is forming in Sanama between those who want permanent settlements, markets, schools and infrastructure and those who believe that settling for good would destroy what makes Sanama what it is. The nomads have kept their leadership through the Guild's own reckoning: late in 1025 a Guild company rescued the Sanama Elders from a vampire raiding force and brought them home. A Guild party has also hunted ankhegs beside the nomads, and the Guild has made friends among the Pride. There is no sign that the divide has been settled.
+A growing divide is forming in Sanama between those who want permanent settlements, markets, schools and infrastructure and those who believe that settling for good would destroy what makes Sanama what it is. The nomads have kept their leadership through the Guild's own reckoning: late in 1025 the Champions Guild rescued the Sanama Elders from a vampire raiding force and brought them home. The Champions Guild has also hunted ankhegs beside the nomads, and the Guild has made friends among the Pride. There is no sign that the divide has been settled.
 
 ### [[The War of the Fanged Swamp]]
 *Ongoing · Nation · Crises & Wars*
 
-The struggle inside the Fanged Swamp is intensifying as competing powers fight for territory and influence. The swamp itself keeps changing: waters shift, old routes vanish and buried places reappear. In May a Guild company crossed it and found a beacon in a half-sunken temple, learning there how war, betrayal and older powers shaped the swamp's suffering. They were questioned by Veysha of the Mirevein Coven, an ancient hag whose coven has long influenced the swamp, and through her met the Driftbone Armada. The talks held, but which power will come out ahead is not known.
+The struggle inside the Fanged Swamp is intensifying as competing powers fight for territory and influence. The swamp itself keeps changing: waters shift, old routes vanish and buried places reappear. In May the Champions Guild crossed it and found a beacon in a half-sunken temple, learning there how war, betrayal and older powers shaped the swamp's suffering. They were questioned by Veysha of the Mirevein Coven, an ancient hag whose coven has long influenced the swamp, and through her met the Driftbone Armada. The talks held, but which power will come out ahead is not known.
 
 ### [[The Woaden Wood]]
 *Ongoing · Nation · Crises & Wars*
@@ -91,17 +91,17 @@ Sylvandar's ancient forests have become a strategic resource as other nations ra
 ### [[Uncertainty in the Forged Sands]]
 *Ongoing · Nation · Mysteries & Arcana*
 
-The Steelborn face mounting tension with Lexovar and worsening shortages of the fragments they need to make new Steelborn. Unsettling mysteries run through their territory, among them the Black Silence, old sealed sites and unanswered questions about how a Steelborn is made. In the summer a Guild company escorted a Steelborn home to the Forged Sands, beating off attacks by the Obsidian Chain, the Golden Chain and the Cracked Scale on the road and the train. The Steelborn named the Guild Friends of Steel and promised that future missions would come. A Steelborn had earlier been found among prisoners in a hidden vault beneath Cogveil College.
+The Steelborn face mounting tension with Lexovar and worsening shortages of the fragments they need to make new Steelborn. Unsettling mysteries run through their territory, among them the Black Silence, old sealed sites and unanswered questions about how a Steelborn is made. In the summer the Champions Guild escorted a Steelborn home to the Forged Sands, beating off attacks by the Obsidian Chain, the Golden Chain and the Cracked Scale on the road and the train. The Steelborn named the Guild Friends of Steel and promised that future missions would come. A Steelborn had earlier been found among prisoners in a hidden vault beneath Cogveil College.
 
 ### [[Unrest in Kastalshire]]
 *Ongoing · Nation · Crises & Wars*
 
-The Crown's increasingly centralized rail system and political control are provoking serious unrest among the duchies. Old tensions with Thundrakar and resistance to Contramara's growing authority are feeding it. In November, Baron Sel Treffalin, about to be named Royal Minister of Woods, was killed by a magical blast during his acceptance speech in Contramara. Druids of the Verdant Accord had hired several companies to kill him. A company of the Guild is now under suspicion, and an investigation is under way. The bomber has not been named.
+The Crown's increasingly centralized rail system and political control are provoking serious unrest among the duchies. Old tensions with Thundrakar and resistance to Contramara's growing authority are feeding it. In November, Baron Sel Treffalin, about to be named Royal Minister of Woods, was killed by a magical blast during his acceptance speech in Contramara. Druids of the Verdant Accord had hired several companies to kill him. The Champions Guild is now under suspicion, and an investigation is under way. The bomber has not been named.
 
 ### [[The Scar of Vaelor]]
 *Ongoing · City · Mysteries & Arcana*
 
-Foreign nations increasingly want permanent access to the Scar's resources and strategic position, and the Genasi keep resisting attempts to turn trade agreements into footholds. In the spring a company escorting two Kalashtar to the Skywake Festival reached the Scar just as an elemental crystal was stolen from Vaelor. The thieves proved to be the Kalashtar themselves, and the company turned them in. The crystal was put back, but it did not repair the damage: the floating islands kept destabilizing, and others began to show the same signs. No one yet understands what is stirring in the Scar's elemental currents.
+Foreign nations increasingly want permanent access to the Scar's resources and strategic position, and the Genasi keep resisting attempts to turn trade agreements into footholds. In the spring the Champions Guild escorting two Kalashtar to the Skywake Festival reached the Scar just as an elemental crystal was stolen from Vaelor. The thieves proved to be the Kalashtar themselves, and the Guild turned them in. The crystal was put back, but it did not repair the damage: the floating islands kept destabilizing, and others began to show the same signs. No one yet understands what is stirring in the Scar's elemental currents.
 
 ### [[The Bastions of Solara and the Resonance Loom]]
 *Quiet · Nation · Crises & Wars*
@@ -116,7 +116,7 @@ Rurik Grimveil's Clan Glimveil, a small goliath clan of the far northern tundra 
 ### [[The Stone Accord]]
 *Dormant · Nation · Crises & Wars*
 
-The Guild went to Thumdar as envoys to the dwarves, and the journey cost Ranmir IronFist his life in a forge held by hostile forces. At his funeral Rhanak promised to see the forge restored, and a Guild party has since driven the salamanders from the lower works and cleared the temple beneath them. The dwarves of Thumdar think well of the Guild, and the Council has set it a task. It is not known whether the task was carried out, nor what lay behind the sealed boxes the company opened.
+The Guild went to Thumdar as envoys to the dwarves, and the journey cost Ranmir IronFist his life in a forge held by hostile forces. At his funeral Rhanak promised to see the forge restored, and the Champions Guild has since driven the salamanders from the lower works and cleared the temple beneath them. The dwarves of Thumdar think well of the Guild, and the Council has set it a task. It is not known whether the task was carried out, nor what lay behind the sealed boxes the Guild opened.
 
 ## Unresolved Threats & Mysteries
 
@@ -150,7 +150,7 @@ A vast collection of genealogies, hidden roads, treaties, testimony and cultural
 ### [[Knell Escaped]]
 *Ongoing · City · Mysteries & Arcana*
 
-The sentient bell-construct called Knell has escaped the Arcanum. It was born when mixed magic at the Arcanum woke a bell to awareness, and in May wild magic surged through the academy from the bell tower. A Guild company stopped the immediate threat and saved the school, but Knell fled before it could be destroyed or contained. Its whereabouts are unknown, and it is said to seek vengeance on the students whose magic brought it to life.
+The sentient bell-construct called Knell has escaped the Arcanum. It was born when mixed magic at the Arcanum woke a bell to awareness, and in May wild magic surged through the academy from the bell tower. The Champions Guild stopped the immediate threat and saved the school, but Knell fled before it could be destroyed or contained. Its whereabouts are unknown, and it is said to seek vengeance on the students whose magic brought it to life.
 
 ## The Guild's Own Stories
 
@@ -165,10 +165,10 @@ Allan Willmer, a librarian of Lakebarrow, used magic books to trap the Guild's m
 
 - [[The Smiles Gang]] (Quiet): A second team in the floating isles defeated the fallen angel guarding the temple's trial of rebirth, though the gang's leader there remains at large.
 - [[The Dusk Queen's Shattered Soul]] (Quiet): The shards of the Dusk Queen's soul were delivered to the Oakspire Enclave just ahead of the Queen's pursuit, and the Enclave demanded Synthia's return.
-- [[Lord Olsino's Plague]] (Dormant): The company slew the vampires, freed their captives, and learned that Lord Olsino funded the work, setting their sights on his manor.
-- [[Old Marnie and the Stolen Children]] (Dormant): At her cottage the company defeated the Arch Hag Marnie, but her daughters escaped and several orphanage children, Sasha among them, remain missing.
+- [[Lord Olsino's Plague]] (Dormant): The Guild slew the vampires, freed their captives, and learned that Lord Olsino funded the work, setting their sights on his manor.
+- [[Old Marnie and the Stolen Children]] (Dormant): At her cottage the Guild defeated the Arch Hag Marnie, but her daughters escaped and several orphanage children, Sasha among them, remain missing.
 - [[The Thing Beneath Talvereth]] (Dormant): The Guild located a warehouse where a corrupted fragment was changing those who guarded it, took the fragment back to the guild hall, and watched a scarred bald man flee.
-- [[The Wolves of Lakebarrow]] (Dormant): In the woods the company defeated the Big Bad Wolf's lieutenant and freed Red and Conan, but the Wolf itself remained at large.
+- [[The Wolves of Lakebarrow]] (Dormant): In the woods the Guild defeated the Big Bad Wolf's lieutenant and freed Red and Conan, but the Wolf itself remained at large.
 - [[Fog over Raethalor]] (Dormant): At Stonehall, Bogrum buried his father, killed his brother and learned disturbing things about his pact with Melthora.
 - [[The Bloodpits of Borgnar]] (Dormant): Mog'zeth agreed to go on sharing what she knows of Borgnar's factions if the Guild helps her find whoever is fixing the arena matches.
 - [[Kestrel and Silas Vane]] (Dormant): Kestrel learned that Silas Vane now lives as Marcellin Roth and has gone on to Talvereth.
@@ -190,4 +190,3 @@ Allan Willmer, a librarian of Lakebarrow, used magic books to trap the Guild's m
 ## Past digests
 
 - [[This Week in Eryndor 1026-11-07]]
-- [[This Week in Eryndor 1026-10-27]]

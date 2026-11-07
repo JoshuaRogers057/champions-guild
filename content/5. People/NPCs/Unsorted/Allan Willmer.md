@@ -22,7 +22,7 @@ tags:
 
 # Allan Willmer
 
-Allan Willmer was a librarian of [[Lakebarrow]]. He trapped the Guild's company in a magical book and escaped when it was torn open. His magic book later created the cursed fly that afflicted an old lady.
+Allan Willmer was a librarian of [[Lakebarrow]]. He trapped the Champions Guild in a magical book and escaped when it was torn open. His magic book later created the cursed fly that afflicted an old lady.
 
 Fey trapped him in his own memories for breaking their leader's quill, and the hag Madam Frump killed him at a fairy mound near the town.
 

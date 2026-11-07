@@ -33,7 +33,7 @@ Criminal organisations across Eryndor are growing more organised, wealthy and po
 <!-- quest:330 -->
 **25 Jan 1026: New Managment**
 
-Digdug, Tannis, Leon and Zhek'har took a contract and met Captain Sampson and his crew, who quickly befriended them. They rescued a group of pirates from crews of Duskwatch sailors and smugglers, and reached Rakkath, where they cleared out the Cracked Scale. Leothin, an assassin for the Cracked Scale, escaped, and the company may want to hunt him.
+Digdug, Tannis, Leon and Zhek'har took a contract and met Captain Sampson and his crew, who quickly befriended them. They rescued a group of pirates from crews of Duskwatch sailors and smugglers, and reached Rakkath, where they cleared out the Cracked Scale. Leothin, an assassin for the Cracked Scale, escaped, and the Guild may want to hunt him.
 
 *Guild members present:* [Bo](https://championsguildrpg.com/characters/113/backstory) · [Digdug](https://championsguildrpg.com/characters/84/backstory) · [Tannis Pendragon](https://championsguildrpg.com/characters/173/backstory) · [Zhek'har Valoran](https://championsguildrpg.com/characters/186/backstory) · [Leon, aka Chameleon](https://championsguildrpg.com/characters/107/backstory)
 
@@ -43,7 +43,7 @@ Digdug, Tannis, Leon and Zhek'har took a contract and met Captain Sampson and hi
 <!-- quest:332 -->
 **28 Jan 1026: "Strategic pivot"**
 
-Zila, Luminary, Tristan and Rhogar set out to drive the Cracked Scale from Rakkath. They met Serrixa, who kept the Bolt Hole tavern; Rhogar killed Serrixa and Luminary revived the barkeep, and Serrixa escaped. They helped the Cracked Scale smith Drazhul Ironbreath leave town with his workers and arms, closed a hidden cove to further troops, and lost Zila's bracelet to the local boss Khaelor Tideclaw, who escaped; Zila vowed revenge. At a Cracked Scale warehouse they lost a fight to Vorthak Cinderscale, who kept control of the area, and the company then lied to Captain Samson that Vorthak was ready to negotiate; Samson returned to the High Seas, and Klein, a Rat pirate, took Rakkath.
+Zila, Luminary, Tristan and Rhogar set out to drive the Cracked Scale from Rakkath. They met Serrixa, who kept the Bolt Hole tavern; Rhogar killed Serrixa and Luminary revived the barkeep, and Serrixa escaped. They helped the Cracked Scale smith Drazhul Ironbreath leave town with his workers and arms, closed a hidden cove to further troops, and lost Zila's bracelet to the local boss Khaelor Tideclaw, who escaped; Zila vowed revenge. At a Cracked Scale warehouse they lost a fight to Vorthak Cinderscale, who kept control of the area, and the Guild then lied to Captain Samson that Vorthak was ready to negotiate; Samson returned to the High Seas, and Klein, a Rat pirate, took Rakkath.
 
 *Guild members present:* [Zila](https://championsguildrpg.com/characters/209/backstory) · [Luminary Blessedlight](https://championsguildrpg.com/characters/256/backstory) · [Tristan Hammerborn](https://championsguildrpg.com/characters/182/backstory) · [Rhogar](https://championsguildrpg.com/characters/262/backstory)
 
@@ -55,7 +55,7 @@ Zila, Luminary, Tristan and Rhogar set out to drive the Cracked Scale from Rakka
 <!-- quest:343 -->
 **4 Feb 1026: Cracking the Scale**
 
-Tox, Faelar, Donder and Hector raided a Cracked Scale outpost and clashed with Serrixa, who escaped again, while Hector relieved an evil dragonborn named Phenel the Great of his hat. The company completed enough of the mission to leave. It also learned that Leothin the Assassin was preparing to lead an assault on Rakkath.
+Tox, Faelar, Donder and Hector raided a Cracked Scale outpost and clashed with Serrixa, who escaped again, while Hector relieved an evil dragonborn named Phenel the Great of his hat. The Guild completed enough of the mission to leave. It also learned that Leothin the Assassin was preparing to lead an assault on Rakkath.
 
 *Guild members present:* [Hector Headwinds](https://championsguildrpg.com/characters/224/backstory) · [Donder Stormbringer](https://championsguildrpg.com/characters/195/backstory) · [Faelar Stormscale](https://championsguildrpg.com/characters/241/backstory) · [tox](https://championsguildrpg.com/characters/275/backstory)
 
@@ -67,7 +67,7 @@ Tox, Faelar, Donder and Hector raided a Cracked Scale outpost and clashed with S
 <!-- quest:352 -->
 **12 Feb 1026: Breaking the Scale's Hold**
 
-Faelar, Vash, Tannis and Lovet broke the Cracked Scale's hold around Rakkath, taking a dock and blowing up a warehouse with explosives. A few Cracked Scale outposts remained, but the Brotherhood of the Rat felt secure, and found the Guild a useful ally. The company also freed a mysterious Rat with an affinity for fire named Ignis Thorne.
+Faelar, Vash, Tannis and Lovet broke the Cracked Scale's hold around Rakkath, taking a dock and blowing up a warehouse with explosives. A few Cracked Scale outposts remained, but the Brotherhood of the Rat felt secure, and found the Guild a useful ally. The Guild also freed a mysterious Rat with an affinity for fire named Ignis Thorne.
 
 *Guild members present:* [Faelar Stormscale](https://championsguildrpg.com/characters/241/backstory) · [Vash](https://championsguildrpg.com/characters/206/backstory) · [Tannis Pendragon](https://championsguildrpg.com/characters/173/backstory) · [Lovet Haisnest](https://championsguildrpg.com/characters/249/backstory)
 
@@ -77,7 +77,7 @@ Faelar, Vash, Tannis and Lovet broke the Cracked Scale's hold around Rakkath, ta
 <!-- quest:356 -->
 **17 Feb 1026: Strange Company**
 
-Lovet, Faelar, Airie, Hector and Bison escorted Eliot Marsh and Nice to a Cracked Scale fortress. While Eliot and Nice cleared the caves, the company cleared the castle, destroying it and every one of its inhabitants.
+Lovet, Faelar, Airie, Hector and Bison escorted Eliot Marsh and Nice to a Cracked Scale fortress. While Eliot and Nice cleared the caves, the Guild cleared the castle, destroying it and every one of its inhabitants.
 
 *Guild members present:* [Lovet Haisnest](https://championsguildrpg.com/characters/249/backstory) · [Faelar Stormscale](https://championsguildrpg.com/characters/241/backstory) · [Airie Lonewolf](https://championsguildrpg.com/characters/215/backstory) · [Hector Headwinds](https://championsguildrpg.com/characters/224/backstory) · [Bison](https://championsguildrpg.com/characters/239/backstory)
 
@@ -89,7 +89,7 @@ Lovet, Faelar, Airie, Hector and Bison escorted Eliot Marsh and Nice to a Cracke
 <!-- quest:375 -->
 **8 Mar 1026: Tracks in the Snow**
 
-A company went to the northern woods to find the missing hunter Darik Thornbow and met Brotherhood of the Rat members there, killing several scouts who were hunting a mated pair of winter wolves. It found Thornbow alive near the wolves' den and disrupted the Rat operation; the wolves were not taken, and the Brotherhood took losses. The northern forests remain unstable.
+The Champions Guild went to the northern woods to find the missing hunter Darik Thornbow and met Brotherhood of the Rat members there, killing several scouts who were hunting a mated pair of winter wolves. It found Thornbow alive near the wolves' den and disrupted the Rat operation; the wolves were not taken, and the Brotherhood took losses. The northern forests remain unstable.
 
 *Guild members present:* [Darwyn](https://championsguildrpg.com/characters/223/backstory) · [Ivankor Scalebound](https://championsguildrpg.com/characters/296/backstory) · [Himiko Toga](https://championsguildrpg.com/characters/248/backstory) · [Red Moon](https://championsguildrpg.com/characters/268/backstory) · [Tivonna](https://championsguildrpg.com/characters/284/backstory)
 
@@ -101,7 +101,7 @@ A company went to the northern woods to find the missing hunter Darik Thornbow a
 <!-- quest:377 -->
 **10 Mar 1026: Filthy Rats**
 
-Vorthak Cinderscale, an officer of the Cracked Scale, hired Digdug, Rhogar, Mae, Lovet and Airie to sabotage the Rats' ship, the Rat's Nest, an irony since the Rats had hired the same company against the Cracked Scale. They boarded in daylight posing as deckhands and planted an explosive, but a kraken attacked the ship before the plan played out. In the confusion they freed Serrixa, a Cracked Scale storm mage held aboard, and fled with Sarai, a Rat guard who chose survival over loyalty. The Rat's Nest was lost; Digdug paid Sarai's debts and she pledged to follow him.
+Vorthak Cinderscale, an officer of the Cracked Scale, hired Digdug, Rhogar, Mae, Lovet and Airie to sabotage the Rats' ship, the Rat's Nest, an irony since the Rats had hired the same Guild members against the Cracked Scale. They boarded in daylight posing as deckhands and planted an explosive, but a kraken attacked the ship before the plan played out. In the confusion they freed Serrixa, a Cracked Scale storm mage held aboard, and fled with Sarai, a Rat guard who chose survival over loyalty. The Rat's Nest was lost; Digdug paid Sarai's debts and she pledged to follow him.
 
 *Guild members present:* [Lovet Haisnest](https://championsguildrpg.com/characters/249/backstory) · [Airie Lonewolf](https://championsguildrpg.com/characters/215/backstory) · [Digdug](https://championsguildrpg.com/characters/84/backstory) · [Rhogar](https://championsguildrpg.com/characters/262/backstory) · [Mae Mossveil](https://championsguildrpg.com/characters/319/backstory)
 
@@ -123,7 +123,7 @@ Vaelynn, Ren, Zila and Ivar went to Contramara to find Elowen, tracked her to a 
 <!-- quest:421 -->
 **4 Apr 1026: The city of a thousand hulls**
 
-The company rescued Captain Kevo and his crew from a ship and learned that Aveline was bound for the Dreadwake, where it found her meeting six pirate admirals with the help of a young goblin guide named Scrap, whom the party took in. It overheard her plan to unite the pirate crews and take the free city of Spens, with the Guild of Blades clearing out capable defenders before the pirates came; unchecked, the city would fall with little struggle. Vaelynn struck a bargain with a sea hag, whose consequences are not yet known, and in return learned where her niece was held. The party sailed for the island of Korivar.
+The Guild rescued Captain Kevo and his crew from a ship and learned that Aveline was bound for the Dreadwake, where it found her meeting six pirate admirals with the help of a young goblin guide named Scrap, whom the Guild took in. It overheard her plan to unite the pirate crews and take the free city of Spens, with the Guild of Blades clearing out capable defenders before the pirates came; unchecked, the city would fall with little struggle. Vaelynn struck a bargain with a sea hag, whose consequences are not yet known, and in return learned where her niece was held. The Guild sailed for the island of Korivar.
 
 *Guild members present:* [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Vaelynn Whisperwind](https://championsguildrpg.com/characters/79/backstory) · [Zila](https://championsguildrpg.com/characters/209/backstory) · [Ivar Thundercall](https://championsguildrpg.com/characters/238/backstory)
 
@@ -133,7 +133,7 @@ The company rescued Captain Kevo and his crew from a ship and learned that Aveli
 <!-- quest:424 -->
 **11 Apr 1026: the Obelisk of Korivar**
 
-On Korivar the company found the obelisk and met Bith, an old one-armed assassin, who let it attempt the trial of five blades; the party passed. Vaelynn drew on the obelisk's power to restore her companions and carry them to the Guild of Blades ship holding Elowen, where they killed the pirates and freed the girl. When Vaelynn claimed Elowen as her own, her future and her bloodline, the hag's bargain came due, and Elowen was taken to the hag Seana; Vaelynn followed and made a secret deal. As she touched the obelisk, other ancient places around Eryndor seemed to glow.
+On Korivar the Guild found the obelisk and met Bith, an old one-armed assassin, who let it attempt the trial of five blades; the Guild passed. Vaelynn drew on the obelisk's power to restore her companions and carry them to the Guild of Blades ship holding Elowen, where they killed the pirates and freed the girl. When Vaelynn claimed Elowen as her own, her future and her bloodline, the hag's bargain came due, and Elowen was taken to the hag Seana; Vaelynn followed and made a secret deal. As she touched the obelisk, other ancient places around Eryndor seemed to glow.
 
 *Guild members present:* [Ren Stray](https://championsguildrpg.com/characters/4/backstory) · [Vaelynn Whisperwind](https://championsguildrpg.com/characters/79/backstory) · [Zila](https://championsguildrpg.com/characters/209/backstory) · [Ivar Thundercall](https://championsguildrpg.com/characters/238/backstory)
 

@@ -18,7 +18,7 @@ tags:
 
 # Lakebarrow
 
-Lakebarrow is a festival town that the Guild's company helped keep in order. A red-scaled wolf attacked a child named Conan there. It is the home of the librarian [[Allan Willmer]], and a fairy mound lies near the town, where Allan Willmer was killed.
+Lakebarrow is a festival town that the Champions Guild helped keep in order. A red-scaled wolf attacked a child named Conan there. It is the home of the librarian [[Allan Willmer]], and a fairy mound lies near the town, where Allan Willmer was killed.
 
 <!-- guild-archive-record:start -->
 

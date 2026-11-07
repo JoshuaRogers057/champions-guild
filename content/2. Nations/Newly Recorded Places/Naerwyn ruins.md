@@ -18,7 +18,7 @@ tags:
 
 # Naerwyn ruins
 
-The Naerwyn ruins lie in the untamed edges of Thalenmark and are centred on a great pyramid, whose floor gave way beneath the party. The party was left trapped underground and still searching for a way out. The ruins are unstable and deeply corrupted, and Vorga was killed in the retreat.
+The Naerwyn ruins lie in the untamed edges of Thalenmark and are centred on a great pyramid, whose floor gave way beneath the Guild. The Guild was left trapped underground and still searching for a way out. The ruins are unstable and deeply corrupted, and Vorga was killed in the retreat.
 
 <!-- guild-archive-record:start -->
 

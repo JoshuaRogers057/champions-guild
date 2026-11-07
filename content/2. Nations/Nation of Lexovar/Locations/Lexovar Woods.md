@@ -18,7 +18,7 @@ tags:
 
 # Lexovar Woods
 
-The Lexovar Woods were the site of a new demiplane of [[The Dusk Queen]], which the company destroyed. The company tracked the kidnappers of [[Synthia]] here as the realm of the fae reached into the mortal world. Floating land masses lie above the woods, holding ruins marked with the sign of Cyric, where the [[Smiles Gang]] was found.
+The Lexovar Woods were the site of a new demiplane of [[The Dusk Queen]], which the Guild destroyed. The Guild tracked the kidnappers of [[Synthia]] here as the realm of the fae reached into the mortal world. Floating land masses lie above the woods, holding ruins marked with the sign of Cyric, where the [[Smiles Gang]] was found.
 
 <!-- guild-archive-record:start -->
 

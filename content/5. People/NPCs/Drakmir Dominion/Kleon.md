@@ -22,9 +22,9 @@ tags:
 
 # Kleon
 
-Kleon led a group of cadets from the [[Draconic Legion Academy]]; he was struck by Besswynne Mòr, leading to a duel of honor. His squad was defeated by the party at the Academy training grounds.
+Kleon led a group of cadets from the [[Draconic Legion Academy]]; he was struck by Besswynne Mòr, leading to a duel of honor. His squad was defeated by the Guild at the Academy training grounds.
 
-He is also described as a Dominion officer who bought [[Anathema]] from Softstep and took her to a storm-shrouded castle for interrogation, and the party defeated his forces.
+He is also described as a Dominion officer who bought [[Anathema]] from Softstep and took her to a storm-shrouded castle for interrogation, and the Guild defeated his forces.
 
 <!-- guild-archive-record:start -->
 

@@ -24,7 +24,7 @@ tags:
 
 Anathema is a half-elf, half-dragonborn young woman raised in secret by the alchemist Velka at Tarnspire, who chose to return with the Guild. She was brought in to help with day-to-day work at the outpost in [[Kryzath]], and struck Softstep with Digdug's shovel after taking his advice about earning respect.
 
-Softstep sold her to a Dominion officer, and the party rescued her and made her outpost manager. Her heritage appears divine and draconic.
+Softstep sold her to a Dominion officer, and the Guild rescued her and made her outpost manager. Her heritage appears divine and draconic.
 
 <!-- guild-archive-record:start -->
 

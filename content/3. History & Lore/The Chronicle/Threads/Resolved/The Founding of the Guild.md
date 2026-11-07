@@ -40,7 +40,7 @@ Two groups of strangers arrived at the Last Howl in a world new to them. After f
 <!-- quest:87 -->
 **12 Jun 1025: Opening Epic**
 
-A second company of members, Shedinn, Tessarion, Aubrey, Maurice Seelie and Bryanna, also arrived in Eryndor in the same opening.
+A second group of members, Shedinn, Tessarion, Aubrey, Maurice Seelie and Bryanna, also arrived in Eryndor in the same opening.
 
 *Guild members present:* [Shedinn](https://championsguildrpg.com/characters/8/backstory) · [Tessarion](https://championsguildrpg.com/characters/18/backstory) · [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Maurice Seelie](https://championsguildrpg.com/characters/11/backstory) · [Bryanna](https://championsguildrpg.com/characters/7/backstory)
 
@@ -50,7 +50,7 @@ A second company of members, Shedinn, Tessarion, Aubrey, Maurice Seelie and Brya
 <!-- quest:91 -->
 **16 Jun 1025: There's No Such Thing as a Free Lunch**
 
-Guided by a shady local named Popcorn, a party toured the other market to raise funds for the guild. They found a lost gnome, hunted down a gang of bandits Popcorn had dealt with before, and sold off the merchandise they recovered. The night ended at the gambling tables, where Everrett came away a little ahead and Shalk at a loss, and the group put what was left toward the guild.
+Guided by a shady local named Popcorn, the Champions Guild toured the other market to raise funds for the guild. They found a lost gnome, hunted down a gang of bandits Popcorn had dealt with before, and sold off the merchandise they recovered. The night ended at the gambling tables, where Everrett came away a little ahead and Shalk at a loss, and the group put what was left toward the guild.
 
 *Guild members present:* [Shalk](https://championsguildrpg.com/characters/2/backstory) · [Maurice Seelie](https://championsguildrpg.com/characters/11/backstory) · [Everrett Stonehelm](https://championsguildrpg.com/characters/12/backstory) · [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Nephele ](https://championsguildrpg.com/characters/19/backstory) · [∆bbie](https://championsguildrpg.com/characters/24/backstory)
 
@@ -62,7 +62,7 @@ Guided by a shady local named Popcorn, a party toured the other market to raise 
 <!-- quest:94 -->
 **18 Jun 1025: Despite All My Rage**
 
-Workers building the guild hall complained of strange noises and a plague of rats, and neighbours of vermin, night-time screeching and missing cats and chickens. The party cleared the sewers and caverns beneath the Burrows and found that a wererat had been sabotaging them and filling them with rats. They also recovered a device, not mentioned before, that had been feeding a liquid into the sewage and making it volatile.
+Workers building the guild hall complained of strange noises and a plague of rats, and neighbours of vermin, night-time screeching and missing cats and chickens. The Guild cleared the sewers and caverns beneath the Burrows and found that a wererat had been sabotaging them and filling them with rats. They also recovered a device, not mentioned before, that had been feeding a liquid into the sewage and making it volatile.
 
 *Guild members present:* [Aysa](https://championsguildrpg.com/characters/16/backstory) · [∆bbie](https://championsguildrpg.com/characters/24/backstory) · [Wizbit](https://championsguildrpg.com/characters/5/backstory) · [Sigmond Edward Yukon](https://championsguildrpg.com/characters/30/backstory) · [Alqiama Ra-Amon ](https://championsguildrpg.com/characters/36/backstory)
 
@@ -74,7 +74,7 @@ Workers building the guild hall complained of strange noises and a plague of rat
 <!-- quest:106 -->
 **1 Jul 1025: Off the Ledger**
 
-Pelly Loamsilver, a courier for Thistlevault, which deals in enchanted goods, had a low-tier magical item stolen and quietly hired the Guild rather than report it and risk dismissal. Leads in the Lower Wards and the Puking Dragon Tavern pointed to a halfling, Racket, and his human partner Clunk, hiding in the sewers. Talks fell apart, both thieves were killed and the item recovered, and the party carried off a few pieces of furniture for the new guild hall. Word of the success was expected to reach Fenla Thistlevault and might open the door to the magic item trade.
+Pelly Loamsilver, a courier for Thistlevault, which deals in enchanted goods, had a low-tier magical item stolen and quietly hired the Guild rather than report it and risk dismissal. Leads in the Lower Wards and the Puking Dragon Tavern pointed to a halfling, Racket, and his human partner Clunk, hiding in the sewers. Talks fell apart, both thieves were killed and the item recovered, and the Guild carried off a few pieces of furniture for the new guild hall. Word of the success was expected to reach Fenla Thistlevault and might open the door to the magic item trade.
 
 *Guild members present:* [Maurice Seelie](https://championsguildrpg.com/characters/11/backstory) · [Bibble](https://championsguildrpg.com/characters/46/backstory) · [Narthex](https://championsguildrpg.com/characters/35/backstory) · [Shalk](https://championsguildrpg.com/characters/2/backstory)
 

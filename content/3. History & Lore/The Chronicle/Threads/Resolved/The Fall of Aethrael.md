@@ -30,7 +30,7 @@ The Chosen of Lathander were gathered over a few months, named one by one, and t
 <!-- quest:280 -->
 **22 Dec 1025: Chosen of Lathander Saga**
 
-Mazgar, Kairis, Aubrey and Ki Ka'Rah set out to restore Shedinn to life, and Lathander set them nine items to gather as a test. They rescued two children from owlbears, stopped a train crash, and passed the monks' Trial of Potential, after which Mazgar received the stone of leadership. They also freed the kobold artificers' kin from the Cracked Scale, who now know what the company did. At an old battlefield they saw the memories of fallen heroes, and Kairis received a pipe of memories.
+Mazgar, Kairis, Aubrey and Ki Ka'Rah set out to restore Shedinn to life, and Lathander set them nine items to gather as a test. They rescued two children from owlbears, stopped a train crash, and passed the monks' Trial of Potential, after which Mazgar received the stone of leadership. They also freed the kobold artificers' kin from the Cracked Scale, who now know what the Guild did. At an old battlefield they saw the memories of fallen heroes, and Kairis received a pipe of memories.
 
 *Guild members present:* [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Mazgar Thorrak](https://championsguildrpg.com/characters/63/backstory) · [Ki Ka'Rah](https://championsguildrpg.com/characters/178/backstory) · [Kairis Velnorrin](https://championsguildrpg.com/characters/66/backstory)
 
@@ -40,7 +40,7 @@ Mazgar, Kairis, Aubrey and Ki Ka'Rah set out to restore Shedinn to life, and Lat
 <!-- quest:291 -->
 **23 Dec 1025: Chosen of Lathander Saga 2**
 
-The company gathered the remaining items and passed all of Lathander's tests, and Shedinn lived again. They were then given a charge by Lathander himself: an old darkness was being made new. Kairis agreed to a grim task concerning Skraggapost, a goblinoid village on the edge of the nation, and Mazgar now carries the lute of Veritas, an ancient bard's instrument.
+The Guild gathered the remaining items and passed all of Lathander's tests, and Shedinn lived again. They were then given a charge by Lathander himself: an old darkness was being made new. Kairis agreed to a grim task concerning Skraggapost, a goblinoid village on the edge of the nation, and Mazgar now carries the lute of Veritas, an ancient bard's instrument.
 
 *Guild members present:* [Aubrey](https://championsguildrpg.com/characters/9/backstory) · [Mazgar Thorrak](https://championsguildrpg.com/characters/63/backstory) · [Kairis Velnorrin](https://championsguildrpg.com/characters/66/backstory) · [Ki Ka'Rah](https://championsguildrpg.com/characters/178/backstory)
 
@@ -62,7 +62,7 @@ With Shedinn back, the Iron Marches district gathered to welcome him. Mazgar as 
 <!-- quest:505 -->
 **5 Jun 1026: Dead Weight (Lathander Calls)**
 
-Mazgar, Shedinn, Eldarin and Everrett, newly named Prayer and Wrath of Lathander, went into the Woad with Airie to find Veyren Solace, a Lucent-Bound servant of the Dreaming Dark. In an old vampire mansion Veyren had raised the dead with the Carrion Throne Shard and set them to building a Dream Anchor. The company fought through the dead, defeated Veyren and destroyed the anchor before it took hold. The shard was delivered to Kellan Vare.
+Mazgar, Shedinn, Eldarin and Everrett, newly named Prayer and Wrath of Lathander, went into the Woad with Airie to find Veyren Solace, a Lucent-Bound servant of the Dreaming Dark. In an old vampire mansion Veyren had raised the dead with the Carrion Throne Shard and set them to building a Dream Anchor. The Guild fought through the dead, defeated Veyren and destroyed the anchor before it took hold. The shard was delivered to Kellan Vare.
 
 *Guild members present:* [Shedinn](https://championsguildrpg.com/characters/8/backstory) · [Eldarin Solari](https://championsguildrpg.com/characters/310/backstory) · [Airie Lonewolf](https://championsguildrpg.com/characters/215/backstory) · [Everrett Stonehelm](https://championsguildrpg.com/characters/12/backstory) · [Mazgar Thorrak](https://championsguildrpg.com/characters/63/backstory)
 
@@ -74,7 +74,7 @@ Mazgar, Shedinn, Eldarin and Everrett, newly named Prayer and Wrath of Lathander
 <!-- quest:565 -->
 **14 Jul 1026: The Dawn’s Summons**
 
-Elyrion, a Solar of Lathander and the Chosen's main contact, sent six members of the Guild to find the missing Planetar Aethrael. They found him at the Veiled Chorus, where he had become Inspired and was using the monastery's Philosophy Day to preach enforced harmony: a world without hunger or fear, bought by giving up the freedom to choose otherwise. Eldarin led the party through the arguments, broke Aethrael's influence and saved everyone in the monastery. Aethrael escaped before he could be defeated.
+Elyrion, a Solar of Lathander and the Chosen's main contact, sent six members of the Guild to find the missing Planetar Aethrael. They found him at the Veiled Chorus, where he had become Inspired and was using the monastery's Philosophy Day to preach enforced harmony: a world without hunger or fear, bought by giving up the freedom to choose otherwise. Eldarin led the Guild through the arguments, broke Aethrael's influence and saved everyone in the monastery. Aethrael escaped before he could be defeated.
 
 *Guild members present:* [Eldarin Solari](https://championsguildrpg.com/characters/310/backstory) · [Shedinn](https://championsguildrpg.com/characters/8/backstory) · [Digdug](https://championsguildrpg.com/characters/84/backstory) · [Tristan Hammerborn](https://championsguildrpg.com/characters/182/backstory) · [Valdrin](https://championsguildrpg.com/characters/343/backstory) · [Everrett Stonehelm](https://championsguildrpg.com/characters/12/backstory)
 
@@ -86,7 +86,7 @@ Elyrion, a Solar of Lathander and the Chosen's main contact, sent six members of
 <!-- quest:588 -->
 **1 Aug 1026: Tracking Trouble (Eldarin)**
 
-Eldarin led Shedinn, Everrett, Rhanak and Tristan in the hunt for Aethrael. They saved the Monastery of Potential, where Eldarin was named Lightwarden of Sol'Aenor, and Abbot Varesh Talan joined them, seeking vengeance on the Lucent-Bound. An explosion threw them into the Astral Sea, where the artificer Farifax helped them escape, and the party learned that Aethrael meant to open a great rift at Skraggapost to admit the Dreaming Dark. Two connected rifts, one above and one below, would have to be closed at the same moment.
+Eldarin led Shedinn, Everrett, Rhanak and Tristan in the hunt for Aethrael. They saved the Monastery of Potential, where Eldarin was named Lightwarden of Sol'Aenor, and Abbot Varesh Talan joined them, seeking vengeance on the Lucent-Bound. An explosion threw them into the Astral Sea, where the artificer Farifax helped them escape, and the Guild learned that Aethrael meant to open a great rift at Skraggapost to admit the Dreaming Dark. Two connected rifts, one above and one below, would have to be closed at the same moment.
 
 *Guild members present:* [Eldarin Solari](https://championsguildrpg.com/characters/310/backstory) · [Rhanak Steelwind](https://championsguildrpg.com/characters/363/backstory) · [Shedinn](https://championsguildrpg.com/characters/8/backstory) · [Tristan Hammerborn](https://championsguildrpg.com/characters/182/backstory) · [Everrett Stonehelm](https://championsguildrpg.com/characters/12/backstory)
 

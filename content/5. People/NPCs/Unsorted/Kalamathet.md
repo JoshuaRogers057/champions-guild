@@ -22,7 +22,7 @@ tags:
 
 # Kalamathet
 
-Kalamathet is a spider-dragon hybrid, first met on a desert plateau where the party escaped him. His venom wounded Heliothrax, and the Crimson Scale of the Death-Dragon lay behind his transformation.
+Kalamathet is a spider-dragon hybrid, first met on a desert plateau where the Guild escaped him. His venom wounded Heliothrax, and the Crimson Scale of the Death-Dragon lay behind his transformation.
 
 He was killed in his nest, and the Crimson Scale was taken from his body and later went missing. He was killed again in a portal realm, but his death is not assumed permanent.
 

@@ -18,7 +18,7 @@ tags:
 
 # Draconic Legion Academy
 
-The Draconic Legion Academy is a military academy whose cadets uphold the Dominion's honor-bound traditions. Its cadets, led by [[Kleon]], clashed with the party at the Scolded Scale Inn, and the party later defeated a squad of its cadets at the training grounds.
+The Draconic Legion Academy is a military academy whose cadets uphold the Dominion's honor-bound traditions. Its cadets, led by [[Kleon]], clashed with the Guild at the Scolded Scale Inn, and the Guild later defeated a squad of its cadets at the training grounds.
 
 <!-- guild-archive-record:start -->
 
