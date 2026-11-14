@@ -1,15 +1,17 @@
 ---
 title: "The Dome Crisis"
+aliases:
+  - "3. History & Lore/The Chronicle/Threads/Active/The Dome Crisis"
 tags:
   - chronicle
   - thread
-  - status/active
+  - status/quiet
   - scale/world
 chronicle-thread-id: 3
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Active** · World · Mysteries & Arcana · last moved 10 Oct 1026
+> [!info] **Quiet** · World · Mysteries & Arcana · last moved 10 Oct 1026
 
 ## Where it stands
 

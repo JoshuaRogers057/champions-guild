@@ -1,21 +1,23 @@
 ---
 title: "The Bastions of Solara and the Resonance Loom"
+aliases:
+  - "3. History & Lore/The Chronicle/Threads/Quiet/The Bastions of Solara and the Resonance Loom"
 tags:
   - chronicle
   - thread
-  - status/quiet
+  - status/active
   - scale/nation
 chronicle-thread-id: 17
 ---
 
 <!-- chronicle:top:start -->
-> [!info] **Quiet** · Nation · Crises & Wars · last moved 13 Sep 1026
+> [!info] **Active** · Nation · Crises & Wars · last moved 5 Nov 1026
 
 ## Where it stands
 
-Resentment toward Solara's entrenched elite is growing among merchants, veterans and poorer citizens, and groups such as the Ashwings and the Sunbroken challenge the state's authority. Archbishop Boel's conspiracy to steal the materials of Starforged arms ended with his execution, but Lord Varos Neightreign and the elven woman Faelassa escaped, and Lieutenant Rahmiel has sworn that Varos will answer for it. The Night Lady's school in Auris Prime has been broken but not ended, since some of its pupils refused to leave. The Ashwing Cinder-Marshal Sariel Veyne, Rahmiel's oathbrother, had copied two of the three oath-seals for the Resonance Loom, a device meant to suppress the will of whole crowds, and about forty children vanished the night he began its last anchor. Airships are also beginning to undermine Solara's historic control of the mountain passes and overland trade.
+Resentment toward Solara's entrenched elite is growing among merchants, veterans and poorer citizens, and groups such as the Ashwings and the Sunbroken challenge the state's authority. Archbishop Boel's conspiracy to steal the materials of Starforged arms ended with his execution, but Lord Varos Neightreign and the elven woman Faelassa escaped, and Lieutenant Rahmiel has sworn that Varos will answer for it. The Night Lady's school in Auris Prime has been broken but not ended, since some of its pupils refused to leave. The Ashwing Cinder-Marshal Sariel Veyne, Rahmiel's oathbrother, had copied two of the three oath-seals for the Resonance Loom, a device meant to suppress the will of whole crowds, and about forty children vanished the night he began its last anchor. Airships are also beginning to undermine Solara's historic control of the mountain passes and overland trade. Away from the Starforges, four members of the Champions Guild spent a night at the Salty Maiden in Kastalshire, where one of them bought information on a temple of Sune and the Sharran sect he is hunting.
 
-**Latest development:** The Guild investigated the Ashwing flight of Auris Prime, found Sariel Veyne completing the Resonance Loom beneath the Hall of the First Oath, and learned that some forty children had disappeared that night.
+**Latest development:** Four members of the Champions Guild passed a night at the Salty Maiden, and one of them hired a broker to look into a Sharran sect.
 
 ## Unanswered questions
 
@@ -93,6 +95,18 @@ Therion Grace, Jenny Black, Lug StoneBlood, Sylas Nightshade and Aspx went to Au
 
 [Read the full quest record →](https://championsguildrpg.com/questLogs/649)
 <!-- /quest:649 -->
+
+### November 1026
+
+<!-- quest:694 -->
+**5 Nov 1026: 2 salty 2 maiden**
+
+Four members of the Champions Guild spent a night drinking and carousing at the Salty Maiden. One of them paid an information broker named Kennoth for what he knew of a temple of Sune. The others were occupied with a bridesmaid, a fraternity and a good deal of arm-wrestling.
+
+*Guild members present:* [Remy](https://championsguildrpg.com/characters/499/backstory) · [Therion Grace](https://championsguildrpg.com/characters/476/backstory) · [Rena](https://championsguildrpg.com/characters/512/backstory) · [By-Tor](https://championsguildrpg.com/characters/269/backstory)
+
+[Read the full quest record →](https://championsguildrpg.com/questLogs/694)
+<!-- /quest:694 -->
 <!-- chronicle:timeline:end -->
 
 <!-- chronicle:lists:start -->
@@ -160,6 +174,9 @@ Therion Grace, Jenny Black, Lug StoneBlood, Sylas Nightshade and Aspx went to Au
 - [Lug StoneBlood](https://championsguildrpg.com/characters/480/backstory)
 - [Sylas Nightshade](https://championsguildrpg.com/characters/494/backstory)
 - [Aspx](https://championsguildrpg.com/characters/383/backstory)
+- [Remy](https://championsguildrpg.com/characters/499/backstory)
+- [Rena](https://championsguildrpg.com/characters/512/backstory)
+- [By-Tor](https://championsguildrpg.com/characters/269/backstory)
 
 ## Connected threads
 

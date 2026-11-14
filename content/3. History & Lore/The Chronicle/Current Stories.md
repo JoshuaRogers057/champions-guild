@@ -14,11 +14,6 @@ tags:
 
 *Recent victories changed the world. They did not settle it.*
 
-### [[The Dome Crisis]]
-*Active · World · Mysteries & Arcana*
-
-The Dome Crisis began at a masquerade in August 1025. When members of the Guild killed the vampire lord Tavard there, the vampires he held in thrall went free, and one of them, the necromancer Dr. Vathros, went his own way. He went to the Dome over Zindariel, which had stood long before him and whose making nobody understands, and made it his headquarters, since necromancy is stronger inside it than anywhere else in Eryndor. There he studied it until he learned how to make more, and many of the monsters that have since spread across the continent came out of his laboratories. In the summer of 1026, known by then as the Vivisectionist, he went to war and raised new domes, each about a mile across, over the vault beneath the Veilkeepers' manor at Oathend, the wreck of Castle Bran and Greyspire Fortress. When the Guild reached him in his castle in August he was a lich as well as a vampire, the first time anyone had seen him in that form. They destroyed him, but the only one known to understand how to unmake the domes took that knowledge with him. Lord Mask, Lady Mask and Lord Varos remain at large. In October, members of the Guild who tested a defensive bunker for Professor Honeywell found it built on specimens taken from the domes, and destroyed it. The map of Eryndor has been permanently changed.
-
 ### [[Northern Kastalshire]]
 *Ongoing · Nation · Mysteries & Arcana*
 
@@ -33,6 +28,11 @@ Talvereth came through the riots of the Shadow War badly scarred, and the Gilded
 *Ongoing · City · Crises & Wars*
 
 Spens is rebuilding after a coalition of pirate crews from the Dreadwake took it in the spring. Guild members who had just helped to obtain a map to the Eye of Kaos escaped the city as it fell. It was later given back, bought with one of the keys the Champions Guild carried, in a bargain struck with the Driftbone Armada under the authority of the hag Veysha. The city survived, but its political, criminal and economic landscape has been badly disrupted. In the summer the Guild found a secret fighting pit whose owner proved to be a devil, and a resort where a man was held in an enchanted sleep by one. No one knows who now holds the city's districts.
+
+### [[The Dome Crisis]]
+*Quiet · World · Mysteries & Arcana*
+
+The Dome Crisis began at a masquerade in August 1025. When members of the Guild killed the vampire lord Tavard there, the vampires he held in thrall went free, and one of them, the necromancer Dr. Vathros, went his own way. He went to the Dome over Zindariel, which had stood long before him and whose making nobody understands, and made it his headquarters, since necromancy is stronger inside it than anywhere else in Eryndor. There he studied it until he learned how to make more, and many of the monsters that have since spread across the continent came out of his laboratories. In the summer of 1026, known by then as the Vivisectionist, he went to war and raised new domes, each about a mile across, over the vault beneath the Veilkeepers' manor at Oathend, the wreck of Castle Bran and Greyspire Fortress. When the Guild reached him in his castle in August he was a lich as well as a vampire, the first time anyone had seen him in that form. They destroyed him, but the only one known to understand how to unmake the domes took that knowledge with him. Lord Mask, Lady Mask and Lord Varos remain at large. In October, members of the Guild who tested a defensive bunker for Professor Honeywell found it built on specimens taken from the domes, and destroyed it. The map of Eryndor has been permanently changed.
 
 ### [[The Corruption of Kalamathet]]
 *Quiet · Nation · Crises & Wars*
@@ -68,6 +68,11 @@ Assassinations, vacant clan seats, unresolved succession struggles and disputes 
 
 Polaris is an arcane order the Guild has met in dungeons, on the tundra, at sea and across the gate to the Abyss, always at work on fragments, souls or fiends. Over a year the Guild has thwarted it again and again and earned the respect of several goliath clans. In November, Clan Frostbane sent the Champions Guild into ruins uncovered by the Frost Giants' activity. Beneath them lay a century-old goliath laboratory, where runes were carved into captured beasts. The Guild destroyed the work and kept only a copy of the notes. Drogath Stormvein will not rule Thundrakar forever, and uncertainty surrounds what comes after him. Polaris continues to operate, and its purpose remains unknown.
 
+### [[The Bastions of Solara and the Resonance Loom]]
+*Active · Nation · Crises & Wars*
+
+Resentment toward Solara's entrenched elite is growing among merchants, veterans and poorer citizens, and groups such as the Ashwings and the Sunbroken challenge the state's authority. Archbishop Boel's conspiracy to steal the materials of Starforged arms ended with his execution, but Lord Varos Neightreign and the elven woman Faelassa escaped, and Lieutenant Rahmiel has sworn that Varos will answer for it. The Night Lady's school in Auris Prime has been broken but not ended, since some of its pupils refused to leave. The Ashwing Cinder-Marshal Sariel Veyne, Rahmiel's oathbrother, had copied two of the three oath-seals for the Resonance Loom, a device meant to suppress the will of whole crowds, and about forty children vanished the night he began its last anchor. Airships are also beginning to undermine Solara's historic control of the mountain passes and overland trade. Away from the Starforges, four members of the Champions Guild spent a night at the Salty Maiden in Kastalshire, where one of them bought information on a temple of Sune and the Sharran sect he is hunting.
+
 ### [[The First Arbiter]]
 *Ongoing · Nation · Intrigue & Crime*
 
@@ -102,11 +107,6 @@ The Crown's increasingly centralized rail system and political control are provo
 *Ongoing · City · Mysteries & Arcana*
 
 Foreign nations increasingly want permanent access to the Scar's resources and strategic position, and the Genasi keep resisting attempts to turn trade agreements into footholds. In the spring the Champions Guild escorting two Kalashtar to the Skywake Festival reached the Scar just as an elemental crystal was stolen from Vaelor. The thieves proved to be the Kalashtar themselves, and the Guild turned them in. The crystal was put back, but it did not repair the damage: the floating islands kept destabilizing, and others began to show the same signs. No one yet understands what is stirring in the Scar's elemental currents.
-
-### [[The Bastions of Solara and the Resonance Loom]]
-*Quiet · Nation · Crises & Wars*
-
-Resentment toward Solara's entrenched elite is growing among merchants, veterans and poorer citizens, and groups such as the Ashwings and the Sunbroken challenge the state's authority. Archbishop Boel's conspiracy to steal the materials of Starforged arms ended with his execution, but Lord Varos Neightreign and the elven woman Faelassa escaped, and Lieutenant Rahmiel has sworn that Varos will answer for it. The Night Lady's school in Auris Prime has been broken but not ended, since some of its pupils refused to leave. The Ashwing Cinder-Marshal Sariel Veyne, Rahmiel's oathbrother, had copied two of the three oath-seals for the Resonance Loom, a device meant to suppress the will of whole crowds, and about forty children vanished the night he began its last anchor. Airships are also beginning to undermine Solara's historic control of the mountain passes and overland trade.
 
 ### [[Clan Glimveil's Foothold]]
 *Dormant · Nation · Crises & Wars*
@@ -161,6 +161,11 @@ The sentient bell-construct called Knell has escaped the Arcanum. It was born wh
 
 Allan Willmer, a librarian of Lakebarrow, used magic books to trap the Guild's members and to afflict others, and the Guild first met him through an offer of books for its library. He is dead. The hag Madam Frump, with whom he had made a bargain, killed him when he nearly gave away her secrets. What she wanted from him is unknown, and the cursed books he wrote may not all be accounted for.
 
+### [[The Ties that Bind]]
+*Active · Personal*
+
+Journalist and smuggler Tumble La’bumble has been apprehended by the Champions Guild. He holds valuable information about the Grand Bestiary and the orphanage smuggling ring that distributes Blue Petal, a drug that is smoked. Mara, taken with him in the search, escaped and remains at large.
+
 #### Quiet and lingering
 
 - [[The Smiles Gang]] (Quiet): A second team in the floating isles defeated the fallen angel guarding the temple's trial of rebirth, though the gang's leader there remains at large.
@@ -189,4 +194,5 @@ Allan Willmer, a librarian of Lakebarrow, used magic books to trap the Guild's m
 
 ## Past digests
 
+- [[This Week in Eryndor 1026-11-14]]
 - [[This Week in Eryndor 1026-11-07]]

@@ -5,23 +5,27 @@ tags:
   - digest
 ---
 
-> [!note] The newest weekly digest, for 7 Nov 1026. Earlier weeks: [[Current Stories#Past digests|past digests]].
+> [!note] The newest weekly digest, for 14 Nov 1026. Earlier weeks: [[Current Stories#Past digests|past digests]].
 
-# A Baron dies in Contramara, and a laboratory goes to ruin in the north
+# A caravan swindle exposed, a cursed turkey slain and a new champion in the Last Howl
 
-Contramara is unsettled by the death of Baron Sel Treffalin, and the Guild's name is being spoken in connection with it. In the north, Clan Frostbane keeps its war against the giants while the Guild closes a dark chapter beneath its ice.
+Eryndor was quiet in the way it often is before something breaks. The Champions Guild spent the week on smaller matters: staged banditry, cursed beasts and a cave full of lost villagers.
 
 ## Major developments
 
-- Baron Sel Treffalin was killed by a magical blast during his speech in Contramara. The Champions Guild, hired by druids of the Verdant Accord, is under suspicion. ([[Unrest in Kastalshire]]) [Quest record](https://championsguildrpg.com/questLogs/692)
-- Beneath a ruined temple of Annam, the Champions Guild found a goliath laboratory where beasts were carved with runes. They destroyed it and kept a copy of the notes. ([[Polaris in Thundrakar]]) [Quest record](https://championsguildrpg.com/questLogs/695)
-- Nox ended his hunt for Venyr, the Glassfather, a wyvern worshipped by the dragonborn of Skyrest. The village has been persuaded to give up its raids. [Quest record](https://championsguildrpg.com/questLogs/691)
-- The Champions Guild went into the Harvest Festival's corn maze and cleared a haunted estate. Four armed scarecrows and three living dolls walked free, and several festival-goers remain missing. [Quest record](https://championsguildrpg.com/questLogs/689)
-- The Champions Guild took a necromantic jewel from an old estate and destroyed the hag Gertrude and her cursed doll. [Quest record](https://championsguildrpg.com/questLogs/690)
+- The Champions Guild exposed the bandit attacks on Tomkin's caravans as a fraud staged by his own guards. Their leader, Zoren, surrendered and was handed over for arrest. [Quest record](https://championsguildrpg.com/questLogs/696)
+- Guild members slew a turkey abomination and its spawn in the Ciliren woods. Whatever cursed the creatures, and who stands behind it, remains unknown. [Quest record](https://championsguildrpg.com/questLogs/697)
+- Five members of the Guild entered a cave in Kastalshire and freed the villagers held there in a daze by an aboleth spawn, a psionic mage and fish-folk who served them. [Quest record](https://championsguildrpg.com/questLogs/698)
+- The Champions Guild apprehended the smuggler Tumble La’bumble, who knows of the Grand Bestiary and the orphanage ring that distributes Blue Petal. Mara escaped. ([[The Ties that Bind]]) [Quest record](https://championsguildrpg.com/questLogs/699)
+- A team of Guild members won the Last Howl's race through the maze, defeated its champion and spared them, and now hold the title themselves. [Quest record](https://championsguildrpg.com/questLogs/693)
+
+## New threads
+
+- The Ties that Bind: Tumble La’bumble is in custody, and the trail leads toward the Grand Bestiary and a smuggling ring run through an orphanage. ([[The Ties that Bind]]) [Quest record](https://championsguildrpg.com/questLogs/699)
 
 ## Featured dispatches
 
-> “Sylvie tagged along to keep the team alive, blindly following Nox after he received a mysterious letter”
-> — Sylvie ([quest record](https://championsguildrpg.com/questLogs/691))
+> “I still feel guilty as I make it home alive after another tough mission”
+> — Therion Grace ([quest record](https://championsguildrpg.com/questLogs/698))
 
-*Permanent link to this week: [[This Week in Eryndor 1026-11-07]]*
+*Permanent link to this week: [[This Week in Eryndor 1026-11-14]]*
